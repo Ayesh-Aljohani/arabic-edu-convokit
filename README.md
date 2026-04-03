@@ -152,4 +152,4 @@ export PYTORCH_ENABLE_MPS_FALLBACK=1
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+See [LICENSE](LICENSE) for details.
