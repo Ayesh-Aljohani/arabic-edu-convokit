@@ -20,9 +20,9 @@ Automated analysis of classroom discourse has shown promise for improving teachi
 
 | Task | Model | F1-weighted | Accuracy Retention |
 |---|---|---|---|
-| Focusing Questions | XLM-R | 0.878 | 90.5% |
-| Student Reasoning | XLM-R | 0.899 | 87.8% |
-| Uptake | XLM-R | 0.665 | 98.4% |
+| Focusing Questions | XLM-R | 0.878 | 94.3% |
+| Student Reasoning | XLM-R | 0.899 | 95.4% |
+| Uptake | XLM-R | 0.665 | 98.9% |
 
 ### Translation Quality (NLLB-200, EN -> AR -> EN)
 
@@ -144,9 +144,9 @@ export PYTORCH_ENABLE_MPS_FALLBACK=1
 ```bibtex
 @inproceedings{aljohani2025arabic,
   title={Arabic Edu-ConvoKit: Adapting Educational Discourse Analysis to Arabic Classroom Conversations},
-  author={Aljohani, Ayesh and Almetani, Mohammad and Almanabri, Naif},
+  author={Aljohani, Ayesh and Manabri, Ahmed and Almetani, Mohammad and Mars, Mourad},
   year={2025},
-  note={Supervised by Dr. Mourad Mars, Umm Al-Qura University}
+  note={Umm Al-Qura University}
 }
 ```
 
