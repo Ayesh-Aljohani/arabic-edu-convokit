@@ -1,0 +1,723 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions,text_arabic,text_back_translated
+"Okay.  Great.  So, everybody has in front of them a small piece of do-now work.  I’m gonna borrow this, please.  Thank you. If you don’t have enough room here, you can do your work on another side of the page. We’re going to pretend that I’m planning my birthday party.",teacher,50,0,,,0.0,حسناً. عظيم. لذا، الجميع أمامهم قطعة صغيرة من العمل الآن. سأستعير هذا، من فضلك. شكراً. إذا لم يكن لديك مساحة كافية هنا، يمكنك القيام بعملك على الجانب الآخر من الصفحة. سنظاهر أنني أخطط لحفلة عيد ميلادي.,"Okay. great. so everyone has a little piece of work now. i'll borrow this, please. thanks. if you don't have enough space here, you can do your job on the other side of the page. we'll pretend i'm planning a birthday party."
+Why?,student,1,0,,,,-لماذا؟,-Why?
+Because we’re doing a combination problem.,teacher,6,0,,,0.0,لأننا نقوم بمشكلة مزيجية,Because we're having a mixed problem.
+But we can do it today.,student,6,0,,,,لكن يمكننا القيام بذلك اليوم.,But we can do it today.
+"Well, no, I just want to talk about the do-now work here.  And the do-now work says, “How many combinations can you make? Show your work and explain your thinking.  Teacher R wants to make cupcakes for her birthday.  She has many choices to make.” “Each cupcake can be one flavor, one type of frosting and one color sprinkle.”  Who can tell me what flavor cupcakes can I choose from?  What does it say?  Student I?",teacher,76,3,0.0,,0.0,حسناً، لا، أريد فقط أن أتحدث عن العمل الحالي هنا. والعمل الحالي يقول: كم مزيج يمكن أن تجعله؟ أظهر عملك وتفسير تفكيرك. المعلمة R تريد أن تصنع الكعك لعيد ميلادها. لديها العديد من الخيارات التي يمكن أن تجعلها.  كل كعك يمكن أن يكون ذوق واحد، نوع واحد من الجليد ورشة واحدة من اللون. من يمكنه أن يخبرني من أي كعك ذوق يمكن أن أختار؟ ماذا يقول؟ الطالب I؟,"Well, no, I just want to talk about the current work here. And the current work says: How many mixes can you make it? Show your work and explain your thinking. Teacher R wants to make cakes for her birthday. She has many options to make them. Each cake can have one taste, one type of ice cream and one color workshop. Who can tell me which taste cakes can I choose? what does he say? student I?"
+It says chocolate.,student,3,0,,,,يقول الشوكولاتة,Says the chocolate
+Yeah.,teacher,1,0,,,0.0,-أجل، أجل,"- Yes, yes, yes"
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"No, just the cupcake flavors.  Yes.",teacher,6,1,,,0.0,لا، فقط طعم الكعك,"No, just the taste of the cakes."
+"Chocolate, vanilla and that’s all.",student,5,0,,,,الشوكولاتة والفانيليا وهذا كل شيء.,Chocolate and vanilla and that's it.
+"Okay.  So, my flavors of cupcakes are chocolate and – actually, let me move this down – and vanilla.  Great.  What are my other choices that I can make?  Student B?",teacher,31,1,1.0,,0.0,حسناً، طعم الكعك الخاص بي هو الشوكولاتة و في الواقع، دعني أحرك هذا إلى أسفل و فانيلا. عظيم. ما هي الخيارات الأخرى التي يمكنني اتخاذها؟ الطالب ب؟,"Well, my cake tastes like chocolate and actually, let me move this down and vanilla. great. what other choices can I make? student b?"
+Frostings.,student,1,0,,,,التجميد.,The freezing.
+"Huh, so the kind of frosting.  You’re going to need more space. [Foreign language.]  Okay?  Work over there. Okay.  So, you have the frosting.  Student B, what is frosting?",teacher,29,0,,,0.0,حسناً، هذا النوع من التجميد، ستحتاج إلى مساحة أكبر، حسناً، أعمل هناك، حسناً، لديك التجميد، الطالب ب، ما هو التجميد؟,"Well, this kind of freezing, you'll need more space, well, I work there, well, you have freezing, student B, what is freezing?"
+"It’s, like, the same that you can [inaudible].",student,8,0,,0.0,,هو، مثل، نفس الذي يمكنك [غير مستمع].,"It's, like, the breath you can [unlisten]."
+"Yeah, when you have your cupcake – let me draw my cupcake up here.  Let’s go down a little bit.  That’s my cupcake.  The cake is on the inside.  The frosting is what I put on the outside.  And then, what flavors of frostings do I have?",teacher,47,3,0.0,,0.0,نعم، عندما يكون لديك كعكك دعيني أرسم كعبتي هنا، دعيني أسقط قليلاً. هذه كعبتي. الكعكة في الداخل. الجليد هو ما وضعته في الخارج. وبعد ذلك، ما هي طعم الجليد الذي لدي؟,"Yes, when you have your cake, let me paint my cake here, let me drop a little. This is my cake. The cake is inside. The ice is what you put on the outside. And then, what is the taste of the ice I have?"
+You looked and you have [body]. Pink –,student,8,0,,0.0,,لقد نظرت ولديك (جسم) الوردي,I've looked at you and you have a pink body.
+Yeah.,teacher,1,0,0.0,,0.0,-أجل، أجل,"- Yes, yes, yes"
+Green and yellow.,multiple students,3,0,,,,الخضراء والصفراء,Green and yellow
+"Okay.  So, I’ve got my pink, my green and my yellow.  And I’ll put that over here for right now.",teacher,20,0,,,0.0,حسناً، لديّ الوردية والخضراء والصفراء، وسأضعها هنا الآن.,"Well, I have pink, green, and yellow, and I'll put them here right now."
+Are you doing the TiVo?,student,5,0,,,,"هل تقوم بـ""تيفو""؟",Are you playing tifo?
+Yeah.  The camera is on.,teacher,5,0,1.0,,0.0,أجل، الكاميرا تعمل,"Yes, the camera works."
+How many?,student,2,0,,,,كم عدد؟,How many numbers?
+How many what?,teacher,3,0,,,0.0,كم عدد ماذا؟,How many numbers of what?
+How many cameras did you turn on?,student,7,0,,,,كم كاميرات قمت بتشغيلها؟,How many cameras have you turned on?
+All three of the cameras are on right now.,teacher,9,0,1.0,,0.0,جميع الكاميرات الثلاثة تعمل الآن,All three cameras are now operational.
+"You went like, three.",student,4,0,,,,ذهبت مثل، ثلاثة.,"I went like, three."
+"Yes.  Well, let’s –",teacher,4,0,,,0.0,أجل، حسناً، لنذهب,"Yeah, well, let's go."
+Is it looking this way?,student,5,0,,,,هل تبدو هكذا؟,Does it look like this?
+"The camera is facing three different directions.  We’re gonna try and ignore the camera.  I know that’s hard, but try real hard. So, who can tell me, what’s the last choice I need to make with my cupcakes?  Student S?",teacher,40,1,0.0,,0.0,الكاميرا تتجه في ثلاثة اتجاهات مختلفة سنحاول تجاهل الكاميرا أعلم أن هذا صعب، لكن حاول بجد، لذا، من يستطيع أن يقول لي، ما هو الخيار الأخير الذي يجب أن أفعله مع كعكي؟ الطالب S؟,"We'll try to ignore the camera, I know it's hard, but try hard, so who can tell me, what's the last thing I have to do with this cake?"
+Sprinkles.,student,1,0,,,,ورشات.,Workshops.
+"Sprinkles, thank you.  Sprinkles and the sprinkles are the little bits I put on top of my cupcake like this.  And what are my choices, Student S?",teacher,27,1,,,0.0,الشربات والشربات هي القطع الصغيرة التي وضعتها على رأس كعكي هكذا وما هي خياراتي يا طالب (س) ؟,"Drinks and drinks are the little pieces I put on your head like this and what are my options, student (s)?"
+"Stars, hearts – Two of them are [inaudible]. Circles.",student,9,1,,0.0,,النجوم، القلبين، اثنان منهم، دائرة.,"The stars, the two hearts, two of them, a circle."
+"And circles.  And a circle is like this.  Good.  You know several strategies to use.  Please, right now, figure out how many different combinations can I make.  Spend a minute.",teacher,30,2,1.0,,0.0,ودورات. ودورة هي مثل هذه. جيد. تعرف العديد من الاستراتيجيات لاستخدامها. رجاءً، الآن، معرفة كم مجموعة مختلفة يمكنني إجراؤها. قضاء دقيقة.,"And courses. and a course is like this. good. know many strategies to use. please, now, find out how many different groups I can run. spend a minute."
+You could make a tree.,student,5,0,,,,يمكنك صنع شجرة,You can make a tree
+"You can do any strategy that you like – the tree, multiplication problem, or lists.",teacher,15,1,1.0,,0.0,يمكنك القيام بأي إستراتيجية تريدها  الشجرة، مشكلة مضاعفة، أو القوائم.,"You can do whatever strategy the tree wants, the doubling problem, or the lists."
+Lists.,student,1,0,,,,القوائم,The lists
+I’m not gonna answer questions for another minute or two.,teacher,10,0,,,0.0,لن أجيب على الأسئلة لبضع دقائق أخرى,I won't be answering questions for a few more minutes.
+"Well, answer questions.",student,3,0,,,,حسناً، أجيب على الأسئلة,"Well, answer the questions."
+"Hold on then.  What’s wrong?  Pick up your head, come on.",teacher,11,0,,,0.0,مهلاً، ما الخطب؟,"Wait, what's wrong?"
+Sit in your chair [inaudible].,student,5,0,,,,اجلس في كرسيك,Sit in your chair.
+"Good.  Let’s get it started, okay?  So, I’ve got – how about a pencil that works?  Ah, brilliant, thank you.  Pick up. Come.  Take your head out of your hands, please.",teacher,31,0,0.0,,0.0,حسناً، دعونا نبدأ، حسناً، ماذا عن قلم رصاص يعمل؟ رائع، شكراً. ارفع. تعال. خذ رأسك من يديك، من فضلك.,"All right, let's get started, all right, what about a working pencil? great, thanks. raise it. come on. take your head out of your hands, please."
+Okay.,student,1,0,,,,-حسناً,-Well then
+"Let’s get started and, plus, I’ve got chocolate and vanilla cupcakes, right?  Okay.  So, now, I’ve got chocolate right here.  How many different frostings can I have on the chocolate cake?  I could either have a pink chocolate cake, right?  Let’s make a pink chocolate cake.  What other color cake can I have?  Look at G-R together, grrr.",teacher,58,1,,,0.0,دعونا نبدأ، بالإضافة إلى ذلك، لدي كعكة الشوكولاتة والفانيليا، صحيح؟ حسناً، الآن، لدي كعكة الشوكولاتة هنا. كم عدد الجليدات المختلفة التي يمكنني الحصول عليها على كعكة الشوكولاتة؟ يمكنني إما الحصول على كعكة الشوكولاتة الوردية، أليس كذلك؟ دعونا نصنع كعكة الشوكولاتة الوردية. ما هي الكعكة الأخرى التي يمكنني الحصول عليها؟ انظر إلى G-R معاً، grrr.,"Well, now, I have a chocolate cake here. How many different ice creams can I get on a chocolate cake? I can either get a pink chocolate cake, right? Let's make a pink chocolate cake. What other cake can I get? Look at G-R together, grrr."
+Grr.,student,1,0,,,,ج.ر.,J.R.
+Grr.,teacher,1,0,,,0.0,ج.ر.,J.R.
+Green.,student,1,0,,,,خضراء,Green green
+"Green.  I can have green chocolate cake. And what’s the last color?  Ya, ya.",teacher,14,0,,,0.0,أخضر، يمكنني تناول كعكة الشوكولاتة الخضراء، وما هو اللون الأخير؟,"Green, can I have a green chocolate cake, what's the last color?"
+Yellow.,student,1,0,,,,الصفراء,Yellow
+"And I can have a yellow chocolate cake.  Great.  If I had a chocolate cake that’s pink, I want to put sprinkles on top. I can have st.  What’s this one say?",teacher,32,0,,,0.0,ويمكنني الحصول على كعكة الشوكولاتة الصفراء. عظيم. إذا كان لدي كعكة الشوكولاتة الوردية، أريد وضع رشاشات فوقها. يمكنني الحصول على القديس. ماذا يقول هذا؟,"And I can get a yellow chocolate cake. great. if I have a pink chocolate cake, I want to put sprays on it. i can get a saint. what does that say?"
+Star.,student,1,0,,,,نجمة,A star is a star.
+"Good.  So, I can have stars.  So, I can have a chocolate cake that’s pink with stars on it.",teacher,19,0,,,0.0,حسناً، يمكنني الحصول على النجوم، ويمكنني الحصول على كعكة الشوكولاتة الوردية ذات النجوم عليها,"Well, I can get the stars, and I can get the pink chocolate cake with the stars on it."
+Heart.,student,1,0,,,,القلب.,The heart.
+I can have a chocolate cake that’s pink with –,teacher,10,0,,,0.0,يمكنني الحصول على كعكة الشوكولاتة الوردية مع,I can get a pink chocolate cake with 
+Heart.,student,1,0,,,,القلب.,The heart.
+"– with hearts on it.  Oh, you know how to do this.  Or I can have a chocolate cake that’s pink with circles.",teacher,23,1,,,0.0,تعرف كيف تفعل هذا أو يمكنني الحصول على كعكة الشوكولاتة الوردية ذات الدوائر,You know how to do this or I can get a pink chocolate cake with circles.
+Circles.,student,1,1,,,,حلقات,Episodes and episodes.
+"So, those are three chocolate cakes I can have right there. Three pink chocolate cakes.  I could also have a chocolate cake that’s green with the green frosting on it.  No pink frosting, instead it can be green frosting.",teacher,39,0,,,0.0,إذاً، هذه ثلاث كعكات الشوكولاتة التي يمكنني الحصول عليها هنا. ثلاثة كعكات الشوكولاتة الوردية. يمكنني أيضاً الحصول على كعكة الشوكولاتة الخضراء مع الجليد الأخضر عليها. لا يوجد جليد وردي، بدلاً من ذلك يمكن أن يكون جليد أخضر.,"So, these are the three chocolate cakes I can get here. Three pink chocolate cakes. I can also get a green chocolate cake with green ice cream on it. There is no pink ice cream, instead it can be green ice cream."
+I think I’m done.,student,4,0,,,,أعتقد أنني انتهيت,I think I'm through with it.
+Student J?,teacher,2,0,,,0.0,الطالب (جي) ؟,The student (s) ?
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"I think I’m gonna move you just a little bit over here, ’cause I think the people who are watching the video might not want to just see you.  Can you pull your desk over, please?",teacher,36,0,,,0.0,أعتقد أنني سأحركك إلى هنا قليلاً، لأنني أعتقد أن الأشخاص الذين يشاهدون الفيديو قد لا يرغبون في رؤيتك.,"I think I'll move you here a little bit, because I think the people watching the video might not want to see you."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"Move your desk over, please.",teacher,5,0,,,0.0,تحركوا مكتبكم من فضلكم,Please move your desk.
+Oh.,student,1,0,,,,-أوه .,-Oh .
+Thank you.  Okay.,teacher,3,0,,,0.0,شكراً، حسناً,"Thank you, all right."
+I was in Student B’s way.,student,6,0,,,,كنت في طريق الطالب ب.,I was on my way to student B.
+That’s all right for right now.,teacher,6,0,0.0,,0.0,لا بأس الآن,It's all right now.
+She was gonna go write the –,student,7,0,,,,كانت ستذهب و تكتب,She would go and write.
+"You can have a chocolate cake with green frosting and what kind of sprinkles?  St, stars, right?  Can I have a chocolate cake with green frosting with what else on it?",teacher,31,0,0.0,,0.0,هل يمكنني الحصول على كعكة الشوكولاتة مع الجليد الأخضر و أي نوع من الرشات؟,Can I get a chocolate cake with green ice cream and any kind of spray?
+With hearts.,student,2,0,,,,بقلوب,From the heart.
+With hearts.,teacher,2,0,,,0.0,بقلوب,From the heart.
+And with stars.,student,3,0,,,,ومع النجوم,And with the stars.
+"And with circles.  Oh, so, I can have a chocolate cake with green frosting, three different kinds.  Let’s skip ahead, ’cause I’m getting bored.  Are you getting bored with this?",teacher,30,1,,,0.0,و مع الدوائر. أوه، إذا، يمكنني الحصول على كعكة الشوكولاتة مع الجليد الأخضر، ثلاثة أنواع مختلفة. دعونا نقفز إلى الأمام، لأنني أشعر بالملل. هل تشعر بالملل مع هذا؟,"Oh, so, I can get a chocolate cake with green ice cream, three different types.Let's jump ahead, because I'm bored.Do you get bored with this?"
+Uh-huh.,student,1,0,,,,اه-ها.,Ah-ha. 
+"I think it’s boring too.  So, you know what, I know I can have a chocolate cake with yellow, how many different kinds of yellow chocolate cakes can I have?  Stars, hearts and circles, how many is that?",teacher,38,1,,,0.0,أعتقد أنه ممل أيضاً، لذا، تعلمون ماذا، أعرف أنني أستطيع الحصول على كعكة الشوكولاتة مع الصفراء، كم نوع مختلف من كعكات الشوكولاتة الصفراء يمكنني الحصول عليها؟ النجوم، القلبات والحلقات، كم هذا؟,"I think it's boring too, so, you know what, I know I can get chocolate cake with yellow, how many different types of yellow chocolate cake can I get? stars, hearts and rings, how much is that?"
+With stars?,student,2,0,,,,مع النجوم؟,With the stars?
+How many did I have right up here.,teacher,8,0,,,0.0,كم عدد كان لدي هنا؟,How many numbers did I have here?
+Three.,student,1,0,,,,ثلاثة.,Three.
+And here?,teacher,2,0,,,0.0,و هنا؟,And here?
+Three.,student,1,0,,,,ثلاثة.,Three.
+"So, how many do you think will be for yellow?",teacher,10,0,,,1.0,إذاً، كم تعتقد أنها ستكون للصفراء؟,"So, how much do you think it will be for yellow?"
+Two.,student,1,0,,,,اثنان.,Two.
+"I’m gonna guess three also.  Stars, hearts and circles.  Stars, hearts and circles, there will be three more.  So, how many different kinds of chocolate cake can I have?",teacher,29,2,,,0.0,سأخمن ثلاثة أيضاً، نجوم، قلوب ودورات، نجوم، قلوب ودورات، سيكون هناك ثلاثة آخرين. لذا، كم نوع مختلف من كعكة الشوكولاتة يمكنني الحصول عليها؟,"I'll also guess three, stars, hearts and circles, stars, hearts and circles, there will be three more."
+"Wait, three.",student,2,0,,,,انتظر، ثلاثة.,"Wait, three."
+"Three pink ones, three green ones and three yellow ones, how many is that all together?",teacher,16,0,,,0.0,ثلاثة ورديين، ثلاثة أخضرين وثلاثة أصفرين، كم عدد كل هذا معاً؟,"Three pink, three green and three yellow, how many of these together?"
+The answer?,student,2,0,,,,الإجابة؟,The answer?
+Yeah.,teacher,1,0,,,0.0,-أجل، أجل,"- Yes, yes, yes"
+Nine.,student,1,0,,,,تسعة,Nine Nine
+"Nine.  So, you can have nine chocolate – so, nine chocolate. How many do you think that we’ll be able to have with vanilla if we do this whole tree again down here?",teacher,33,1,,,0.0,تسعة. إذاً، يمكنك الحصول على تسعة شيكولاتة  لذا، تسعة شيكولاتة. كم عدد تعتقد أننا سنكون قادرين على الحصول عليها مع الفانيليا إذا قمنا بهذا الشجرة بأكملها مرة أخرى هنا أسفل؟,"So, you can get nine chocolates, so, nine chocolates. How many do you think we'll be able to get with vanilla if we do that whole tree again down here?"
+Three.,student,1,0,,,,ثلاثة.,Three.
+"Probably, nine, again.  Okay.  Green –",teacher,6,0,,,0.0,"ربما تسعة مرة أخرى حسناً, أخضر","Maybe nine more times. Okay, green."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"You’re embarrassing me right now.  I wish you wouldn’t do that. Open up your notebook, please.",teacher,16,0,,,0.0,أنت تجعلني أشعر بالحرج الآن أتمنى لو لم تفعل ذلك افتح دفتر الملاحظات من فضلك,You're making me feel embarrassed right now and I wish you hadn't. Please open the notebook
+I’m done.,student,2,0,,,,لقد انتهيت,It's over now.
+"Yeah.  So, probably, nine.  Figure out what nine plus nine is. Good.  Let’s go back over here.  Can I have your attention? Please put two feet underneath your desk.  Open up your math notebooks to the right page and help me out.  We have a few different strategies that we learned, I think, last week.  I’m gonna wait until I have more hands. Open your math notebook now, please.  Thank you.  Okay. You don’t have the right answer.  So, it makes me wonder what you’ve been doing [inaudible].",teacher,88,0,,,0.0,نعم. ربما تسعة. اكتشفوا ما هو تسعة زائد تسعة. حسناً. دعونا نعود إلى هنا. هل يمكنني الحصول على انتباهكم؟ من فضلكم ضعوا قدمين تحت مكتبكم. افتحوا كتيبكم الرياضية إلى الصفحة الصحيحة و ساعدوني. لدينا بعض الاستراتيجيات المختلفة التي تعلمناها، أعتقد، الأسبوع الماضي. سأنتظر حتى أحصل على المزيد من اليدين. افتحوا كتيبكم الرياضي الآن، من فضلكم. شكراً لكم. حسناً. ليس لديكم الإجابة الصحيحة. لذلك، هذا يجعلني أتساءل ماذا كنتم تفعلون.,"Yes. maybe nine. find out what nine plus nine is. okay. let's get back here. can i get your attention? please put two feet under your desk. open your sportsbook to the right page and help me. we have some different strategies we learned, i think, last week. i'll wait till i get more hands. open your sportsbook now, please. thank you. okay. i don't have any."
+"I was doing three and three, because three equals –",student,10,0,,0.0,,كنت أفعل ثلاثة وثلاثة، لأن ثلاثة يساوي ,"I would do three and three, because three is equal to "
+"Uh-uh.  Student T, can you help me out?",teacher,8,0,0.0,,0.0,الطالب (تي) ، أيمكنك مساعدتي؟,"Student, can you help me?"
+I did a list.,student,4,0,,,,قمت بعمل قائمة,I made a list.
+"You did a list.  Okay.  So, let me go over here.  Help me out with the list.",teacher,17,0,,,0.0,حسناً، دعني أذهب إلى هنا، ساعدني في القائمة,"All right, let me go over here, help me with the menu."
+And you can do chocolate.,student,5,0,,,,ويمكنك صنع الشوكولاتة,And you can make chocolate.
+Yeah.,teacher,1,0,0.0,,0.0,-أجل، أجل,"- Yes, yes, yes"
+Pink frosting and stars.,student,4,0,,,,الصفراء الوردية والنجوم.,Pink yellow and stars.
+Uh-huh.,teacher,1,0,,,0.0,اه-ها.,Ah-ha. 
+Chocolate –,student,2,0,,,,الشوكولاتة,Chocolate is what it's all about.
+"Can I abbreviate chocolate, CH?",teacher,5,0,,,0.0,هل يمكنني اختصار الشوكولاتة يا (تش) ؟,Can I shorten the chocolates or (ch)?
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Okay.,teacher,1,0,,,0.0,-حسناً,-Well then
+Pink and hearts.,student,3,0,,,,الوردي والقلب.,Pink and heart.
+And hearts.,teacher,2,0,,,0.0,و القلب,And the heart.
+Chocolate –,student,2,0,,,,الشوكولاتة,Chocolate is what it's all about.
+Yeah.,teacher,1,0,,,0.0,-أجل، أجل,"- Yes, yes, yes"
+– pink and circles.,student,4,1,,,,الوردي و الدائرات,Pink and pink circles.
+"Okay.  So, I’m noticing that you’re organizing it by chocolate. I want to stop your list for just a second and I want to go to the tree diagram, okay, and just talk about how the tree diagram and the list relate to each other.",teacher,45,0,,,0.0,حسناً، لاحظت أنك تقوم بتنظيمها حسب الشوكولاتة، أريد أن أوقف قائمتك للحظة، وأريد أن أذهب إلى مخطط الشجرة، حسناً، وأتحدث عن كيفية ارتباط مخطط الشجرة والقائمة مع بعضها البعض.,"Well, I noticed that you're organizing it by chocolate, I want to pause your list for a moment, and I want to go to the tree diagram, well, and talk about how the tree diagram and the list relate to each other."
+Is there watching up on computer?,student,6,0,,,,هل هناك مراقبة على الكمبيوتر؟,Is there surveillance on the computer?
+"Yes, the camera is watching all of you right now.",teacher,10,0,1.0,,0.0,أجل، الكاميرا تراقبكم جميعاً الآن,"Yes, the camera is watching you all right now."
+I know most of them.,student,5,0,,,,أعرف معظمهم,I know most of them.
+Except for the three kids back there.,teacher,7,0,0.0,,0.0,باستثناء الاطفال الثلاث هناك,Except for the three kids there.
+And it’s [hide and go seek].,student,6,0,,,,و هو [الاختباء والذهاب للبحث].,And it is [hide and seek].
+"I’m not gonna see it now.  And I really – I don’t want to worry about it now. Can we answer camera questions after the lesson, ’cause this was really not what I wanted to do for the whole math lesson. So, let’s go back over here.  So, I wanna go with Student T said.  She said chocolate and she went to the pink frosting.  So, we can have chocolate cupcake with pink frosting.  And then, Student T said, there are three different kinds of sprinkles.  So, we can do – we can have heart sprinkles, star sprinkles and circle sprinkles. Those are all of the different chocolate, pink cupcakes that I can have. What other frosting colors can I make with my chocolate cake, Student J?",teacher,127,4,0.0,,0.0,أنا لن أراه الآن. وأنا حقاً لا أريد القلق بشأن ذلك الآن. هل يمكننا الإجابة على أسئلة الكاميرا بعد الدروس، لأن هذا لم يكن ما أردت القيام به طوال درس الرياضيات. لذلك، دعونا نعود إلى هنا. لذلك، أريد الذهاب مع الطالب T قال. قالت الشوكولاتة وقالت انها ذهبت إلى التجميل الوردي. لذلك، يمكننا الحصول على كعكة الشوكولاتة مع التجميل الوردي. ومن ثم، قال الطالب T، هناك ثلاثة أنواع مختلفة من التجميل. لذلك، يمكننا القيام,"I'm not going to see it right now. and I really don't want to worry about it right now. can we answer the camera questions after class, because that's not what I wanted to do all through math class. so, let's get back here. so, I want to go with student T said. so, we can get chocolate cake with pink makeup. and then, student T said, there are three different types of makeup. so, we can"
+Chocolate?,student,1,0,,,,الشوكولاتة؟,The chocolate?
+Yeah.,teacher,1,0,,,0.0,-أجل، أجل,"- Yes, yes, yes"
+Green frosting.,student,2,0,,,,التجميد الأخضر.,The green freeze.
+Great.,teacher,1,0,,,0.0,هذا رائع.,That's great.
+"And heart – no, stars.",student,5,0,,,,و القلب لا، النجوم.,"And not the heart, the stars."
+Can I do hearts also?,teacher,5,0,1.0,,0.0,هل يمكنني فعل القلب أيضاً؟,Can I do the heart too?
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+And stars?,teacher,2,0,,,0.0,و النجوم؟,And the stars?
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+And circles?,teacher,2,1,,,0.0,و الدائرات؟,What about the circuits?
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"Oh, so, there’ll be three different kinds of green, chocolate cupcakes.  Love it.  So, I can do hearts, stars and circles. Let me just stop for a second.  There are three different kinds of pink, chocolate cupcakes I can have. Student S, how many different kinds of green, chocolate cupcakes can I have? Back away.",teacher,55,4,,,0.0,سوف يكون هناك ثلاثة أنواع مختلفة من الكعكات الخضراء والشوكولاتية. أحبها. لذا، يمكنني القيام بالقلبات والنجوم والحلقات. دعني أتوقف للحظة. هناك ثلاثة أنواع مختلفة من الكعكات الوردية والشوكولاتية يمكنني الحصول عليها. الطالب S، كم نوع مختلف من الكعكات الخضراء والشوكولاتية يمكنني الحصول عليها؟ تراجع.,"There will be three different types of green and chocolate cakes. I love them. So, I can do hearts, stars, and rings. Let me pause for a moment. There are three different types of pink and chocolate cakes I can get. Student S, how many different types of green and chocolate cakes can I get?"
+We can make three.,student,4,0,,,,يمكننا أن نجعل ثلاثة.,We can make three.
+Okay.  Is there another flavor of frosting that I can make my chocolate cupcakes into?  One second.,teacher,17,1,,,0.0,حسناً، هل هناك طعم آخر من الجليد الذي يمكنني جعله كعكة الشوكولاته؟,"Well, is there any other flavor of ice cream I can make as a chocolate cake?"
+You just –,student,3,0,,,,أنت فقط,It's just you
+"I didn’t want to stop you from working [inaudible] focused you were.  These are our flavors.  Pink, we just did.  Green, we just did.  Student J, what’s the last color?",teacher,30,0,,,0.0,لم أكن أريد أن أمنعك من العمل كنت مركزاً هذه هي طعمنا الوردي فعلنا ذلك الأخضر فعلنا ذلك الطالب جي، ما هو آخر لون؟,"I didn't want to stop you from working I was focused This is our pink taste We did this green We did that student J, what's the last color?"
+Yellow.,student,1,0,,,,الصفراء,Yellow
+"Yellow.  Very good.  Yellow frosting.  So, this is my flavor, chocolate cupcakes.  Yum, my favorite. I have three different choices of frostings, pink, green and yellow.  And then, I’ve got my sprinkles for the top, three different choices. So, before I write – because Student S and I were talking about how we were getting a little bored with this.  It’s a lot to write.  Right, Student C?",teacher,68,1,,,0.0,الصفراء. جيد جداً. الصفراء الصفراء. هذا هو طعمي، كعك الشوكولاتة. يوم، المفضلة لدي. لدي ثلاثة خيارات مختلفة من الصفراء، الوردية، الخضراء والصفراء. ومن ثم، حصلت على ورشاتي للقمة، ثلاثة خيارات مختلفة. لذلك، قبل أن أكتب  لأن الطالب S وأنا كنا نتحدث عن كيف أصبحنا متعبين قليلا مع هذا.,"Yellow. very good. yellow. yellow. this is my taste, chocolate cake. day, my favorite. i have three different options of yellow, pink, green, and yellow. and then, i got my workshop to the top, three different options. so, before i write because student s and i were talking about how we got a little tired with this."
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+It’s a little bit boring.  Do you think so?,teacher,9,0,,,0.0,إنّه مملّ قليلاً، هل تعتقد ذلك؟,"It's a little boring, you think?"
+Yes. I don’t.,student,3,0,,,,أجل، لا أعرف.,"Yeah, I don't know."
+"A little bit, no, okay.",teacher,5,0,,,0.0,قليلاً، لا، حسناً,"A little bit, no, all right."
+No.,student,1,0,,,,-كلا .,"- No , not at all ."
+"How many different kinds of yellow cupcakes, Student O, do you think I’ll have?",teacher,14,1,,,0.0,كم نوع مختلف من الكعك الأصفر، الطالب O، هل تعتقد أنني سوف يكون؟,"How many different kinds of yellow cakes, student O, do you think I'll be?"
+Um – Three. – yellow –,student,6,0,,,,ثلاثة. صفراء.,Three. yellow.
+There were three pink.  There were three green.  How many yellow do you think there might be?,teacher,17,0,1.0,,1.0,كان هناك ثلاثة ورديين، وثلاثة أخضرين، كم عدد الأصفرين تعتقد أنه يمكن أن يكون هناك؟,"There were three roses, and three greens, how many yellows do you think there could be?"
+"Um, yellow, heart or stars – first, the stars.",student,9,0,,0.0,,الأصفر، القلب أو النجوم أولاً، النجوم,"Yellow, heart or stars first, stars"
+"First, the stars, okay.",teacher,4,0,1.0,,0.0,أولاً، النجوم، حسناً,"First, the stars, all right?"
+And the hearts.,student,3,0,,,,والقلب.,And the heart.
+Good.,teacher,1,0,,,0.0,-حسناً,-Well then
+And the circles.,student,3,1,,,,و الدوائر,and circuits.
+"Good.  So, how many yellow cupcakes could there be that are chocolate?",teacher,12,1,,,0.0,حسناً، كم عدد الكعك الصفراء التي يمكن أن تكون شيكولاته؟,"Well, how many yellow cakes can be chocolate?"
+Three.,student,1,0,,,,ثلاثة.,Three.
+"Three.  So, I wanna stop for just a minute.  We’ve done the top half of our tree.",teacher,17,0,,,0.0,ثلاثة، لذا أريد التوقف لدقيقة، لقد قمنا بالنصف العلوي من شجرتنا,"Three, so I want to pause for a minute, we've already done the top half of our tree."
+I’m stopping.,student,2,0,,,,أنا أتوقف.,I'm going to stop.
+We did the top half of our tree.  How many choices were there for the top half of our tree?,teacher,20,0,,,0.0,لقد قمنا بالنصف العلوي من شجرتنا. كم عدد الخيارات التي كانت هناك للنصف العلوي من شجرتنا؟,How many options were there for the top half of our tree?
+Nine.,student,1,0,,,,تسعة,Nine Nine
+"Nine choices.  Thank you, somebody, for being awake here.",teacher,9,0,,,0.0,تسعة خيارات، شكراً لكِ يا شخص، لأنكِ مستيقظة هنا,"Nine choices, thank you, man, for waking up here."
+"Oh, my God.",student,3,0,,,,أوه، يا إلهي.,"Oh, my God."
+I’m wondering what you’re doing right now.  Please put that down.,teacher,11,0,,,0.0,أتساءل ما الذي تفعله الآن من فضلك ضع ذلك,"I'm wondering what you're doing now, please put that down."
+She’s always doing that.,student,4,0,,,,إنها تفعل ذلك دائماً,She does that all the time.
+"I don’t want to know.  Put it down.  It should already be glued in. So, we have nine types of chocolate cupcakes.  Nine chocolate choices.  Since I want to move on to the next lesson, because my math objectives are to go back to breaking apart factors and writing complete sentences that answer the question, I want to make sure we get to that. That’s the main objective today. So, if I know I have nine chocolate choices, how many vanilla choices do you think I’m going to have?",teacher,89,2,,,0.0,أنا لا أريد أن أعرف. ضعها أسفل. يجب أن يتم لصقها بالفعل. لذلك، لدينا تسعة أنواع من الكعك الشوكولاتية. تسعة خيارات الشوكولاتة. بما أنني أريد الانتقال إلى الدروس التالية، لأن أهدافي الرياضية هي العودة إلى تفكيك العوامل وكتابة الجمل الكاملة التي تجيب على السؤال، أريد التأكد من أننا نصل إلى ذلك. هذا هو الهدف الرئيسي اليوم. لذلك، إذا كنت أعرف أن لدي تسعة خيارات الشوكولاتة، كم خيارات فانيليا تعتقد أن لدي؟,"I don't want to know. Put it down. It has to be pasted already. So, we have nine types of chocolate cake. Nine choices of chocolate. Since I want to move on to the next lesson, because my mathematical goals are to go back to breaking down the factors and writing the full sentences that answer the question, I want to make sure we get to that. That's the main goal today."
+Three.,student,1,0,,,,ثلاثة.,Three.
+Tell the person at your table.,teacher,6,0,,,0.0,أخبري الشخص على طاولتك,Tell the person at your table.
+Nine. Nine. Nine.,student,3,0,,,,تسعة، تسعة، تسعة,"Nine, nine, nine"
+Nine.,multiple students,1,0,,,,تسعة,Nine Nine
+"You can tell somebody.  Take that out of your mouth, please.",teacher,11,0,,,0.0,يمكنك أن تخبر أحداً، أخرج هذا من فمك، من فضلك,"You can tell someone, get that out of your mouth, please"
+Okay.,student,1,0,,,,-حسناً,-Well then
+"Thank you.  [Foreign language.]  I don’t know [foreign language].  I try in Portuguese.  [Foreign language]?  I should know that word, it’s my favorite. Student C?",teacher,25,0,,,0.0,شكراً. [لغة أجنبية] لا أعرف [لغة أجنبية]. أحاول بالبرتغالية. [لغة أجنبية]؟ يجب أن أعرف هذه الكلمة، إنها المفضلة لدي. الطالب C؟,"Thank you. [foreign language] I don't know [foreign language]. I'm trying Portuguese. [foreign language]? I need to know this word, it's my favorite. Student C?"
+Nine.,student,1,0,,,,تسعة,Nine Nine
+"Do you agree with Student C?  Show me yes or no.  Yes, I think there will be nine vanilla; no, I do not think there will be nine vanilla.  Student C, you’re not thinking?",teacher,34,0,,,1.0,هل توافق على الطالب (ج) ؟ أرني نعم أو لا. نعم، أعتقد أنه سيكون هناك تسعة فانيلا؛ لا، لا أعتقد أنه سيكون هناك تسعة فانيلا. الطالب (ج) ، أنت لا تفكر؟,"Do you agree with student C? Show me yes or no. Yes, I think there will be nine vanilla; no, I don't think there will be nine vanilla. Student C, don't you think?"
+I’m thinking about just [inaudible] answer.,student,6,0,,,,أنا أفكر في إجابة غير مسموعة,I'm thinking of an unheard of answer.
+"Student C thinks there will be nine vanilla choices. There were nine chocolate, could there also be nine vanilla, yes or no?  Student A?  [Foreign language.]  You do.  I agree.  And instead of making the whole tree, I know Student C is right.  There will be nine.  So, how many choices is that in all for my cupcakes?",teacher,58,2,0.0,,0.0,الطالب C يعتقد أنه سيكون هناك تسعة خيارات فانيلا. كان هناك تسعة شيكولاتة، هل يمكن أن يكون هناك تسعة فانيلا أيضا، نعم أو لا؟ الطالب A؟ [لغة أجنبية] نعم. أتفق معك. وبدلا من صنع الشجرة بأكملها، أعرف أن الطالب C على حق. سيكون هناك تسعة.,"Student C thinks there will be nine vanilla options. There were nine chocolates, can there also be nine vanilla, yes or no? Student A? [foreign language] Yes. I agree with you. And instead of making the whole tree, I know that student C is right. There will be nine."
+Nine.,student,1,0,,,,تسعة,Nine Nine
+"Student C, I’m really not pleased with the way you’re sitting right now.  Student J?",teacher,15,0,,,0.0,الطالب (ج) ، أنا حقاً غير راض عن الطريقة التي تجلس بها الآن,"Student (c), I'm really not happy with the way you're sitting right now."
+18.,student,1,0,,,,18.,18. 18.
+"Yeah, there will be 18 choices.  So, looking back – sit the right way, please.  Thank you.  Student C, sit the right way, please.",teacher,24,0,,,0.0,"أجل، سيكون هناك 18 خيارًا لذا، بالنظر إلى الوراء، اجلس في الطريق الصحيح، من فضلك. شكراً. الطالب ""سي""، اجلس في الطريق الصحيح، من فضلك.","Yes, there will be 18 options so, looking back, please sit in the right direction."
+Hmm?,student,1,0,,,,هل هذا صحيح؟,Is that true?
+"Sit the right way.  Turn your chair.  Thank you.  So, the question is how many combinations can you make?  I need a full sentence.  The question was –",teacher,28,0,,,0.0,الجلوس في الطريق الصحيح. تحويل الكرسي الخاص بك. شكرا. لذا، السؤال هو كم مجموعة يمكنك القيام بها؟ أنا بحاجة إلى جملة كاملة. السؤال كان ,"So, the question is, how many sets can you do? I need a full sentence. The question was "
+There can be 18 combinations.,student,5,0,,,,يمكن أن يكون هناك 18 مزيج.,There can be as many as 18 combinations.
+– how many – how many combinations can you make?  Let’s use the words from the question to write our answer.  Put your chair flat.  Student A?,teacher,27,0,1.0,,0.0, كم عدد  كم عدد الجمعيات التي يمكنك إجراؤها؟ دعونا نستخدم الكلمات من السؤال لكتابة إجابتنا. ضع كرسيك مسطحًا. الطالب A؟,Let's use the words from the question to write our answer. lay your chair flat. Student A?
+"There can be 18 combinations. So, this is why.",student,9,0,,0.0,,يمكن أن يكون هناك 18 مزيج، لذلك، هذا هو السبب.,"There can be 18 combinations, so, here's the reason."
+"I’ll take a different way, Student E?",teacher,7,0,0.0,,0.0,سأختار طريقاً مختلفاً يا الطالب (إي) ؟,Should I choose a different path or student (s)?
+From the [inaudible] –,student,4,0,,,,من [غير مسموع] ,From [unheard of] 
+Tell me.,teacher,2,0,,,1.0,اخبرني,Tell me about it.
+"You might – well, you can make 18 combinations.",student,9,0,,0.0,,حسناً، يمكنك صنع 18 مزيج.,"Well, you can make 18 combinations."
+I love ’em both.,teacher,4,0,0.0,,0.0,أحب كليهما,I love both of them.
+But I want one here.,student,5,0,,,,ولكني أريد واحدة هنا,But I want one here.
+What’s yours?,teacher,2,0,1.0,,0.0,ما هو الخاص بك؟,What's yours?
+We can make 18 combinations.,student,5,0,,,,يمكننا إجراء 18 مزيج.,We can perform 18 combinations.
+"Oh, so instead of you, we.  I like it.",teacher,9,0,0.0,,0.0,لذا بدلاً منك، نحن، أنا أحب ذلك.,"So instead of you, we, I like that."
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"Very good.  Who can tell me the equation that goes with this? Student I, I know you like to do the equations.",teacher,22,2,,,1.0,جيد جداً، من يستطيع أن يخبرني بالمعادلة التي تذهب مع هذا؟ الطالب الأول، أعرف أنك تحب القيام بالمعادلات.,"Very good, who can tell me the equation that goes with this? 1st student, I know you like making equations."
+2 times 3 times 3 equals 18 combinations. I have 9 times 2.,student,13,0,,0.0,,2 × 3 × 3 = 18 مزيج لدي 9 × 2,3 × 3 × 3 = 18 combinations I have 9 × 2
+"It can’t be 9 times 2.  Student I, can you explain to us, where did this 2 come from?",teacher,19,0,1.0,,1.0,لا يمكن أن يكون 9 × 2. الطالب الأول، هل يمكنك أن تشرح لنا، من أين جاء هذا 2؟,"The first student, can you explain to us, where did this 2 come from?"
+From the 2 flavors.  And the 3 came from the 3 frostings.  And the other 3 came from the 3 sprinkles.,student,21,0,,0.0,,من الذوقين، والثلاثة جاءت من الثلاثة التجميدات، والثلاثة الأخرى جاءت من الرشات الثلاثة.,"Of the two flavors, three came from the three freezes, and the other three came from the three sprays."
+"Student O, please stop that.",teacher,5,0,0.0,,0.0,الطالب (أو) ، أرجوك توقفي عن ذلك,"Student (s), please stop doing that."
+"This is wrong, Teacher R?",student,5,0,,,,هل هذا خاطئ أيها المعلم (ر) ؟,"Is that wrong, Master (r) ?"
+What’s that?,teacher,2,0,0.0,,0.0,ما هذا؟,What is this?
+This is wrong for the rest of the –,student,9,0,,0.0,,هذا خطأ بالنسبة لبقية ,This is a mistake for the rest of us 
+"I know.  Let’s not make that decision now.  Good.  Please. Once you’ve copied down your equation, close your math notebook.  Carefully, walk around the camera and join me on the rug.",teacher,31,1,0.0,,0.0,أعلم، دعونا لا نتخذ هذا القرار الآن، حسناً، رجاءً، بمجرد نسخ معادلتك، أغلق دفتر الملاحظات الرياضية،,"I know, let's not make that decision now, well, please, once you copy your equation, close the math notebook,"
+No.,student,1,0,,,,-كلا .,"- No , not at all ."
+Turn those brains on.  You guys can stay there.  That’s fine. You can even sit right in the back there and then you won’t be seen on film.,teacher,28,0,,,0.0,إشغلي تلك الدماغات، يمكنكما البقاء هناك، لا بأس، يمكنكما الجلوس في الخلف حتى ثم لن تظهروا في الأفلام,"Turn on those brains, you can stay there, it's okay, you can sit in the back until then you don't appear in the movies."
+"No, I want to stay.",student,5,0,,,,لا، أريد البقاء.,"No, I want to stay."
+"Thank you.  No, don’t copy the whole thing.  Student C, we don’t have time.  Just copy this bottom part here.  Just this. Try not to look at it.  Okay.  It’s gonna be more helpful for the people watching if we ignore the camera. Okay.  I’m really not pleased with the way you’re behaving right now.  That’s not how we sit on the rug.  We don’t sit that close.  Back up, please.  [Quick].  Okay.  Great. So, let’s take a look over here.  We’ve been talking about different strategies to solve difficult multiplication problems. Excuse me.  Thank you.  I still need your full attention over here.  [Foreign language.]  Yes.",teacher,107,2,0.0,,0.0,شكراً. لا، لا تنسخ كل شيء. الطالب C، ليس لدينا وقت. فقط تنسخ هذا الجزء السفلي هنا. فقط هذا. حاول أن لا تنظر إليه. حسناً. سيكون من المفيد أكثر للناس الذين يشاهدون إذا تجاهلنا الكاميرا. حسناً. أنا حقاً غير سعيد بالطريقة التي تتصرف بها الآن. ليس هذا هو الطريقة التي نجلس بها على السجادة. نحن لا نجلس قريبًا من ذلك. تراجع، من فضلك. [سريع] حسناً. عظيم. لذلك دعونا نلقي نظرة هنا. كنا نتحدث عن استراتيجيات مختلفة لحل مشاكل مضاعفة صعبة. عذراً. شكراً لك. ما زلت بحاجة إلى إنتباهك الكامل هنا. [لغة أجنبية] نعم.,"No, don't copy everything. Student C, we don't have time. Just copy this bottom here. Just this. Try not to look at it. Okay. It will be more useful for the people watching if we ignore the camera. Okay. I'm really unhappy with the way you're acting right now. Not the way we sit on the carpet. We don't sit near it. Please step back. [fast] Okay. Great. So let's take a look."
+"Probably, ’cause they always [inaudible].",student,5,0,,,,على الأرجح، لأنّهم دائماً لا يسمعون.,Probably because they don't always hear.
+"Are we gonna – careful behind you, please. Are we gonna do math like this?",teacher,15,0,0.0,,0.0,هل سنحذر خلفك من فضلك هل سنقوم بالحسابات هكذا؟,"Will we be careful behind you, please, or will we do the calculations like this?"
+This is wiggly.,student,3,0,,,,هذا مضحك.,That's funny.
+"Yes, we are.  That’s what we’re doing today.",teacher,8,0,,,0.0,أجل، هذا ما نفعله اليوم,"Yeah, that's what we're doing today."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"Good.  Okay.  Attention back over here.  So, let’s take a look at this right here. Who can read the question that I wrote up here?  Student C?",teacher,27,0,,,0.0,حسناً، انتباه هنا، دعونا نلقي نظرة على هذا هنا، من يستطيع قراءة السؤال الذي كتبته هنا؟ الطالب سي؟,"Okay, attention here, let's take a look at this here, who can read the question you wrote here?"
+Oh my what –,student,4,0,,,,يا إلهي ماذا,"Oh, my God, what?"
+Don’t forget O-W says ow.,teacher,5,0,,,0.0,"لا تنسى أن ""أو"" يقول ""أو"".","Don't forget that ""o"" says ""o""."
+Ow.,student,1,0,,,,-أوه,"-Oh, my gosh."
+"So, h, h –",teacher,4,0,,,0.0,"لذا, h, h ","So, h, h "
+How –,student,2,0,,,,كيف ,How 
+Good.,teacher,1,0,,,0.0,-حسناً,-Well then
+– many wow –,student,4,0,,,, الكثير wow ,Wow a lot 
+Arms.  This is an arm.,teacher,5,0,,,0.0,الذراعين، هذا ذراع,"Arms, this is an arm."
+– does 24 –,student,4,0,,,, هو 24 ,He is 24 
+"Oh, you’re embarrassing me.  Stop it.",teacher,6,0,,,0.0,أنتِ تجعلينني محرجة توقف,You're making me embarrassed to stop.
+– octopus has.,student,3,0,,,,الديك الرومي لديه,The turkey has the .
+Thank you very much.  How many arms do 24 octopuses have?,teacher,11,0,,,0.0,شكراً جزيلاً لكم كم عدد الذراعين التي تمتلكها 24 خفاشة؟,"Thank you so much, how many arms do 24 bats have?"
+Octopus have – octopuses?,student,4,0,,,,هل لدى النحاس النحاس؟,Do I have copper copper?
+This is more than one octopus.,teacher,6,0,,,0.0,هذا أكثر من نبتة واحدة,That's more than one plant.
+"Well, eight –",student,3,0,,,,حسناً، ثمانية,"Well, eight."
+"So, let’s see.  How many arms does one octopus have?",teacher,10,0,,,0.0,دعونا نرى، كم عدد الذراعين التي يمتلكها الفراشة؟,"Let's see, how many arms does a butterfly have?"
+Eight.,student,1,0,,,,ثمانية,Eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight
+Student J?,teacher,2,0,,,0.0,الطالب (جي) ؟,The student (s) ?
+Eight.,student,1,0,,,,ثمانية,Eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight eight
+"Eight.  Okay.  So, let’s just number those so I see.  I’ve got one, two, three, four, five, six, seven and eight.",teacher,21,0,,,0.0,ثمانية. حسناً، دعونا نحسب هذه فقط حتى أرى. لدي واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة وثمانية.,"Well, let's just count these until I see.I have one, two, three, four, five, six, seven and eight."
+"Teacher R, the equation is –",student,6,1,,,,المعلم R، المعادلة هي ,"Master R, the equation is "
+"Oh, I’m so sorry.  Did you just say a word I was waiting for? Can we hear Student A, please?",teacher,20,0,0.0,,0.0,أنا آسفة جداً هل قلت كلمة كنت أنتظرها؟ هل يمكننا سماع الطالب أ، من فضلك؟,"I'm so sorry did I say a word you've been waiting for? can we hear student A, please?"
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+What was the word you just said?,teacher,7,0,,,0.0,ما كانت الكلمة التي قلتها للتو؟,What was the word you just said?
+The equation is 8 times 24.,student,6,1,,,,المعادلة هي 8 × 24.,The equation is 8 × 24.
+"So, we have our –",teacher,5,0,0.0,,0.0,لذا، لدينا لدينا ,"So, we have, we have, we have."
+Equation.,student,1,1,,,,المعادلة,Equation  equation 
+– equation here.  And she says the equation is?,teacher,9,2,,,0.0,و هي تقول ان المعادلة هي؟,And she says the equation is?
+Is 8 [inaudible] –,student,4,0,,,,هل هو 8 [غير قابل للسمع] ,Is he 8 [inaudible] 
+"Let’s take a look at the equation for a minute.  I just want to talk about some of the important words that we’re gonna need.  Does anyone remember what this number – I know it’s an 8. Student R, you’re not paying attention when you do that. Did anyone know what [compart] of the equation this is? Student T?",teacher,59,2,,,1.0,دعونا نلقي نظرة على المعادلة لدقيقة. أريد أن أتحدث عن بعض الكلمات الهامة التي سنحتاج إليها. هل يتذكر أي شخص ما ما ما هو هذا الرقم؟,Let's take a look at the equation for a minute.I want to talk about some keywords that we'll need.Does anyone remember what that number is?
+Factor.,student,1,0,,,,عامل.,The factor.
+"Yeah, awesome.  Thanks, Student T.  It is.  That’s a factor. So, we’ve got – right here, we’ve got 8 is a factor in that equation. So, if – it can still here you even if your camera can’t see you, okay. If 8 is a factor, Student C, what is 24?",teacher,51,1,,,0.0,نعم، رائع. شكراً، الطالب T. هو. هذا عامل. لذلك، لدينا  هنا، لدينا  8 هو عامل في هذه المعادلة. لذلك، إذا  يمكن أن لا يزال هنا حتى لو لم تتمكن الكاميرا من رؤيتك، حسناً. إذا 8 هو عامل، الطالب C، ما هو 24؟,"So, we have here, we have 8 is a factor in this equation. So, if it can still be here even if the camera can't see you, okay. If 8 is a factor, student C, what is 24?"
+Factor.,student,1,0,,,,عامل.,The factor.
+"It’s a factor also.  There are two factors in a multiplication problem.  So, we have two different factors there.  Does anyone know what the answer to a multiplication problem is called?  Student T?",teacher,33,4,,,1.0,فهو عامل أيضاً. هناك عاملين في مشكلة مضاعفة. لذا، لدينا عاملين مختلفين هناك. هل يعرف أحد ما ما هو الجواب على مشكلة مضاعفة؟ الطالب T؟,"It's also a factor. There are two factors in a doubling problem. So, we have two different factors out there. Does anyone know what the answer to a doubling problem is? Student T?"
+The product.,student,2,1,,,,المنتج,The product
+That’s it.  That’s it.,teacher,4,0,,,0.0,هذا هو، هذا هو.,"That's it, that's it."
+The product.,student,2,1,,,,المنتج,The product
+"The product.  Take your hands off that, please.  So, we’re gonna find the product.  It’s missing right now.  We’ll find it. Now, we’ve learned a couple different strategies to do this.  One of them is, if you take a look up there, breaking apart one of the factors.  Student G, do you know where I’m pointing right now?",teacher,58,3,,,0.0,المنتج. ارفع يديك عن ذلك رجاءً. اذاً، سنعثر على المنتج. هو مفقود الآن. سنعثر عليه. الآن، لقد تعلمنا بعض الاستراتيجيات المختلفة للقيام بذلك.,"The product. Please raise your hands about it. Then, we will find the product. It is missing now. We will find it. Now, we have learned some different strategies to do so."
+Right there.,student,2,0,,,,هناك تماماً,It's right there.
+"You got it.  Breaking apart one of the factors.  So, as we’re looking at 8 and 24, which factor does it make the most sense to break? Can you sit up, please.  Nice and tall.  Cross your legs. Student B, Student B?",teacher,42,1,,,0.0,هل يمكنك الجلوس، رجاءً. لطيفة وطويلة. تتقاطع ساقيك. الطالب ب، الطالب ب؟,"Could you please sit down, nice and tall, cross your legs, student B, student B?"
+"You can do 10 times 8. No, no.",student,8,0,,0.0,,يمكنك فعل 10 مرات 8. لا، لا,You can do 10 times 8.
+"So, which factor are we breaking up, then?",teacher,8,0,0.0,,0.0,إذاً، ما هو العامل الذي سنفصل عنه؟,"So, what factor will we separate from?"
+"Teacher R, no.",student,3,0,,,,المعلم (ر) ، لا,"The teacher (r), no"
+"Which factor are we breaking up? Stop.  Cross your legs, please.",teacher,11,0,,,0.0,أياً من العوامل التي سنفصل عنها؟,Which of these factors will we separate from?
+That 8.,student,2,0,,,,تلك الثامنة,That's the eighth one.
+That’s not what you just broke up.  You broke up the 24. Didn’t you break it up into 10?,teacher,19,0,,,0.0,هذا ليس ما انفصلت عنه لقد انفصلت عن الـ24 أليس كذلك؟,"That's not what I broke up with. I broke up with 24, right?"
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Okay.,teacher,1,0,,,0.0,-حسناً,-Well then
+You need 2 10s and 4.,student,6,0,,,,أنت بحاجة إلى 2 10s و 4.,You need 2 10s and 4.
+"Please don’t shout out like that. Okay, so, Student B says – we’re gonna go with Student B’s strategy for just a minute. Put your hand down for just a sec.  I’ll call on you.  I see you’re eager. Student B says, okay, if I have 8 times 24 – which I’ll write right here for us.  Student B says, okay, that could be 8 times 10 –",teacher,68,0,0.0,,0.0,رجاءً لا تصرخ هكذا. حسناً، إذاً، الطالب (ب) يقول أننا سنذهب مع استراتيجية الطالب (ب) لدقيقة واحدة فقط. ضع يدك إلى أسفل لدقيقة واحدة فقط. سأدعوك. أرى أنك متحمساً. الطالب (ب) يقول، حسناً، إذا كان لدي 8 × 24  والتي سأكتبها هنا لنا. الطالب (ب) يقول، حسناً، قد يكون ذلك 8 × 10 ,"Well, then, the student (b) says we're going with the student's strategy for just one minute. Put your hand down for just one minute. I'll invite you. I see you're excited. The student (b) says, well, if I have 8 × 24 to write here for us. The student (b) says, well, that might be 8 × 10 "
+10.,student,1,0,,,,عشرة,Ten is ten.
+Another 10?,teacher,2,0,,,0.0,عشرة أخرى؟,Another ten?
+8.,student,1,0,,,,8,8 8
+Does that make sense?,teacher,4,0,,,0.0,هل هذا منطقي؟,Does that make sense?
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Another –,teacher,2,0,,,0.0,آخر , Finally.
+8 times 10. And 8 times 4.,student,7,0,,,,8 × 10 و 8 × 4,8 × 10 and 8 × 4
+Oh.,teacher,1,0,0.0,,0.0,-أوه .,-Oh .
+"And 20. Then, 8 times 4.  No, 8 times 4.",student,10,0,,0.0,,ثم ثمانية مرات أربعة لا ثمانية مرات أربعة,Eight times four no eight times four then eight times four
+"Oh, I missed my little plus sign in there.",teacher,9,0,0.0,,0.0,لقد فاتني علامتي الصغيرة هناك,I missed my little sign there.
+I know what you can use.,student,6,0,,,,أعرف ما يمكنك استخدامه,I know what you can use.
+"Go change your name right now, please.  Go change your name.",teacher,11,0,0.0,,0.0,اذهب وغيّر اسمك الآن من فضلك,"Go and change your name now, please"
+"Teacher R, [inaudible.]",student,3,0,,,,المعلم (ر) ، [غير مسموع],"The teacher (r), [inaudible]"
+"So, wait a minute.  I just want to back up a minute.  Where did Student B and Student C and somebody else, whose voice I heard – back up please – where did they come up with 10, 10 and 4? Student O, I need you to pay attention.  Where did those numbers come from? I really am – I just don’t even know what to do right now. Where did those numbers come from?  Are you listening? Where did the 10, the 10 and the 4 come from?  You know this, ’cause you did it for me yesterday and on your homework last night.",teacher,105,0,,,0.0,لذا، انتظر لحظة. أريد فقط أن أعود إلى الوراء لدقيقة. من أين جاء الطالب ب و الطالب ج و شخص آخر، الذي سمعت صوته  أعود إلى الوراء من فضلك  من أين جاءوا ب 10 و 10 و 4؟ الطالب أ، أحتاجك أن تهتم. من أين جاءت تلك الأرقام؟ أنا حقا  أنا فقط لا أعرف ماذا أفعل الآن. من أين جاءت تلك الأرقام؟ هل تستمع؟ من أين جاءت 10 و 10 و 4؟ أنت تعرف هذا،  لأنك فعلت ذلك لي ليلة أمس وعلى واجبك المنزلي.,"So, wait a minute. I just want to go back for a minute. Where did student B and student C and someone else, who heard his voice, come back, please, where did they come from B 10, 10 and 4? Student A, I need you to care. Where did those numbers come from? I really just don't know what to do now. Where did those numbers come from? Are you listening? Where did 10 and 10 and 4 come from? You know this, because you did it for me last night and on your homework."
+I know.,student,2,0,,,,-أعلم ذلك,-I know that
+Student O?,teacher,2,0,,,0.0,الطالب O؟,Student O? Student O?
+"They were break like – they would probably break it.  Then, they do have 8 times 10, 8 times 10 equals 80 plus 80.",student,24,0,,0.0,,كانت كسر مثل  ربما سوف كسر ذلك. ثم، لديهم 8 × 10، 8 × 10 يساوي 80 زائد 80.,"Then, they have 8 × 10, 8 × 10 is equal to 80 plus 80."
+"Okay.  So, you’re saying 8 times 10 is 80.  And you’re saying 8 times 10 is 80.",teacher,17,0,1.0,,0.0,حسناً، أنت تقول 8 × 10 = 80. وأنت تقول 8 × 10 = 80.,"Well, you say 8 × 10 = 80. and you say 8 × 10 = 80."
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+But what I wanna – I want to back up for just a minute. Student E.  I want to back up for just a minute.  Where did we find the 10?,teacher,31,0,,,1.0,لكن ما أريده، أريد أن أتراجع لدقيقة واحدة، الطالب إيه، أريد أن أتراجع لدقيقة واحدة، أين وجدنا العشرة؟,"But what I want, I want to step back for a minute, student A, I want to step back for a minute, where did we find the ten?"
+They break it.,student,3,0,,,,إنهم يكسرونها,They're breaking it down.
+"Oh, so they found it up here.",teacher,7,0,,,0.0,إذاً وجدوه هنا,So they found him here.
+"Yeah, this was [inaudible].",student,4,0,,,,نعم، كان هذا [غير قابل للسمع].,"Yes, that was [unheard of]."
+"Student T – I mean, Student A, can you explain a little further what Student O is trying to get at.",teacher,21,0,,,1.0,الطالب T  أعني، الطالب A، هل يمكنك تفسير المزيد قليلا ما الطالب O يحاول الحصول على.,"Student I mean, student A, can you explain a little more to the student what student O is trying to get."
+"Because there’s 20 – they put 10 and 1, that’s 8 times 10 and 8 times 10.  They break that 20 to 10.",student,23,0,,1.0,,لأن هناك 20 يضعون 10 و 1، وهذا هو 8 × 10 و 8 × 10.,"Because there are 20 places 10 and 1, this is 8 × 10 and 8 × 10."
+"Ah, so we can break 10 into 3 pieces – I mean 24 into 3 pieces, 10 plus 10 plus 4.  Student A, what is 10 plus 10 plus 4?",teacher,30,0,1.0,,0.0,اذا يمكننا ان نقسم 10 الى 3 قطع اقصد 24 الى 3 قطع 10 زائد 10 زائد 4 الطالب A ما هو 10 زائد 10 زائد 4,So we can divide 10 to 3 pieces i.e. 24 to 3 pieces 10 plus 10 plus 4 student A what is 10 plus 10 plus 4
+No.,student,1,0,,,,-كلا .,"- No , not at all ."
+"Are you Student A, now?",teacher,5,0,,,0.0,هل أنت الطالب الأول الآن؟,Are you the first student now?
+"Teacher R, Teacher R, it only can be two ways.  You can half.",student,13,0,,1.0,,المعلم (ر) ، المعلم (ر) ، لا يمكن أن يكون هناك سوى طريقتين.,"Teacher (r), teacher (r), there can only be two ways."
+"No, you can do it three times.  You can do more than half.  10 plus 10.",teacher,16,0,1.0,,0.0,لا، يمكنك القيام بذلك ثلاث مرات، يمكنك القيام بأكثر من نصف، 10 زائد 10.,"No, you can do this three times, you can do more than half, 10 plus 10."
+"A half. Get ’em all, 24.",student,6,0,,,,نصف، احصل عليهم جميعاً، 24,"Half, get them all, 24"
+"You got it, smarty pants, 24.  Come on back over here.  I need your brain still.  Okay.  So, now, let’s go over to here. Student O, you wanted to answer that.",teacher,31,0,1.0,,0.0,حسناً، لنذهب إلى هنا، الطالب (أو) ، أردت الإجابة على ذلك,"Well, let's go over here, student, I wanted to answer that question."
+33.,student,1,0,,,,33,33 33
+32.  Okay.  Student J?,teacher,4,0,,,0.0,حسناً، الطالب (جي) ؟,"All right, the student (s)?"
+I guess I’ll answer.,student,4,0,,,,أعتقد أنني سأجيب,I think I'm going to answer.
+Sure.,teacher,1,0,,,0.0,-بالطبع,- Of course
+The answer is 100 and –,student,6,0,,,,الجواب هو 100 و ,The answer is 100 and .
+Move over here so you can see.,teacher,7,0,0.0,,0.0,تحرك إلى هنا حتى تتمكن من رؤية.,Move over here so you can see.
+"60 – 60, 70, 80, 90.  Oh, it’s 192.",student,9,0,,0.0,,"60  60, 70, 80, 90. أوه، هو 192.","60 60, 70, 80, 90.Oh, it is 192."
+"Whoa, hoo, hoo, hoo.",teacher,4,0,0.0,,0.0,مهلاً، مهلاً، مهلاً.,"Wait, wait, wait, wait."
+I –,student,2,0,,,,أنا ,It's me 
+"Moving over to this area.  192.  And I think I know what was going on in Student J’s brain.  Student S, I think – Student S, I think that he was adding 80 plus 80 first.",teacher,36,1,,,0.0,الانتقال إلى هذه المنطقة. 192. وأعتقد أنني أعرف ما كان يحدث في دماغ الطالب J. الطالب S، أعتقد  الطالب S، أعتقد أنه كان يضيف 80 زائد 80 أولا.,"I think I know what was going on in student J's brain. Student S, I think student S, I think he was adding 80 plus 80 first."
+"Oh, no.",student,2,0,,,,أوه، لا.,"Oh, no, not at all."
+"And he knows – cross your legs, please.  He knows that 8 plus 8 is?",teacher,15,0,,,0.0,"ويعرف أن ""تقاطع ساقيك، من فضلك"". يعرف أن 8 زائد 8 هو؟","And he knows that ""cross your legs, please"". knows that 8 plus 8 is?"
+16.,student,1,0,,,,16.,16.
+"16.  And then, just –",teacher,5,0,,,0.0,16، ثم، فقط,"Then, only 16."
+Add a zero.  Zero.,student,4,1,,,,إضافة الصفر الصفر,Adding zero to zero
+"Add a zero, so that’s 160.  So, he knew 80 plus 80 was –",teacher,14,1,,,0.0,إضافة الصفر، لذلك هذا هو 160، لذلك، كان يعرف 80 زائد 80 هو ,"Add zero, so this is 160, so, he knew 80 plus 80 is "
+160.,student,1,0,,,,160.,160.
+"160.  And then, he had to add 32.",teacher,8,1,,,0.0,وبعد ذلك، كان عليه إضافة 32,"After that, he had to add 32."
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"So, I heard him as he was thinking out loud, Student A –",teacher,13,0,,,0.0,لذا، سمعته وهو يفكر بصوت عال، الطالب A,"So, I heard him think out loud, student A."
+"Oh, I’m going.",student,3,0,,,,سأذهب,I'm going to go.
+Look alive.,teacher,2,0,,,0.0,أبدو حياً,I seem to be alive.
+"Who, Student A?",student,3,0,,,,من، الطالب أ؟,"Who, the student?"
+"I heard him say 160 plus 30.  160, 170, 180, 190 plus 2 more.",teacher,14,0,,,0.0,"سمعته يقول 160 + 30 160, 170, 180, 190 + 2 أكثر","His reputation says 160 + 30 160, 170, 180, 190 + 2 more"
+"Oh, a Z. Is that a Z?",student,7,0,,,,أوه، a Z. هل هذا a Z؟,"Oh, a Z. Is that a Z?"
+What do you think it is?,teacher,6,0,0.0,,1.0,ما الذي تعتقد أنه؟,What do you think it is?
+I don’t know. A Z.,student,5,0,,,,"لا أدري، ""ز""","I don't know, ""Z"""
+"Don’t waste our time, please.  So, 192.  Great.  I need now a sentence.  Now, I need a sentence, a full sentence to answer it.  The question is how many arms do 24 octopuses have?  My answer is what?  And remember what we started with yesterday?",teacher,45,0,0.0,,0.0,لا تضيعوا وقتنا، رجاءً. 192. عظيم. أحتاج الآن لعبارة. الآن، أحتاج لعبارة، لعبارة كاملة للإجابة عليها. السؤال هو، كم عدد الذراعين التي يمتلكها 24 سمكينة؟ إجابتي هي ماذا؟ وتذكر ما بدأنا بالأمس؟,"Don't waste our time, please. 192. Great. Now I need a sentence. Now I need a sentence, a full sentence to answer it. The question is, how many arms does 24 machines have? My answer is what? and remember what we started yesterday?"
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+We start here.,teacher,3,0,,,0.0,سنبدأ من هنا,Let's start from here
+24 plus 8. 24 October. 24 plus 8.,student,8,0,,0.0,,24 + 8 24 أكتوبر 24 + 8,24 + 8 24 October 24 + 8
+"Wow, look at all these smart hands.  Student S, haven’t heard your voice in a while?",teacher,16,0,1.0,,0.0,انظر إلى كل هذه اليدين الذكية الطالب (س) ، ألم تسمع صوتك منذ فترة؟,"Look at all these smart hands student (s), haven't you heard your voice for a while?"
+24 octopus –,student,3,0,,,,24 نبتة ,24 plants 
+Good.,teacher,1,0,,,0.0,-حسناً,-Well then
+– have 192 arms.,student,4,0,,,,-لديها 192 ذراع,-It has 192 arms.
+What a beautiful answer.  That’s good.  And we know that this is one strategy that we have.  What is the name of this strategy here?,teacher,25,0,,,0.0,يا لها من إجابة جميلة. هذا جيد. ونحن نعلم أن هذه استراتيجية واحدة لدينا. ما هو اسم هذه الاستراتيجية هنا؟,What a lovely answer. that's good. and we know that this is one strategy we have. what is the name of this strategy here?
+Break it apart.,student,3,0,,,,أقطعها.,Cut it off.
+You got it.,teacher,3,0,,,0.0,حصلت عليه.,I got it.
+Breaking apart.,student,2,0,,,,التفكك.,Disconnect.
+This right here is our breaking apart strategy.  Who can tell me –,teacher,13,0,,,1.0,هذه هي إستراتيجيتنا للتفكك من يمكنه أن يقول لي,This is our strategy for breaking up who can tell me?
+Strategy.,student,1,0,,,,إستراتيجية,A strategy is a strategy.
+I’m really – I’m getting upset here at this point.  Okay.  Go change your name again.,teacher,16,0,,,0.0,أنا حقاً أشعر بالقلق هنا في هذه المرحلة حسناً إذهب وتغير اسمك مرة أخرى,I'm really worried here at this point.
+This thing is bothering me.,student,5,0,,,,هذا الشيء يزعجني,This thing bothers me.
+"I don’t care.  Right now, what’s bothering me is that you’re not learning math.  Go change your name.  Get that name back up, please.  I bet you can do it before the end of math. Good.  This is our breaking apart strategy.  What is a strategy?  What is a strategy?  Student B?",teacher,52,0,1.0,,0.0,لا أهتم. الآن، ما يزعجني هو أنك لا تتعلم الرياضيات. اذهب وتغير اسمك. احصل على هذا الاسم مرة أخرى، من فضلك. أراهن أنك تستطيع القيام بذلك قبل نهاية الرياضيات. جيد. هذه استراتيجيتنا التفريق. ما هي استراتيجية؟ ما هي استراتيجية؟ طالب ب؟,"I don't care. Now, what bothers me is that you don't learn math. Go and change your name. Get that name again, please. I bet you can do it before the end of math."
+"It’s like – oh, man.",student,5,0,,,,"إنه مثل ""أوه يا رجل""","It's like, ""Oh man, man""."
+Can somebody help her?  That’s tough.  What does that word strategy mean?  You know this.,teacher,15,0,0.0,,1.0,هل يمكن لأحد مساعدتها؟ هذا صعب. ماذا تعني هذه الكلمة الاستراتيجية؟,Is there anyone who can help her? this is difficult. what does this word strategy mean?
+It’s like a lot of –,student,6,0,,,,انها مثل الكثير من,It's like a lot of them.
+Some of you know this.,teacher,5,0,0.0,,0.0,بعضكم يعرف هذا,Some of you know this.
+– combinations that you can make.,student,6,0,,,,الجمعيات التي يمكنك صنعها,Associations that you can create
+"A lot of combinations you can make.  [You are] – well, I’ll give you a hint.  You can – you use different strategies to solve problems.",teacher,26,0,1.0,,0.0,الكثير من الجمعيات التي يمكنك إجراؤها. حسناً، سأعطيك إشارة. يمكنك استخدام استراتيجيات مختلفة لحل المشاكل.,"Well, I'll give you a hint. you can use different strategies to solve problems."
+It’s like different answers.,student,4,0,,,,إنها مثل إجابات مختلفة,It's like different answers
+It’s almost – a strategy helps you get an answer.,teacher,10,0,,,0.0,إنها تقريباً استراتيجية تساعدك على الحصول على إجابة.,It's almost a strategy to help you get an answer.
+It’s a lot of ways that you can get an answer.,student,11,0,,0.0,,هناك العديد من الطرق التي يمكنك الحصول على إجابة.,There are many ways you can get an answer.
+"Yeah, yeah.  It’s a different way to help you get an answer. For instance, yesterday, Student S, was it you who came to me?  Your jacket was stuck.",teacher,28,0,1.0,,0.0,نعم، نعم، إنها طريقة مختلفة لمساعدتك على الحصول على إجابة على سبيل المثال، البارحة، الطالب S، هل أنت من جاء إلي؟,"Yes, yes, it's a different way to help you get an answer. For example, yesterday, student S, did you come to me?"
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Yeah.  Student S couldn’t get out of his jacket.  The zipper was stuck.  And he tried a strategy.  He tried to pull it himself.  Didn’t you?  And that was his first strategy.  It didn’t work.,teacher,35,0,,,0.0,أجل، الطالب (س) لم يستطع الخروج من سترته، كان الزائدة عالقة، و حاول إستراتيجية، حاول سحبها بنفسه، أليس كذلك؟ وهذه كانت أول إستراتيجية له، ولم تنجح.,"Yes, the student (s) couldn't get out of his jacket, the excess was stuck, and he tried a strategy, tried to pull it out himself, didn't he?"
+Yeah.  It’s like –,student,4,0,,,,أجل، إنه مثل,"Yes, it is a proverb."
+"His second strategy was to come to me.  And he’s, maybe, Teacher R has a strategy that can help me.  So, I tried a different strategy.  And I sort of – I kind of wiggled it.",teacher,36,0,,,0.0,كانت إستراتيجيته الثانية هي أن يأتي إلي وربما لديه إستراتيجية يمكن أن تساعدني لذا حاولت إستراتيجية مختلفة,"His second strategy was to come to me and maybe have a strategy that could help me, so I tried a different strategy."
+I went to Coach D first.  Well –,student,8,0,,0.0,,ذهبت إلى المدرب (دي) أولاً,I went to Coach (D) first
+"Oh, I didn’t realize Coach D was the first strategy.",teacher,10,0,1.0,,0.0,لم أدرك أن المدرب (د) هو الإستراتيجية الأولى,I didn't realize that coach (d) was the first strategy
+"It was [inaudible] when I think – I forgot to tell him.  Then, I – and then, I was trying to open it and I couldn’t.  It was stuck.  And I came to you.",student,34,0,,0.0,,كان (غير مستمع) عندما أعتقد أنني نسيت إخباره ثم حاولت فتحه ولم أستطع كان عالقاً وجئت إليك,It was (inaudible) when I thought I had forgotten to tell him and then tried to open it and I couldn't. It was stuck and I came to you.
+"And then, you came to me.  So, I was strategy number three. And then, I got him free.  Very nice. So, we have another strategy that we’re learning.  Can you follow me with your eyes over here? Student G, get your [tush] back here, please. Whoa, wait a minute.  Off topic, but, Student J, your social studies notebook.  Shocking.  Let’s put this away, please. Okay.  Take a look over here.  We’ve got our breaking apart strategy and we also have this strategy up here. Put your chair flat, please. We have that strategy up there.  Anyone have a name for that one?  Student I?",teacher,104,0,1.0,,0.0,وبعدها أتيت إليّ. لذا، أنا كنت الاستراتيجية رقم ثلاثة. وبعدها، أحررته. جميل جداً. لذا، لدينا إستراتيجية أخرى نتعلمها. هل يمكنك أن تتبعني بعينيك هنا؟ الطالب G، إرجع إلى هنا، من فضلك. مهلاً، انتظر دقيقة. خارج الموضوع، ولكن، الطالب J، دفتر الدراسات الاجتماعية الخاص بك. صدمة. دعونا نضع هذا بعيداً، من فضلك. حسناً. انظر إلى هنا. لدينا إستراتيجية تفكيكنا و لدينا هذه الاستراتيجية أيضاً هنا. ضع كرسيك مسطحاً، من فضلك. لدينا تلك الاستراتيجية هناك.,"So, we have another strategy to learn from. Can you follow me with your eyes here? Student G, come back here, please. Wait, wait a minute."
+Arrays. Array strategy.,student,3,2,,,,استراتيجية الترتيبات,The strategy of the rankings
+"Love it.  Array strategy.  You read my mind.  I thought the same thing.  We are gonna make also our array strategy – Student O loves this strategy, so she uses it all the time, don’t you? Let’s take a look.  Student A, I need your brain.  Come on, a little closer.  Thank you, Student G, for joining us. Can we back up a little bit, so Student G has some room?  I need you to back up.  Student C is behind you.  He can’t see.",teacher,85,2,,,0.0,أحببتها. استراتيجية الترتيب. قرأت عقلي. فكرت بنفس الشيء. سنقوم أيضاً بتصميم استراتيجية الترتيب لدينا  الطالب O يحب هذه الاستراتيجية، لذلك تستخدمها طوال الوقت، أليس كذلك؟ دعونا نلقي نظرة. الطالب A، أحتاج إلى دماغك. هيّا، اقترب قليلاً. شكراً، الطالب G، للانضمام إلينا.,"I liked it. I liked it. I read my mind. I thought the same thing. We're also going to design our ranking strategy. Student O loves this strategy, so you use it all the time, right? Let's take a look. Student A, I need your brain. Come on, get a little closer. Thank you, student G, for joining us."
+Oh.,student,1,0,,,,-أوه .,-Oh .
+"You back up.  Student C come forward. So, let’s see.  I’m gonna start.  My equation is 8 times 24.  So, would anyone mind if I changed it to 24 times 8?",teacher,31,1,,,1.0,أنت تراجع. الطالب C يأتي إلى الأمام. لذلك، دعونا نرى. سأبدأ. معادلتي هي 8 × 24.,"You retreat. Student C comes forward. So, let's see. I'll start. My equation is 8 × 24."
+Yes.,multiple students,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Is that all right?,teacher,4,0,,,0.0,هَلْ يَجِبُ ذلك؟,Should that be the case?
+Yeah.,multiple students,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Yeah.  You can do that.,teacher,5,0,,,0.0,نعم، يمكنك فعل ذلك,"Yes, you can do that."
+As long as there’s math [inaudible].,student,6,0,,,,طالما أن هناك الرياضيات,As long as there is mathematics.
+"Love that you know that.  It’s gonna be the same, not answer, but?  Product.  It will be the same product. Come on, turn your name around.  Let’s go. So, let’s see.  24 – it’s not gonna be exact, but that’s all right, isn’t it?",teacher,44,2,0.0,,0.0,أحب أن تعرف ذلك. سيكون نفس الشيء، ليس الإجابة، ولكن؟ المنتج. سيكون نفس المنتج. هيّا، حول اسمك. دعونا نذهب. لذلك، دعونا نرى.,"I'd like you to know that. it will be the same thing, not the answer, but? the product. it will be the same product. come on, about your name. let's go. so, let's see."
+Yes.,multiple students,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+It’s not our class.,student,4,0,,,,هذه ليست صفنا,This isn't our class.
+It’s not our class.  It’s?,teacher,5,0,,,0.0,هذا ليس صفنا.,This isn't our class.
+It’s math [inaudible].,student,3,0,,,,إنها الرياضيات,It is mathematics.
+"Math class.  So, I’ve got 24 –",teacher,7,0,,,0.0,دراسة الرياضيات، لذا، لدي 24,"Studying mathematics, so, I have 24"
+Times 8.,student,2,0,,,,في الثامنة,At eight o'clock
+– times 8.,teacher,3,0,,,0.0, × 8,8 × 8 
+"Oh, I think it was my friend – my teacher – my old teacher, she said that 24 – the corner times and then the –",student,26,0,,0.0,,أوه، أعتقد أنه كان صديقي معلمي معلمي القديم، قالت أن 24  أوقات الزاوية ثم ,"Oh, I think it was a friend of mine who taught my old teacher, she said the 24 hour angle and then "
+"Oh, I like that.  Okay.",teacher,5,0,0.0,,0.0,يعجبني هذا حسناً,I like that.
+"Teacher R?  Is Student S said [inaudible] if you finish your work, you can go to Unit 1.  I go to Unit 1, Page 1.  I found the same – that I tried to tell you that.  Like, [A circle T].",student,41,3,,0.0,,"المعلم R؟ هل قال الطالب S [غير قابل للسمع] إذا انتهيت من عملك، يمكنك الذهاب إلى الوحدة 1. أذهب إلى الوحدة 1, الصفحة 1. وجدت نفس  التي حاولت أن أقول لك ذلك. مثل، [حلقة T].","Teacher R? did the student say S [inaudible] if you finish your work, you can go to unit 1. go to unit 1, page 1. I found the same person who tried to tell you that. like, [episode T]."
+That’s your last [inaudible].,teacher,4,0,1.0,,0.0,هذا آخر [غير مسموع].,This is the last [unheard of].
+I got the answer.,student,4,0,,,,حصلت على الإجابة,I got the answer
+"And you found it like that.  That’s awesome.  Turn forward. Cross your legs. So, I’m gonna use the same ones that we found over here.  8 times 10 and 8 times 4.  So, I’m gonna break this up and let’s see.  I don’t know.  I wish I had done a better job, but that’s all right.",teacher,56,0,,,0.0,ووجدتها هكذا. هذا رائع. انعطفوا إلى الأمام. تقاطعوا ساقيكم. لذلك، سأستخدم نفس تلك التي وجدناها هنا. 8 × 10 و 8 × 4. لذلك، سأقطع هذا ونرى. أنا لا أعرف. أتمنى لو كنت قد قمت بعمل أفضل، ولكن لا بأس بذلك.,"And I found it like this. That's great. Turn forward. Cross your legs. So, I'm going to use the same ones we found here. 8 × 10 and 8 × 4. So, I'm going to cut this and see. I don't know. I wish I had done a better job, but that's okay."
+"10, 10, 4. 10 times 8, 10 times 8 and –",student,11,0,,0.0,,"10, 10, 4. 10 × 8, 10 × 8 و ","10, 10, 4. 10 × 8, 10 × 8 and "
+"Here’s what I’m hoping happens right now.  I’m hoping that you see that both of these strategies can be used to solve multiplication and they’re what, Student B?",teacher,28,1,0.0,,0.0,هذا ما آمل أن يحدث الآن. آمل أن ترى أن كلا هذه الاستراتيجيات يمكن استخدامها لحل الضربة وماذا هي، الطالب ب؟,"I hope you can see that both of these strategies can be used to solve the strike and what is it, student b?"
+The same.,student,2,0,,,,نفس الشيء.,It's the same thing.
+"How are they the same, Student B?  Go over here and listen.",teacher,12,0,,,0.0,كيف هم متشابهون، الطالب ب؟,"How are they similar, student B?"
+Because you were adding – you’re adding 8 times – 10 times 8 that equals 80.,student,16,0,,1.0,,لأنك كنت تضيف  أنت تضيف 8 ×  10 × 8 الذي يساوي 80.,Because you were adding you are adding 8 × 10 × 8 which is equal to 80.
+"Oh, no, I made a mistake.  I did.  Okay.",teacher,9,0,0.0,,0.0,لا، لقد ارتكبت خطأ لقد ارتكبت خطأ,"No, I made a mistake, I made a mistake."
+You meant 30.,student,3,0,,,,كنت تعني 30,You mean 30?
+Oh.,teacher,1,0,,,0.0,-أوه .,-Oh .
+[Inaudible] white thing.,student,3,0,,,,الشيء الأبيض,The white thing.
+My white stuff?,teacher,3,0,,,0.0,أشيائي البيضاء؟,My white stuff?
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"Nah, I don’t wanna waste time, but for right now that’ll be all right.",teacher,14,0,,,0.0,لا، لا أريد أن أضيع الوقت، ولكن في الوقت الحالي سيكون ذلك بخير.,"No, I don't want to waste my time, but for now it'll be fine."
+And then –,student,3,0,,,,وبعدها,And then there was
+Thank you.,teacher,2,0,,,0.0,شكراً لكِ,Thank you very much.
+"– the other 10, because 8 times – 10 times 8 equals 80. It works now.",student,16,0,,1.0,, العشرة الأخرى لأن 8 ×  10 × 8 يساوي 80.,The other ten because 8 × 10 × 8 is equal to 80.
+It does.  Yeah.,teacher,3,0,1.0,,0.0,-إنه كذلك,-It is so
+"Equals 80.  And then, it’s the same thing that down, because 8 times 10 equals 80.",student,16,0,,1.0,,يساوي 80 ثم، هو نفس الشيء الذي أسفل، لأن 8 × 10 يساوي 80.,"Then, it's the same thing as down, because 8 × 10 is equal to 80."
+"So, we see an 8 times 10 here and we see –",teacher,12,0,1.0,,0.0,لذلك، نرى 8 × 10 هنا ونرى ,"So, let's see 8 × 10 here and see "
+10 times 8.,student,3,0,,,,10 × 8,10 × 8
+"– 10 times 8 here.  And we see it here as well.  And then, the last one is over there.  So, it equals the same thing.  Our product is?",teacher,29,1,,,0.0, 10 × 8 هنا. ونحن نراه هنا أيضا. ومن ثم، آخر واحد هو هناك. لذلك، هو يساوي الشيء نفسه. منتجنا هو؟,"10 × 8 here. and we see it here as well. and then, the last one is there. so, it is equal to the same thing. is our product?"
+192. 92.,student,2,0,,,,192. 92,922.192 
+2.,teacher,1,0,,,0.0,2 .,2 .
+"Teacher R, these are for that – when I said 3 times 2 times 3, then I want to say they have 3 times 3 times 2.  If you change this around, place for the numbers, it’s gonna be the same as –",student,43,0,,0.0,,المعلم ر، هذه لـ  عندما قلت 3 × 2 × 3، ثم أريد أن أقول لديهم 3 × 3 × 2. إذا قمت بتغيير هذا حول، مكان للأرقام، سيكون نفس ,"Master r, this is for - when I said 3 × 2 × 3, then I want to say they have 3 × 3 × 2. if you change this around, place the numbers, it will be the same "
+Yeah.  And that works for multiplication and for addition. What do you need?,teacher,13,2,0.0,,0.0,أجل، وهذا يعمل على الضرب والإضافة، ماذا تحتاج؟,"Yes, this works on multiplication and addition, what do you need?"
+And subtraction.,student,2,1,,,,والخصم.,And the disadvantage.
+Lotion?,teacher,1,0,,,0.0,لوشن؟,The lotion?
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Go right ahead.  Okay.,teacher,4,0,,,0.0,هيّا، هيا.,"Let's go, let's go."
+And for subtraction.,student,3,1,,,,ولتخفيض,And to reduce it.
+"Does it work for subtraction, Student N?",teacher,7,1,,,0.0,هل يعمل ذلك للخصم، الطالب N؟,"Does that work for the discount, student N?"
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"Let’s talk about that more, ’cause it actually does not work for subtraction, and we can talk about why in a little bit. Okay.",teacher,24,1,,,0.0,دعونا نتحدث عن ذلك أكثر، لأنه في الواقع لا يعمل للخصم، ونحن يمكن أن نتحدث عن السبب قليلا. حسنا.,"Let's talk about it more, because it doesn't actually work for the discount, and we can talk a little bit about why."
+But I had for [inaudible].,student,5,0,,,,ولكن كان لدي [غير مستمع].,But I did have [non-listening].
+"So, I have to tell you, I’m getting super excited about my birthday.  I can’t help it.  I love parties.",teacher,20,0,0.0,,0.0,لذا، يجب أن أقول لك، أنا أصبح متحمس جداً بشأن عيد ميلادي لا أستطيع مساعدته أحب الحفلات,"So, I have to tell you, I'm getting so excited about my birthday that I can't help but love the parties."
+The same thing happens to me.,student,6,0,,,,الشيء نفسه يحدث لي.,The same thing happens to me.
+"Oh, my gosh, I know.  The same thing happens to you.  Who gets – yes, happy, thank you, Student S?  Who else gets excited or happy about having a birthday?",teacher,30,0,1.0,,0.0,أوه، يا إلهي، أعلم، الأمر نفسه يحدث لك، من يحصل على نعم، سعيد، شكرًا، الطالب (س) ؟ من آخر يحصل على إثارة أو سعادة بشأن عيد ميلاد؟,"Oh, my God, I know, the same thing happens to you, who gets yes, happy, thank you, student (s)?"
+Me.,multiple students,1,0,,,,-أنا,-It's me
+"[Foreign language.]  Yeah, I get super, super excited. [Foreign language.]  Do you get excited?  [Foreign language.]  No.  [Foreign language.]  Okay.  Me too. Please stop touching that. Me too. So, actually, why don’t I just keep it up here. So, I want to talk to you.  My birthday is coming up as you all know, ’cause, oh, I put it on the calendar.",teacher,62,0,,,0.0,[لغة أجنبية.] نعم، أنا متحمس جداً جداً. [لغة أجنبية.] هل أنت متحمس؟ [لغة أجنبية.] لا. [لغة أجنبية.] حسناً. أنا أيضاً. من فضلك توقف عن لمس ذلك. أنا أيضاً.,"[Foreign Language] Yes, I'm very excited. [Foreign Language] Are you excited? [Foreign Language] No. [Foreign Language] Okay. Me too. Please stop touching that. Me too."
+And we’re making a pizza.,student,5,0,,,,ونحن نصنع البيتزا.,And we make the pizza.
+And we’re gonna have a pizza party that you guys earned.,teacher,11,0,1.0,,0.0,وسنعقد حفلة البيتزا التي استحققتموها,And we'll throw the pizza party you deserve.
+And a holiday.,student,3,0,,,,و إجازة,and leave of absence.
+"And, oh, my gosh, it’s gonna be like the greatest day in the world. It’s not gonna work.  Okay. Yeah.  What?",teacher,21,0,,,0.0,و، يا إلهي، سيكون مثل أعظم يوم في العالم، لن ينجح,"And, oh my god, it will be like the greatest day in the world, it won't work."
+[Inaudible] chocolate.,student,2,0,,,,الشوكولاتة.,The chocolate.
+"Yes.  So, oy vey. So, now, what I want to do is – thank you.  Can you sit back down.",teacher,20,0,,,0.0,أجل، حسناً، الآن، ما أريد القيام به هو شكراً لك، هل يمكنك أن تجلس,"Yeah, well, now, what I want to do is thank you, can you sit down?"
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+We’ll talk about it.  Shh.,teacher,5,0,,,0.0,سوف نتحدث عن ذلك,We'll talk about that later.
+Don’t do [inaudible].,student,3,0,,,,لا تفعل [غير مسموع].,Do not do [unheard of].
+"Let’s not talk about it now.  Shhh.  Okay.  We gather back over here, please.  Oh.  Thank you.  You guys quieted down really quickly.  Can you please back up a little bit away from the board, so other kids can see.  Put the marker back, Student S. So, I want to talk to you about my birthday, ’cause I think you guys, generally, have some really good ideas.  And I want to talk to you now about –",teacher,77,0,,,0.0,دعونا لا نتحدث عن ذلك الآن. حسناً. نلتقي هنا مرة أخرى، رجاءً. أوه. شكراً لكم. اصمتم بسرعة جداً. هل يمكنكم رجاءً أن تتراجعوا قليلاً عن اللوحة، حتى يستطيع الأطفال الآخرون رؤيتها. ضعوا العلامة مرة أخرى، الطالب S. لذلك، أريد أن أتحدث معك عن عيد ميلادي، لأنني أعتقد أن لديكم بعض الأفكار الجيدة بشكل عام. وأريد أن أتحدث معك الآن عن,"Let's not talk about it now. OK. Let's meet here again, please. Oh. Thank you. You shut up too quickly. Can you please step back a little from the painting, so that the other children can see it? Mark it again, Student S. So, I want to talk to you about my birthday, because I think you have some good ideas in general."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"Shh.  Student O, you ready?",teacher,5,0,,,0.0,الطالب (أو) ، هل أنت مستعد؟,"Student (s), are you ready?"
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Okay.  Can somebody read this little story problem I have here?,teacher,11,0,,,0.0,حسناً، هل يمكن لأحد قراءة مشكلة القصص الصغيرة التي لديّ هنا؟,"Well, can anyone read the short story problem I have here?"
+"Well, you are gonna be here.",student,6,0,,,,حسناً، ستكونين هنا,"Well, you'll be here."
+I need to wait until everyone’s sitting the right way.  The kids in my front row are not.,teacher,18,0,1.0,,0.0,عليّ الانتظار حتى يجلس الجميع بالطريقة الصحيحة,I have to wait until everyone sits down in the right way.
+Why?,student,1,0,,,,-لماذا؟,-Why?
+"Cross your legs, please.",teacher,4,0,,,0.0,أقطع ساقيك، من فضلك.,"I'll cut off your legs, please."
+I don’t like crossing my legs.,student,6,0,,,,أنا لا أحب عبور ساقي.,I don't like crossing my legs.
+I don’t care if you don’t like it.  Just cross your legs.,teacher,12,0,1.0,,0.0,لا يهمني إن كنتِ لا تحبين ذلك، فقط تعقبي ساقيكِ,"I don't care if you don't like it, just follow your feet."
+Oh.,student,1,0,,,,-أوه .,-Oh .
+Thank you.  We’ll go back to our seats in just a minute and then your legs don’t have to be crossed anymore.,teacher,22,0,,,0.0,شكراً لك، سنعود إلى مقاعدنا بعد دقيقة، ثم لا تضطر إلى عبور ساقيك بعد الآن.,"Thank you, we'll be back in our seats in a minute, and then you won't have to cross your legs anymore."
+Okay.,student,1,0,,,,-حسناً,-Well then
+"Okay.  Student T, can you read it, please?",teacher,8,0,,,0.0,حسناً، الطالب (تي) ، أيمكنك قراءته، من فضلك؟,"All right, student, can you read it, please?"
+Teacher R is planning a party.  She bought 17 packs of balloons.  Each packet contains 8 balloons.  How many balloons did she buy? She bought –,student,26,0,,0.0,,المعلمة (ر) تخطط لحفلة. اشترت 17 حزمة من البالونات. كل حزمة تحتوي على 8 بالونات. كم عدد البالونات التي اشترتها؟,The teacher (r) is planning a party. she bought 17 packs of balloons. each package contains 8 balloons. how many balloons did she buy?
+"Wonderful.  I want to talk about just a few of the words in here to make sure that everyone understands all of the words.  So, Teacher R is planning a party.  What does it mean to plan, this verb right here?",teacher,41,0,1.0,,1.0,رائع. أريد أن أتحدث عن بعض الكلمات هنا للتأكد من أن الجميع يفهم كل الكلمات. إذاً، المعلم (ر) يخطط لحفلة.,I want to talk about a few words here to make sure everyone understands all the words.
+It’s when –,student,3,0,,,,إنه عندما,It's when 
+To –,teacher,2,0,,,0.0,إلى ,to  to 
+Buy.,student,1,0,,,,شراء.,The purchase.
+"Plan. Sort of quiet and hands.  I saw a hand.  Student J, what does it mean to plan a party?",teacher,20,0,,,1.0,خطة، نوعاً ما الهدوء واليدين، رأيتُ يدًا، الطالب (جاي) ، ما معنى خطة حفلة؟,"A plan, a kind of calm and hands, I saw a hand, the student (Jay), what does a party plan mean?"
+It’s like to think about the party.,student,7,0,,,,هو مثل التفكير في الحفلة.,It's like thinking about the party.
+I like it.  To think about it.  How do you see that in Portuguese?  Does anyone know?,teacher,17,0,1.0,,1.0,أحب ذلك التفكير في ذلك كيف ترى ذلك بالبرتغالية؟ هل يعرف أحد؟,How do you see that in Portuguese? does anyone know?
+No.,student,1,0,,,,-كلا .,"- No , not at all ."
+[Foreign language.],teacher,2,0,,,0.0,[لغة أجنبية],[Foreign language]
+[Foreign language.],student,2,0,,,,[لغة أجنبية],[Foreign language]
+"[Foreign language.]  Teacher R is still [foreign language]. Okay, good.",teacher,10,0,,,0.0,[لغة أجنبية] المعلم R لا يزال [لغة أجنبية]. حسنا، جيد.,[foreign language] Teacher R is still [foreign language].
+But I’m –,student,3,0,,,,لكن أنا,But I am.
+"Is that good? Okay.  Sit there.  Wait, please.",teacher,8,0,,,0.0,هل هذا جيد؟ حسناً، اجلس هناك، انتظر، من فضلك,"All right, sit there, wait, please."
+[Foreign language.],student,2,0,,,,[لغة أجنبية],[Foreign language]
+"What’s that, sweetie?",teacher,3,0,,,0.0,ما هذا يا عزيزتي؟,"What's that, honey?"
+[Foreign language.],student,2,0,,,,[لغة أجنبية],[Foreign language]
+"[Foreign language.]  Really?  [Foreign language.]  Okay, good. Student C, stop that, please.  We don’t miss anything. We’ve got a camera on you right now.  Stop it. Let’s go to the next sentence, she bought 17 packages of balloons.  This word right here “bought”, what is this verb in the present –",teacher,51,0,,,0.0,[لغة أجنبية] حقاً؟ [لغة أجنبية] حسناً، حسنًا. الطالب سي، توقف عن ذلك، من فضلك. نحن لا نفتقد أي شيء. لدينا كاميرا عليك الآن. توقف. دعونا نذهب إلى الجملة التالية، لقد اشترت 17 حزمة من البالونات. هذه الكلمة هنا  اشتريت، ما هي هذه اللفظة في الحاضر,"[Foreign Language] Really? [Foreign Language] Okay, okay. Student C, stop it, please. We're not missing anything. We have a camera for you now. Stop. Let's go to the next sentence, I bought 17 packs of balloons."
+Past tense.,student,2,0,,,,في الماضي.,In the past.
+"It’s the past tense.  You’re right, Student C.  What is it in the present tense?",teacher,15,0,,,0.0,إنه الوقت الماضي، أنت محق، الطالب (ج) ، ما هو الوقت الحالي؟,"It's past time, you're right, student (c), what time is it now?"
+Buy.,multiple students,1,0,,,,شراء.,The purchase.
+Bought.,student,1,0,,,,اشتريت.,I bought it.
+"So, we have bought right here.  [Foreign language.]",teacher,8,0,,,0.0,لذا، لقد اشترينا هنا.,"So, we bought it here."
+You want to buy it right then.  You buy it.,student,10,0,,0.0,,تريد أن تشتريها الآن، تشتريها,"You want to buy it now, buy it now."
+"And now, right now, to buy.  Good.  So, that means that I already bought –",teacher,15,0,1.0,,0.0,و الآن، الآن، لشراء. جيد. لذلك، هذا يعني أنني اشتريت بالفعل,"And now, now, to buy. good. so, that means I've already bought."
+I was going to buy.,student,5,0,,,,كنت سأشتري,I would have bought it.
+I know a lot of side talking going on.  I don’t like it.,teacher,13,0,0.0,,0.0,أعرف الكثير من المحادثات الجانبية تحدث أنا لا أحب ذلك,"I know a lot of side-by-side conversations happen, I don't like that."
+"Oh, Teacher R.",student,3,0,,,,أيها المعلم (ر),Teacher (r) 
+"You’re not controlling yourself.  And what about this word here, “packages”.",teacher,11,0,,,1.0,أنت لا تتحكم بنفسك وماذا عن هذه الكلمة هنا؟,You don't control yourself and what about that word here?
+Packages.,student,1,0,,,,حزم,Resolved to do so.
+"What is a package?  When Student T was reading, she actually shortened the word to pack and it means the same thing. Student I, just ’cause you guys aren’t over here, it doesn’t mean you don’t have to pay attention. What is a package, Student I?",teacher,46,0,,,0.0,ما هي الحزمة؟ عندما كانت الطالبة T تقرأ، هي في الواقع اختصرت الكلمة إلى حزمة ويعني نفس الشيء. الطالبة I، فقط لأنكم لستم هنا، لا يعني ذلك أنك لا يجب أن تولي اهتماما. ما هي الحزمة، الطالب I؟,"When student T was reading, she actually abbreviated the word to package and meant the same thing. student I, just because you're not here, doesn't mean you shouldn't pay attention. what is package, student I?"
+It’s like a package means like a group of something.,student,10,0,,0.0,,انها مثل حزمة تعني مثل مجموعة من شيء.,It's like a package that means like a collection of things.
+"Oh, I like it.  A package is a group of something.  A box. [Foreign language.]  A box of things. Stop it.  Move over here.  Stop playing with things. Okay.  So, I bought 17 packages of balloons.",teacher,36,0,1.0,,0.0,أحبها. حزمة هي مجموعة من الأشياء. صندوق. [لغة أجنبية.] صندوق من الأشياء. توقف. تحرك إلى هنا. توقف عن اللعب مع الأشياء. حسناً. لذا، اشتريت 17 حزمة من البالونات.,I like it. a package is a collection of things. a box. [foreign language] a box of things. stop. move here. stop playing with things. okay. so i bought 17 packs of balloons.
+Balloons. [Foreign language.],student,3,0,,,,البالونات.,The balloons. The balloons.
+"Good.  Each package has eight balloons in it.  Actually, I said the word contains and that means has.  How many balloons did I buy?  We’ve got different strategies that we can use. So, who can tell me what is the equation that I need to solve this problem? What’s the equation?  I only have two hands.  How disappointing.  What is the equation?",teacher,62,3,,,0.0,جيد. كل حزمة لديها ثمانية بالونات فيها. في الواقع، قلت الكلمة تحتوي على وهذا يعني لديها. كم بالونات اشتريت؟ لدينا استراتيجيات مختلفة التي يمكننا استخدامها. لذلك، من يمكنه أن يقول لي ما هي المعادلة التي أحتاجها لحل هذه المشكلة؟ ما هي المعادلة؟ لدي فقط اثنين من اليدين. كم خيبة الأمل. ما هي المعادلة؟,"Well, each package has eight balloons in it. In fact, I said the word contains and that means it has. How many balloons did I buy? We have different strategies that we can use. So, who can tell me what equation I need to solve this problem? What is the equation? I only have two hands. How disappointing. What is the equation?"
+The equation.,student,2,1,,,,المعادلة,Equation  equation 
+I have three smart hands.,teacher,5,0,,,0.0,لدي ثلاثة أيد ذكية,I have three smart hands.
+Ooh. What’s the –,student,4,0,,,,ما الأمر؟,What's the matter?
+Did you forget what equation means? This is equation.  This is an equation.,teacher,13,3,,,0.0,هل نسيت ماذا تعني المعادلة؟ هذه المعادلة. هذه المعادلة.,Have you forgotten what the equation means?
+Oh.,student,1,0,,,,-أوه .,-Oh .
+"Oh.  Now, raise your hand and tell me, what is the equation for this one?  I need just like five more minutes of your attention and then you go to your seats to do independent work.  Good.  Look at all these hands now.  Student C?",teacher,45,1,,,0.0,الآن ارفع يدك و أخبرني، ما هي المعادلة لهذا؟ أحتاج فقط خمس دقائق أخرى من انتباهك ثم تذهب إلى مقاعدك للقيام بعمل مستقل.,"Now raise your hand and tell me, what is the equivalent of this? I just need another five minutes of your attention and then go to your seats to do freelance work."
+17 times 8.,student,3,0,,,,17 × 8,8 × 17 × 8
+Good.  Could I also do 8 times 17.,teacher,8,0,,,0.0,جيد، هل يمكنني فعل 8 × 17 أيضاً؟,"Good, can I do 8 × 17 too?"
+Yes.,multiple students,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"Both of them work. Sit the right way, boys.  Right now, sit the right way. Good.  I’m gonna save my sentence answer for the end.  I have three strategies that I can use – breaking apart, array, algorithm.  Help me right now.  Student S, I haven’t heard your voice in, I don’t even know, like a hundred years?  I’m exaggerating a little bit.  Can you help me with the breaking apart strategy?",teacher,72,3,,,0.0,كلاهما يعمل. اجلس في الطريق الصحيح، يا فتيان. الآن، اجلس في الطريق الصحيح. جيد. سأحفظ جملتي الإجابة للنهاية. لدي ثلاث استراتيجيات يمكنني استخدامها  التفكك، الترتيب، الخوارزمية. ساعدني الآن. الطالب S، لم أسمع صوتك في، لا أعرف حتى، مثل مائة سنة؟ أنا مبالغة قليلا. هل يمكنك مساعدتي مع استراتيجية التفكك؟,"Now, sit down in the right direction, boys. Now, sit down in the right direction. Good. I'll keep my answer to the last sentence. I have three strategies that I can use to disintegrate, order, algorithm. Help me now. Student S, I haven't even heard your voice in, I don't know, like, a hundred years? I'm a little exaggerated. Can you help me with the disintegration strategy?"
+"Oh, I know.  I know. 10 is 80 [inaudible].",student,9,0,,0.0,,أعلم، أعلم، 10 = 80,"I know, I know, 10 = 80"
+10 times 8 –,teacher,4,0,0.0,,0.0,10 × 8 ,10 × 8 
+Gives you 80.,student,3,0,,,,يعطيك 80,He'll give you 80.
+"– plus 7 times 8.  Very good.  So, this is – great.  And let’s take a look right here.  What is 10 times 8?  Who’s sitting the right way with their hand up?  Student T?",teacher,35,0,,,0.0, زائد 7 × 8. جيد جداً. اذاً، هذا  رائع. دعونا ننظر هنا. ما هو 10 × 8؟ من الذي يجلس على اليمين مع يده فوق؟ الطالب T؟,"So, that's great. Let's look here. what is 10 × 8? who's sitting on the right with his hand up? student T?"
+80.,student,1,0,,,,80.,80. 80.
+"Thank you.  What is 7 times 8?  Student A, I don’t see you paying attention.  7 times 8? Who is sitting down correctly with their hand in the air?",teacher,29,0,,,0.0,شكراً. ما هو 7 × 8؟ الطالب A، أنا لا أرى أنك تتابع. 7 × 8؟ من الذي يجلس بشكل صحيح مع يده في الهواء؟,"What is 7 × 8? Student A, I don't see you following up. 7 × 8? Who sits properly with his hand up in the air?"
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+Student J?,teacher,2,0,,,0.0,الطالب (جي) ؟,The student (s) ?
+[Inaudible] 56.,student,2,0,,,,[غير مسموع] 56.,[Unheard] 56.
+"Very nice, thank you.  Student I, can you help us out here?  80 plus 56?  Did I put you on the spot?",teacher,22,0,,,0.0,الطالب الأول، هل يمكنك مساعدتنا هنا؟ 80 زائد 56؟ هل وضعتك في الموقع؟,"Student number one, can you help us here? 80 plus 56? Have I put you in position?"
+Wait [inaudible]. Me?,student,3,0,,,,انتظر، أنا؟,"Wait, is it me?"
+"Don’t lean on that, please.  Thank you. All these smart hands.  I love it.",teacher,14,0,,,0.0,لا تعتمد على ذلك رجاءً شكراً لك كل هذه الأيدي الذكية أحبها,"Please don't rely on that, thank you, all these smart hands I love."
+126.,student,1,0,,,,126.,126.
+"Close, close, close.",teacher,3,0,,,0.0,قرب، قرب، قرب.,"Close, close, close."
+136.,student,1,0,,,,136.,136. 136.
+"Is that right, Student S, 136?",teacher,6,0,,,0.0,هل هذا صحيح، الطالب S، 136؟,"Is that right, student S, 136?"
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+You got it.,teacher,3,0,,,0.0,حصلت عليه.,I got it.
+I got a strategy I could break.,student,7,0,,,,لدي إستراتيجية يمكنني كسرها,I have a strategy that I can break.
+136.,teacher,1,0,0.0,,0.0,136.,136. 136.
+I got a strategy that you could break with this.,student,10,0,,0.0,,لدي إستراتيجية يمكنك كسرها بهذا,I have a strategy you can break with this.
+A different strategy?,teacher,3,0,1.0,,0.0,استراتيجية مختلفة؟,A different strategy?
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+What’s yours?,teacher,2,0,,,0.0,ما هو الخاص بك؟,What's yours?
+My strategy is –,student,4,0,,,,إستراتيجيتي هي,My strategy is this:
+"Thank you, sweetie.",teacher,3,0,,,0.0,شكراً لكِ يا حبيبتي,"Thank you, my love."
+– 4 times 10 and another 4 times 7.  I’m bringing up both of them.,student,15,0,,0.0,,أربع مرات عشرة وأربع مرات سبعة,Four times ten and four times seven
+"I want to go back to your seat with you in a minute when we do independent work and talk about that strategy.  Please don’t forget, okay?  You promise?  Okay. Let’s go over the array right here.  I’m gonna set up my array. Folks, we’re almost, almost done.  Hold on, Student B, I hear you. 17 times 8 –",teacher,59,2,0.0,,0.0,أريد أن أعود إلى مقعدك معكم بعد دقيقة عندما نقوم بعمل مستقل ونتحدث عن هذه الاستراتيجية رجاءً لا تنسى، حسناً؟ أعدك؟ حسناً، دعنا نراجع الترتيب هنا. سأضع الترتيب الخاص بي.,"I want to get back to your seat with you in a minute when we do freelance work and talk about this strategy, please don't forget, okay?"
+Times the corner. Oh.,student,4,0,,,,ضغط على الزاوية,Press the corner
+And let’s do the same strategy.  Tell me when to stop.  I want to break this array in half.  I need it to be at 10.  Tell me when to stop.,teacher,31,1,,,0.0,دعونا نفعل نفس الاستراتيجية. أخبرني متى أوقف. أريد كسر هذا الترتيب إلى النصف. أريد أن يكون عند 10. أخبرني متى أوقف.,Let's do the same strategy.Tell me when to stop.I want to break this order in half.I want it to be at 10.Tell me when to stop.
+Stop.,multiple students,1,0,,,,توقفوا,Stop it now.
+A little less than half.,teacher,5,0,,,0.0,أقل قليلاً من النصف,A little less than half.
+"No, a little bit less. Yeah. Up, up, up. Stop. Oh, oh.",student,12,0,,0.0,,لا، أقل قليلاً، أجل، صعداً، صعداً، توقف,"No, a little lower, yes, up, up, up, stop."
+Stop.,multiple students,1,0,,,,توقفوا,Stop it now.
+What will I write down here.,teacher,6,0,,,0.0,ماذا سأكتب هنا؟,What am I supposed to write here?
+7 times 8.,multiple students,3,0,,,,7 × 8,7 × 8
+"No, it’d be times 7. No, it doesn’t matter.  The same thing.",student,12,0,,0.0,,لا، سيكون بمقدار 7 مرات لا، لا يهم نفس الشيء,"No, it will be seven times no, it doesn't matter the same thing"
+"Right here, is it 8 times 7?  Stop, please.",teacher,9,0,1.0,,0.0,هنا، هل هو 8 × 7؟ توقف، من فضلك.,"Here, is it 8 × 7? stop, please."
+"Yeah, because right there is 7 too.",student,7,0,,,,أجل، لأن هناك 7 أيضاً.,"Yes, because there are 7 too."
+"Well, this I broke – stop that, please.  I’ve broken this up right here.  So, this is the 10.",teacher,19,0,0.0,,0.0,حسناً، لقد كسرت هذا، توقف عن ذلك، من فضلك. لقد كسرت هذا هنا.,"Well, I broke this, stop that, please."
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"This is the 8 going across.  If I break it here, then I cut the 8.",teacher,16,0,,,0.0,هذا هو الثمانية التي تتجاوز، إذا كسرتها هنا، ثم قطع الثمانية.,"This is the eight that passes, if you break it here, then cut the eight."
+"Yeah, [inaudible].",student,2,0,,,,نعم، [غير مسموع].,"Yes, [unheard of]."
+"And the last one is the algorithm, which is one item many of you really prefer to use.  So, let’s take a look over here. I’m gonna set up the algorithm and you guys are gonna head back to your seats right after this. How many of you – show me with hands – like this strategy here?  Look up, please.  Student S, do you know that strategy?",teacher,68,2,,,0.0,والآخر هو الخوارزمية، وهو عنصر يفضل الكثير منكم استخدامه حقاً، لذا دعونا نلقي نظرة هنا. سأضع الخوارزمية وسوف تعودون إلى مقاعدكم مباشرةً بعد هذا. كم منكم يظهر لي بهذه الاستراتيجية؟ انظروا، من فضلكم.,"And the other is the algorithm, which is an element that many of you really prefer to use, so let's take a look here. I'll put the algorithm together and you'll be back in your seats right after that."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"No, you’re not so comfortable with it.  How many of you have seen it done, but you’re just not so good at it yet?  Some of you, okay. Watch me as I do it and, maybe, help me when I ask for help, okay? I start over here.  What is 8 times 7?",teacher,53,0,,,0.0,لا، أنت لست مرتاحة جدا مع ذلك. كم منكم قد رأى ذلك، ولكنك لم تكن جيدة جدا في ذلك حتى الآن؟ البعض منكم، حسنا. شاهدني وأنا أفعل ذلك، وربما، ساعدني عندما أطلب المساعدة، حسنا؟ سأبدأ من هنا. ما هو 8 × 7؟,"How many of you have seen it, but you haven't been very good at it yet? Some of you, well. Watch me do it, maybe, help me when I ask for help, okay?"
+56.,multiple students,1,0,,,,56,56
+"56.  So, what am I gonna write right here.",teacher,9,0,,,0.0,إذاً، ماذا سأكتب هنا؟,"So, what am I going to write here?"
+56.,student,1,0,,,,56,56
+6 and I’m gonna –,teacher,5,0,,,0.0,ستة وسأذهب,Six and I'll go.
+50 on top.,student,3,0,,,,خمسون في الأعلى,Fifty at the top
+"You got it, buddy.  I like that on top of.  Very nice.  Now, I’m gonna 8 times 1 –",teacher,19,0,,,0.0,لقد فهمت يا صديقي، أحب ذلك على رأسها، جميل جداً، الآن سأقوم بـ 8 × 1,"I get it, my friend, I love it on her head, very beautiful, now I'm going to do 8 × 1"
+8.,multiple students,1,0,,,,8,8 8
+Plus 5.,teacher,2,0,,,0.0,بالإضافة إلى 5,In addition to 5
+85. 13.,student,2,0,,,,85. 13.,85. 13.
+8 plus 5 –,teacher,4,0,,,0.0,8 + 5 ,8 + 5 
+5. 13. 17 – 8 – 13.,student,7,0,,,,5. 13. 17  8  13.,5. 13.17 8 13.
+8 plus 5?,teacher,3,0,1.0,,0.0,8 زائد 5؟,8 plus 5?
+13.,multiple students,1,0,,,,13,13  13 
+"13, thank you.",teacher,3,0,,,0.0,13، شكراً لك,"13, thank you very much."
+13.,student,1,0,,,,13,13  13 
+Okay.,teacher,1,0,,,0.0,-حسناً,-Well then
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"So, these are our three different strategies that we use pretty comfortably – maybe, not the algorithm yet – for multiplication.  When I set you free, you are going to go to your seats and work independently on –",teacher,39,2,,,0.0,لذا، هذه هي استراتيجياتنا الثلاثة المختلفة التي نستخدمها بشكل مريح  ربما، ليس الخوارزمية بعد  للمضاعفة. عندما أطلق عليك الحرية، ستذهب إلى مقاعدك وتعمل بشكل مستقل على ,"So, these are our three different strategies that we use comfortably perhaps, not the algorithm yet for doubling."
+"Page 3, Unit 3.",student,4,1,,,,الصفحة الثالثة الوحدة الثالثة,"Page three, unit three."
+"How did you get so smart, Student I?  How did you know that?",teacher,13,0,,,1.0,كيف أصبحت ذكياً جداً أيها الطالب الأول كيف عرفت ذلك؟,"How did you get so smart, first grader, how did you know that?"
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"And you’re very observant.  You’re gonna go – take a look right here.  Unit 3, Page 3.  It is some reading.  So, I know some of you are gonna be like, ahh, reading.  But if you know that it’s just using one of these three strategies to solve the problem and if you start, I think you’ll be all right. Now, listen.  I don’t care which strategy you use, but this is what you must have, the part I actually forgot, a sentence answer. Who can help me write the sentence answer?  How many balloons did she buy?  Student G, what’s the sentence answer?",teacher,104,1,,,0.0,و أنت مراقب جداً. سوف تذهب وتلقي نظرة هنا. الوحدة الثالثة، الصفحة الثالثة. إنه بعض القراءة. لذا، أعلم أن بعضكم سوف يكون مثل، آه، القراءة. ولكن إذا كنت تعرف أنه يستخدم فقط واحدة من هذه الاستراتيجيات الثلاثة لحل المشكلة وإذا بدأت، أعتقد أنك ستكون بخير. الآن، اسمع. لا يهمني أي استراتيجية تستخدم، ولكن هذا هو ما يجب أن يكون لديك، الجزء الذي نسيت بالفعل، إجابة الجملة. من يمكن أن يساعدني على كتابة الجملة؟ كم عدد البالونات التي اشترتها؟ الطالب G، ما هو الجملة؟,"So, I know some of you will be like, ah, reading. But if you know that he only uses one of these three strategies to solve the problem and if you start, I think you'll be fine. Now, listen. I don't care what strategy you use, but this is what you should have, the part you already forgot, the answer to the sentence."
+"Teacher R, Teacher R, Teacher R?",student,6,0,,,,المعلم R، المعلم R، المعلم R؟,"Teacher R, Teacher R, Teacher R?"
+Please don’t Teacher R me.,teacher,5,0,1.0,,0.0,ارجوك لا تدعيني,Please don't let me.
+You had – No. She buyed – She bought – Excuse me.  It’s Student G’s turn. – 136 balloons.,student,19,0,,0.0,,لقد اشترتها، عذراً، حان دور الطالب، 136 بالون.,"I bought it, sorry, it's time for the student shift, 136 balloons."
+"Thank you.  I need a longer arm, Student G.  Uh, thank you. Not she buyed, she bought, because, if we remember, the past tense of buy is bought.",teacher,28,0,1.0,,0.0,شكراً، أحتاج إلى ذراع أطول، الطالب (جي) ، شكراً لك، ليست هي التي اشترت، بل هي التي اشترت،,"Thank you, I need a longer arm, student (j), thank you, not the one who bought, but the one who bought,"
+’Cause you already bought [inaudible].,student,5,0,,,,لأنّكِ اشتريتِها بالفعل.,Because you've already bought it.
+[Foreign language.]  Bought.,teacher,3,0,1.0,,0.0,اشتريت.,I bought it.
+And buys is [inaudible].,student,4,0,,,,والشراء هو [غير مسموع].,And the purchase is [unheard of].
+Bought is right here.  [Foreign language.],teacher,6,0,,,0.0,اشتريت هنا,I bought it here
+Buy [inaudible].,student,2,0,,,,شراء [غير مسموع].,Purchase [unheard of].
+"Thank you, sweetie.  Okay.  Let’s have – Student O, get your book.  Student A, get started.  Page 3, Unit 3.  Student E, okay?",teacher,23,1,,,0.0,شكراً يا عزيزتي، حسناً، دعونا نأخذ الطالب (أو) ، أحضر كتابك، الطالب (أو) ، ابدأ، الصفحة الثالثة، الوحدة الثالثة، الطالب (إي) ، حسناً؟,"Thank you, dear, well, let's take the student, bring your book, the student, start, page three, unit three, the student, okay?"
+"Page 3, Unit 3.",student,4,1,,,,الصفحة الثالثة الوحدة الثالثة,"Page three, unit three."
+"You got it, buddy.  Student S, come on.  Student A –",teacher,11,0,,,0.0,حسناً يا صديقي، الطالب (س) ، هيّا، الطالب (أ),"All right, my friend, the student (s), come on, the student (a)"
+Please.,student,1,0,,,,ارجوك,"Please, please, please."
+"I’ll put this chart on the board for you, so you can see it.",teacher,14,0,,,0.0,سأضع هذا الرسم البياني على اللوح من أجلك حتى تتمكن من رؤيته,I'm going to put this chart on the board for you so you can see it.
+Who’s that for –,student,4,0,,,,من هذا ؟,Who is this?
+Student I.,teacher,2,0,,,0.0,الطالب الأول,The first student student
+I’m learning.,student,2,0,,,,أنا أتعلم,"You know, I know."
+You can see the names?,teacher,5,0,,,0.0,أيمكنك رؤية الأسماء؟,Can you see the names?
+Oh.,student,1,0,,,,-أوه .,-Oh .
+"Student S, Student S.",teacher,4,0,,,0.0,الطالب S، الطالب S.,"Student S, student S."
+I want you to look at mine.,student,7,0,,,,أريدك أن تنظر إلى بلدي.,I want you to look at mine.
+"Student T, Student E, Student G, Student R.",teacher,8,0,0.0,,0.0,الطالب T، الطالب E، الطالب G، الطالب R.,"Student T, student E, student G, student R."
+Can I see mine? Student J.,student,6,0,,,,هل لي أن أرى لي؟,May I see myself?
+"Student J, Student C.  Come on, sweetie, Student J, Student J.",teacher,11,0,1.0,,0.0,الطالب ج، الطالب ج. هيا، حبيبي، الطالب ج، الطالب ج.,"Student C, student C. Come on, honey, student C, student C."
+Oh.,student,1,0,,,,-أوه .,-Oh .
+"Thank you.  See, [inaudible] took yours out.  Where did it go?",teacher,11,0,,,0.0,شكراً، انظر، (لا يسمع) أخرجك إلى أين ذهب؟,"Thank you, look, (not heard) can I take you out where did he go?"
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"Oh, right behind you.",teacher,4,0,,,0.0,خلفك تماماً,Right behind you.
+A smile face.,student,3,0,,,,وجه ابتسامة,A smile on her face.
+"Right here, Page 3, Unit 3.  There you go.",teacher,9,1,,,0.0,هنا، الصفحة الثالثة، الوحدة الثالثة,"Here, page three, unit three"
+Student B.  You forgot me.,student,5,0,,,,الطالب ب. نسيتني.,The student B. Forgot me.
+"Student B, Student B, I don’t know where yours is.  The children who are working right away will get their eraser.",teacher,21,0,1.0,,0.0,الطالب (ب) ، الطالب (ب) ، لا أعرف مكانك، الأطفال الذين يعملون على الفور سيحصلون على مسحرهم,"Student (b), student (b), I don't know where you are, children who work right away will get their charms"
+Teacher R?,student,2,0,,,,المعلم (ر) ؟,The teacher (r) ?
+Yes.,teacher,1,0,,,0.0,-أجل، أجل,"- Yes, yes, yes"
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+You can sit either there or there.,teacher,7,0,,,0.0,يمكنك الجلوس هناك أو هناك,You can sit there or there.
+"Teacher R, [inaudible] page.",student,4,0,,,,المعلم (ر) الصفحة,The teacher (s) page
+Oy vey.  We’ll figure something out for you.  Did you already check?,teacher,12,0,,,0.0,حسناً، سنكتشف لك شيئاً، هل تحققت من ذلك؟,"Well, we'll find out something for you, have you checked that out?"
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+Okay.  Yes.  I’ll come around and check.,teacher,7,0,,,0.0,حسناً، أجل، سأأتي لأحقق,"Well, yeah, I'll come and check it out."
+[Inaudible] start on Page 2.,student,5,0,,,,[لا يمكن سماع] البدء في الصفحة 2.,[Unable to hear] start on page 2.
+"Okay.  Let me see what I can do for you, buddy. Shh.  Voices are off.",teacher,15,0,0.0,,0.0,حسناً، دعني أرى ما يمكنني فعله من أجلك يا صاح,"All right, let me see what I can do for you, buddy."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"Okay.  Give me just a sec, okay? I love the way most of you are getting started right away. Do you know how to do this right here?",teacher,28,0,,,0.0,حسناً، أعطني لحظة، أحب الطريقة التي تبدأون بها معظمكم على الفور، هل تعرفون كيف تفعلون هذا هنا؟,"Well, give me a minute, I like the way most of you start right away, do you know how to do that here?"
+No.,student,1,0,,,,-كلا .,"- No , not at all ."
+"Can you take a look at it and see? Student O, open your book.",teacher,14,0,,,0.0,أيمكنك أن تنظر إليها وترى؟,Can you look at it and see?
+Which one –,student,3,0,,,,أي واحد ,Any single one 
+"Hold on one second, please.",teacher,5,0,,,0.0,انتظر لحظة من فضلك,Please wait a moment
+"Teacher R, can you tell he and he –",student,9,0,,0.0,,أستاذ ر، هل يمكنك أن تقول له و له ,"Professor R, can you tell him and him "
+Choose one.,teacher,2,0,0.0,,0.0,اختر واحداً,Choose one of them.
+– he and he do not say me not [inaudible]?  Don’t do it.,student,13,0,,0.0,,هو و هو لا يقول لي لا [غير مسموع]؟ لا تفعل ذلك.,And he doesn't say no to me?
+Don’t say what to you?,teacher,5,0,1.0,,0.0,لا أقول لك ماذا؟,Don't tell you what?
+[Mathopesius].,student,1,0,,,,[ماتوبيزيوس].,[Matubezius].
+[Mathopesius]?,teacher,1,0,,,0.0,[ماتوبيزيوس]؟,[Matobizius]?
+Metro – [Mathopesius].,student,3,0,,,,مترو  [ماتوبيسيوس].,The subway [Matobussius].
+What does that even mean?,teacher,5,0,,,1.0,ماذا يعني هذا؟,What does that mean?
+"It’s [inaudible], a company.",student,4,0,,,,إنها شركة,It's a company.
+"Okay.  Yeah.  No, don’t say that anymore. Oh, Student S, I’ll be there in a minute.  I’m sorry, sweetie.  Continue with your work.",teacher,23,0,,,0.0,حسناً، أجل، لا تقل هذا بعد الآن، الطالب (س) ، سأكون هناك خلال دقيقة، آسفة يا عزيزتي، استمر بالعمل,"Well, yeah, don't say that anymore, student (s), I'll be there in a minute, sorry honey, keep working"
+I want a basketball.,student,4,0,,,,أريد كرة سلة.,I want a basketball.
+Hmm.,teacher,1,0,,,0.0,-حسناً,-Well then
+"Yes. I want the safari one. Basketball. Basketball. Oh, let me just take the baseball.",student,15,0,,0.0,,أجل، أريد الصافاري، كرة السلة، كرة السلة، دعيني آخذ كرة البيسبول,"Yeah, I want the safari, the basketball, the basketball, let me have the baseball."
+Student B?,teacher,2,0,0.0,,0.0,الطالب ب؟,Student B? Student B?
+Uh-uh.,student,1,0,,,,اه-ه.,Uh-huh. 
+Okay.  I like how Student T is remembering her sentences with words.,teacher,12,0,,,0.0,حسناً، أحب الطريقة التي تتذكر بها الطالب (تي) جملتها بالكلمات,"Well, I like the way the student (s) remember their sentence in words."
+Like [they go] plus.,student,4,0,,,,مثل [إنهم يذهبون] زائد.,It's like [they go] over.
+Yes.  That’s where you add.,teacher,5,1,,,0.0,نعم، هذا ما تضيفه,"Yes, that's what he adds."
+I know.  Thank you very much.,student,6,0,,,,أعلم، شكراً جزيلاً,"I know, thank you very much."
+"Yes, Student C?",teacher,3,0,0.0,,0.0,نعم، الطالب سي؟,"Yes, student C?"
+Is that [inaudible]?,student,3,0,,,,هَلْ ذلك [غير مُسمع]؟,Is that [unheard of]?
+No.  But plus goes up and down.  Times goes across.  Can you choose an oyster?,teacher,15,0,,,0.0,لا، لكن الجملة ترتفع وتنخفض، الأوقات تتجاوز، هل يمكنك اختيار محار؟,"No, but the sentence goes up and down, the times go by, can you pick an oyster?"
+"Oh, this.",student,2,0,,,,أوه، هذا.,"Oh, that one."
+Ice cream?,teacher,2,0,,,0.0,الآيس كريم؟,Ice cream?
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Good. The answer is –,teacher,5,0,,,0.0,جيد، الإجابة هي,"Good, the answer is "
+"Uh-huh, [inaudible].",student,2,0,,,,اه-ها، [غير مسموع].,"Uh-huh, [unheard of]."
+"Student S, I need you to get started.  You know what, you don’t even have to read.  You see the numbers and you know we’re working on multiplication.  Set up one of the strategies, please, and I’ll come back once you’ve started.",teacher,42,1,,,0.0,الطالب S، أنا بحاجة إلى أن تبدأ. تعرف ماذا، أنت حتى لا تحتاج إلى قراءة. ترى الأرقام وتعرف أننا نعمل على مضاعفة. حدد واحدة من الاستراتيجيات، من فضلك، وسأعود مرة أخرى بمجرد أن تبدأ.,"Student S, I need you to start. you know what, you don't even need to read. you see the numbers and you know we're working on a double. pick one of the strategies, please, and I'll come back as soon as you start."
+"Thank you, Teacher R, [inaudible].",student,5,0,,,,شكراً لك أيها المعلم (ر),"Thank you, teacher (r) "
+"Oh, it’s not from me.  It’s from the camera people.",teacher,10,0,0.0,,0.0,إنه ليس منّي، إنه من رجال الكاميرا,"It's not me, it's the cameramen."
+I [inaudible].,student,2,0,,,,أنا [غير مسموع].,I am [unheard of].
+Fish.  What?,teacher,2,0,,,0.0,سمك ماذا؟,Fish what?
+Teacher R?,student,2,0,,,,المعلم (ر) ؟,The teacher (r) ?
+"Yes, what?",teacher,2,0,,,0.0,-أجل، ماذا؟,"- Yes, what?"
+What does greater mean?,student,4,0,,,,ما الذي يعنيه الكبير؟,"What does ""big"" mean?"
+"Greater means bigger than.  And if you look up here on our word wall, greater is bigger. Okay.  Oh, sorry.  Student J, choose one of these.  And that was fast, wow. You’re all done.  Go to Unit 1 and do anything in Unit 1.",teacher,44,2,,,0.0,أكبر يعني أكبر من. وإذا نظرت هنا على جدار الكلمة لدينا، أكبر هو أكبر. حسنا. أوه، آسف. الطالب J، اختر واحدة من هذه. وكان ذلك سريعا، واو. انتهيت كل شيء. اذهب إلى الوحدة 1 وفعل أي شيء في الوحدة 1.,"Bigger means bigger than. And if you look at our word wall here, bigger is bigger. Okay. Oh, sorry. Student J, pick one of these. And that was fast, wow. I'm done. Go to Unit 1 and do anything in Unit 1."
+I’m done.,student,2,0,,,,لقد انتهيت,It's over now.
+"Which strategy do you want to use?  Choose anything in Unit 1 right now.  Breaking apart, array or algorithm?  Which strategy would you like to use?  Ooh, the breaking apart one, I like that one.  Once you’ve started choose an eraser, okay. What do you need, honey?  Do you need something up here?  I can flip it for you.",teacher,59,3,,,0.0,أي استراتيجية ترغب في استخدامها؟ اختر أي شيء في الوحدة 1 الآن. تحطيم، صف أو خوارزمية؟ أي استراتيجية ترغب في استخدامها؟ أوه، تحطيم واحد، أنا أحب ذلك واحد. بمجرد أن تبدأ في اختيار محذف، حسناً. ماذا تحتاجين، حبيبي؟ هل تحتاجين شيئاً هنا؟ يمكنني أن أعيدها لك.,"Which strategy would you like to use? choose anything in module 1 now. crashing, array or algorithm? which strategy would you like to use? oh, one crashing, I like that one. as soon as you start picking a deletter, okay. what do you need, honey? do you need something here? i can return it to you."
+We’re trying to unfold.,student,4,0,,,,نحن نحاول أن ننتشر,We're trying to spread the word.
+I’m sorry?,teacher,2,0,,,0.0,أنا آسفة؟,Am I sorry?
+"Teacher R, help. No. [Inaudible] 4 times 7, 28.",student,9,0,,0.0,,"المعلم (ر) ، ساعدني، لا، 4 × 7, 28.","Teacher (r), help me, no, 4 × 7, 28."
+"Are you still looking for the page, honey?  You’re in Unit 5.",teacher,12,1,0.0,,0.0,هل ما زلت تبحث عن الصفحة يا عزيزتي؟,"Are you still looking for the page, darling?"
+I’m not sure I can do this.,student,7,0,,,,لست متأكداً من أنني أستطيع فعل هذا,I'm not sure I can do this.
+"I actually told you to do this side, but you don’t know how? Right here.",teacher,15,0,1.0,,0.0,في الواقع قلت لك أن تفعل هذا الجانب، ولكنك لا تعرف كيف؟,"I actually told you to do this side, but you don't know how?"
+"Oh, gosh.",student,2,0,,,,-يا إلهي,-Oh my god
+"Ms. R bought 13 packages of cups for a big party.  Each package contains 8 cups.  How many cups did she buy?  It’s just like the balloons problem that we did, isn’t it?",teacher,33,3,,,0.0,السيدة آر اشترت 13 حزمة من الكؤوس للحفلة الكبيرة كل حزمة تحتوي على 8 كؤوس كم عدد الكؤوس التي اشترتها؟,"Mrs. R bought 13 packs of glasses for the big party, each packet containing 8 glasses, how many glasses did she buy?"
+Uh-huh.,student,1,0,,,,اه-ها.,Ah-ha. 
+"It’s the same idea.  So, you need to choose which strategy you want to use.  Do you want to use breaking apart, array or algorithm?",teacher,25,2,,,0.0,إنها نفس الفكرة. لذا، عليك أن تختار أي استراتيجية تريد استخدامها. هل تريد استخدام الانفصال، الترتيب أو الخوارزمية؟,"It's the same idea.So, you have to choose which strategy you want to use.Do you want to use separation, arrangement, or algorithm?"
+Arrays.,student,1,1,,,,المجموعات.,The groups.
+"Array, okay.  So, first put your equation and then make your array.",teacher,12,3,,,0.0,حسناً، أولاً ضع المعادلة ثم قم بعمل الترتيب,"Well, first put the equation and then do the ordering."
+"No, I mean, break it.",student,5,0,,,,لا، أعني، كسر ذلك.,"No, I mean, break that."
+"Break it, okay.  Write your equation.",teacher,6,1,1.0,,0.0,كسر ذلك، حسناً، اكتب معادلتك,"Break that, well, write down your equation."
+I want to [inaudible].,student,4,0,,,,أُريدُ [غير مُسمع].,I want [unheard of].
+This is all unfounded.  Teachers all over the country are seeing.  You’re going to real hard to stay in your seat and get your work done.,teacher,26,0,,,0.0,كل هذا غير مبرر، المعلمون في جميع أنحاء البلاد يشاهدون أنك ستجد صعوبة في البقاء في مقعدك وإنجاز عملك,"All of this is unjustified, as teachers across the country are watching you find it difficult to stay in your seat and get your job done"
+"Be quiet, please.",student,3,0,,,,إهدأ، من فضلك.,"Calm down, please."
+Okay.,teacher,1,0,,,0.0,-حسناً,-Well then
+Teacher R?,student,2,0,,,,المعلم (ر) ؟,The teacher (r) ?
+"Move to an office if somebody is bothering you. So, move to an office if somebody is bothering you.",teacher,19,0,,,0.0,انتقل إلى مكتب إذا كان شخص ما يزعجك لذا انتقل إلى مكتب إذا كان شخص ما يزعجك,"Move to the office if someone is bothering you, so move to the office if someone is bothering you."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"Yes, dear.",teacher,2,0,,,0.0,نعم يا عزيزتي,"Yes, my dear, yes."
+He didn’t get it.,student,4,0,,,,لم يفهمها,He didn't understand her.
+"Okay.  So, let’s choose another one for you.  Oh, this right here.  This is what we’re doing right now.  This right here. Very good.  Very, very nice.",teacher,27,0,,,0.0,حسناً، فلنختار لك واحدة أخرى، هذا هنا، هذا ما نفعله الآن، هذا هنا، جيد جداً، لطيف جداً.,"Well, let's pick another one for you, that's right here, that's what we're doing right now, that's right here, very good, very nice."
+[Inaudible] like it. Do the test.  The exam is [inaudible].,student,10,0,,0.0,,[لا يمكن سماعها] مثل ذلك. إجراء الامتحان. الامتحان هو [لا يمكن سماعها].,[Can't be heard] like that. Take the exam. The exam is [can't be heard].
+"Yes, those are factors.  So, what are the factors of 16?  What numbers – excuse me, I’m talking to Student T right now. What factors make 16?",teacher,27,3,0.0,,1.0,نعم، هذه العوامل. إذاً، ما هي العوامل من 16؟ ما هي الأرقام؟ عذراً لي، أنا أتحدث إلى الطالب T الآن. ما هي العوامل التي تجعل 16؟,"So, what are the factors of 16? what are the numbers? excuse me, I'm talking to student T right now. what are the factors that make 16?"
+"[Inaudible.] Teacher R, do you –",student,6,0,,,,المعلم (ر) ، هل تسمعني؟,"Teacher, can you hear me?"
+"I’ll give you one.  Never mind, I’m not giving you any.",teacher,11,0,0.0,,0.0,سأعطيك واحداً لا تقلق لن أعطيك واحداً,"I'll give you one, don't worry, I won't give you one."
+"Teacher R, when you asked for mine.  I told you that I had trouble with the homework.  You know?",student,19,0,,0.0,,المعلم (ر) ، عندما طلبت مني أخبرتك أن لدي مشاكل مع واجبي المنزلي,"Teacher, when you asked me, I told you I had problems with my homework."
+Yes.,teacher,1,0,0.0,,0.0,-أجل، أجل,"- Yes, yes, yes"
+"Oh, I got the cup later and then I like skipped the numbers. And then, I got that – you get it?",student,22,1,,0.0,,لقد حصلت على الكأس لاحقاً ثم تخطيت الأرقام,I got the cup later and then I overcame the numbers.
+Yes.  Finish your work.,teacher,4,0,0.0,,0.0,أجل، أنهي عملك,"Yes, finish your job."
+Like this.,student,2,0,,,,مثل هذا.,Like this.
+It’s beautiful like that.  I love your English.,teacher,8,0,,,0.0,إنها جميلة هكذا أحب الإنجليزية,It's so beautiful that I love English
+Look.,student,1,0,,,,انظروا.,Look at this.
+"Yes.  Bought, to buy [foreign language.]",teacher,6,0,,,0.0,نعم، اشتريت، لشراء [لغة أجنبية],"Yes, I bought, to buy [foreign language]"
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+I’m going to remind you again that my class is right there.  We hear everything you’re saying and we’re doing math right now.,teacher,23,0,,,0.0,سأذكّرك مرة أخرى أنّ صفّي هناك، نسمع كلّ ما تقوله ونقوم بالرياضيات الآن.,"I'll remind you again that my class is there, we'll listen to everything you say and do the math now."
+Teacher R?,student,2,0,,,,المعلم (ر) ؟,The teacher (r) ?
+Yes.,teacher,1,0,,,0.0,-أجل، أجل,"- Yes, yes, yes"
+Where are [inaudible]?,student,3,0,,,,أين هم؟,Where are they?
+"You got it, smarty pants.",teacher,5,0,,,0.0,حصلت عليه، سراويل ذكية.,"I got it, smart pants."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+When you tell someone – double check this answer.  It’s not right.,teacher,12,0,,,0.0,عندما تقول لشخص ما، تحقق من هذه الإجابة إنها ليست صحيحة.,"When you tell someone, check that the answer is not true."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"And so, if you’re gonna do the breaking apart strategy, so choose something in Unit 1 right now to work on, but we don’t just sit there. And now, it’s 3, so 10 times 8 and 3 times 8.  What’s 3 times 8?",teacher,43,1,,,0.0,لذا، إذا كنت ستعمل استراتيجية التفكك، لذا اختر شيئا في الوحدة 1 الآن للعمل على، ولكننا لا نجلس فقط هناك. والآن، هو 3، لذلك 10 × 8 و 3 × 8. ما هو 3 × 8؟,"So, if you're going to use the breakdown strategy, so choose something in unit 1 now to work on, but we're not just sitting there."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"No, sit down.",teacher,3,0,,,0.0,لا، اجلس,"No, sit down."
+I’m still sitting down.,student,4,0,,,,ما زلت أجلس,I'm still sitting there.
+"Sit down, please.",teacher,3,0,,,0.0,اجلس من فضلك,Please sit down
+I’m done.,student,2,0,,,,لقد انتهيت,It's over now.
+"Sit down, please.",teacher,3,0,,,0.0,اجلس من فضلك,Please sit down
+I’m done.,student,2,0,,,,لقد انتهيت,It's over now.
+Thank you.  You did a wonderful job.,teacher,7,0,,,0.0,شكراً لقد قمت بعمل رائع,"Thank you, you did a wonderful job."
+This one?,student,2,0,,,,هذه؟,This one?
+Greater than means bigger.  [Foreign language.],teacher,6,0,,,0.0,أكبر مما يعني أكبر.,Bigger means bigger.
+He’s 70.,student,2,0,,,,إنه في السبعين,He is in his seventies.
+"Yes, [foreign language].",teacher,3,0,,,0.0,نعم، [لغة أجنبية].,"Yes, [foreign language]."
+12 is –,student,3,0,,,,12 هو ,He is 12 
+Don’t say my name.  I’m working with somebody.,teacher,8,0,,,0.0,لا تقل اسمي أنا أعمل مع شخص ما,Don't say my name. I work with someone.
+[Foreign language.] 60.,student,3,0,,,,[لغة أجنبية] 60.,[Foreign language] 60.
+"Yeah, which – yes, exactly.  Which of these is bigger than 70?",teacher,12,0,,,0.0,نعم، أي  نعم، بالضبط. من هذه أكبر من 70؟,"Yeah, yeah, yeah, exactly. Which one of these is bigger than 70?"
+Which one are you doing? I’m on this one.,student,9,0,,0.0,,-أيهما ستفعلين؟,- Which one are you going to do?
+"You got it, smarty pants.",teacher,5,0,0.0,,0.0,حصلت عليه، سراويل ذكية.,"I got it, smart pants."
+That’s our answer – Is 72.,student,6,0,,,,هذا هو جوابنا هو 72.,This is our answer: 72.
+"You got it, yeah.",teacher,4,0,0.0,,0.0,حصلت عليه، نعم.,"I got it, yes."
+"And this one, did you have [inaudible].",student,7,0,,,,وهذه، هل كان لديك [غير مسموع].,"And this, have you had [unheard of]."
+"When I’m working with somebody else, if you talk to me, it’s really, really rude.  [Inaudible.]",teacher,16,0,1.0,,0.0,عندما أعمل مع شخص آخر، إذا تحدثت إليّ، فهذا وقح جداً.,"When I work with someone else, if they talk to me, it's very rude."
+[Work through] –,student,3,0,,,,[عمل من خلال] ,[Action through] 
+"No.  There’s only one answer.  Check, are these also? Okay.  Boys and girls, who needs – excuse me.  Who needs a couple more minutes to finish?",teacher,26,0,,,0.0,لا، هناك إجابة واحدة فقط، انظر، هل هذه أيضاً؟ حسناً، الفتيان والفتيات، من يحتاجون، عذراً، من يحتاج إلى دقيقتين أخرى للنهاية؟,"Well, boys and girls, who needs, excuse me, who needs two more minutes to finish?"
+I need more minutes.,student,4,0,,,,أريد المزيد من الدقائق,I need more minutes
+"Okay.  When you finish with Page 3, you can choose another page in Unit 1.  Please don’t shout with your neighbor and stuff, ’cause kids are still working.",teacher,28,1,,,0.0,حسناً، عندما تنتهي من الصفحة الثالثة، يمكنك اختيار صفحة أخرى في الوحدة الأولى، رجاءً لا تصرخ مع جارتك، لأن الأطفال ما زالوا يعملون.,"Well, when you're done with page three, you can pick another page in unit one, please don't yell at your neighbor, because the kids are still working."
+Well –,student,2,0,,,,حسناً,"All right, then."
+"And we need to add your – ooh.  Brilliant.  That’s perfect. Student S, put your chair flat. That’s perfect.  Do the next one.",teacher,23,1,,,0.0,ونحن بحاجة إلى إضافة لك  ooh. عبقري. هذا مثالي. الطالب S، وضع كرسي الخاص بك مسطحة. هذا مثالي. عمل واحد التالي.,"And we need to add you oh. genius. that's perfect. student S, lay your chair flat. that's perfect. next one action."
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+Can you put it away?  I think Student M is now – we’re gonna start keeping it in here next time. You got it.  This is wonderful.  He can choose anything –,teacher,32,0,,,0.0,هل يمكنك أن تضعها بعيداً؟ أعتقد أن الطالب M الآن سوف نبدأ في الحفاظ عليها هنا في المرة القادمة.,I think student M now will start keeping it here next time.
+[Inaudible.],student,1,0,,,,[غير مسموع.],[Unheard of.]
+"Go sit down, please.",teacher,4,0,,,0.0,إذهب و اجلس من فضلك,"Go and sit down, please."
+This one.,student,2,0,,,,هذه.,This one.
+"Sit down and raise your hand.  Anything in Unit 1 right now, okay?",teacher,13,1,,,0.0,اجلس وأرفع يديك أي شيء في الوحدة 1 الآن، حسناً؟,"Sit down and raise your hands to anything in Unit 1 now, okay?"
+[Okay].,student,1,0,,,,[حسناً].,[Okay].
+"You’re here.  Come on.  Stay focused.  Good.  Now, what do you need to do with these two numbers?",teacher,18,0,,,0.0,أنت هنا، هيا، إبقى مركزاً، حسناً، الآن، ماذا ستفعلين بهذه الأرقام؟,"You're here, come on, stay focused, all right, now, what are you going to do with these numbers?"
+5 plus.,student,2,0,,,,خمسة زائد.,Five plus five.
+"Yeah, exactly.  You need to add them.",teacher,7,1,,,0.0,أجل، بالضبط، يجب أن تضيفهم,"Yes, exactly, you should add them."

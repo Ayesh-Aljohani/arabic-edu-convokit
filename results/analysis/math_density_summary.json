@@ -1,0 +1,10 @@
+{
+  "lexicon_size": 199,
+  "total_utterances": 11839,
+  "utterances_with_math_arabic": 2056,
+  "pct_with_math_arabic": 0.17366331615845934,
+  "utterances_with_math_english": 2545,
+  "pct_with_math_english": 0.21496748036151703,
+  "mean_math_density_arabic": 0.039140216026501695,
+  "mean_math_density_english": 0.43213109215305345
+}

@@ -1,0 +1,296 @@
+{
+  "focusing_questions": {
+    "model": "arabert",
+    "n_errors": 631,
+    "n_total": 5912,
+    "error_rate": 0.106732,
+    "examples": [
+      {
+        "text_english": "You back up.  Student C come forward. So, let’s see.  I’m gonna start.  My equation is 8 times 24.  So, would anyone mind if I changed it to 24 times 8?",
+        "text_arabic": "أنت تراجع. الطالب C يأتي إلى الأمام. لذلك، دعونا نرى. سأبدأ. معادلتي هي 8 × 24.",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.999164,
+        "fold": 2,
+        "row_index": 1265
+      },
+      {
+        "text_english": "The four-fourth, good.  So I’m just going to put that in parenthesis to check my work.  You could do that, too, if you want to check your work.  It’s up to you.  Can somebody choose another track for us to finish off?  Student T?",
+        "text_arabic": "الرابعة الرابعة، جيد. لذلك سأضع ذلك في العلاقة فقط للتحقق من عملي. يمكنك القيام بذلك أيضا، إذا كنت ترغب في التحقق من عملك. الأمر عائد إليك. هل يمكن لأي شخص أن يختار مسار آخر لنا لإنهاء؟ الطالب T؟",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.999084,
+        "fold": 2,
+        "row_index": 3407
+      },
+      {
+        "text_english": "12 goes into 72 four times?",
+        "text_arabic": "12 يذهب إلى 72 أربع مرات؟",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.999043,
+        "fold": 2,
+        "row_index": 3150
+      },
+      {
+        "text_english": "Student S, could you make yours look like the one that’s up on the board?  This one’s not done.  I think all the others are fine.  There you go.  That looks good.  So it has to be – let’s put this here so Student M can see too.  These are all the ones you took out?",
+        "text_arabic": "الطالب S، هل يمكن أن تجعل الخاص بك يبدو مثل الذي هو على اللوحة؟ هذا واحد لم يتم. أعتقد أن جميع الآخرين بخير. ها أنت. هذا يبدو جيدا. لذلك يجب أن يكون  دعونا نضع هذا هنا حتى الطالب M يمكن أن ترى أيضا. هذه كلها التي قمت بإزالتها؟",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.999019,
+        "fold": 2,
+        "row_index": 3615
+      },
+      {
+        "text_english": "You know what?  I don’t know why you went over there but if you’re trying to cause trouble –",
+        "text_arabic": "لا أعرف لماذا ذهبت إلى هناك ولكن إذا كنت تحاول أن تسبب المشاكل",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.999002,
+        "fold": 2,
+        "row_index": 3101
+      },
+      {
+        "text_english": "12.  If Student H had 7 and I had 7?",
+        "text_arabic": "إذا كان لدى الطالب (ه) 7 وأنا 7؟",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.998974,
+        "fold": 2,
+        "row_index": 4549
+      },
+      {
+        "text_english": "6, right? Top, bottom, 1, 2, front, back, 3, 4, side, side, 5, 6.  Okay? So what you’re going to do is you’ll make this box first and then I want you to write… Figure out the area of the top and then the area of the bottom, the area of the front side, area of the backside, the side, one of the sides, and then the other side, okay? So once we have all six of those, what does that mean? We have found all the surfaces, right? All the sides.  And then how do you find the surface area of this entire rectangular prism?",
+        "text_arabic": "6، صحيح؟ أعلى، أسفل، 1، 2، الأمام، الخلف، 3، 4، الجانب، الجانب، 5، 6؟ حسناً، ما الذي ستفعله هو أن تصنع هذا الصندوق أولاً، ثم أريدك أن تكتب... تحديد مساحة الجزء العلوي ومن ثم مساحة الجزء السفلي، مساحة الجانب الأمامي، مساحة الجانب الخلفي، الجانب، أحد الجانبين، ومن ثم الجانب الآخر، حسناً؟",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.99893,
+        "fold": 2,
+        "row_index": 2192
+      },
+      {
+        "text_english": "So the 4 in the 40’s place?",
+        "text_arabic": "إذاً 4 في مكان 40؟",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.998917,
+        "fold": 2,
+        "row_index": 2523
+      },
+      {
+        "text_english": "Yes.  And remember you should always know 25 times 4 equals what?  Anyone?",
+        "text_arabic": "نعم، وتذكر يجب أن تعرف دائماً أن 25 × 4 يساوي ماذا؟",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.998906,
+        "fold": 2,
+        "row_index": 1479
+      },
+      {
+        "text_english": "Yes, I have, Student S.  Student S, you’ll do.  What was going on with this problem?  What did you do?  What were you thinking about?",
+        "text_arabic": "نعم، لدي، الطالب S. الطالب S، ستفعل ما الذي كان يحدث مع هذه المشكلة؟ ماذا فعلت؟ ما الذي كنت تفكر فيه؟",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.998904,
+        "fold": 2,
+        "row_index": 2142
+      }
+    ]
+  },
+  "student_reasoning": {
+    "model": "mbert",
+    "n_errors": 68,
+    "n_total": 870,
+    "error_rate": 0.078161,
+    "examples": [
+      {
+        "text_english": "So the top area I found by the bottom because it’s the same.",
+        "text_arabic": "إذاً المنطقة العليا التي وجدتها بالقرب من القاع لأنّها نفسها",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.99806,
+        "fold": 3,
+        "row_index": 356
+      },
+      {
+        "text_english": "If you fold the paper in half it would be the same size as the other side.",
+        "text_arabic": "إذا قمت بتثبيت الورق إلى النصف سيكون بنفس الحجم من الجانب الآخر",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.997959,
+        "fold": 3,
+        "row_index": 779
+      },
+      {
+        "text_english": "Because – I got to tell you something.  You put up 240 from six times 4.",
+        "text_arabic": "لأن عليّ أن أخبرك شيئاً، تضع 240 من 6 × 4.",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.99767,
+        "fold": 3,
+        "row_index": 564
+      },
+      {
+        "text_english": "Because it could be the same problem but you just have to just change the numbers.",
+        "text_arabic": "لأنه يمكن أن يكون نفس المشكلة ولكن عليك فقط تغيير الأرقام.",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.997393,
+        "fold": 3,
+        "row_index": 835
+      },
+      {
+        "text_english": "On two-fifths, if you [inaudible] that line, [inaudible] four- tenths.",
+        "text_arabic": "على اثنين من الخامسة، إذا كنت [غير مستمع] ذلك الخط، [غير مستمع] أربعة عشرات.",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.997331,
+        "fold": 3,
+        "row_index": 765
+      },
+      {
+        "text_english": "[Inaudible] so a half of 6 equals [inaudible].",
+        "text_arabic": "[غير مسموع] لذلك نصف من 6 يساوي [غير مسموع].",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.997021,
+        "fold": 3,
+        "row_index": 856
+      },
+      {
+        "text_english": "And then you could turn that percent into a fraction.",
+        "text_arabic": "ومن ثم يمكنك تحويل هذا المئة إلى جزء.",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.996629,
+        "fold": 3,
+        "row_index": 278
+      },
+      {
+        "text_english": "Four or five. Now, it has more than five.",
+        "text_arabic": "أربعة أو خمسة. الآن، لديها أكثر من خمسة.",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.993771,
+        "fold": 0,
+        "row_index": 784
+      },
+      {
+        "text_english": "One could be – only one chip can be on the track.",
+        "text_arabic": "واحد يمكن أن يكون  رقاقة واحدة فقط يمكن أن تكون على المسار.",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.993118,
+        "fold": 0,
+        "row_index": 605
+      },
+      {
+        "text_english": "I think it’s important to have volume, because you’re not always going to have boxes and cubes to fill it up and find it.  So, you’re just gonna know how to use it.",
+        "text_arabic": "أعتقد أنه من المهم أن يكون لديك حجم، لأنك لن يكون لديك دائما صناديق ومكعبات لملئها وإيجادها. لذلك، سوف تعرف فقط كيفية استخدامه.",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.992411,
+        "fold": 3,
+        "row_index": 116
+      }
+    ]
+  },
+  "uptake": {
+    "model": "xlmr",
+    "n_errors": 587,
+    "n_total": 1733,
+    "error_rate": 0.338719,
+    "examples": [
+      {
+        "text_english": "Please don’t Teacher R me.",
+        "text_arabic": "ارجوك لا تدعيني",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.949937,
+        "fold": 1,
+        "row_index": 383
+      },
+      {
+        "text_english": "No.",
+        "text_arabic": "-كلا .",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.943292,
+        "fold": 4,
+        "row_index": 1665
+      },
+      {
+        "text_english": "And then we can add the 50 and the 20 together and what do we get?",
+        "text_arabic": "وبعدها يمكننا إضافة 50 و 20 معا وماذا نحصل؟",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.943072,
+        "fold": 4,
+        "row_index": 1540
+      },
+      {
+        "text_english": "Yes.  100 minus what?  100 minus --?",
+        "text_arabic": "نعم. 100 ناقص ماذا؟ 100 ناقص --؟",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.942127,
+        "fold": 4,
+        "row_index": 521
+      },
+      {
+        "text_english": "Let’s pretend like we were splitting 16 dollars.  How much money would you end up and I end up with if we split it evenly?  What do you think, Student C?  If we were splitting 16 dollars –?  I want to split 16 dollars evenly between and Student H?  How much money would we both get? Would we both get 5 dollars?  10 dollars?  15 dollars?",
+        "text_arabic": "دعونا نفترض أننا نقسم 16 دولار. كم من المال سوف ينتهي بك المطاف وأنا إذا نقسمها بالتساوي؟ ما رأيك، الطالب C؟ إذا كنا نقسم 16 دولار ؟ أريد تقسيم 16 دولار بالتساوي بين الطالب H؟ كم من المال سنحصل على كلانا؟ هل سنحصل على 5 دولارات؟ 10 دولارات؟ 15 دولارات؟",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.940132,
+        "fold": 4,
+        "row_index": 1403
+      },
+      {
+        "text_english": "Yeah, you want to tell us the percent?  Go ahead.",
+        "text_arabic": "نعم، هل تريد أن تخبرنا بالمئة؟",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.935645,
+        "fold": 1,
+        "row_index": 1452
+      },
+      {
+        "text_english": "And this is 140 days or months?  Days.  Okay?  So go ahead and stick those labels in.",
+        "text_arabic": "وهذه 140 يوماً أو شهراً؟ أيام. حسناً؟",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.933799,
+        "fold": 4,
+        "row_index": 808
+      },
+      {
+        "text_english": "Okay, well those are two really, really good strategies.  So this will allow us now tomorrow …",
+        "text_arabic": "حسناً، هذه استراتيجيات جيدة جداً، لذا هذا سيسمح لنا الآن غداً...",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.93073,
+        "fold": 1,
+        "row_index": 1232
+      },
+      {
+        "text_english": "You won?  Oh.",
+        "text_arabic": "هل فزت؟",
+        "true_label": 1,
+        "predicted_label": 0,
+        "confidence": 0.928782,
+        "fold": 2,
+        "row_index": 98
+      },
+      {
+        "text_english": "Now what if we instead of having six fives we multiply that five times 10 and we have six 50s.",
+        "text_arabic": "الآن ماذا لو بدلا من أن يكون لدينا ستة خمسة نضاعف ذلك خمسة × 10 ونحن لدينا ستة 50s.",
+        "true_label": 0,
+        "predicted_label": 1,
+        "confidence": 0.925796,
+        "fold": 0,
+        "row_index": 1086
+      }
+    ]
+  }
+}

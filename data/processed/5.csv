@@ -1,0 +1,575 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions,text_arabic,text_arabic_normalized,talktime_words_arabic,math_density_arabic,has_math_arabic
+Okay.  This afternoon we’re going to be doing a lesson on –,teacher,12,0,,,0.0,حسناً، بعد ظهر اليوم سنقوم بدراسة,حسنا، بعد ظهر اليوم سنقوم بدراسه,6,0.0,False
+Fractions.,student,1,1,,,,الكسور.,الكسور.,1,0.0,False
+"Fractions, percent equivalents and we’ve been working on this and let’s see if I just say to you I’m going to give you a percent and I wanna see if you can give me the equivalent fraction.  All right.  So let’s see if you can.  Let’s see if you remember some of them.  Some of them are tough, as you know, the eighths and the sixths.  We’ve been working on that.  Okay.  Now, how about 75 percent?  What would be the fraction equivalent of that?  Student K?",teacher,87,8,,,0.0,دعونا نرى إن كان بإمكانك أن تعطيني الجزء المكافئ. دعونا نرى إذا كنت تتذكر بعضها. بعضها صعب، كما تعلمون، الثمانية والسادسة. كنا نعمل على ذلك. حسناً. الآن، ماذا عن 75 في المئة؟ ما هي تعادل الجزء من ذلك؟ الطالب ك؟,دعونا نري ان كان بامكانك ان تعطيني الجزء المكافئ. دعونا نري اذا كنت تتذكر بعضها. بعضها صعب، كما تعلمون، الثمانيه والسادسه. كنا نعمل علي ذلك. حسنا. الان، ماذا عن 75 في المئه؟ ما هي تعادل الجزء من ذلك؟ الطالب ك؟,39,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Six-eights.,teacher,1,0,,,0.0,ستة ثمانية.,سته ثمانيه.,2,0.5,True
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Shh.  Shh.  Raise your hand please.  Three-fourths it would be equivalent to what fraction?,teacher,14,2,,,0.0,ارفع يديك من فضلك ثلاثة أرباعه يعادل أي جزء؟,ارفع يديك من فضلك ثلاثه ارباعه يعادل اي جزء؟,9,0.1111111111111111,True
+There’s two of them.,student,4,0,,,,هناك اثنان منهم.,هناك اثنان منهم.,3,0.3333333333333333,True
+Three-fourths would be equivalent to 70 so they’d be worth the same.  Correct?,teacher,13,1,,,0.0,ثلاثة أرباع سيكون مساوياً لـ 70 لذا سيكونون يستحقون نفس الشيء، صحيح؟,ثلاثه ارباع سيكون مساويا ل 70 لذا سيكونون يستحقون نفس الشيء، صحيح؟,11,0.08333333333333333,True
+Yes.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Student C?  Were you gonna say something?  Okay.  So what we’re going to be doing is comparing percents, fractions.  I got a tricky one for you, though, ’cause this is one that some of you get a little bit mixed up on, the one-eighth.  What would the percent be for one-eighth?  What would the percent be?",teacher,56,4,,,0.0,الطالب C؟ هل ستقول شيئاً؟ حسناً، ما سنفعله هو مقارنة النسبة المئوية، الفروقات. لديّ واحدة صعبة بالنسبة لكم، على الرغم من ذلك، لأن هذه هي واحدة التي يخلط بعضكم قليلاً بها، الثامنة الواحدة. ما هو النسبة المئوية للثامنة الواحدة؟,الطالب C؟ هل ستقول شيئا؟ حسنا، ما سنفعله هو مقارنه النسبه المئويه، الفروقات. لدي واحده صعبه بالنسبه لكم، علي الرغم من ذلك، لان هذه هي واحده التي يخلط بعضكم قليلا بها، الثامنه الواحده. ما هو النسبه المئويه للثامنه الواحده؟,39,0.0,False
+Twelve-and-a-half percent.,student,2,1,,,,اثني عشر ونصف بالمئة.,اثني عشر ونصف بالمئه.,4,0.25,True
+Twelve-and-a-half percent.  Good.  And then how about one- sixth?  Student C?,teacher,11,1,,,0.0,اثني عشر ونصف في المئة، جيد، وماذا عن السادس؟,اثني عشر ونصف في المئه، جيد، وماذا عن السادس؟,9,0.1111111111111111,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+What is it?,teacher,3,0,,,0.0,-ما الأمر؟,-ما الامر؟,2,0.0,False
+Percent.,student,1,1,,,,نسبة مئوية,نسبه مئويه,2,1.0,True
+Percent.  Good.  Okay.  So those are – those are always the trickier ones.  Right.  How about five-tenths?,teacher,17,2,,,0.0,في المئة. جيد. حسناً. إذاً هذه هي  تلك هي دائماً الأكثر صعوبة. حسناً. ماذا عن خمس عشرات؟,في المئه. جيد. حسنا. اذا هذه هي تلك هي دائما الاكثر صعوبه. حسنا. ماذا عن خمس عشرات؟,17,0.058823529411764705,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Student P?,teacher,2,0,,,0.0,الطالب بي؟,الطالب بي؟,2,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+What is it?,teacher,3,0,,,0.0,-ما الأمر؟,-ما الامر؟,2,0.0,False
+Fifty percent.,student,2,1,,,,خمسين في المئة,خمسين في المئه,3,0.0,False
+"Fifty percent.  Okay.  Good.  Okay.  So we’re going to look at the objective up here and we are gonna be identifying fraction and percent equivalents through reasoning about representations and known equivalents and relationships and then we’re gonna play the in between game. – two students demonstrate playing it.  So we’re all gonna watch ’cause I wanna make sure that everybody knows how to play the game.  Okay.  So the first thing that we’re gonna take out would be our little fraction cards.  Do you have your fraction cards, the yellow [inaudible]?  Everybody’s got them.  Hopefully.  I thought that maybe we’d use the whole pack but I don’t think we will today because some of them on here are – the numerator’s bigger than the denominator.  We need to talk about that.  Okay.  So if you would just take out the cards with the diamonds and you’re gonna play with a partner and we’re gonna be seeing how well you know your percents and your fraction equivalents. We’re gonna see how good you’re going to be doing on this. Student A?",teacher,181,13,,,0.0,الخمسين في المئة. حسناً. حسناً. حسناً. إذاً سوف ننظر إلى الهدف هنا وسنقوم بتحديد الأجزاء والنسبة المكافئة من خلال التفكير حول التمثيلات والنسبة المكافئة المعروفة والعلاقات ثم سنلعب بين اللعبة.  اثنين من الطلاب يظهرون لعبها. لذا سنشاهد جميعًا  لأنني أريد التأكد من أن الجميع يعرف كيف يلعب اللعبة. حسناً. إذاً أول شيء سنخرجه هو بطاقات الكسور الصغيرة. هل لديك بطاقات الكسور الخاصة بك، الصفراء [غير قابلة للسمع]؟ الجميع يحصل عليها. آمل. ظننت أننا قد نستخدم الحزمة بأكملها,الخمسين في المئه. حسنا. حسنا. حسنا. اذا سوف ننظر الي الهدف هنا وسنقوم بتحديد الاجزاء والنسبه المكافئه من خلال التفكير حول التمثيلات والنسبه المكافئه المعروفه والعلاقات ثم سنلعب بين اللعبه. اثنين من الطلاب يظهرون لعبها. لذا سنشاهد جميعا لانني اريد التاكد من ان الجميع يعرف كيف يلعب اللعبه. حسنا. اذا اول شيء سنخرجه هو بطاقات الكسور الصغيره. هل لديك بطاقات الكسور الخاصه بك، الصفراء [غير قابله للسمع]؟ الجميع يحصل عليها. امل. ظننت اننا قد نستخدم الحزمه باكملها,78,0.0,False
+Can we [inaudible]?,student,3,0,,,,هَلْ يُمْكِنُ أَنْ نَكُونَ [غير مُسمع]؟,هل يمكن ان نكون [غير مسمع]؟,7,0.0,False
+Excuse me?,teacher,2,0,,,0.0,المعذرة؟,المعذره؟,1,0.0,False
+Can we choose our own partners?,student,6,0,,,,هل يمكننا اختيار شركائنا؟,هل يمكننا اختيار شركائنا؟,4,0.0,False
+First we’re gonna do a demonstration and then we’re gonna all – I don’t know before we were doing all right with the partners that we chose before.  You want to maybe mix it up a little bit?,teacher,38,0,1.0,,0.0,أولاً سنقوم بعرض ثم سنقوم جميعاً لا أدري قبل أن نكون على ما يرام مع الشركاء الذين اخترناهم من قبل,اولا سنقوم بعرض ثم سنقوم جميعا لا ادري قبل ان نكون علي ما يرام مع الشركاء الذين اخترناهم من قبل,20,0.0,False
+Yes.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Okay.  Okay.  So what I’d like you to do is first take out all of your little fraction cards and you see the diamond on the side, just the diamond ones and then put the other ones in a safe place for later on when we talk about improper fractions when the numerator is bigger than the denominator.  We haven’t really quite got to that section yet.  So just take out the cards with the little diamond on the side.  Do you have your cards?  Okay.  Everybody’s got them, hopefully.  Okay.",teacher,91,4,,,0.0,حسناً. حسناً. لذا ما أود منك فعله هو أولاً إخراج كل بطاقات الكسور الصغيرة الخاصة بك وترى الماس على الجانب، فقط تلك الماسية ومن ثم وضع الآخرين في مكان آمن لاحقًا عندما نتحدث عن الكسور غير المناسبة عندما يكون العداد أكبر من الناطق. لم نصل إلى هذا القسم بعد. لذا فقط إخراج بطاقات مع الماس الصغير على الجانب. هل لديك بطاقاتك؟ حسناً. على أمل أن الجميع يحصل عليها. حسناً.,حسنا. حسنا. لذا ما اود منك فعله هو اولا اخراج كل بطاقات الكسور الصغيره الخاصه بك وتري الماس علي الجانب، فقط تلك الماسيه ومن ثم وضع الاخرين في مكان امن لاحقا عندما نتحدث عن الكسور غير المناسبه عندما يكون العداد اكبر من الناطق. لم نصل الي هذا القسم بعد. لذا فقط اخراج بطاقات مع الماس الصغير علي الجانب. هل لديك بطاقاتك؟ حسنا. علي امل ان الجميع يحصل عليها. حسنا.,69,0.0,False
+I left mine at home.,student,5,0,,,,لقد تركت لي في المنزل.,لقد تركت لي في المنزل.,5,0.0,False
+"Okay.  Then you’re gonna just have to watch, then, if you don’t have them.  Okay.  You may be – oh, no.  You know what? You can sit with somebody that has them.  Okay.  But they shouldn’t be at home.  They should be brought in.  Okay.",teacher,45,0,1.0,,0.0,حسناً، إذاً عليك أن تشاهد، إذا لم يكن لديك، حسناً، قد تكوني كذلك، يمكنك أن تجلس مع شخص لديه، لكن لا ينبغي أن يكون في المنزل، يجب أن يتم إحضارهم، حسناً.,حسنا، اذا عليك ان تشاهد، اذا لم يكن لديك، حسنا، قد تكوني كذلك، يمكنك ان تجلس مع شخص لديه، لكن لا ينبغي ان يكون في المنزل، يجب ان يتم احضارهم، حسنا.,31,0.0,False
+I forgot them.,student,3,0,,,,لقد نسيتُهم,لقد نسيتهم,2,0.0,False
+"Okay.   All right.  Now, in addition to having – two of you play you really need one deck of cards, correct.  So now take out, if you would, the rules for the game.  You’ve got the rules for the in between game that I gave you last week when we were working on it.",teacher,54,1,,,0.0,حسناً. حسناً. الآن، بالإضافة إلى أن يكون لديكما اثنان منكم يلعبون تحتاجون حقاً إلى مجموعة واحدة من البطاقات، صحيح. لذا الآن اخترعوا قواعد اللعبة، إذا كنتم تريدون، لديكما قواعد اللعبة المتوسطة التي أعطيتكمها الأسبوع الماضي عندما كنا نعمل عليها.,حسنا. حسنا. الان، بالاضافه الي ان يكون لديكما اثنان منكم يلعبون تحتاجون حقا الي مجموعه واحده من البطاقات، صحيح. لذا الان اخترعوا قواعد اللعبه، اذا كنتم تريدون، لديكما قواعد اللعبه المتوسطه التي اعطيتكمها الاسبوع الماضي عندما كنا نعمل عليها.,39,0.02564102564102564,True
+So we gotta go in between?,student,6,0,,,,إذاً يجب أن نذهب بينهما؟,اذا يجب ان نذهب بينهما؟,5,0.0,False
+"And if you have the rules you might also have, please sit down. Pleas sit down.",teacher,16,0,0.0,,0.0,وإذا كان لديك القواعد التي قد تكون لديك أيضاً، رجاءً اجلس.,واذا كان لديك القواعد التي قد تكون لديك ايضا، رجاء اجلس.,11,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Please sit down.  Please sit down, Student D.  You may also have your percent equivalent strip, too, that we worked on and we were right in the fractions, right below the percents.  You may have that also or you might have this one also.  That’s if you don’t know them still, you know, some of you may very well know them so – game it’s in your math handbook, okay, you have that so if you don’t have the rules but I think most of you know how to – kinda have a clue as to – we’re gonna do a demonstration on it anyway. Okay.  So everybody’s got all of those papers out.  What we will also need would be just a piece of scrap paper so that we’re gonna play five rounds of this game.  Okay.  And whoever – who’s gonna win the game?",teacher,146,4,,,0.0,يرجى الجلوس. يرجى الجلوس، الطالب D. قد يكون لديك أيضا شريط تعادل النسبة المئوية، التي عملنا عليها وكنا على حق في الكسور، تماما تحت النسبة المئوية. قد يكون لديك ذلك أيضا أو قد يكون لديك هذا أيضا. هذا إذا كنت لا تعرفهم بعد، كما تعلمون، بعض منكم قد يعرفهم جيدا جدا لذلك  اللعبة انها في دليل الرياضيات الخاص بك، حسنا، لديك ذلك لذلك إذا لم يكن لديك قواعد ولكن أعتقد أن معظمكم يعرف كيف  نوع من فكرة ,يرجي الجلوس. يرجي الجلوس، الطالب D. قد يكون لديك ايضا شريط تعادل النسبه المئويه، التي عملنا عليها وكنا علي حق في الكسور، تماما تحت النسبه المئويه. قد يكون لديك ذلك ايضا او قد يكون لديك هذا ايضا. هذا اذا كنت لا تعرفهم بعد، كما تعلمون، بعض منكم قد يعرفهم جيدا جدا لذلك اللعبه انها في دليل الرياضيات الخاص بك، حسنا، لديك ذلك لذلك اذا لم يكن لديك قواعد ولكن اعتقد ان معظمكم يعرف كيف نوع من فكره,76,0.0,False
+Me.,student,1,0,,,,-أنا,-انا,1,0.0,False
+Who’s going to win the game?,teacher,6,0,,,0.0,من سيفوز بالمباراة؟,من سيفوز بالمباراه؟,3,0.0,False
+Me.  [Inaudible.],multiple students,2,0,,,,أنا. [غير مسموع],انا. [غير مسموع],3,0.0,False
+When somebody –,teacher,3,0,,,0.0,عندما شخص ما,عندما شخص ما,3,0.0,False
+Got the lowest –,student,4,0,,,,حصلت على أدنى ,حصلت علي ادني,3,0.0,False
+"Right.  Has the lowest number.  Right.  When somebody has the lowest number they will be the ones that win.  So you’ve got everything out that we need.  I – Student D, can you pass out a small piece of math paper to everybody?  So we’ll use this to, you know, mark rounds, one round, two rounds, three rounds, four rounds and five rounds and whoever wins is the winner.",teacher,69,0,,,0.0,صحيح. لديه أدنى الرقم. صحيح. عندما يكون لدى شخص ما أدنى الرقم هم من يفوزون. لذلك لديك كل ما نحتاجه. أنا  الطالب D، هل يمكنك توزيع قطعة صغيرة من ورقة الرياضيات للجميع؟ لذلك سوف نستخدم هذا ل، كما تعلمون، علامة جولات، جولة واحدة، جولتين، ثلاث جولات، أربعة جولات وخمس جولات ومن يفوز هو الفائز.,صحيح. لديه ادني الرقم. صحيح. عندما يكون لدي شخص ما ادني الرقم هم من يفوزون. لذلك لديك كل ما نحتاجه. انا الطالب D، هل يمكنك توزيع قطعه صغيره من ورقه الرياضيات للجميع؟ لذلك سوف نستخدم هذا ل، كما تعلمون، علامه جولات، جوله واحده، جولتين، ثلاث جولات، اربعه جولات وخمس جولات ومن يفوز هو الفائز.,54,0.018518518518518517,True
+We play five rounds?,student,4,0,,,,سنلعب خمس جولات؟,سنلعب خمس جولات؟,3,0.3333333333333333,True
+"We’re gonna play five rounds.  Yeah.  Okay.  So first though, I think before we even do anything what I’d like to do is have a little demonstration just to be sure that people remember.  There’s something on the floor, honey.  I don’t know if that’s one of the cards.  I don’t know.",teacher,52,0,,,0.0,سنلعب خمس جولات، أجل، حسناً، لذا أولاً، قبل أن نفعل أي شيء، أعتقد أنّي أودّ القيام بعرض صغير فقط للتأكد من أنّ الناس يتذكّرون.,سنلعب خمس جولات، اجل، حسنا، لذا اولا، قبل ان نفعل اي شيء، اعتقد اني اود القيام بعرض صغير فقط للتاكد من ان الناس يتذكرون.,24,0.041666666666666664,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Pardon me?,teacher,2,0,,,0.0,عفواً؟,عفوا؟,1,0.0,False
+The cards.,student,2,0,,,,البطاقات,البطاقات,1,0.0,False
+Is somebody’s initials on that?,teacher,5,0,,,0.0,هَلْ يَجِبُ أَحَدُ أَنْ يَكُونَ أَوْلَفَ على ذلك؟,هل يجب احد ان يكون اولف علي ذلك؟,8,0.0,False
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+No?,teacher,1,0,,,0.0,-أليس كذلك؟,-اليس كذلك؟,2,0.0,False
+I don’t think it’s mine.,student,5,0,,,,لا أعتقد أنها ملكي,لا اعتقد انها ملكي,4,0.0,False
+"Well, there should be initials on the back.  No.  Okay.",teacher,10,0,0.0,,0.0,حسناً، يجب أن يكون هناك حروف أولية على الخلف,حسنا، يجب ان يكون هناك حروف اوليه علي الخلف,9,0.0,False
+"Yeah, I put all my initials [inaudible].",student,7,0,,,,نعم، وضعت كل أولياتي [غير مستمع].,نعم، وضعت كل اولياتي [غير مستمع].,6,0.0,False
+"Okay.  So you know what?  We’re gonna – you  might have an extra piece of scrap paper.  That’s okay but I think first of all we’re gonna have Student D, I don’t know who owns it anyway.  Student D and Student A play a demonstration game for us.  Okay.  ’Cause they know how to play.  Who won last time with you two?",teacher,62,0,0.0,,0.0,حسناً، إذاً أتعلمون ماذا؟ ربما يكون لديك قطعة إضافية من الورق الخردة، لا بأس، لكن أعتقد أولاً أننا سنحصل على الطالب (د) ، لا أعرف من يملكه على أي حال، الطالب (د) والطالب (أ) يلعبون لنا لعبة إثباتية، حسناً، لأنهم يعرفون كيف يلعبون، من فاز معكما آخر مرة؟,حسنا، اذا اتعلمون ماذا؟ ربما يكون لديك قطعه اضافيه من الورق الخرده، لا باس، لكن اعتقد اولا اننا سنحصل علي الطالب (د) ، لا اعرف من يملكه علي اي حال، الطالب (د) والطالب (ا) يلعبون لنا لعبه اثباتيه، حسنا، لانهم يعرفون كيف يلعبون، من فاز معكما اخر مره؟,48,0.0,False
+Me.,student,1,0,,,,-أنا,-انا,1,0.0,False
+"You?  Okay.  So what we’re gonna do just for a couple of minutes is we’re gonna review playing the game to make sure everybody knows what to do.  If you don’t have the rules to the in-between game you need to take it out, okay and that –",teacher,48,0,,,0.0,حسناً، ما سنفعله فقط لبضع دقائق هو مراجعة لعب اللعبة للتأكد من أن الجميع يعرف ما يجب القيام به,حسنا، ما سنفعله فقط لبضع دقائق هو مراجعه لعب اللعبه للتاكد من ان الجميع يعرف ما يجب القيام به,19,0.0,False
+[Inaudible?],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Excuse me?,teacher,2,0,,,0.0,المعذرة؟,المعذره؟,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"No, everybody can just have one and they could just, you know, go with – wit with another person, whoever we’re gonna play with.  But first of all I would like Student D.  I would like all of you kind of move your desks over so we can bring Student D up here and then Student A can come up. You don’t need to move too far, just so we have enough room to kinda stand around them as we put their desks in the middle.  So want to move over a little bit, please?  Move over so I want to bring Student D’s desk up here.",teacher,107,0,,,0.0,لا، يمكن للجميع الحصول على واحدة ويمكن أن يذهبوا فقط، كما تعلمون، مع شخص آخر، مهما كنا سنلعب معه. ولكن أولاً أود من الطالب D. أود منكم جميعاً أن تحركوا مكاتبكم نوعاً ما حتى نتمكن من جلب الطالب D إلى هنا ثم الطالب A يمكن أن يرتفع. لا تحتاج إلى التحرك بعيداً جداً، فقط لكي يكون لدينا مساحة كافية للوقوف حولهم عندما نضع مكاتبهم في المنتصف. لذا هل تريد التحرك قليلاً، من فضلك؟ تحركوا حتى أريد إحضار مكتب الطالب D هنا.,لا، يمكن للجميع الحصول علي واحده ويمكن ان يذهبوا فقط، كما تعلمون، مع شخص اخر، مهما كنا سنلعب معه. ولكن اولا اود من الطالب D. اود منكم جميعا ان تحركوا مكاتبكم نوعا ما حتي نتمكن من جلب الطالب D الي هنا ثم الطالب A يمكن ان يرتفع. لا تحتاج الي التحرك بعيدا جدا، فقط لكي يكون لدينا مساحه كافيه للوقوف حولهم عندما نضع مكاتبهم في المنتصف. لذا هل تريد التحرك قليلا، من فضلك؟ تحركوا حتي اريد احضار مكتب الطالب D هنا.,77,0.012345679012345678,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Huh?,teacher,1,0,,,0.0,هاه؟,هاه؟,1,0.0,False
+Why can’t we just use everybody else –,student,8,0,,0.0,,لماذا لا نستخدم الجميع؟,لماذا لا نستخدم الجميع؟,4,0.0,False
+"Well, he’s right here, too, so that’s fine.",teacher,8,0,0.0,,0.0,حسناً، هو هنا أيضاً، لذا لا بأس.,حسنا، هو هنا ايضا، لذا لا باس.,7,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Excuse me?,teacher,2,0,,,0.0,المعذرة؟,المعذره؟,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Student D, want to come up please?  And Student A bring a chair up, please and just come right here and then we’re just gonna stand.  Just bring a chair hon, you don’t need to bring the desk, okay.  Okay.  Good.  Come on up.  All right.  Now, the rest of you, Students, all of us we’re gonna be so good at this.  We’re gonna be so good.  Look at that, uh oh.  Uh oh.",teacher,74,0,,,0.0,الطالب (د) ، هل تريد الصعود من فضلك؟ والطالب (أ) يرفع الكرسي، من فضلك، تعال هنا وحسب، ثم سنقف فقط. فقط أحضر الكرسي حبيبتي، ليس عليك إحضار المكتب، حسناً. حسناً. حسناً. تعالوا. حسناً. الآن، البقية منكم، الطلاب، جميعنا سنكون جيدين جداً في هذا. سنكون جيدين جداً. انظروا إلى ذلك، اوه اوه اوه,الطالب (د) ، هل تريد الصعود من فضلك؟ والطالب (ا) يرفع الكرسي، من فضلك، تعال هنا وحسب، ثم سنقف فقط. فقط احضر الكرسي حبيبتي، ليس عليك احضار المكتب، حسنا. حسنا. حسنا. تعالوا. حسنا. الان، البقيه منكم، الطلاب، جميعنا سنكون جيدين جدا في هذا. سنكون جيدين جدا. انظروا الي ذلك، اوه اوه اوه,52,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Student A, come over here please and Student I, please, come on up.  Okay.  So come on over everybody.  Come on over. And especially if some of you don’t remember so the very – I would need everybody standing up so everybody can see what’s going on with these kids.  Okay.  So we are on round number one so could you please write round one on your paper anywhere and then put A and then D so we’re gonna see – we’re gonna do the first round.  Could someone loan him a pencil so he could write that.  Just write round one, okay. Student B, I need you too, honey.  Okay.  So we’re gonna do round one and whoever gets the lowest score after all five rounds will be a winner and I think since you did such a good job on Friday, since I’m bringing you in something tomorrow that maybe some of the winners today.  Student I won the spelling bee so you’re gonna get something else and then maybe the winners of this so come on over, honey, come on over and watch.  Okay. So let’s explain so the very first thing that we do, what do we do here?  What do we do?  Student A?",teacher,209,0,,,0.0,الطالب (أ) ، تعال هنا من فضلك و الطالب (أ) ، تعال هنا من فضلك. حسناً. تعالوا جميعاً. تعالوا إلى هنا. وخصوصاً إذا كان بعضكم لا يتذكرون ذلك تماماً  سأحتاج الجميع إلى الوقوف حتى الجميع يستطيعون رؤية ما يجري مع هؤلاء الأطفال. حسناً. لذا نحن في الجولة الأولى لذا هل يمكنك من فضلك كتابة الجولة الأولى على ورقتك في أي مكان ثم وضع A ثم D لذلك سوف نرى  سنقوم بالجولة الأولى. هل يمكن لشخص ما استعارة قلماً له حتى يستطيع كتابة ذلك. فقط اكتب الجولة الأولى، حسناً. الطالب B، أنا بحاجة لك أيضاً يا عزيزي. حسناً. لذا سنقوم بالجولة الأولى ومن يحصل على أدنى درجة بعد كل الجولات الخمس سيكون الفائز وأعتقد أنك قمت بعمل جيد جداً يوم الجمعة، بما أنني سوف أحضر لك شيئاً من الفائزين غداً.,الطالب (ا) ، تعال هنا من فضلك و الطالب (ا) ، تعال هنا من فضلك. حسنا. تعالوا جميعا. تعالوا الي هنا. وخصوصا اذا كان بعضكم لا يتذكرون ذلك تماما ساحتاج الجميع الي الوقوف حتي الجميع يستطيعون رؤيه ما يجري مع هؤلاء الاطفال. حسنا. لذا نحن في الجوله الاولي لذا هل يمكنك من فضلك كتابه الجوله الاولي علي ورقتك في اي مكان ثم وضع A ثم D لذلك سوف نري سنقوم بالجوله الاولي. هل يمكن لشخص ما استعاره قلما له حتي يستطيع كتابه ذلك. فقط اكتب الجوله الاولي، حسنا. الطالب B، انا بحاجه لك ايضا يا عزيزي. حسنا. لذا سنقوم بالجوله الاولي ومن يحصل علي ادني درجه بعد كل الجولات الخمس سيكون الفائز واعتقد انك قمت بعمل جيد جدا يوم الجمعه، بما انني سوف احضر لك شيئا من الفائزين غدا.,127,0.007751937984496124,True
+Shuffle the cards.,student,3,0,,,,خلي البطاقات,خلي البطاقات,2,0.0,False
+"We shuffle the cards, just the ones with the diamonds on them, right?  And then in the middle of the desk what are we putting down?  Are we putting down fractions or percents?",teacher,33,2,,,0.0,ونحن نخلط بين البطاقات، فقط تلك التي لديها الماس عليها، صحيح؟ ثم في منتصف المكتب ماذا نضع؟ هل نضع أسفل الكسور أو المئات؟,ونحن نخلط بين البطاقات، فقط تلك التي لديها الماس عليها، صحيح؟ ثم في منتصف المكتب ماذا نضع؟ هل نضع اسفل الكسور او المئات؟,23,0.0,False
+Percents.,multiple students,1,1,,,,نسبة مئوية,نسبه مئويه,2,1.0,True
+"Percents.  We put 10 percent over here, 50 percent in the middle and 90 percent over here.  First of all, who can tell me 10 percent stands for what fraction?  Who can tell me?  Student J?",teacher,36,6,,,0.0,نضع 10 في المئة هنا، 50 في المئة في الوسط و 90 في المئة هنا. أولاً، من يمكنه أن يقول لي 10 في المئة تعني أي جزء؟ من يمكنه أن يقول لي؟ الطالب J؟,نضع 10 في المئه هنا، 50 في المئه في الوسط و 90 في المئه هنا. اولا، من يمكنه ان يقول لي 10 في المئه تعني اي جزء؟ من يمكنه ان يقول لي؟ الطالب J؟,30,0.0,False
+Tenth.,student,1,1,,,,العاشر,العاشر,1,0.0,False
+"One-tenth.  Fifty percent stands for what?  Student I, come on up, please.  50 percent stands for –",teacher,17,3,,,0.0,واحد عشرة. 50 في المئة تعني ماذا؟ الطالب الأول، تعال، رجاءً. 50 في المئة تعني ,واحد عشره. 50 في المئه تعني ماذا؟ الطالب الاول، تعال، رجاء. 50 في المئه تعني,13,0.0,False
+One-half.,student,1,0,,,,ونصف.,ونصف.,1,0.0,False
+One-half.  And 90 percent stands for –,teacher,7,1,,,0.0,ونصف. و 90 في المئة تعني ,ونصف. و 90 في المئه تعني,5,0.0,False
+Nine-tenths.,student,1,1,,,,تسعة عشرات.,تسعه عشرات.,2,0.5,True
+"Nine-tenths.  Very good.  Okay.  So first of all we put those out, right.  And then the next thing we’re going to do is we shuffle the cards around and you all – how much is each person going to get?  How many cards?",teacher,43,1,,,0.0,تسعة عشرات. جيد جداً. حسناً. لذا أولاً نضع هذه، حسناً. ثمّ الشيء التالي الذي سنفعله هو نقوم بتدفق البطاقات,تسعه عشرات. جيد جدا. حسنا. لذا اولا نضع هذه، حسنا. ثم الشيء التالي الذي سنفعله هو نقوم بتدفق البطاقات,19,0.05263157894736842,True
+Six.,student,1,0,,,,ستة.,سته.,1,0.0,False
+"Six.  Okay.  So we mix them up.  Now, do you have six, Student A?  And you  have six, right?  Okay.  So now you’re gonna take turns placing the card so that it touches another card like this.  You also can put an equivalent – what does equivalent mean?",teacher,48,2,,,1.0,ستة. حسناً. لذا نقوم بتخليطهم. الآن، هل لديك ستة، الطالب A؟ وهل لديك ستة؟ حسناً. الآن سوف تقوم بتناوب وضع البطاقة بحيث تلمس بطاقة أخرى كهذه. يمكنك أيضاً وضع مكافئ  ماذا يعني مكافئ؟,سته. حسنا. لذا نقوم بتخليطهم. الان، هل لديك سته، الطالب A؟ وهل لديك سته؟ حسنا. الان سوف تقوم بتناوب وضع البطاقه بحيث تلمس بطاقه اخري كهذه. يمكنك ايضا وضع مكافئ ماذا يعني مكافئ؟,33,0.0,False
+The same.,multiple students,2,0,,,,نفس الشيء.,نفس الشيء.,2,0.0,False
+"The same.  Equivalent fraction right up above the percent. Right.  Or below, yeah.  Okay.  So the object of the game is to see how many cards you are going to place.  Okay. Now, as you put the card down, if you get one close to any of the percents that are down here you are going to say what the fraction is and its equivalent.  Okay.  I don’t know, Student C, I don’t know if we were doing that last time.  So anyway, okay, so who dealt the cards?  Did somebody – did you – he dealt them.  Okay.  Student A, take one of your cards out and then you have to state the fraction and the percent equivalent.",teacher,119,8,,,1.0,نفس الشيء. الجزء المكافئ فوق المئة مباشرة. صحيح. أو أسفل، نعم. حسناً. لذا الهدف من اللعبة هو معرفة عدد البطاقات التي ستضعها. حسناً. الآن، عندما تضع البطاقة إلى أسفل، إذا حصلت على واحدة قريبة من أي من المئات التي هي هنا سوف تقول ما هي الجزء ومعادلها. حسناً. لا أعرف، الطالب C، لا أعرف ما إذا كنا نفعل ذلك في المرة الماضية. على أي حال، حسناً، إذاً من قام بتوزيع البطاقات؟,نفس الشيء. الجزء المكافئ فوق المئه مباشره. صحيح. او اسفل، نعم. حسنا. لذا الهدف من اللعبه هو معرفه عدد البطاقات التي ستضعها. حسنا. الان، عندما تضع البطاقه الي اسفل، اذا حصلت علي واحده قريبه من اي من المئات التي هي هنا سوف تقول ما هي الجزء ومعادلها. حسنا. لا اعرف، الطالب C، لا اعرف ما اذا كنا نفعل ذلك في المره الماضيه. علي اي حال، حسنا، اذا من قام بتوزيع البطاقات؟,71,0.0,False
+One ten and 10 percent.,student,5,1,,,,واحد عشرة و 10 في المئة.,واحد عشره و 10 في المئه.,5,0.16666666666666666,True
+"One-tenth is 10 percent equal to.  Okay.  Good.  Student D, your turn.",teacher,12,2,1.0,,0.0,واحد عشرة يساوي 10 في المئة حسناً حسناً الطالب (د) ، دورك,واحد عشره يساوي 10 في المئه حسنا حسنا الطالب (د) ، دورك,11,0.16666666666666666,True
+33 and a third.,student,4,0,,,,33 و ثالثة,33 و ثالثه,2,0.0,False
+[Inaudible] and a third.  What’s the other word?,teacher,8,0,,,0.0,و ثالثاً ما هي الكلمة الأخرى؟,و ثالثا ما هي الكلمه الاخري؟,6,0.0,False
+Percent [whispering]. percent.,student,3,2,,,,نسبة مئوية,نسبه مئويه,2,1.0,True
+percent.  Thirty-three and a third percent.  Now notice no one can take a card and stick it now in between these two ’cause they’re touching.  Okay.  Okay.  Go ahead.,teacher,29,2,,,0.0,الآن لاحظ أنه لا يمكن لأحد أن يأخذ بطاقة ويضعها الآن بين هذين الاثنين لأنهم يلمسون. حسناً. حسناً. هيا.,الان لاحظ انه لا يمكن لاحد ان ياخذ بطاقه ويضعها الان بين هذين الاثنين لانهم يلمسون. حسنا. حسنا. هيا.,19,0.0,False
+"One-forth, 25 percent.",student,3,1,,,,ربع، 25 في المائة.,ربع، 25 في المائه.,3,0.0,False
+"Very good.  Next one, Student C?",teacher,6,0,,,0.0,جيد جداً، التالي، الطالب (سي) ؟,جيد جدا، التالي، الطالب (سي) ؟,6,0.0,False
+"One-half, 50 percent.",student,3,1,,,,نصف، 50 في المائة.,نصف، 50 في المائه.,3,0.0,False
+Very good.,teacher,2,0,,,0.0,جيد جداً,جيد جدا,2,0.0,False
+"Three-tenths, 30 percent.",student,3,2,,,,ثلاثة عشرات، 30 في المائة.,ثلاثه عشرات، 30 في المائه.,4,0.2,True
+"Very good.  You watching, girls?  So we’re gonna know exactly what we’re doing.  And the winners will get a little something tomorrow.",teacher,22,0,,,0.0,حسناً يا فتيات سوف نعرف بالضبط ما نفعله والفائزين سيحصلون على شيء صغير غداً,حسنا يا فتيات سوف نعرف بالضبط ما نفعله والفائزين سيحصلون علي شيء صغير غدا,14,0.0,False
+"Three-fifths, 60 percent.",student,3,1,,,,ثلاثة خمسة، 60 في المائة.,ثلاثه خمسه، 60 في المائه.,4,0.2,True
+"Three-fifths, 60 percent.",teacher,3,1,,,0.0,ثلاثة خمسة، 60 في المائة.,ثلاثه خمسه، 60 في المائه.,4,0.2,True
+"Nine-tenths, 90 percent.",student,3,2,,,,تسعة عشرات، 90 في المائة.,تسعه عشرات، 90 في المائه.,4,0.2,True
+"Excellent.  Excellent.  Any more, Student D?",teacher,6,0,,,1.0,ممتاز، ممتاز، المزيد يا طالب (دي) ؟,ممتاز، ممتاز، المزيد يا طالب (دي) ؟,7,0.0,False
+"Two-thirds, 66 and a two-thirds.",student,5,0,,,,ثلثين، 66 وثلثين,ثلثين، 66 وثلثين,2,0.0,False
+Per?,teacher,1,0,0.0,,0.0,في كل مرة؟,في كل مره؟,3,0.0,False
+Cent.,student,1,0,,,,سنت.,سنت.,1,0.0,False
+Very good.  Okay.  66 that’s a tough one.  So you really know them.  Good for you.  Okay.,teacher,17,0,,,0.0,جيد جداً حسناً 66 هذا صعب جداً لذا تعرفهم حقاً جيد لك حسناً,جيد جدا حسنا 66 هذا صعب جدا لذا تعرفهم حقا جيد لك حسنا,12,0.0,False
+"Four-fifths, 80 percent.",student,3,1,,,,أربع خمسة، 80 في المائة.,اربع خمسه، 80 في المائه.,4,0.0,False
+Okay.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+Can’t do any more.,student,4,0,,,,لا أستطيع فعل المزيد,لا استطيع فعل المزيد,4,0.0,False
+Can’t do any more?,teacher,4,0,,,0.0,لا يمكنك فعل المزيد؟,لا يمكنك فعل المزيد؟,4,0.0,False
+"Seven-tenths, [inaudible].",student,2,1,,,,سبعة عشرات، [غير مسموع].,سبعه عشرات، [غير مسموع].,4,0.25,True
+Okay.  Good.  Excuse me.  Okay.  Seven-tenths stands for 70 percent.  Right.  Okay.  Okay.  Student D.,teacher,15,2,,,0.0,حسناً، حسناً، عفواً، حسناً، سبعة عشرات تعني 70 في المئة، حسناً، حسناً، الطالب (دي),حسنا، حسنا، عفوا، حسنا، سبعه عشرات تعني 70 في المئه، حسنا، حسنا، الطالب (دي),13,0.07142857142857142,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Student D’s done?  He’s got – what have you got left?  What are the two fractions you have left?,teacher,19,1,,,0.0,الطالب D  انتهى؟ لديه  ماذا تبقى لديك؟ ما هي الكسورتان التي تبقى لديك؟,الطالب D انتهي؟ لديه ماذا تبقي لديك؟ ما هي الكسورتان التي تبقي لديك؟,12,0.0,False
+Three-eights and [inaudible].,student,3,0,,,,ثلاثة ثمانية و [غير مسموع].,ثلاثه ثمانيه و [غير مسموع].,5,0.4,True
+Three-eights and one-eighth.  What would three-eights stand for in percent?,teacher,10,1,,,0.0,ثمانية ثمانية و واحد ثمانية ماذا يعني ثمانية ثمانية في المئة؟,ثمانيه ثمانيه و واحد ثمانيه ماذا يعني ثمانيه ثمانيه في المئه؟,11,0.45454545454545453,True
+37 -and-a-half.,student,2,0,,,,37 و نصف,37 و نصف,2,0.3333333333333333,True
+37 -and-a-half percent.  Could we put it in here anywhere?,teacher,10,1,,,0.0,37 في المائة ونصف، هل يمكننا وضعها هنا في أي مكان؟,37 في المائه ونصف، هل يمكننا وضعها هنا في اي مكان؟,10,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Could we put it in here?  No.  No.  We couldn’t.  And then we have one-eighth.  What would one-eighth stand for?,teacher,20,0,,,0.0,لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا،,لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا،,255,0.0,False
+Twelve -and-a-half,multiple students,2,0,,,,اثني عشر ونصف,اثني عشر ونصف,3,0.3333333333333333,True
+"Twelve -and-a-half percent.  Could we put that in here?  It would go right here but once these cards are touching you can’t put anything in between. Okay.  So we just played one round.  They just played one round.  So how many cards do you have left, Student D?  Two.  So write two next to your initial.  And Student A has –",teacher,61,1,,,0.0,اثني عشر ونصف في المئة. هل يمكننا وضع ذلك هنا؟ سوف يذهب هنا ولكن بمجرد أن تلمس هذه البطاقات لا يمكنك وضع أي شيء بينهما. حسناً. لذلك لعبنا جولة واحدة فقط. لعبوا جولة واحدة فقط.,اثني عشر ونصف في المئه. هل يمكننا وضع ذلك هنا؟ سوف يذهب هنا ولكن بمجرد ان تلمس هذه البطاقات لا يمكنك وضع اي شيء بينهما. حسنا. لذلك لعبنا جوله واحده فقط. لعبوا جوله واحده فقط.,35,0.02857142857142857,True
+Zero.,student,1,0,,,,صفر.,صفر.,1,0.0,False
+Zero.  So who won the first round?,teacher,7,0,,,0.0,صفر، من الذي فاز بالجولة الأولى؟,صفر، من الذي فاز بالجوله الاولي؟,6,0.0,False
+Student D.,multiple students,2,0,,,,الطالب (د),الطالب (د),2,0.0,False
+Why did he win the first round?  Who can tell me?  Raise your hand.  Why did he win the first round Student B?,teacher,23,0,,,1.0,لماذا فاز بالجولة الأولى؟ من يمكنه أن يقول لي؟ ارفع يدك. لماذا فاز بالجولة الأولى للطلاب ب؟,لماذا فاز بالجوله الاولي؟ من يمكنه ان يقول لي؟ ارفع يدك. لماذا فاز بالجوله الاولي للطلاب ب؟,17,0.0,False
+Because he had less cards.,student,5,0,,,,لأنه كان لديه بطاقات أقل,لانه كان لديه بطاقات اقل,5,0.0,False
+"He had less cards.  He actually didn’t have any, did he?",teacher,11,0,1.0,,0.0,كان لديه بطاقات أقل، في الواقع لم يكن لديه بطاقات، أليس كذلك؟,كان لديه بطاقات اقل، في الواقع لم يكن لديه بطاقات، اليس كذلك؟,12,0.0,False
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+"No.  Okay.  So let’s do round two and then we’re all gonna play.  Everybody’s got it?  Do you have it too?  I wanted you to join us, honey.",teacher,28,0,,,0.0,لا، حسناً، دعونا نقوم بالجولة الثانية، ثم سنلعب جميعاً.,لا، حسنا، دعونا نقوم بالجوله الثانيه، ثم سنلعب جميعا.,9,0.0,False
+I don’t wanna play.,student,4,0,,,,لا أريد اللعب,لا اريد اللعب,3,0.0,False
+Okay.  Okay.  So now we’re on round two and after five rounds whoever has the lowest amount are they the winner?  Are they the winner?,teacher,25,0,,,0.0,حسناً، حسناً، الآن نحن في الجولة الثانية، وبعد خمس جولات، من لديه أدنى مبلغ هو الفائز؟,حسنا، حسنا، الان نحن في الجوله الثانيه، وبعد خمس جولات، من لديه ادني مبلغ هو الفائز؟,16,0.0625,True
+Yes.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Okay.  Okay.  Good so, you know, the whole object of this game is called in between which means once the cards are touching you can’t put anything in between them.  Okay.",teacher,31,1,,,0.0,حسناً، حسناً، حسناً، كل شيء في هذه اللعبة يتم استدعائه بينهما مما يعني أنه بمجرد أن تلمس البطاقات لا يمكنك وضع أي شيء بينهما,حسنا، حسنا، حسنا، كل شيء في هذه اللعبه يتم استدعائه بينهما مما يعني انه بمجرد ان تلمس البطاقات لا يمكنك وضع اي شيء بينهما,24,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"That’s why they’re called in between so then after we do the diamond ones then we’re gonna learn about improper fractions where the numerator is bigger than the denominator and then we’ll be able to play with that too. Okay. Okay.  So the first thing they did, what’d they do? Student K, what’d they do there?",teacher,56,3,,,1.0,ولهذا السبب يتم استدعائهم بينهما لذا بعد القيام بالأجزاء الماسية سوف نتعلم عن الكسور غير الملائمة حيث يكون العداد أكبر من الناطق ثم سوف نكون قادرين على اللعب بذلك أيضا. حسناً. حسناً. إذاً أول شيء فعلوه، ماذا فعلوا؟ الطالب ك، ماذا فعلوا هناك؟,ولهذا السبب يتم استدعائهم بينهما لذا بعد القيام بالاجزاء الماسيه سوف نتعلم عن الكسور غير الملائمه حيث يكون العداد اكبر من الناطق ثم سوف نكون قادرين علي اللعب بذلك ايضا. حسنا. حسنا. اذا اول شيء فعلوه، ماذا فعلوا؟ الطالب ك، ماذا فعلوا هناك؟,43,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+What did they put down there?,teacher,6,0,,,0.0,ماذا وضعوا هناك؟,ماذا وضعوا هناك؟,3,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"What did they put down there?  What’s the first thing that they did?  Student C, what did they put down?",teacher,20,0,,,1.0,ما الذي وضعوه هناك؟ ما هو أول شيء فعلوه؟ الطالب سي، ما الذي وضعوه؟,ما الذي وضعوه هناك؟ ما هو اول شيء فعلوه؟ الطالب سي، ما الذي وضعوه؟,14,0.0,False
+They put the fractions.,student,4,1,,,,لقد وضعوا الكسور,لقد وضعوا الكسور,3,0.0,False
+"They put the fractions down, the 10 percent, the 50 percent and the 90 percent.  Okay.   Now, we could put a lot of cards in between here, couldn’t we?",teacher,29,4,,,0.0,يضعون الكسور إلى أسفل، 10 في المئة، 50 في المئة، و 90 في المئة. حسنا، الآن، يمكننا وضع الكثير من البطاقات بين هنا، أليس كذلك؟,يضعون الكسور الي اسفل، 10 في المئه، 50 في المئه، و 90 في المئه. حسنا، الان، يمكننا وضع الكثير من البطاقات بين هنا، اليس كذلك؟,22,0.0,False
+Yes.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Now, in the beginning it’s wide open.  But okay, so you dealt them this time.  Okay.  So Student D, and again they got six cards.",teacher,25,0,,,0.0,حسناً، في البداية كان مفتوحاً جداً، لكن حسناً، لذا قمت بتوزيعهم هذه المرة، حسناً، إذاً الطالب (د) ، ومرة أخرى حصلوا على ست بطاقات.,حسنا، في البدايه كان مفتوحا جدا، لكن حسنا، لذا قمت بتوزيعهم هذه المره، حسنا، اذا الطالب (د) ، ومره اخري حصلوا علي ست بطاقات.,24,0.0,False
+"One-half, 50 percent.",student,3,1,,,,نصف، 50 في المائة.,نصف، 50 في المائه.,3,0.0,False
+"One-half is 50 percent, very good.",teacher,6,1,,,0.0,النصف هو 50 في المئة، جيد جدا.,النصف هو 50 في المئه، جيد جدا.,6,0.0,False
+One-ten and that’s 10 percent.,student,5,1,,,,واحد عشرة وهذا هو 10 في المئة.,واحد عشره وهذا هو 10 في المئه.,6,0.14285714285714285,True
+Excellent.,teacher,1,0,0.0,,0.0,ممتاز.,ممتاز.,1,0.0,False
+"Two-fifth is 40 percent. Nine-tenths, 90 percent.",student,7,3,,,,اثنين من الخامسة هو 40 في المئة تسعة عشرات، 90 في المئة.,اثنين من الخامسه هو 40 في المئه تسعه عشرات، 90 في المئه.,10,0.08333333333333333,True
+Good.,teacher,1,0,0.0,,0.0,-حسناً,-حسنا,1,0.0,False
+"One-six, 16 -and-a-third.",student,3,0,,,,واحد ستة، 16 و ثلث.,واحد سته، 16 و ثلث.,4,0.0,False
+16 what?,teacher,2,0,,,1.0,16 ماذا؟,16 ماذا؟,1,0.0,False
+And a third.,student,3,0,,,,وثالثاً,وثالثا,1,0.0,False
+And a third?,teacher,3,0,,,0.0,و ثالثة؟,و ثالثه؟,2,0.0,False
+Two thirds.,student,2,0,,,,ثلثين,ثلثين,1,0.0,False
+Two-thirds percent.  That’s a tricky one.  I know that.,teacher,9,1,,,0.0,ثلثي النسبة، هذا أمر صعب، أعلم ذلك.,ثلثي النسبه، هذا امر صعب، اعلم ذلك.,7,0.0,False
+"One-fifth, 20 percent.",student,3,1,,,,خمس واحد، 20 في المئة.,خمس واحد، 20 في المئه.,4,0.2,True
+Good.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+"Three-fourths, 75 percent.",student,3,1,,,,ثلاثة أرباع، 75 في المائة.,ثلاثه ارباع، 75 في المائه.,4,0.2,True
+Very good.  And remember you have to state the fraction and the percent when you do it.  Okay.  Go ahead.,teacher,20,2,,,0.0,جيد جداً، وتذكّر أنّك يجب أن تحدد الجزء والنسبة المئوية عند القيام بذلك. حسناً، هيا.,جيد جدا، وتذكر انك يجب ان تحدد الجزء والنسبه المئويه عند القيام بذلك. حسنا، هيا.,15,0.0,False
+"Three-tens, 30 percent.",student,3,1,,,,ثلاث عشرات، 30 في المئة.,ثلاث عشرات، 30 في المئه.,4,0.0,False
+"Okay.  Go ahead.  That’s a tricky one, huh? Show it up – hold it up to the rest of the kids and see if anybody – hold it up.  What is the fraction?",teacher,33,1,,,0.0,حسناً، هيّا، هذا صعب جداً، أظهره للأطفال الآخرين وأرى ما إذا كان هناك من يمسك به، ما هو الجزء؟,حسنا، هيا، هذا صعب جدا، اظهره للاطفال الاخرين واري ما اذا كان هناك من يمسك به، ما هو الجزء؟,19,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Five-six.  What percent would that be, five-six?",teacher,7,1,,,0.0,خمسة وستة، ما هي النسبة المئوية، خمسة ستة؟,خمسه وسته، ما هي النسبه المئويه، خمسه سته؟,8,0.25,True
+86 -and-a-third.,student,2,0,,,,86 ثلثاً,86 ثلثا,1,0.0,False
+86 -and-a-third.,teacher,2,0,,,0.0,86 ثلثاً,86 ثلثا,1,0.0,False
+"No, 83 and-a-third.",student,3,0,,,,لا، 83 و ثلث.,لا، 83 و ثلث.,3,0.0,False
+83 -and-a-third percent.  So can you put that down there?  No ’cause we’ve got 75 percent here and then 90 percent so we couldn’t put that in between.,teacher,28,3,,,0.0,83 ٪ و ثلث ٪ إذاً هل يمكنك وضع ذلك هناك؟ لا لأن لدينا 75 ٪ هنا ثم 90 ٪ لذلك لا يمكننا وضع ذلك بينهما,83 ٪ و ثلث ٪ اذا هل يمكنك وضع ذلك هناك؟ لا لان لدينا 75 ٪ هنا ثم 90 ٪ لذلك لا يمكننا وضع ذلك بينهما,23,0.038461538461538464,True
+Can’t put it in there. No.,student,6,0,,,,لا يمكنني وضعها هناك,لا يمكنني وضعها هناك,4,0.0,False
+What’s that?  What percent is that?  Five-eights.,teacher,7,1,0.0,,0.0,ما هذا؟ ما هو النسبة المئوية؟ خمسة وثمانية.,ما هذا؟ ما هو النسبه المئويه؟ خمسه وثمانيه.,8,0.125,True
+62 -and-a-half percent.,student,3,1,,,,62 و نصف في المئة,62 و نصف في المئه,4,0.2,True
+62 -and-a-half percent.  Is that correct?  Hum?,teacher,7,1,,,0.0,62 في المائة ونصف، هل هذا صحيح؟,62 في المائه ونصف، هل هذا صحيح؟,6,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Okay.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+Can’t put it in.,student,4,0,,,,لا أستطيع وضعها,لا استطيع وضعها,3,0.0,False
+Okay.  So what did Student D get?  How many cards did he have left?,teacher,14,0,,,0.0,حسناً، ما الذي حصل عليه الطالب (د) ؟,حسنا، ما الذي حصل عليه الطالب (د) ؟,8,0.0,False
+Two.,multiple students,1,0,,,,اثنان.,اثنان.,1,0.0,False
+Two.  Okay.  Put down two and –,teacher,7,0,,,0.0,اثنان، حسناً، ضع اثنان و ,اثنان، حسنا، ضع اثنان و,5,0.2,True
+One.,student,1,0,,,,واحد.,واحد.,1,0.0,False
+One.  Okay.  So who won that round?,teacher,7,0,,,0.0,حسناً، من الذي فاز بهذه الجولة؟,حسنا، من الذي فاز بهذه الجوله؟,6,0.0,False
+Student D.,multiple students,2,0,,,,الطالب (د),الطالب (د),2,0.0,False
+"Oh, gee.  Again.  Okay.  So why don’t you finish playing the rounds, okay, five rounds and then I’ll put people in partners and then we can switch around a little bit today. Okay.  But you really, really need to know how to play. Does everybody think that they can play it now?",teacher,52,0,,,0.0,حسناً، لماذا لا تنتهي من لعب الجولات، حسناً، خمس جولات، ثم سأضع الناس في شركاء، ثم يمكننا التبديل قليلاً اليوم، حسناً، لكن عليك حقاً، حقاً أن تعرف كيف تلعب، هل يعتقد الجميع أنهم يستطيعون اللعب الآن؟,حسنا، لماذا لا تنتهي من لعب الجولات، حسنا، خمس جولات، ثم ساضع الناس في شركاء، ثم يمكننا التبديل قليلا اليوم، حسنا، لكن عليك حقا، حقا ان تعرف كيف تلعب، هل يعتقد الجميع انهم يستطيعون اللعب الان؟,36,0.027777777777777776,True
+Yes.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Is there anybody that still might have difficulty playing with this?  And some of you still don’t know the equivalent percent in fractions so that’s why it’s a good idea to keep that paper out to help you so that you learn them ’cause I will be giving you quizzes on this so that you know them perfectly.  Some of you still don’t know even your multiplication facts, as yet.  So that needs to be, you know, you need to be studying that, too, ’cause last time what did we have, five 100’s on that?  I think or six so we’ll be ready for that. Okay.  So let’s see.  Is there anybody here that would like to choose somebody rather than me doing it and everybody’s gonna have to play today.  Okay.  So let us see, Student M, who would you like to play with today?",teacher,146,4,,,1.0,هل هناك شخص ما لا يزال يعاني من صعوبة في اللعب مع هذا؟ وبعضكم لا يزال لا يعرف النسبة المئوية المقابلة في الكسور لذلك أعتقد أنه من الجيد أن تبقي هذه الورقة خارج لمساعدتك على تعلمها لأنني سوف أعطيك الاختبارات حول هذا حتى تعرفها تمامًا. وبعضكم لا يزال لا يعرف حتى حقائق مضاعفة الخاص بك ، حتى الآن. لذلك يجب أن يكون ذلك ، كما تعلمون ، تحتاج إلى دراسة ذلك أيضًا ، لأنه في المرة الماضية ما كان لدينا ، خمسة 100s على ذلك؟ أعتقد أو ستة لذلك سنكون مستعدين لذلك. حسناً. لذلك دعونا نرى. هل هناك شخص هنا يرغب في اختيار شخص ما بدلاً مني القيام بذلك والجميع يجب أن يلعب اليوم. حسناً ، دعونا نرى ، م ، من تريد أن تلعب اليوم الطالب؟,هل هناك شخص ما لا يزال يعاني من صعوبه في اللعب مع هذا؟ وبعضكم لا يزال لا يعرف النسبه المئويه المقابله في الكسور لذلك اعتقد انه من الجيد ان تبقي هذه الورقه خارج لمساعدتك علي تعلمها لانني سوف اعطيك الاختبارات حول هذا حتي تعرفها تماما. وبعضكم لا يزال لا يعرف حتي حقائق مضاعفه الخاص بك ، حتي الان. لذلك يجب ان يكون ذلك ، كما تعلمون ، تحتاج الي دراسه ذلك ايضا ، لانه في المره الماضيه ما كان لدينا ، خمسه 100s علي ذلك؟ اعتقد او سته لذلك سنكون مستعدين لذلك. حسنا. لذلك دعونا نري. هل هناك شخص هنا يرغب في اختيار شخص ما بدلا مني القيام بذلك والجميع يجب ان يلعب اليوم. حسنا ، دعونا نري ، م ، من تريد ان تلعب اليوم الطالب؟,126,0.015748031496062992,True
+Student A?,student,2,0,,,,الطالب أ؟,الطالب ا؟,2,0.0,False
+Student A.  Okay.  So Student A just needs to move a chair over next to you and you just need one deck of cards and the piece of paper.  Okay?  Student J?,teacher,32,0,,,0.0,الطالب (إي) ، حسناً، الطالب (إي) فقط يحتاج إلى نقل كرسي بجوارك وأنت بحاجة إلى مجموعة من البطاقات وقطعة الورق، حسناً؟ الطالب (ج),الطالب (اي) ، حسنا، الطالب (اي) فقط يحتاج الي نقل كرسي بجوارك وانت بحاجه الي مجموعه من البطاقات وقطعه الورق، حسنا؟ الطالب (ج),23,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Okay.  Then pull your chair over to Student’s desk.,teacher,9,0,,,0.0,حسناً، ثم سحب كرسيك إلى مكتب الطالب,حسنا، ثم سحب كرسيك الي مكتب الطالب,7,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Do you guys wanna – do you wanna finish this out or do you wanna choose somebody else to play with.,teacher,21,0,,,0.0,هل تريدون أن تنتهيوا من هذا أم تريدون أن تختاروا شخص آخر للعب معه؟,هل تريدون ان تنتهيوا من هذا ام تريدون ان تختاروا شخص اخر للعب معه؟,14,0.0,False
+Choose somebody else.,student,3,0,,,,اختر شخص آخر,اختر شخص اخر,3,0.0,False
+Huh?  You wanna choose somebody else?  Okay.  So whose cards are those?,teacher,12,0,,,0.0,أتريدين اختيار شخص آخر؟ حسناً، إذن بطاقات من هذه؟,اتريدين اختيار شخص اخر؟ حسنا، اذن بطاقات من هذه؟,9,0.0,False
+Mine.,student,1,0,,,,بلدي.,بلدي.,1,0.0,False
+"All right.  So why don’t you put those away, honey, then we’ll just stop this demonstration.  You did a great job.  You two really know, really know you percents and fractions. Okay.  So who would you like to –",teacher,39,2,,,1.0,حسناً، لماذا لا تضع هذه بعيداً يا عزيزتي، ثم سنوقف هذا التظاهر. لقد قمت بعمل رائع. أنتما الاثنان تعرفان حقاً، حقاً تعرفان النسبة المئوية والكسور. حسناً.,حسنا، لماذا لا تضع هذه بعيدا يا عزيزتي، ثم سنوقف هذا التظاهر. لقد قمت بعمل رائع. انتما الاثنان تعرفان حقا، حقا تعرفان النسبه المئويه والكسور. حسنا.,26,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Jesus?  Okay.  So wanna pull your chair up?  You’ve got all your cards, Jesus?",teacher,14,0,,,0.0,حسناً، هل تريد أن ترفع كرسيك؟,حسنا، هل تريد ان ترفع كرسيك؟,6,0.0,False
+Yes.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Okay.  So bring your cards out and make sure you’ve got the rules, okay and pull your chair up next to him.",teacher,22,0,,,0.0,حسناً، أخرج بطاقاتك وأتأكد من أن لديك القواعد، حسناً، وسحب كرسيك إلى جانبه,حسنا، اخرج بطاقاتك واتاكد من ان لديك القواعد، حسنا، وسحب كرسيك الي جانبه,13,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Who?  Student A.  Okay.  Student A, where is he?  Back there hiding.  Is that his desk?  Where’s your desk, honey, up there?  All right.  So if you would take your – take – is that your chair.",teacher,37,0,,,0.0,من؟ الطالب أ. حسناً. الطالب أ. أين هو؟ هناك يختبئ. هل هذا مكتبه؟,من؟ الطالب ا. حسنا. الطالب ا. اين هو؟ هناك يختبئ. هل هذا مكتبه؟,13,0.0,False
+Yes.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+Move your chair next to his.  You don’t need two chairs. Student C?  Pardon me?,teacher,15,0,,,0.0,حرّك كرسيّك بجانب كرسيّه، لا تحتاجين إلى كرسيّين.,حرك كرسيك بجانب كرسيه، لا تحتاجين الي كرسيين.,8,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"You see if he’s got the game now so maybe you can go – Student D bring your chair over to Student C.  Everybody’s gotta be picked.  As long as you’re playing and not fooling around, okay.  No fooling around.  Okay.  Student L?  Okay.  Pull a chair over.  What about you?",teacher,51,0,,,1.0,انظر إذا كان لديه اللعبة الآن لذا ربما يمكنك الذهاب الطالب (د) أحضر الكرسي الخاص بك إلى الطالب (ج) يجب أن يتم اختيار الجميع طالما أنك تلعب ولا تمزح، حسناً، لا تمزح، حسناً، الطالب (ل) ، حسناً، سحب الكرسي، ماذا عنك؟,انظر اذا كان لديه اللعبه الان لذا ربما يمكنك الذهاب الطالب (د) احضر الكرسي الخاص بك الي الطالب (ج) يجب ان يتم اختيار الجميع طالما انك تلعب ولا تمزح، حسنا، لا تمزح، حسنا، الطالب (ل) ، حسنا، سحب الكرسي، ماذا عنك؟,41,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"I have Student A’s book too.  Student A, I think I took your book.  All right.  So who do you want to play with honey?",teacher,25,0,,,0.0,لدي كتاب الطالب الأول أيضاً الطالب الأول، أعتقد أنني أخذت كتابك حسناً، من تريد اللعب مع العسل؟,لدي كتاب الطالب الاول ايضا الطالب الاول، اعتقد انني اخذت كتابك حسنا، من تريد اللعب مع العسل؟,17,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Student J?  Student just sit down please.  All righty.  Student K?,teacher,11,0,,,0.0,الطالب (جي) ، اجلس من فضلك، حسناً، الطالب (كاي),الطالب (جي) ، اجلس من فضلك، حسنا، الطالب (كاي),9,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Okay.  So pull your chair up.  I don’t know if those are your papers [inaudible] on the floor.  And you have nobody? Huh?  You and Student I go play.  Okay.  Please.  Bring your chair over there.  Or you know what, Student I, wanna bring maybe Student M’s chair over here next – ’cause –",teacher,54,0,,,0.0,حسناً، إرفع الكرسي، لا أعلم إن كانت هذه أوراقك على الأرض، وليس لديك أحد، أنت و الطالب سنذهب للعب، حسناً، من فضلكم، أحضر الكرسي إلى هناك، أو أتعلمون ماذا، الطالب الأول، أريد إحضار كرسي الطالب إلى هنا,حسنا، ارفع الكرسي، لا اعلم ان كانت هذه اوراقك علي الارض، وليس لديك احد، انت و الطالب سنذهب للعب، حسنا، من فضلكم، احضر الكرسي الي هناك، او اتعلمون ماذا، الطالب الاول، اريد احضار كرسي الطالب الي هنا,37,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Your chair isn’t the chair.  And then we have – what – oh, Student K picked you.  Did you pick?",teacher,20,0,,,0.0,الكرسي الخاص بك ليس الكرسي ثم لدينا ماذا طلاب ك اختارك هل اخترت؟,الكرسي الخاص بك ليس الكرسي ثم لدينا ماذا طلاب ك اختارك هل اخترت؟,13,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Did she pick you?,teacher,4,0,,,0.0,هل اختارتك؟,هل اختارتك؟,2,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Did you?  Look how flexible you are?  You know what, I’m very proud of you, Student B.  You know a lot of students would say oh, no, no, no and you just did a really nice show of kindness today.  I thank you.  Good job.  Good job.  So now Student B, look at how nicely she did that.  She didn’t fuss.  She didn’t whine.",teacher,64,0,,,0.0,هل فعلت؟ انظر كم أنت مرنة؟ تعلمون ماذا، أنا فخور جدا بك، الطالب ب. تعرف الكثير من الطلاب سوف يقول أوه، لا، لا، لا، لا، وأنت فقط فعلت عرض لطيف جدا من اللطف اليوم. شكرا لك. عمل جيد. عمل جيد. الآن الطالب ب، انظر كيف لطيفة فعلت ذلك.,هل فعلت؟ انظر كم انت مرنه؟ تعلمون ماذا، انا فخور جدا بك، الطالب ب. تعرف الكثير من الطلاب سوف يقول اوه، لا، لا، لا، لا، وانت فقط فعلت عرض لطيف جدا من اللطف اليوم. شكرا لك. عمل جيد. عمل جيد. الان الطالب ب، انظر كيف لطيفه فعلت ذلك.,48,0.020833333333333332,True
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Okay.  So Student B, would you and Student I play please? Thank you.  Student I, do you want to come up next to Student B up here and we have you.  Do you wanna just be like watching the two to make sure they’re doing the right –",teacher,48,0,,,0.0,حسناً، إذاً الطالب ب، هل يمكنك أن تلعب مع الطالب أنا من فضلك؟ شكراً. الطالب الأول، هل تريد أن تأتي إلى جانب الطالب ب هنا ونحن معك؟ هل تريد فقط أن تكون مثل مشاهدة الاثنين للتأكد من أنهم يفعلون الشيء الصحيح,حسنا، اذا الطالب ب، هل يمكنك ان تلعب مع الطالب انا من فضلك؟ شكرا. الطالب الاول، هل تريد ان تاتي الي جانب الطالب ب هنا ونحن معك؟ هل تريد فقط ان تكون مثل مشاهده الاثنين للتاكد من انهم يفعلون الشيء الصحيح,41,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+– make sure that he’s saying the right fraction and the percent.,teacher,12,2,,,0.0,تأكد من أنه يقول الجزء الصحيح والنسبة.,تاكد من انه يقول الجزء الصحيح والنسبه.,7,0.0,False
+I am.,student,2,0,,,,أنا كذلك.,انا كذلك.,2,0.0,False
+"You are?  Okay.   Make sure you’re doing that ’cause we didn’t do that.  Make sure you’re saying the right percent and the right fraction, okay.",teacher,25,2,,,0.0,حسناً، تأكد من أنك تفعل ذلك لأننا لم نفعل ذلك تأكد من أنك تقول النسبة الصحيحة والجزء الصحيح، حسناً,حسنا، تاكد من انك تفعل ذلك لاننا لم نفعل ذلك تاكد من انك تقول النسبه الصحيحه والجزء الصحيح، حسنا,19,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Student A, would you like to sit and observe and then maybe after five rounds are done then you can go in for somebody?",teacher,24,0,,,1.0,الطالب أ، هل ترغب في الجلوس ومراقبة ثم ربما بعد خمسة جولات تنتهي ثم يمكنك الذهاب في لشخص ما؟,الطالب ا، هل ترغب في الجلوس ومراقبه ثم ربما بعد خمسه جولات تنتهي ثم يمكنك الذهاب في لشخص ما؟,19,0.05263157894736842,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Who?,teacher,1,0,,,0.0,مَنْ؟,من؟,1,0.0,False
+Student S.,student,2,0,,,,الطالب S.,الطالب S.,1,0.0,False
+"Student S.  Okay.  So Student A, let me ask you a question?",teacher,12,0,,,0.0,الطالب (س) حسناً الطالب (أ) دعني أسألك سؤالاً,الطالب (س) حسنا الطالب (ا) دعني اسالك سؤالا,8,0.0,False
+What?,student,1,0,,,,ـ ماذا؟,ماذا؟,2,0.0,False
+Since we have a couple of kids out –,teacher,9,0,,,0.0,منذ أن كان لدينا طفلين في الخارج,منذ ان كان لدينا طفلين في الخارج,7,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"No, I want you to do five rounds and then would one of you play the five rounds with him?",teacher,20,0,,,0.0,لا، أريد منك أن تقوم بخمس جولات وبعد ذلك واحد منكم يلعب الخمس جولات معه؟,لا، اريد منك ان تقوم بخمس جولات وبعد ذلك واحد منكم يلعب الخمس جولات معه؟,15,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Yeah, but you finish your round out, okay.  And you can maybe just pull a chair over and watch while they’re playing and then one of you will play some with him.  Okay.  ‘Cause he doesn’t have anybody ’cause we’re missing some students today.  Okay.  Good.  So honey did you want to go –",teacher,54,0,,,0.0,نعم، ولكنك تنتهي من جولتك، حسناً، ويمكنك ربما أن تسحب كرسيًا وتشاهد بينما يلعبون وبعدها واحد منكم سيلعب معه، حسناً، لأنه ليس لديه أحد، لأننا نفتقد بعض الطلاب اليوم، حسناً، حسناً.,نعم، ولكنك تنتهي من جولتك، حسنا، ويمكنك ربما ان تسحب كرسيا وتشاهد بينما يلعبون وبعدها واحد منكم سيلعب معه، حسنا، لانه ليس لديه احد، لاننا نفتقد بعض الطلاب اليوم، حسنا، حسنا.,31,0.0,False
+What time is it?,student,4,0,,,,ما هو الوقت؟,ما هو الوقت؟,3,0.0,False
+"Wanna go get a chair.  [Inaudible] and bring it over and you can just watch them.  I don’t know why these are still here.  Who won the – oh, we didn’t finish.  Okay.  Now, remember that you say the fraction and the percent, okay. Don’t forget to do that.  All right.",teacher,51,2,,,0.0,أريد أن أذهب وأحصل على كرسي. [لا يمكن سماعها] وأحضرها إلى هنا ويمكنك فقط مشاهدتهم. أنا لا أعرف لماذا هذه لا تزال هنا. من الذي فاز في  أوه، نحن لم ننتهي. حسنا. الآن، تذكر أنك تقول الجزء والنسبة، حسنا. لا تنسى أن تفعل ذلك. حسنا.,اريد ان اذهب واحصل علي كرسي. [لا يمكن سماعها] واحضرها الي هنا ويمكنك فقط مشاهدتهم. انا لا اعرف لماذا هذه لا تزال هنا. من الذي فاز في اوه، نحن لم ننتهي. حسنا. الان، تذكر انك تقول الجزء والنسبه، حسنا. لا تنسي ان تفعل ذلك. حسنا.,45,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Okay.  Let’s see how you’re doing.,teacher,6,0,,,0.0,حسناً، دعينا نرى كيف حالك,حسنا، دعينا نري كيف حالك,5,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Oh, you didn’t get a piece of scrap paper to write down – okay. Put your round one and then put your initials and then see –",teacher,27,0,,,0.0,أوه، لم تحصل على قطعة من ورقة النفايات للكتابة  حسنا، وضع جولة واحدة ثم وضع أولياتك ثم ترى ,اوه، لم تحصل علي قطعه من ورقه النفايات للكتابه حسنا، وضع جوله واحده ثم وضع اولياتك ثم تري,18,0.0,False
+We can’t go anymore.,student,4,0,,,,لا يمكننا الذهاب بعد الآن,لا يمكننا الذهاب بعد الان,5,0.0,False
+"You can’t go – oh, you both.  Oh, oh wow.  Look you tied. Great.  Okay.  So round one, go ahead.  Round one.",teacher,22,0,,,0.0,لا تستطيعون الذهاب يا انتما الاثنان انظر انتما مقابلان حسناً حسناً جولة واحدة هيا جولة واحدة,لا تستطيعون الذهاب يا انتما الاثنان انظر انتما مقابلان حسنا حسنا جوله واحده هيا جوله واحده,16,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Excellent.  Excellent.  Who are you playing with?,teacher,7,0,,,0.0,ممتاز، ممتاز، مع من تلعب؟,ممتاز، ممتاز، مع من تلعب؟,5,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Huh?,teacher,1,0,,,0.0,هاه؟,هاه؟,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+What’s he doing?,teacher,3,0,,,0.0,ماذا يفعل؟,ماذا يفعل؟,2,0.0,False
+We got a tie on the first one.,student,8,0,,0.0,,حصلنا على ربطة عنق في الأول.,حصلنا علي ربطه عنق في الاول.,6,0.0,False
+"So did you do round one?  Oh, you tied the first one.  Okay. All right.  So continue.  I want to hear everybody saying the fraction and the percent, please.  Okay.  Did you say it?",teacher,34,2,1.0,,0.0,حسناً، استمر، أريد أن أسمع الجميع يقولون الجزء والنسبة المئوية، من فضلكم. حسناً، هل قلتها؟,حسنا، استمر، اريد ان اسمع الجميع يقولون الجزء والنسبه المئويه، من فضلكم. حسنا، هل قلتها؟,15,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Okay.  Make sure your partner is saying the fraction and the percent also.  Remind them to do it, okay.",teacher,19,2,,,0.0,حسناً، تأكد من أن شريكك يقول الجزء والنسبة المئوية أيضاً,حسنا، تاكد من ان شريكك يقول الجزء والنسبه المئويه ايضا,10,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+How you doing?,teacher,3,0,,,0.0,كيف حالك؟,كيف حالك؟,2,0.0,False
+We got a tie in the first round.,student,8,0,,0.0,,حصلنا على رابطة في الجولة الأولى.,حصلنا علي رابطه في الجوله الاولي.,6,0.0,False
+"You tied.  Oh, wow he’s giving you a run for your money, isn’t he?",teacher,14,0,1.0,,0.0,أنت متساوية. أوه، واو هو يمنحك ركض من أجل أموالك، أليس كذلك؟,انت متساويه. اوه، واو هو يمنحك ركض من اجل اموالك، اليس كذلك؟,12,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Run for your money.  What does that mean he’s giving you – if I said he’s giving you – Student J is giving you a run for your money what does that mean?,teacher,33,0,,,1.0,اجري من اجل مالك ماذا يعني هذا انه يعطيك اذا قلت انه يعطيك الطالب جي يعطيك ركض من اجل مالك ماذا يعني ذلك؟,اجري من اجل مالك ماذا يعني هذا انه يعطيك اذا قلت انه يعطيك الطالب جي يعطيك ركض من اجل مالك ماذا يعني ذلك؟,23,0.0,False
+I don’t even know what that means.,student,7,0,,,,أنا لا أعرف حتى ما يعنيه ذلك.,انا لا اعرف حتي ما يعنيه ذلك.,7,0.0,False
+Do you think you might have an idea.,teacher,8,0,0.0,,1.0,هل تعتقد أن لديك فكرة؟,هل تعتقد ان لديك فكره؟,5,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Yeah, good competition.  Yeah, good competition ’cause you both tied the first one.  Okay.  Let’s go see what everybody else is doing.",teacher,22,0,,,0.0,أجل، منافسة جيدة، أجل، منافسة جيدة، لأنكما ربطتما الأول، حسناً، لنذهب لنرى ما الذي يفعله الآخرون,اجل، منافسه جيده، اجل، منافسه جيده، لانكما ربطتما الاول، حسنا، لنذهب لنري ما الذي يفعله الاخرون,16,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Is he shuffling them?  All right.  Okay.  Round one.  Did we finish round one?,teacher,14,0,,,0.0,حسناً، الجولة الأولى، هل انتهينا من الجولة الأولى؟,حسنا، الجوله الاولي، هل انتهينا من الجوله الاولي؟,8,0.0,False
+Yes.  She won.,student,3,0,,,,نعم، لقد فازت,نعم، لقد فازت,3,0.0,False
+"Did you put – you need to put your numbers down on the paper, honey, okay.  Okay.",teacher,17,0,,,0.0,يجب أن تضع أرقامك على الورق، عزيزتي، حسناً.,يجب ان تضع ارقامك علي الورق، عزيزتي، حسنا.,8,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Let’s see.  Who won?  You.  No.  Yeah.  You know what you’re doing?,teacher,12,0,,,0.0,دعونا نرى، من الفائز؟ أنت. لا. نعم. هل تعرف ما الذي تفعله؟,دعونا نري، من الفائز؟ انت. لا. نعم. هل تعرف ما الذي تفعله؟,12,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Okay.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Who’s winning first round?,teacher,4,0,,,0.0,من الذي يفوز بالجولة الأولى؟,من الذي يفوز بالجوله الاولي؟,5,0.0,False
+I am.,student,2,0,,,,أنا كذلك.,انا كذلك.,2,0.0,False
+Did you put the numbers down?  You need to put it on here. Okay.  Round one.,teacher,16,0,,,0.0,هل وضعت الأرقام؟ عليك وضعها هنا. حسناً، الجولة الأولى.,هل وضعت الارقام؟ عليك وضعها هنا. حسنا، الجوله الاولي.,9,0.0,False
+I got [inaudible].,student,3,0,,,,حصلت على [غير مسموع].,حصلت علي [غير مسموع].,4,0.0,False
+"Oh, you tied.  All right.  So put round one, your two initials and then two and two, right.",teacher,18,0,,,0.0,حسناً، ضع الجولة الأولى، حرفيّك الأول والثاني والثاني، صحيح.,حسنا، ضع الجوله الاولي، حرفيك الاول والثاني والثاني، صحيح.,9,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Five rounds.  You just did one round.  Now, you shuffle them all together again.",teacher,14,0,,,0.0,خمس جولات، لقد قمت بجولة واحدة فقط، والآن تضربهم معاً مرة أخرى,خمس جولات، لقد قمت بجوله واحده فقط، والان تضربهم معا مره اخري,12,0.08333333333333333,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Whoever gets after the five rounds whoever gets the lowest score, the lowest number is the winner.",teacher,17,0,,,0.0,من يحصل بعد الجولات الخمس من يحصل على أدنى النتيجة، أقل الرقم هو الفائز.,من يحصل بعد الجولات الخمس من يحصل علي ادني النتيجه، اقل الرقم هو الفائز.,14,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Well, you’re gonna get all these numbers at the end on how many cards you can place and can’t place and whatever you can’t place will be your number and then we add them all up, okay, at the end and whoever gets the lowest number is the winner of the round – of the whole – the whole five rounds, actually.  Okay.",teacher,63,3,,,0.0,حسنا، سوف تحصل على كل هذه الأرقام في النهاية على عدد البطاقات التي يمكنك وضعها و لا يمكنك وضعها وكل ما لا يمكنك وضعها سيكون رقمك ثم نضيفهم جميعا، حسنا، في النهاية ومن يحصل على أقل رقم هو الفائز في الجولة,حسنا، سوف تحصل علي كل هذه الارقام في النهايه علي عدد البطاقات التي يمكنك وضعها و لا يمكنك وضعها وكل ما لا يمكنك وضعها سيكون رقمك ثم نضيفهم جميعا، حسنا، في النهايه ومن يحصل علي اقل رقم هو الفائز في الجوله,41,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"And so – are you don’t with the first round.  You’re now starting your second round, right?  Yeah.  Okay.  Good. How we doing?",teacher,23,0,,,0.0,إذاً أنتِ لا تبدأين الجولة الأولى، أنتِ تبدأين الجولة الثانية، صحيح؟ أجل، حسناً، كيف الحال؟,اذا انت لا تبداين الجوله الاولي، انت تبداين الجوله الثانيه، صحيح؟ اجل، حسنا، كيف الحال؟,15,0.0,False
+Not good.,student,2,0,,,,ليس جيداً,ليس جيدا,2,0.0,False
+Not good.  Why?,teacher,3,0,,,1.0,ليس جيداً، لماذا؟,ليس جيدا، لماذا؟,3,0.0,False
+He keeps beating me.,student,4,0,,,,لا يزال يضربني,لا يزال يضربني,3,0.0,False
+"Oh, Student I, come on.  You won in the spelling.  You won in the spelling.",teacher,15,0,,,0.0,أوه، الطالب الأول، هيّا، لقد فزت في التكليف.,اوه، الطالب الاول، هيا، لقد فزت في التكليف.,8,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+I know.  What is this?  Is this Student D’s desk?,teacher,10,0,,,0.0,أعلم، ما هذا، هل هذا مكتب الطالب؟,اعلم، ما هذا، هل هذا مكتب الطالب؟,7,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Well, don’t keep doing it honey, please, okay ’cause it – we need to get it fixed.  So what was your number?  What was your score on –",teacher,28,0,,,0.0,حسناً، لا تستمر في فعل ذلك يا عزيزتي، رجاءً، حسناً، لأنّه علينا إصلاحه، ما هو رقمك؟,حسنا، لا تستمر في فعل ذلك يا عزيزتي، رجاء، حسنا، لانه علينا اصلاحه، ما هو رقمك؟,16,0.0,False
+I had –,student,3,0,,,,كان لدي,كان لدي,2,0.0,False
+You need to put the numbers down there.  What’s the number?,teacher,11,0,,,0.0,عليك أن تضع الأرقام هناك ما هو الرقم؟,عليك ان تضع الارقام هناك ما هو الرقم؟,8,0.0,False
+Zero.,student,1,0,,,,صفر.,صفر.,1,0.0,False
+"Zero and what?  Okay.   So then shuffle them.  How we doing? Round one.  Are you L, last name?  Yeah.",teacher,19,0,,,0.0,0 وماذا؟ حسناً، إذاً خليلهم، كيف الحال؟ الجولة الأولى، هل أنت (إل) ، اسم عائلي؟,0 وماذا؟ حسنا، اذا خليلهم، كيف الحال؟ الجوله الاولي، هل انت (ال) ، اسم عائلي؟,14,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"So you got two and you got zero.  Okay.  So who’s the winner of that one?  You.  Okay.  Keep going.  Excuse me, [inaudible].  So what did you get on round one?",teacher,31,0,,,0.0,حسناً، من هو الفائز في هذه؟ أنت، حسناً، استمر، عفواً، ماذا حصلت على الجولة الأولى؟,حسنا، من هو الفائز في هذه؟ انت، حسنا، استمر، عفوا، ماذا حصلت علي الجوله الاولي؟,15,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"So – all right so who won the first round?  Student A, who won?",teacher,14,0,,,0.0,إذاً، من الذي فاز بالجولة الأولى؟ الطالب الأول، من الذي فاز؟,اذا، من الذي فاز بالجوله الاولي؟ الطالب الاول، من الذي فاز؟,11,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Okay.  Now, see if you can beat him on the second round.  All right.  See if you can beat him.  Who won?",teacher,22,0,,,0.0,حسناً، الآن، انظر إن كنت تستطيع هزيمته في الجولة الثانية، حسناً، انظر إن كنت تستطيع هزيمته.,حسنا، الان، انظر ان كنت تستطيع هزيمته في الجوله الثانيه، حسنا، انظر ان كنت تستطيع هزيمته.,16,0.0,False
+I did. I had zero [inaudible].,student,6,0,,,,لقد فعلت ، لقد حصلت على الصفر,لقد فعلت ، لقد حصلت علي الصفر,7,0.0,False
+You won?  Oh.,teacher,3,0,1.0,,0.0,هل فزت؟,هل فزت؟,2,0.0,False
+He won round two.,student,4,0,,,,فاز في الجولة الثانية,فاز في الجوله الثانيه,4,0.0,False
+Oh.  Wait a minute.,teacher,4,0,,,0.0,انتظر لحظة,انتظر لحظه,2,0.0,False
+[Inaudible.]   Round two.,student,3,0,,,,الجولة الثانية,الجوله الثانيه,2,0.0,False
+"Oh, yeah.",teacher,2,0,,,0.0,أوه، نعم.,اوه، نعم.,2,0.0,False
+He won round one.,student,4,0,,,,لقد فاز في الجولة الأولى,لقد فاز في الجوله الاولي,5,0.0,False
+"Yeah, write round one, honey, up here so we know what rounds we’re doing then round two ’cause then we have to add them all up after.",teacher,27,1,,,0.0,نعم، اكتب الجولة الأولى يا عزيزي، هنا حتى نعرف ما الجولات التي نقوم بها ثم الجولة الثانية,نعم، اكتب الجوله الاولي يا عزيزي، هنا حتي نعرف ما الجولات التي نقوم بها ثم الجوله الثانيه,17,0.0,False
+[Inaudible] realized?  The camera’s rolling.,student,5,0,,,,أدركت أن الكاميرا تدور,ادركت ان الكاميرا تدور,4,0.0,False
+"Yeah, I know.  Okay.  So anyway, so that’s round one, right? And then you’re gonna do round two.  And then we’re gonna add all of them up at the end and whoever gets the lowest score.  Well, you know how to play this.",teacher,43,1,0.0,,0.0,أجل، أعلم، حسناً، على أية حال، إذاً هذه هي الجولة الأولى، صحيح؟ وبعد ذلك ستقومين بالجولة الثانية، ثم سنجمعهم جميعاً في النهاية، ومن يحصل على أدنى نتيجة. حسناً، أنت تعرف كيف تلعب هذا.,اجل، اعلم، حسنا، علي ايه حال، اذا هذه هي الجوله الاولي، صحيح؟ وبعد ذلك ستقومين بالجوله الثانيه، ثم سنجمعهم جميعا في النهايه، ومن يحصل علي ادني نتيجه. حسنا، انت تعرف كيف تلعب هذا.,33,0.0,False
+[Inaudible.] microphone’s on.,student,3,0,,,,الميكروفون يعمل,الميكروفون يعمل,2,0.0,False
+I know that.  I know that.,teacher,6,0,,,0.0,أعلم ذلك، أعلم ذلك,اعلم ذلك، اعلم ذلك,4,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"You’re kidding.  You both have nothing?  You both got zeros? Wow.  That’s unusual.  That’s great.  Oh, boy someone’s gonna have to – uh oh.  He is a challenge.  Huh?",teacher,29,0,,,0.0,هل تمزحين؟ كلاً منكم لا يملك شيئاً؟ كلاً منكم لديه صفر؟ واو، هذا غير عادي. هذا عظيم. أوه، يا فتى، شخص ما سيضطر إلى,هل تمزحين؟ كلا منكم لا يملك شيئا؟ كلا منكم لديه صفر؟ واو، هذا غير عادي. هذا عظيم. اوه، يا فتي، شخص ما سيضطر الي,24,0.0,False
+Yeah.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+He is a challenge.  Good.  All right.  So go ahead another round.  You’re on – you did round two.  We gotta go up to five rounds.  All right.  Five.  What?,teacher,30,0,,,0.0,إنه تحدي، جيد، حسنًا، لذا قم بجولة أخرى، أنت في الجولة الثانية، يجب أن نصل إلى خمس جولات. حسناً، خمسة. ماذا؟,انه تحدي، جيد، حسنا، لذا قم بجوله اخري، انت في الجوله الثانيه، يجب ان نصل الي خمس جولات. حسنا، خمسه. ماذا؟,21,0.047619047619047616,True
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+The other one.  Oh.,teacher,4,0,,,0.0,-الآخر,-الاخر,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Cameras are rolling.,teacher,3,0,,,0.0,الكاميرات تدور,الكاميرات تدور,2,0.0,False
+"Yeah, but [inaudible].",student,3,0,,,,نعم، ولكن [غير مسموع].,نعم، ولكن [غير مسموع].,4,0.0,False
+Pardon me?,teacher,2,0,,,0.0,عفواً؟,عفوا؟,1,0.0,False
+Where are the [inaudible].,student,4,0,,,,أين هؤلاء المشركون؟,اين هؤلاء المشركون؟,3,0.0,False
+"Oh, they’ll be back.",teacher,4,0,,,0.0,سوف يعودون,سوف يعودون,2,0.0,False
+Oh.,student,1,0,,,,-أوه .,-اوه .,1,0.0,False
+They don’t – they don’t sit in and watch it.  They take it back to the University.  They take it back to Harvard and they take a look at it and they show other teachers so they can show other teachers –,teacher,42,0,,,0.0,إنهم لا يجلسون ويشاهدونها. يأخذونها إلى الجامعة. يأخذونها إلى هارفارد ويلقون نظرة عليها ويظهرونها للمعلمين الآخرين حتى يتمكنوا من إظهارها للمعلمين الآخرين,انهم لا يجلسون ويشاهدونها. ياخذونها الي الجامعه. ياخذونها الي هارفارد ويلقون نظره عليها ويظهرونها للمعلمين الاخرين حتي يتمكنوا من اظهارها للمعلمين الاخرين,22,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Student D, you need to behave properly, please.  All right?",teacher,10,0,,,0.0,الطالب (دي) ، يجب أن تتصرف بشكل لائق، رجاءً، حسناً؟,الطالب (دي) ، يجب ان تتصرف بشكل لائق، رجاء، حسنا؟,10,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+He doesn’t cheat.,teacher,3,0,,,0.0,إنه لا يخدع,انه لا يخدع,3,0.0,False
+He can see my cards.,student,5,0,,,,يمكنه رؤية بطاقاتي,يمكنه رؤيه بطاقاتي,3,0.0,False
+Student D?,teacher,2,0,0.0,,0.0,الطالب (دي) ؟,الطالب (دي) ؟,3,0.0,False
+I’m serious.  He went like that and put it down [inaudible].,student,11,0,,0.0,,أَنا جَدِيدُ. هو ذَهَبَ كَذَلِكَ وَضَعَه [غير مُسمع].,انا جديد. هو ذهب كذلك وضعه [غير مسمع].,8,0.0,False
+"Yeah, but you know what?",teacher,5,0,0.0,,0.0,أجل، لكن أتعلمين ماذا؟,اجل، لكن اتعلمين ماذا؟,4,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+He’s got to know where to put it and you’ve gotta be saying the fraction and the –,teacher,18,1,,,0.0,يجب أن يعرف أين يضعها ويجب أن تقول الجزء والجزء,يجب ان يعرف اين يضعها ويجب ان تقول الجزء والجزء,10,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Who won the first round?,teacher,5,0,,,0.0,من فاز بالجولة الأولى؟,من فاز بالجوله الاولي؟,4,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Oh, what’s she got a two – you got a –",teacher,11,0,,,0.0,أوه، ما هي حصلت على اثنين حصلت على واحد,اوه، ما هي حصلت علي اثنين حصلت علي واحد,9,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"You got a zero.  Okay.  Okay, Student K.",teacher,8,0,,,0.0,حصلت على صفر حسناً حسناً الطالب ك,حصلت علي صفر حسنا حسنا الطالب ك,7,0.14285714285714285,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Do you know your fractions?  Are they kinda sinking in a little bit now?,teacher,14,1,,,0.0,هل تعرف كسورك؟ هل تغرقون قليلاً الآن؟,هل تعرف كسورك؟ هل تغرقون قليلا الان؟,7,0.0,False
+Yeah.  [Inaudible.],student,2,0,,,,نعم. [غير مسموع],نعم. [غير مسموع],3,0.0,False
+After playing this game you’ll know them better.  I know you will.  One-third is equal to –,teacher,17,0,,,0.0,بعد أن تلعب هذه اللعبة سوف تعرفهم بشكل أفضل أنا أعلم أنك ستعرفون,بعد ان تلعب هذه اللعبه سوف تعرفهم بشكل افضل انا اعلم انك ستعرفون,13,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+– what is it equal –,teacher,6,0,,,0.0, ما هو يساوي ,ما هو يساوي,3,0.3333333333333333,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"– percent right.  You need to say that, too, okay.",teacher,10,1,,,0.0,%صحيح، يجب أن تقول ذلك أيضاً، حسناً,%صحيح، يجب ان تقول ذلك ايضا، حسنا,7,0.0,False
+Seven-tenths.,student,1,1,,,,سبع عشرات.,سبع عشرات.,2,0.5,True
+Shh.  Student D.  You’re getting too loud here.,teacher,8,0,,,0.0,الطالب (دي) ، أنت تصبح صاخباً جداً هنا,الطالب (دي) ، انت تصبح صاخبا جدا هنا,8,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Well, you’ve got –",teacher,4,0,,,0.0,حسناً، لديكِ,حسنا، لديك,2,0.0,False
+I got seven-eighth and two –,student,6,0,,,,حصلت على سبعة ثمانية و اثنين ,حصلت علي سبعه ثمانيه و اثنين,6,0.3333333333333333,True
+All right.  Let me ask you something.  What percent does that stand for?,teacher,13,1,0.0,,0.0,حسناً، دعيني أسألك شيئاً، ما هي النسبة المئوية التي تمثلها؟,حسنا، دعيني اسالك شيئا، ما هي النسبه المئويه التي تمثلها؟,10,0.0,False
+87 -and-a-half percent.,student,3,1,,,,87٪ ونصف.,87٪ ونصف.,2,0.0,False
+And then what does this one stand for?,teacher,8,0,,,0.0,وماذا تعني هذه؟,وماذا تعني هذه؟,3,0.0,False
+"16 -and-a-half percent – I mean, yeah, and two-eights percent.",student,10,2,,0.0,,16 ٪ ونصف  أعني، نعم، و 2 ٪.,16 ٪ ونصف اعني، نعم، و 2 ٪.,6,0.0,False
+Okay.  So he’s got one.  You got one left?,teacher,9,0,0.0,,0.0,حسناً، إذاً لديه واحد، هل تبقى لك واحد؟,حسنا، اذا لديه واحد، هل تبقي لك واحد؟,8,0.0,False
+Yeah.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+And you have two left?,teacher,5,0,,,0.0,وهل تبقى لك اثنان؟,وهل تبقي لك اثنان؟,4,0.0,False
+Yeah.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Okay.  How many, Student D, Student D what does this stand for?",teacher,12,0,,,1.0,حسناً، كم عدد الطالب (د) ، الطالب (د) ماذا يعني هذا؟,حسنا، كم عدد الطالب (د) ، الطالب (د) ماذا يعني هذا؟,11,0.0,False
+36 percent.,student,2,1,,,,36 بالمئة,36 بالمئه,1,0.0,False
+Very good.  Okay.  And you can’t –,teacher,7,0,,,0.0,جيد جداً حسناً و لا يمكنك,جيد جدا حسنا و لا يمكنك,6,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"– you can’t put it in anywhere, can you?",teacher,9,0,,,0.0,لا يمكنك وضعها في أي مكان، أليس كذلك؟,لا يمكنك وضعها في اي مكان، اليس كذلك؟,8,0.0,False
+Yeah.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+He could have put it there.  Uh oh.,teacher,8,0,,,0.0,كان بإمكانه وضعها هناك,كان بامكانه وضعها هناك,4,0.0,False
+Thanks for telling me. You still would have won. Huh? You still would have won.  I had two. I win.,student,20,0,,0.0,,شكراً على إخباركِ، لكنتِ ستفوزين، لكنتِ ستفوزين، كان لديّ اثنان، لقد فزت,شكرا علي اخبارك، لكنت ستفوزين، لكنت ستفوزين، كان لدي اثنان، لقد فزت,12,0.0,False
+"So he got a zero, right.",teacher,6,0,0.0,,0.0,إذاً حصل على صفر، صحيح؟,اذا حصل علي صفر، صحيح؟,5,0.0,False
+"Yeah, zero.",student,2,0,,,,نعم، صفر.,نعم، صفر.,2,0.0,False
+Okay.  So mix them up again.  Mix them up again.,teacher,10,0,,,0.0,حسناً، خليلها ثانيةً خليلها ثانيةً,حسنا، خليلها ثانيه خليلها ثانيه,5,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Yeah.  Okay.  Make sure you’re saying it, okay.  Make sure you’re saying it.  Five-eights equals what percent?",teacher,17,1,,,0.0,أجل، حسناً، تأكد من قولك، حسناً، تأكد من قولك، خمسة ثمانية يساوي أي نسبة مئوية؟,اجل، حسنا، تاكد من قولك، حسنا، تاكد من قولك، خمسه ثمانيه يساوي اي نسبه مئويه؟,15,0.26666666666666666,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+62 and –,teacher,3,0,,,0.0,62 و ,62 و,1,0.0,False
+A half. [Inaudible.],student,3,0,,,,نصف. [غير مسموع],نصف. [غير مسموع],3,0.0,False
+62 and what?,teacher,3,0,,,0.0,62 وماذا؟,62 وماذا؟,1,0.0,False
+62 -and-a-half percent.,student,3,1,,,,62 و نصف في المئة,62 و نصف في المئه,4,0.2,True
+You’ve gotta be learning these.  Okay.  And what’s three- eighths stand for?  What percent?,teacher,14,1,,,0.0,يجب أن تتعلم هذه، حسناً، ماذا تعني ثلث ثمانية؟,يجب ان تتعلم هذه، حسنا، ماذا تعني ثلث ثمانيه؟,9,0.1111111111111111,True
+[Inaudible.] One-third?,student,2,0,,,,ثلث؟,ثلث؟,1,0.0,False
+Who can tell me what three-eighths stands for in percent? What’s three-eighths stand for?,teacher,14,1,,,0.0,من يمكنه أن يقول لي ماذا تعني الثلاثة ثمانية في المئة؟ ماذا تعني الثلاثة ثمانية؟,من يمكنه ان يقول لي ماذا تعني الثلاثه ثمانيه في المئه؟ ماذا تعني الثلاثه ثمانيه؟,15,0.06666666666666667,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+What is it?,teacher,3,0,,,0.0,-ما الأمر؟,-ما الامر؟,2,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+37 -and-a-half percent.  What have you got?,teacher,7,1,,,0.0,37 بالمئة ونصف، ماذا لديك؟,37 بالمئه ونصف، ماذا لديك؟,4,0.0,False
+One -and-a-half.,student,2,0,,,,واحد ونصف.,واحد ونصف.,2,0.0,False
+"That’s wrong.  You need to fix that, honey.  It’s 37 and one half percent.",teacher,14,1,,,0.0,هذا خاطئ عليك إصلاح ذلك يا عزيزتي إنه 37 و نصف بالمئة,هذا خاطئ عليك اصلاح ذلك يا عزيزتي انه 37 و نصف بالمئه,11,0.08333333333333333,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"37 and a half.  Okay.  Five-eighths.  Student C, what’s five- eighths.  Don’t put that on your mouth, please.  What’s five-eighths stand for, Student C?",teacher,24,0,,,0.0,37 و نصف، حسناً، خمسة ثمانية، الطالب (ج) ، ما هو خمسة ثمانية، لا تضع ذلك على فمك، من فضلك. ماذا تعني خمسة ثمانية، الطالب (ج),37 و نصف، حسنا، خمسه ثمانيه، الطالب (ج) ، ما هو خمسه ثمانيه، لا تضع ذلك علي فمك، من فضلك. ماذا تعني خمسه ثمانيه، الطالب (ج),25,0.11538461538461539,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Five-eighths?,teacher,1,0,,,0.0,خمسة ثمانية؟,خمسه ثمانيه؟,2,0.5,True
+Five-eights?,student,1,0,,,,خمسة ثمانية؟,خمسه ثمانيه؟,2,0.5,True
+"Five-eighths?  Stop laughing, please.  There’s nothing to laugh at.",teacher,9,0,,,0.0,خمسة ثمانية؟ توقف عن الضحك، من فضلك، ليس هناك شيء للضحك عليه.,خمسه ثمانيه؟ توقف عن الضحك، من فضلك، ليس هناك شيء للضحك عليه.,12,0.08333333333333333,True
+62 -and-a-half percent.,student,3,1,,,,62 و نصف في المئة,62 و نصف في المئه,4,0.2,True
+62 -and-a-half percent.  What does that say?,teacher,7,1,,,1.0,62 في المائة ونصف، ماذا يقول ذلك؟,62 في المائه ونصف، ماذا يقول ذلك؟,6,0.0,False
+62 [inaudible].,student,2,0,,,,62 [غير مسموع].,62 [غير مسموع].,2,0.0,False
+Okay.  Okay.,teacher,2,0,,,0.0,حسناً، حسناً,حسنا، حسنا,2,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+What round are you guys on?,teacher,6,0,,,0.0,في أي جولة أنتم يا رفاق؟,في اي جوله انتم يا رفاق؟,6,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"You all done?  Oh.  Oh, okay.  Well finish up.  Let’s finish up.  Who’s winning here, Student A?  You’re the referee.",teacher,20,0,,,0.0,حسناً، انتهي، لننتهي من الذي يفوز هنا، الطالب الأول؟ أنت الحكم.,حسنا، انتهي، لننتهي من الذي يفوز هنا، الطالب الاول؟ انت الحكم.,11,0.0,False
+I got zero in the two rounds. And he’s got two [inaudible].,student,12,0,,0.0,,حصلت على صفر في الجولتين و هو حصل على اثنين,حصلت علي صفر في الجولتين و هو حصل علي اثنين,10,0.1,True
+Wow.  Keep going.  Keep going.  Doing a good job.  You keep what?,teacher,12,0,0.0,,0.0,استمري، استمري، إنجز عملاً جيداً، ستبقي ماذا؟,استمري، استمري، انجز عملا جيدا، ستبقي ماذا؟,7,0.0,False
+We keep on having the same amount [inaudible].,student,8,0,,0.0,,نحن نستمر في الحصول على نفس الكمية [غير مسموعة].,نحن نستمر في الحصول علي نفس الكميه [غير مسموعه].,9,0.0,False
+Really?  The same.,teacher,3,0,1.0,,0.0,حقاً؟,حقا؟,1,0.0,False
+"Yeah, so she’s gonna go and then [inaudible].",student,8,0,,0.0,,نعم، لذا هي ستذهب ثم [غير مستمع].,نعم، لذا هي ستذهب ثم [غير مستمع].,7,0.0,False
+"So just mix them up real good, that’s all.  Mix them up real good.  Let me mix them.  So you’re only on round one.  You need to move along here.  How many do you have?",teacher,35,0,0.0,,0.0,لذا فقط مزجهم جيداً، هذا كل شيء. مزجهم جيداً. دعوني أخلطهم. لذا أنت في الجولة الأولى فقط. عليك أن تتحرك هنا. كم عدد لديك؟,لذا فقط مزجهم جيدا، هذا كل شيء. مزجهم جيدا. دعوني اخلطهم. لذا انت في الجوله الاولي فقط. عليك ان تتحرك هنا. كم عدد لديك؟,24,0.0,False
+One.,student,1,0,,,,واحد.,واحد.,1,0.0,False
+Yours was –,teacher,3,0,,,0.0,كان لكِ,كان لك,2,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Okay.  Mix them up.  Now, you’re on round three so mix them up real good.  Okay.  Mix them up real good so – what happened?",teacher,25,0,,,1.0,حسناً، خليلها الآن، أنت في الجولة الثالثة لذا خليلها جيداً، حسناً، خليلها جيداً، ماذا حدث؟,حسنا، خليلها الان، انت في الجوله الثالثه لذا خليلها جيدا، حسنا، خليلها جيدا، ماذا حدث؟,15,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+So you know all of your fractions and all the equivalent percents?,teacher,12,3,,,1.0,إذن أنت تعرف جميع الكسور الخاصة بك وجميع النسبة المئوية المعادلة؟,اذن انت تعرف جميع الكسور الخاصه بك وجميع النسبه المئويه المعادله؟,11,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Yeah, I know.",teacher,3,0,,,0.0,-أجل، أعلم .,-اجل، اعلم .,2,0.0,False
+I know a lot of them but not [inaudible].,student,9,0,,0.0,,أَعْرفُ الكثير مِنْهُمْ ولكن لَيْسَ [غير مسموع].,اعرف الكثير منهم ولكن ليس [غير مسموع].,7,0.0,False
+"Yeah, you probably don’t know the sixths and the eighths.",teacher,10,0,1.0,,0.0,نعم، أنت على الأرجح لا تعرف السادسة والثامنة.,نعم، انت علي الارجح لا تعرف السادسه والثامنه.,8,0.0,False
+"Yeah, that’s [inaudible].",student,3,0,,,,نعم، هذا [غير قابل للسمع].,نعم، هذا [غير قابل للسمع].,5,0.0,False
+"And the tough ones.  Right?  Okay.  So guess what?  You know, and you always get 100 on your multiplication.",teacher,19,1,,,0.0,والصعوبات الصعبة، صحيح؟ حسناً، خمن ماذا؟ كما تعلمون، دائماً تحصل على 100 على ضربك.,والصعوبات الصعبه، صحيح؟ حسنا، خمن ماذا؟ كما تعلمون، دائما تحصل علي 100 علي ضربك.,13,0.0,False
+[Inaudible.] [Inaudible] multiplication is [inaudible].,student,5,1,,,,[غير مسموع] [غير مسموع] مضاعفة هو [غير مسموع].,[غير مسموع] [غير مسموع] مضاعفه هو [غير مسموع].,8,0.0,False
+"I know.  Oh, but do you know what?  You memorize them and you learn them so that’s a good thing.  So you can do the same with this.",teacher,28,0,0.0,,0.0,أعلم، لكن أتعلمين ماذا؟ تتذكرينها وتعلمينها، وهذا شيء جيد، لذا يمكنك القيام بنفس الشيء مع هذا.,اعلم، لكن اتعلمين ماذا؟ تتذكرينها وتعلمينها، وهذا شيء جيد، لذا يمكنك القيام بنفس الشيء مع هذا.,16,0.0,False
+I just know all these [inaudible] every single one of them [inaudible].,student,12,0,,0.0,,أنا فقط أعرف كل هذا كل واحد منهم,انا فقط اعرف كل هذا كل واحد منهم,8,0.0,False
+"Oh.  Well, you know, well you were a winner today with the spelling so you did well and you get a special treat.",teacher,23,0,0.0,,0.0,حسناً، أنتِ كنتِ فائزة اليوم بالتهجئة لذا فعلتِ ذلك جيداً وتحصلين على معاملة خاصة,حسنا، انت كنت فائزه اليوم بالتهجئه لذا فعلت ذلك جيدا وتحصلين علي معامله خاصه,14,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"No, one with the spelling and one for doing a good job on Friday.",teacher,14,0,,,0.0,لا، واحد مع التهجئة والآخر للقيام بعمل جيد يوم الجمعة.,لا، واحد مع التهجئه والاخر للقيام بعمل جيد يوم الجمعه.,10,0.0,False
+"No, but you told me [inaudible] instead of one, remember?",student,10,0,,0.0,,لا، ولكنك قلت لي [غير مسموع] بدلا من واحد، تذكر؟,لا، ولكنك قلت لي [غير مسموع] بدلا من واحد، تذكر؟,10,0.0,False
+I said – did I say two?,teacher,7,0,0.0,,0.0,قلت  هل قلت اثنين؟,قلت هل قلت اثنين؟,4,0.0,False
+You said two instead of one ’cause I got all of them right.,student,13,0,,1.0,,قلت اثنين بدلا من واحد لأنني حصلت على كل الحق.,قلت اثنين بدلا من واحد لانني حصلت علي كل الحق.,10,0.0,False
+We’ll see what I can bring in tomorrow.  Okay.  So you’re all set then.  Good job.  Okay.,teacher,17,0,0.0,,0.0,سنرى ما يمكنني إحضاره غداً حسناً إذاً ستكونين جاهزة,سنري ما يمكنني احضاره غدا حسنا اذا ستكونين جاهزه,9,0.0,False
+So what do we do now?,student,6,0,,,,إذاً ماذا سنفعل الآن؟,اذا ماذا سنفعل الان؟,4,0.0,False
+Do you want to play some more?  ‘Cause we’re going to be shutting this down very soon.,teacher,17,0,1.0,,0.0,هل تريد أن تلعب المزيد؟ لأننا سنغلق هذا قريباً جداً,هل تريد ان تلعب المزيد؟ لاننا سنغلق هذا قريبا جدا,10,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Do you want to start another round just to see or do you want to watch somebody else?,teacher,18,0,,,0.0,هل تريد أن تبدأ جولة أخرى فقط لرؤية أم تريد مشاهدة شخص آخر؟,هل تريد ان تبدا جوله اخري فقط لرؤيه ام تريد مشاهده شخص اخر؟,13,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Huh?,teacher,1,0,,,0.0,هاه؟,هاه؟,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+It’s up to you.  Do you want to play anymore or are you done? You done?,teacher,16,0,,,0.0,الأمر عائد إليك هل تريد أن تلعب أكثر أم انتهيت؟,الامر عائد اليك هل تريد ان تلعب اكثر ام انتهيت؟,10,0.0,False
+I don’t know.,student,3,0,,,,أنا لا أعرف.,انا لا اعرف.,3,0.0,False
+Do one more round.  Huh?,teacher,5,0,,,0.0,إفعلي جولة أخرى,افعلي جوله اخري,3,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Okay.  All right.  Well, go ahead.  All right.",teacher,8,0,,,0.0,حسناً، حسناً، هيا، حسناً,حسنا، حسنا، هيا، حسنا,4,0.0,False
+[Inaudible] two missing.,student,3,0,,,,اثنان مفقودين.,اثنان مفقودين.,2,0.5,True
+Two missing?,teacher,2,0,,,0.0,اثنان مفقودين؟,اثنان مفقودين؟,2,0.5,True
+Only two.,student,2,0,,,,اثنان فقط,اثنان فقط,2,0.5,True
+"Two, really?  That’s good.  Wow.  By now you should at least be approaching if not finishing round four right now so let’s see how you’re doing.",teacher,26,0,,,0.0,اثنان، حقاً؟ هذا جيد. واو. الآن يجب أن تكون على الأقل على مقربة إذا لم تنتهي من الجولة الرابعة الآن لذلك دعونا نرى كيف تفعل.,اثنان، حقا؟ هذا جيد. واو. الان يجب ان تكون علي الاقل علي مقربه اذا لم تنتهي من الجوله الرابعه الان لذلك دعونا نري كيف تفعل.,25,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+You should be approaching round four and you’re only on round two so you need to move it.,teacher,18,0,,,0.0,يجب أن تقترب من الجولة الرابعة وأنت في الجولة الثانية فقط لذا عليك أن تتحرك,يجب ان تقترب من الجوله الرابعه وانت في الجوله الثانيه فقط لذا عليك ان تتحرك,15,0.0,False
+Round three.,student,2,0,,,,الجولة الثالثة,الجوله الثالثه,2,0.0,False
+"Oh, you’re on three.  Oh, okay.  All right.",teacher,8,0,,,0.0,أنت في الثالثة حسناً حسناً,انت في الثالثه حسنا حسنا,5,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Okay.  You should be almost approaching the fourth.  Yeah. you two doing?  Who’s winning?,teacher,14,0,,,0.0,حسناً، يجب أن تقتربوا تقريباً من الرابعة,حسنا، يجب ان تقتربوا تقريبا من الرابعه,7,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+She is.,teacher,2,0,,,0.0,إنها كذلك,انها كذلك,2,0.0,False
+[Inaudible.]  Four rounds [inaudible].,student,4,0,,,,أربعة جولات,اربعه جولات,2,0.5,True
+You what?,teacher,2,0,,,0.0,ماذا فعلت؟,ماذا فعلت؟,2,0.0,False
+I won four rounds [inaudible].,student,5,0,,,,لقد فزت بأربعة جولات,لقد فزت باربعه جولات,4,0.0,False
+So who’s winning?,teacher,3,0,1.0,,0.0,إذاً من الذي يفوز؟,اذا من الذي يفوز؟,4,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+So what are you gonna get tomorrow?  A special something.  A special treat.  Okay.  You know what you can do now?  Turn it over and write special treat and then put Student L’s name down.  Okay.  Student L’s name down.,teacher,40,0,,,0.0,إذاً ماذا ستحصلين غداً؟ شيء مميز، عطلة مميزة. حسناً، أتعلمين ماذا يمكنك القيام به الآن؟ حولها وكتب عطلة مميزة ثم ضع اسم الطالب على الأسفل. حسناً، اسم الطالب على الأسفل,اذا ماذا ستحصلين غدا؟ شيء مميز، عطله مميزه. حسنا، اتعلمين ماذا يمكنك القيام به الان؟ حولها وكتب عطله مميزه ثم ضع اسم الطالب علي الاسفل. حسنا، اسم الطالب علي الاسفل,30,0.0,False
+[Inaudible] supposed to bring like [inaudible].,student,6,0,,,,[غير مسموع] يفترض أن يجلب مثل [غير مسموع].,[غير مسموع] يفترض ان يجلب مثل [غير مسموع].,8,0.0,False
+December 23rd [inaudible] for a couple of weeks.,teacher,8,0,1.0,,0.0,23 ديسمبر لعدة أسابيع,23 ديسمبر لعده اسابيع,3,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Pardon me.,teacher,2,0,,,0.0,عفواً,عفوا,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+You can come around with me when I finish [inaudible] and write your names down so I’ll know who they are tomorrow.  What?,teacher,23,0,,,0.0,يمكنك أن تأتي معي عندما أنتهي وأكتب أسماءك حتى أعرف من هم غداً.,يمكنك ان تاتي معي عندما انتهي واكتب اسماءك حتي اعرف من هم غدا.,13,0.0,False
+[Inaudible?],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"That day.  No, ’cause if you bring it before we’ll get into it, someone will get into it and they’ll know maybe what it is they’ll shake it or whatever [inaudible].",teacher,31,0,,,0.0,ذلك اليوم، لا، لأنّك إذا أحضرتها قبل أن ندخل فيها، فسيقوم أحدهم بدخولها، وسيعرفون ربما ما هي، وسيقومون بإزعاجها أو أي شيء آخر.,ذلك اليوم، لا، لانك اذا احضرتها قبل ان ندخل فيها، فسيقوم احدهم بدخولها، وسيعرفون ربما ما هي، وسيقومون بازعاجها او اي شيء اخر.,23,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Yeah.  Go around and see who’s finished.  Student J and Student A might be pretty well [inaudible].  So are those yours? Who’s are those?,teacher,24,0,,,0.0,أجل، إذهبي وتفقد من أنهى، الطالب (ج) والطالب (أ) قد يكونان غير مسموعين، فهل هذه لك؟,اجل، اذهبي وتفقد من انهي، الطالب (ج) والطالب (ا) قد يكونان غير مسموعين، فهل هذه لك؟,16,0.0,False
+Mine.,student,1,0,,,,بلدي.,بلدي.,1,0.0,False
+"Okay.  No, you don’t need to [inaudible].  All right.  You should be approaching – here you can go put this away though.  [Inaudible] scissors another pair on the back of the – on the table [inaudible].  Okay.  Listen up for a minute.  Whoever’s getting close to the round five let me know.  Student M, here’s another one, too.  Student L’s coming around to figure out who’s winning.",teacher,67,0,,,0.0,حسناً، لا، لا تحتاج إلى (غير مسموع) حسناً، يجب أن تقترب من (غير مسموع) هنا يمكنك أن تذهب وتضع هذا بعيداً، (غير مسموع) يضع مقصاً آخر على الجزء الخلفي من (الـ) على الطاولة (غير مسموع) حسناً، استمع لحظة، من يقترب من الجولة الخامسة دعيني أعرفه، الطالب (م) هنا أيضاً، الطالب (إل) قادم لتحديد من هو الفائز,حسنا، لا، لا تحتاج الي (غير مسموع) حسنا، يجب ان تقترب من (غير مسموع) هنا يمكنك ان تذهب وتضع هذا بعيدا، (غير مسموع) يضع مقصا اخر علي الجزء الخلفي من (ال) علي الطاوله (غير مسموع) حسنا، استمع لحظه، من يقترب من الجوله الخامسه دعيني اعرفه، الطالب (م) هنا ايضا، الطالب (ال) قادم لتحديد من هو الفائز,56,0.0,False
+We got a tie.,student,4,0,,,,لدينا ربطة عنق,لدينا ربطه عنق,3,0.0,False
+Good.  Keep going.  Keep going.,teacher,5,0,,,0.0,حسناً، استمروا، استمروا,حسنا، استمروا، استمروا,3,0.0,False
+"[Inaudible.] Oh, you go first.",student,5,0,,,,[غير مسموع] أوه، تذهب أولا.,[غير مسموع] اوه، تذهب اولا.,5,0.0,False
+"No, we forget.  Student M? that please?  Your paper.  Everybody should be getting close.  Did we finish?",teacher,17,0,0.0,,0.0,كلا، نسينا، الطالب (إم) هذا من فضلك، صحيفةك، الجميع يجب أن يقترب، هل إنتهينا؟,كلا، نسينا، الطالب (ام) هذا من فضلك، صحيفهك، الجميع يجب ان يقترب، هل انتهينا؟,14,0.0,False
+She won.,student,2,0,,,,لقد فازت,لقد فازت,2,0.0,False
+Who won?,teacher,2,0,,,0.0,مَن فاز؟,من فاز؟,2,0.0,False
+Student A. I won.,student,4,0,,,,الطالب (أ) فزت,الطالب (ا) فزت,3,0.0,False
+How did you let that happen?,teacher,6,0,,,1.0,كيف تركت ذلك يحدث؟,كيف تركت ذلك يحدث؟,4,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"All right.  But now let – no, Student L?  Student L?  He’s a winner.  Put his name down.",teacher,18,0,,,0.0,حسناً، لكن الآن لا، الطالب (إل) هو الفائز، اكتب اسمه,حسنا، لكن الان لا، الطالب (ال) هو الفائز، اكتب اسمه,10,0.0,False
+Can we play another game?,student,5,0,,,,هل يمكننا أن نلعب لعبة أخرى؟,هل يمكننا ان نلعب لعبه اخري؟,6,0.0,False
+"Yeah, you can play another round but we’re not gonna go through five rounds now.  Just one more round.",teacher,19,0,1.0,,0.0,نعم، يمكنك أن تلعب جولة أخرى لكننا لن نمضي خلال خمس جولات الآن فقط جولة أخرى,نعم، يمكنك ان تلعب جوله اخري لكننا لن نمضي خلال خمس جولات الان فقط جوله اخري,16,0.0625,True
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Yeah, I want to stop you in about five minutes.  Okay.  All right.  One of them won.  Who’s the winner?",teacher,20,0,,,0.0,أجل، أريد إيقافك خلال خمس دقائق، حسناً، فاز أحدهم، من هو الفائز؟,اجل، اريد ايقافك خلال خمس دقائق، حسنا، فاز احدهم، من هو الفائز؟,12,0.08333333333333333,True
+"Hey, what if I win the next?  Do I win something for it?",student,13,0,,0.0,,ماذا لو فزت في المرة القادمة؟,ماذا لو فزت في المره القادمه؟,6,0.0,False
+"Today, no.  Today it’s just the people – now, you know where they go [inaudible].",teacher,15,0,1.0,,0.0,اليوم، لا، اليوم الناس فقط الآن، أنت تعرف إلى أين يذهبون.,اليوم، لا، اليوم الناس فقط الان، انت تعرف الي اين يذهبون.,11,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Huh?,teacher,1,0,,,0.0,هاه؟,هاه؟,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Student B?  Can you get those papers that you left up there, please?  And then what about the other one?  Student J, come on and sit down now.  Your people are taking too long. Come on.  No.  We need – and we’re only gonna play for about another five minutes and then we have to stop so you need to finish up here and find out who’s gonna be the winner.",teacher,71,0,,,0.0,الطالب ب؟ هل يمكنك الحصول على تلك الأوراق التي تركتها هناك، من فضلك؟ ثم ماذا عن الآخر؟ الطالب ج، تعال والجلوس الآن. شعبك يستغرق وقتا طويلا جدا. تعال. لا. نحن بحاجة إلى  ونحن سوف نلعب فقط لمدة خمس دقائق أخرى ونحن يجب أن نتوقف حتى تحتاج إلى الانتهاء هنا ومعرفة من سيكون الفائز.,الطالب ب؟ هل يمكنك الحصول علي تلك الاوراق التي تركتها هناك، من فضلك؟ ثم ماذا عن الاخر؟ الطالب ج، تعال والجلوس الان. شعبك يستغرق وقتا طويلا جدا. تعال. لا. نحن بحاجه الي ونحن سوف نلعب فقط لمده خمس دقائق اخري ونحن يجب ان نتوقف حتي تحتاج الي الانتهاء هنا ومعرفه من سيكون الفائز.,53,0.018867924528301886,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Huh?,teacher,1,0,,,0.0,هاه؟,هاه؟,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Yeah, I’m gonna stop everybody.  Hello? Okay.  Listen, we’re gonna play for five more minutes, okay so then that will be it.  So finish up your rounds.",teacher,27,0,,,0.0,حسناً، سنلعب لخمس دقائق أخرى، حسناً، هذا كل شيء.,حسنا، سنلعب لخمس دقائق اخري، حسنا، هذا كل شيء.,9,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Wow.,teacher,1,0,,,0.0,-أجل .,-اجل .,1,0.0,False
+[Inaudible] three.,student,2,0,,,,ثلاثة,ثلاثه,1,1.0,True
+You got how many?,teacher,4,0,,,0.0,كم لديك؟,كم لديك؟,2,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Oh, wow.  Okay.  Huh?  You’re on five now.  Okay.  Good.",teacher,10,0,,,0.0,حسناً، أنت في الخامسة الآن، حسناً، جيد,حسنا، انت في الخامسه الان، حسنا، جيد,7,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+[Inaudible?],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+What?,teacher,1,0,,,0.0,ـ ماذا؟,ماذا؟,2,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Let’s go girls.  Five more minutes.  We have to finish up. What round are you people on?,teacher,17,0,,,0.0,دعونا نذهب يا فتيات، خمس دقائق أخرى، علينا الانتهاء، في أي جولة أنتم يا رفاق؟,دعونا نذهب يا فتيات، خمس دقائق اخري، علينا الانتهاء، في اي جوله انتم يا رفاق؟,15,0.06666666666666667,True
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+You’re on five.  Okay.  Hum?,teacher,5,0,,,0.0,أنت في الخامسة، حسناً؟,انت في الخامسه، حسنا؟,4,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"So, oh we’re still on the last round.  Okay.  What?",teacher,10,0,,,0.0,إذاً، ما زلنا في الجولة الأخيرة حسناً، ماذا؟,اذا، ما زلنا في الجوله الاخيره حسنا، ماذا؟,8,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"All right.  Okay.  Student D?   Oh.  I know, he didn’t even get a chance to play ’cause you’re slowpokes.",teacher,19,0,,,0.0,حسناً، الطالب (دي) ، أعلم أنه لم يحصل حتى على فرصة للعب,حسنا، الطالب (دي) ، اعلم انه لم يحصل حتي علي فرصه للعب,12,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"All right.  Do you have yours out?  Want to play around with that?  Do you – Student A, do you know how to play now?",teacher,25,0,,,0.0,حسناً، هل لديك ألعابك؟ هل تريد اللعب معها؟ هل تعلم كيف تلعب الآن؟,حسنا، هل لديك العابك؟ هل تريد اللعب معها؟ هل تعلم كيف تلعب الان؟,13,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+You do?  You got it.  You sure ’cause you’re doing very well in math so I think that you probably know a lot.  Let’s let these two finish the last round and you want to do a round with him.  I wanna see how well he’s doing with his percents.,teacher,50,1,,,0.0,هل فعلت؟ حصلت عليه. أنت متأكد  لأنك تفعل جيد جدا في الرياضيات لذلك أعتقد أنك على الأرجح تعرف الكثير. دعنا نترك هذين الاثنين يكملون الجولة الأخيرة وتريدون القيام بجولة معه. أريد أن أرى كم هو جيد مع نسبة مئاتاته.,هل فعلت؟ حصلت عليه. انت متاكد لانك تفعل جيد جدا في الرياضيات لذلك اعتقد انك علي الارجح تعرف الكثير. دعنا نترك هذين الاثنين يكملون الجوله الاخيره وتريدون القيام بجوله معه. اريد ان اري كم هو جيد مع نسبه مئاتاته.,39,0.02564102564102564,True
+[Inaudible] ’cause he can’t [inaudible].,student,5,0,,,,لأنه لا يستطيع أن يسمع,لانه لا يستطيع ان يسمع,5,0.0,False
+"No.  All right.  Go, one more round.  One more round.  Okay. One more quick round, let’s go.  So tomorrow everybody that won this game is gonna get a special thing.  Tomorrow.",teacher,31,0,0.0,,0.0,لا، حسناً، إذهب، جولة أخرى، جولة أخرى، حسناً، جولة أخرى سريعة، دعونا نذهب، لذا غداً كل من فاز بهذه المباراة سيحصل على شيء خاص، غداً.,لا، حسنا، اذهب، جوله اخري، جوله اخري، حسنا، جوله اخري سريعه، دعونا نذهب، لذا غدا كل من فاز بهذه المباراه سيحصل علي شيء خاص، غدا.,25,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+[Inaudible],multiple students,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Oh, you’re on round five.",teacher,5,0,,,0.0,أنت في الجولة الخامسة,انت في الجوله الخامسه,4,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Now three-tenths is equal to what percent?,teacher,7,2,,,0.0,الآن ثلاثة عشرات تساوي أي نسبة مئوية؟,الان ثلاثه عشرات تساوي اي نسبه مئويه؟,7,0.2857142857142857,True
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Thirty percent, right.  Okay.  Go ahead.  What are you gonna say?  One-half is equal to 50 percent.  Okay.  Student J, sit down, please.",teacher,23,2,,,0.0,ثلاثون في المئة، حسناً، هيا، ماذا ستقول؟ نصف يساوي خمسين في المئة. حسناً، الطالب جي، اجلس، من فضلك.,ثلاثون في المئه، حسنا، هيا، ماذا ستقول؟ نصف يساوي خمسين في المئه. حسنا، الطالب جي، اجلس، من فضلك.,18,0.16666666666666666,True
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Shh.  Say it.  What are you saying?  Seven-tenths equals 70 percent.  Okay.  So how many6 card do you have left?,teacher,20,2,,,0.0,ماذا تقولين؟ سبعة عشرات تساوي 70 في المئة. حسناً، كم عدد البطاقات التي تبقى لديك؟,ماذا تقولين؟ سبعه عشرات تساوي 70 في المئه. حسنا، كم عدد البطاقات التي تبقي لديك؟,14,0.06666666666666667,True
+None.,student,1,0,,,,لا شيء,لا شيء,2,0.0,False
+None?  None.  Okay.  Zero-zero.  What?  Tell Student L. Student L’s writing down the winners.  So now you add up all of Student K’s numbers and then you add up yours.,teacher,30,2,,,0.0,لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا.,لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا، لا.,19,0.0,False
+I got three. [Inaudible],student,4,0,,,,حصلت على ثلاثة.,حصلت علي ثلاثه.,3,0.0,False
+So she got three.  You got three.,teacher,7,0,,,0.0,إذاً هي حصلت على ثلاثة وأنت حصلت على ثلاثة,اذا هي حصلت علي ثلاثه وانت حصلت علي ثلاثه,9,0.2222222222222222,True
+"No, I got five.",student,4,0,,,,لا، لدي خمسة.,لا، لدي خمسه.,3,0.0,False
+You got five and what did she get?,teacher,8,0,,,0.0,حصلت على خمسة وماذا حصلت عليها؟,حصلت علي خمسه وماذا حصلت عليها؟,6,0.16666666666666666,True
+"She got [inaudible].  One, two – she has two.",student,9,0,,0.0,,لقد حصلت على واحد، اثنان لديها اثنان,لقد حصلت علي واحد، اثنان لديها اثنان,7,0.2857142857142857,True
+How many did she get?,teacher,5,0,1.0,,0.0,كم حصلت عليها؟,كم حصلت عليها؟,3,0.0,False
+Two.,student,1,0,,,,اثنان.,اثنان.,1,0.0,False
+"Two.  And you got five.  So who’s the winner the one that’s got the lowest score.  So who got the lowest score?  Student L? Student K got the lowest score.  Okay.  You can put those away now, okay?",teacher,38,0,,,0.0,اثنان، وهناك خمسة، فمن هو الفائز الذي يحصل على أدنى درجة، فمن يحصل على أدنى درجة؟ الطالب L؟ الطالب K يحصل على أدنى درجة. حسناً، يمكنك وضع تلك الآن، حسناً؟,اثنان، وهناك خمسه، فمن هو الفائز الذي يحصل علي ادني درجه، فمن يحصل علي ادني درجه؟ الطالب L؟ الطالب K يحصل علي ادني درجه. حسنا، يمكنك وضع تلك الان، حسنا؟,29,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+You added them all up.  What was Student M’s score?,teacher,10,0,,,0.0,لقد جمعتهم جميعاً ما كانت نتيجة الطالب؟,لقد جمعتهم جميعا ما كانت نتيجه الطالب؟,7,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Why does that say three?,teacher,5,0,,,1.0,لماذا تقول ثلاثة؟,لماذا تقول ثلاثه؟,3,0.0,False
+Because [inaudible].,student,2,0,,,,لأنّها غير مسموعة.,لانها غير مسموعه.,3,0.0,False
+"Oh, okay.  So tell Student L.  Student L’s writing down all the winners.  Okay.  Please sit down.",teacher,17,0,,,0.0,حسناً، أخبري الطالب (إل) أن يكتب كل الفائزين، رجاءً اجلس,حسنا، اخبري الطالب (ال) ان يكتب كل الفائزين، رجاء اجلس,10,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Can I be one of them?,student,6,0,,,,هل يمكنني أن أكون واحداً منهم؟,هل يمكنني ان اكون واحدا منهم؟,6,0.0,False
+Huh?,teacher,1,0,0.0,,0.0,هاه؟,هاه؟,1,0.0,False
+Can I be one of them?,student,6,0,,,,هل يمكنني أن أكون واحداً منهم؟,هل يمكنني ان اكون واحدا منهم؟,6,0.0,False
+"Can you be a winner?  How can you be a winner when she just won? Didn’t she?  It says it right here.  You know, we play this game all year long so there’ll be other times that you – okay.",teacher,40,0,1.0,,0.0,هل يمكنك أن تكون فائزًا؟ كيف يمكنك أن تكون فائزًا عندما فازت للتو؟ أليس كذلك؟ مكتوب هنا.,هل يمكنك ان تكون فائزا؟ كيف يمكنك ان تكون فائزا عندما فازت للتو؟ اليس كذلك؟ مكتوب هنا.,17,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+You’re all getting something tomorrow from Friday.  Yeah.,teacher,8,0,,,0.0,ستحصلون جميعاً على شيء غداً من الجمعة,ستحصلون جميعا علي شيء غدا من الجمعه,7,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Huh?,teacher,1,0,,,0.0,هاه؟,هاه؟,1,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"The bathroom.  Yeah.  Okay.  If you are finished please.  All right.  Who are the winners?  Let me see your hands. Student L, did you get –",teacher,26,0,,,0.0,مرحبًا، إذا إنتهيت من فضلكم، من الفائزون؟ دعني أرى يديكِ.,مرحبا، اذا انتهيت من فضلكم، من الفائزون؟ دعني اري يديك.,10,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+– Student A?  All right.  Now there’s – no I was [inaudible]. I was [inaudible].,teacher,15,0,,,0.0,الطالب (أ) ؟ حسناً، الآن هناك (لا) كنت (غير قابل للسمع) كنت (غير قابل للسمع),الطالب (ا) ؟ حسنا، الان هناك (لا) كنت (غير قابل للسمع) كنت (غير قابل للسمع),15,0.0,False
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Student B?  Okay.  Everybody needs to sit down please. Everybody in their seats.  Everybody sit down please. and throw it away?  You need to put those cards away.  Shh. Everybody needs to sit down now. away now, okay, and that percent thing.  Okay.  Everybody. Student H, are you and Student H done?  Who won?",teacher,54,1,,,0.0,الطالب ب؟ حسناً، يجب أن يجلس الجميع في مقاعدهم، يجب أن يجلس الجميع في مقاعدهم، يجب أن يجلس الجميع في مقاعدهم، يجب أن يرميهم بعيداً، يجب أن يضعوا تلك البطاقات بعيداً، يجب أن يجلس الجميع الآن، حسناً، وذلك النسبة المئوية، حسناً، الجميع. الطالب ه، هل أنتِ و الطالب ه انتهينا؟,الطالب ب؟ حسنا، يجب ان يجلس الجميع في مقاعدهم، يجب ان يجلس الجميع في مقاعدهم، يجب ان يجلس الجميع في مقاعدهم، يجب ان يرميهم بعيدا، يجب ان يضعوا تلك البطاقات بعيدا، يجب ان يجلس الجميع الان، حسنا، وذلك النسبه المئويه، حسنا، الجميع. الطالب ه، هل انت و الطالب ه انتهينا؟,50,0.0,False
+Me.,student,1,0,,,,-أنا,-انا,1,0.0,False
+"Student H?  Oh, okay.  All right.  Would you please put your cards away and please go back to your seats.  Back to your seats please.",teacher,25,0,,,0.0,الطالب (إتش) ، حسناً، رجاءً ضعوا بطاقاتكم بعيداً و ارجعوا إلى مقاعدكم,الطالب (اتش) ، حسنا، رجاء ضعوا بطاقاتكم بعيدا و ارجعوا الي مقاعدكم,12,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+Where’d that come from?,teacher,4,0,,,1.0,من أين جاء ذلك؟,من اين جاء ذلك؟,4,0.0,False
+It was from my desk.,student,5,0,,,,لقد كان من مكتبي,لقد كان من مكتبي,4,0.0,False
+"Okay.  Okay.  I need you to sit down, please, and I want to – shh – listen up, please.  Student E, you need to go over in your seat, please.  You need to sit down please, right now. No, sit down.",teacher,41,0,1.0,,0.0,حسناً، حسناً، أريدك أن تجلس، من فضلك، وأريد أن تستمع، من فضلك، الطالب (إي) ، عليك أن تذهب إلى مقعدك، من فضلك، عليك أن تجلس، من فضلك، الآن، لا، اجلس,حسنا، حسنا، اريدك ان تجلس، من فضلك، واريد ان تستمع، من فضلك، الطالب (اي) ، عليك ان تذهب الي مقعدك، من فضلك، عليك ان تجلس، من فضلك، الان، لا، اجلس,30,0.0,False
+[Inaudible.],student,1,0,,,,[غير مسموع.],[غير مسموع.],2,0.0,False
+"Everybody’s in their seats, I hope.  All right.  Listen carefully. [inaudible].",teacher,11,0,,,0.0,الجميع في مقاعدهم، آمل حسناً، استمعوا بعناية,الجميع في مقاعدهم، امل حسنا، استمعوا بعنايه,7,0.0,False
+Can we go to the bathroom?,student,6,0,,,,هل يمكننا الذهاب إلى الحمام؟,هل يمكننا الذهاب الي الحمام؟,5,0.0,False
+"Not right now I need to announce something, no.  Everybody needs to be seated and listening.  Everybody needs to be in their seats, please.  All right.  I need everybody’s attention.  Can you please, all eyes on me?  I thought you did a great job.  I think that you all pretty much know the game.  This’ll be one of the many games we’ll be playing all year long and then we’re gonna use the rest of those cards.  You will learn what to do with those probably tomorrow.  So I thought you did a great job.  Give yourselves a pat on the  back.  Good job.  Okay.  And we – I’ll announce these winners again in a second.",teacher,116,2,1.0,,0.0,ليس الآن أحتاج أن أعلن شيئاً، لا. الجميع يحتاج إلى الجلوس والاستماع. الجميع يحتاج إلى أن يكون في مقاعدهم، رجاءً. حسناً. أحتاج إلى انتباه الجميع. هل يمكنكم رجاءً، كل العيون علي؟ اعتقدت أنكم قمتم بعمل رائع. أعتقد أنكم جميعاً تعرفون اللعبة. هذه ستكون واحدة من العديد من الألعاب التي سنلعبها طوال العام ومن ثم سنستخدم البقية من تلك البطاقات. سوف تتعلمون ماذا تفعلون بها على الأرجح غداً. لذلك اعتقدت أنكم قمتم بعمل رائع. أعطوا أنفسكم ضربة على الظهر. عمل جيد. حسناً. ونحن سوف نعلن هذه الفائزين مرة أخرى في ثانية.,ليس الان احتاج ان اعلن شيئا، لا. الجميع يحتاج الي الجلوس والاستماع. الجميع يحتاج الي ان يكون في مقاعدهم، رجاء. حسنا. احتاج الي انتباه الجميع. هل يمكنكم رجاء، كل العيون علي؟ اعتقدت انكم قمتم بعمل رائع. اعتقد انكم جميعا تعرفون اللعبه. هذه ستكون واحده من العديد من الالعاب التي سنلعبها طوال العام ومن ثم سنستخدم البقيه من تلك البطاقات. سوف تتعلمون ماذا تفعلون بها علي الارجح غدا. لذلك اعتقدت انكم قمتم بعمل رائع. اعطوا انفسكم ضربه علي الظهر. عمل جيد. حسنا. ونحن سوف نعلن هذه الفائزين مره اخري في ثانيه.,90,0.0,False

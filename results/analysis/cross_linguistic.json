@@ -1,0 +1,55 @@
+{
+  "talk_time_correlation": {
+    "pearson": {
+      "method": "pearson",
+      "r": 0.8740625351633224,
+      "p_value": 0.0,
+      "ci_lower": 0.8091961673064143,
+      "ci_upper": 0.9247038199096219,
+      "n": 11839,
+      "n_boot": 10000,
+      "ci_level": 0.95
+    },
+    "spearman": {
+      "method": "spearman",
+      "r": 0.9303015933907735,
+      "p_value": 0.0,
+      "ci_lower": 0.9265880892139304,
+      "ci_upper": 0.933862200860629,
+      "n": 11839,
+      "n_boot": 10000,
+      "ci_level": 0.95
+    },
+    "n_observations": 11839,
+    "en_mean": 14.6503927696596,
+    "en_std": 26.406877786496324,
+    "ar_mean": 10.266661035560436,
+    "ar_std": 17.34320862895479
+  },
+  "paired_tests": {
+    "paired_ttest": {
+      "t_statistic": 33.94015156561175,
+      "p_value": 4.852790856172084e-241,
+      "cohens_d": 0.1962319621039007,
+      "effect_size_interpretation": "negligible"
+    },
+    "wilcoxon": {
+      "W_statistic": 4644022.5,
+      "p_value": 0.0,
+      "n_nonzero_differences": 9631
+    },
+    "descriptive": {
+      "mean_difference_en_minus_ar": 4.383731734099164,
+      "std_difference": 14.053603685330948,
+      "median_difference": 1.0,
+      "mean_diff_ci_95_lower": 4.130500886899231,
+      "mean_diff_ci_95_upper": 4.6344328068249006
+    },
+    "n_observations": 11839
+  },
+  "dataset_info": {
+    "source_file": "/Users/ayesh/Projects/arabic-edu-convokit/data/processed/all_sessions.csv",
+    "n_rows": 11839,
+    "n_columns": 12
+  }
+}

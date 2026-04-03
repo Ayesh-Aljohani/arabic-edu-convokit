@@ -1,0 +1,435 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions,text_arabic,text_arabic_normalized,talktime_words_arabic,math_density_arabic,has_math_arabic
+"Hi.  Good morning, class.  Today we're gonna work with multiples of tens and multiplying multiples of tens.  And I need someone to read the objectives that are in purple and red up on the board.  Can I have a volunteer, please?  It can be someone in front of the camera.  It can also be someone behind the camera.  If you're not on the camera, that's okay.  Still willing to listen to your voice. Student G, would you like to read what's up in purple?",teacher,84,3,,,1.0,مرحباً، صباح الخير، الصف. اليوم سنعمل مع مضاعفات العشرات و مضاعفات العشرات. وأحتاج إلى شخص ما يقرأ الأهداف التي هي في اللون الأرجواني والأحمر على اللوحة. هل يمكن أن يكون متطوعاً، من فضلك؟ يمكن أن يكون شخص ما أمام الكاميرا. يمكن أن يكون شخص ما وراء الكاميرا. إذا لم تكن على الكاميرا، لا بأس. لا يزال على استعداد للاستماع إلى صوتك. طالب G، هل ترغب في قراءة ما هو في اللون الأرجواني؟,مرحبا، صباح الخير، الصف. اليوم سنعمل مع مضاعفات العشرات و مضاعفات العشرات. واحتاج الي شخص ما يقرا الاهداف التي هي في اللون الارجواني والاحمر علي اللوحه. هل يمكن ان يكون متطوعا، من فضلك؟ يمكن ان يكون شخص ما امام الكاميرا. يمكن ان يكون شخص ما وراء الكاميرا. اذا لم تكن علي الكاميرا، لا باس. لا يزال علي استعداد للاستماع الي صوتك. طالب G، هل ترغب في قراءه ما هو في اللون الارجواني؟,72,0.0,False
+I will notice all [Inaudible] –,student,6,0,,,,سألاحظ كل شيء,سالاحظ كل شيء,3,0.0,False
+And?,teacher,1,0,0.0,,1.0,-وماذا؟,-وماذا؟,1,0.0,False
+And understand what happens when I multiply –,student,8,1,,0.0,,وفهم ما يحدث عندما اضرب ,وفهم ما يحدث عندما اضرب,5,0.0,False
+Multiply.,teacher,1,1,1.0,,0.0,مضاعفة,مضاعفه,1,0.0,False
+Multiply a number by multiples –,student,6,2,,,,مضاعفة عدد بمضاعفة ,مضاعفه عدد بمضاعفه,3,0.0,False
+Multiples of?,teacher,2,1,1.0,,0.0,مضاعفات من؟,مضاعفات من؟,2,0.0,False
+Of ten.,student,2,0,,,,من عشرة.,من عشره.,2,0.0,False
+"So I will notice and understand what happens when I multiply a number times 20.  That same number times 30.  Student R, could you read the language objective, please?",teacher,29,1,,,0.0,لذا سألاحظ وأفهم ما يحدث عندما مضاعفة عدد × 20 نفس الرقم × 30 الطالب R، هل يمكنك قراءة الهدف اللغوي، من فضلك؟,لذا سالاحظ وافهم ما يحدث عندما مضاعفه عدد × 20 نفس الرقم × 30 الطالب R، هل يمكنك قراءه الهدف اللغوي، من فضلك؟,19,0.0,False
+"I will write down the multiples of a two-digit number and will tell, write, or experience how I got my answers.",student,21,2,,0.0,,سأكتب مضاعفات الرقم ذو رقمين وأخبرك، أكتبك، أو تجرب كيف حصلت على إجاباتي.,ساكتب مضاعفات الرقم ذو رقمين واخبرك، اكتبك، او تجرب كيف حصلت علي اجاباتي.,13,0.0,False
+"So you're gonna work with some two-digit numbers that are multiples of 10.  All right?  Now we need to go through our math to-do lists.  And this is what we're gonna do in order.  Student J, what's our first step?",teacher,40,2,1.0,,0.0,لذا سوف تعمل مع بعض الأرقام ذات الأرقام الثنائية الأرقام التي هي مضاعفات من 10، حسناً؟ الآن نحتاج إلى الذهاب من خلال قوائم الرياضيات التي يجب القيام بها، وهذا ما سنفعله بالترتيب. الطالب J، ما هي خطوتنا الأولى؟,لذا سوف تعمل مع بعض الارقام ذات الارقام الثنائيه الارقام التي هي مضاعفات من 10، حسنا؟ الان نحتاج الي الذهاب من خلال قوائم الرياضيات التي يجب القيام بها، وهذا ما سنفعله بالترتيب. الطالب J، ما هي خطوتنا الاولي؟,38,0.0,False
+Solve the questions on page 41.  Draw a representation of your solution on paper then you write the word problem [under it].,student,22,1,,0.0,,حل الأسئلة على الصفحة 41 رسم تمثيل الحل الخاص بك على الورق ثم تكتب كلمة مشكلة [تحتها].,حل الاسئله علي الصفحه 41 رسم تمثيل الحل الخاص بك علي الورق ثم تكتب كلمه مشكله [تحتها].,16,0.058823529411764705,True
+You're gonna work with a partner to solve the word problems on showing your solution and then write the word problem underneath it.  Step three.,teacher,25,1,1.0,,0.0,ستعملين مع شريك لحل مشاكل الكلمة على عرض حلك ثم اكتبين مشكلة الكلمة تحتها,ستعملين مع شريك لحل مشاكل الكلمه علي عرض حلك ثم اكتبين مشكله الكلمه تحتها,14,0.07142857142857142,True
+"Work on the problems on pages 42 and 43 using grid paper, [Inaudible], and the multiplication [chart].",student,17,1,,0.0,,أعمل على المشاكل الموجودة على الصفحات 42 و 43 باستخدام ورقة الشبكة، [Inaudible]، والعدد [ الرسم البياني].,اعمل علي المشاكل الموجوده علي الصفحات 42 و 43 باستخدام ورقه الشبكه، [Inaudible]، والعدد [ الرسم البياني].,14,0.0,False
+So what you're gonna do is when you're done with page 42 and 43 you're gonna be – show how you can prove your answer and then the last five – hopefully the last five minutes of class or so we will fill in that chart using what we've learned in class today.  It's recording right now.  Student G?,teacher,59,0,1.0,,0.0,لذا ما ستفعله هو عندما تنتهي من الصفحات 42 و 43 ستظهر كيف يمكنك إثبات إجابتك ثم الخمسة الأخيرة على أمل أن تكون الخمس دقائق الأخيرة من الفصل أو حتى سنملأ هذا الرسم البياني باستخدام ما تعلمناه في الفصل اليوم,لذا ما ستفعله هو عندما تنتهي من الصفحات 42 و 43 ستظهر كيف يمكنك اثبات اجابتك ثم الخمسه الاخيره علي امل ان تكون الخمس دقائق الاخيره من الفصل او حتي سنملا هذا الرسم البياني باستخدام ما تعلمناه في الفصل اليوم,38,0.025,True
+What unit are we supposed to be doing?,student,8,1,,0.0,,أي وحدة من المفترض أن نقوم بها؟,اي وحده من المفترض ان نقوم بها؟,7,0.14285714285714285,True
+We're – this is – this is always unit three.  We're gonna be working unit three for probably the next week and a half. Student R?,teacher,26,2,1.0,,0.0,نحن دائماً في الوحدة الثالثة سنعمل في الوحدة الثالثة لمدة أسبوع ونصف,نحن دائما في الوحده الثالثه سنعمل في الوحده الثالثه لمده اسبوع ونصف,12,0.08333333333333333,True
+"So it's unit three, right?",student,5,1,,,,إذاً، إنها الوحدة الثالثة، صحيح؟,اذا، انها الوحده الثالثه، صحيح؟,5,0.0,False
+"Unit three, page 41.  You may work in partners.  Why don't you work with someone who's already sitting at your table to make it easy?",teacher,25,1,1.0,,1.0,الوحدة الثالثة، الصفحة 41، ربما تعملين كشركاء، لمَ لا تعملين مع شخصٍ يجلس بالفعل عند طاولتك لتسهيل الأمر؟,الوحده الثالثه، الصفحه 41، ربما تعملين كشركاء، لم لا تعملين مع شخص يجلس بالفعل عند طاولتك لتسهيل الامر؟,18,0.0,False
+"Mr. A., can I use the bathroom?",student,7,0,,,,سيّد (إي) ، هل يمكنني استخدام الحمام؟,سيد (اي) ، هل يمكنني استخدام الحمام؟,7,0.0,False
+"[Inaudible] So Student S, this is the question that you're gonna work on.  Miss S sells bags of oranges in a grocery store. There's four oranges in each bag.  David bought six bags of oranges to his class, so how many did David buy? Nope.  Put those back.  You're gonna draw these.",teacher,52,0,0.0,,0.0,إذاً الطالب (س) ، هذا هو السؤال الذي ستعمل عليه الآنسة (س) تبيع حقائب من البرتقال في متجر البقالة، هناك أربعة البرتقال في كل حقيبة.,اذا الطالب (س) ، هذا هو السؤال الذي ستعمل عليه الانسه (س) تبيع حقائب من البرتقال في متجر البقاله، هناك اربعه البرتقال في كل حقيبه.,25,0.04,True
+It would be four of six.,student,6,0,,,,سيكون أربعة من ستة.,سيكون اربعه من سته.,4,0.25,True
+"Shh.  The instructions said that you're gonna draw how you solve it.  We're not using – we're not using those yet. Student S, go ahead and place them in the bins so they don't break up.  Thank you.  [Inaudible]  Go ahead and throw out the [gum] all right?  Sit down.  Student S, sit down.",teacher,54,0,0.0,,0.0,التوجيهات تقول أنك سوف ترسم كيفية حلها. نحن لا نستخدم  نحن لا نستخدم هذه حتى الآن. الطالب S، اذهب ووضعها في القمامة حتى لا تتحطم. شكرا لك. [لا يمكن سماع] اذهب ورمي [العلكة] حسنا؟ اجلس. الطالب S، اجلس.,التوجيهات تقول انك سوف ترسم كيفيه حلها. نحن لا نستخدم نحن لا نستخدم هذه حتي الان. الطالب S، اذهب ووضعها في القمامه حتي لا تتحطم. شكرا لك. [لا يمكن سماع] اذهب ورمي [العلكه] حسنا؟ اجلس. الطالب S، اجلس.,38,0.0,False
+Only he doesn't want me to sit down.,student,8,0,,0.0,,فقط أنه لا يريدني أن أجلس,فقط انه لا يريدني ان اجلس,6,0.0,False
+No.  You just sit there.,teacher,5,0,1.0,,0.0,لا، فقط اجلس هناك,لا، فقط اجلس هناك,4,0.0,False
+Why does she get [out there]?,student,6,0,,,,لماذا تخرج؟,لماذا تخرج؟,2,0.0,False
+There are five there.,teacher,4,0,0.0,,0.0,هناك خمسة هناك.,هناك خمسه هناك.,3,0.3333333333333333,True
+Miss S sells bags of oranges in a grocery store.  There are 12 oranges in each bag.  David brought six bags of oranges to bring to his class.  How many oranges did David buy?,student,34,0,,0.0,,الآنسة س تبيع حقائب من البرتقال في متجر البقالة هناك 12 برتقال في كل حقيبة ديفيد جلب ست حقائب من البرتقال لجلبها إلى صفيه كم عدد البرتقال اشترى ديفيد,الانسه س تبيع حقائب من البرتقال في متجر البقاله هناك 12 برتقال في كل حقيبه ديفيد جلب ست حقائب من البرتقال لجلبها الي صفيه كم عدد البرتقال اشتري ديفيد,28,0.0,False
+So how could you draw a picture showing how you figured it out? Or could you draw a picture that represents it that would help you solve it?,teacher,28,0,0.0,,1.0,إذاً كيف يمكنك رسم صورة تشير إلى كيفية اكتشافها؟ أو يمكنك رسم صورة تمثلها التي تساعدك على حلها؟,اذا كيف يمكنك رسم صوره تشير الي كيفيه اكتشافها؟ او يمكنك رسم صوره تمثلها التي تساعدك علي حلها؟,18,0.0,False
+Like an array.,student,3,1,,,,مثل المجموعة,مثل المجموعه,2,0.0,False
+Sure.,teacher,1,0,,,0.0,-بالطبع,-بالطبع,1,0.0,False
+[Inaudible] that represents the oranges.,student,5,0,,,,الذي يمثل البرتقال.,الذي يمثل البرتقال.,3,0.0,False
+"You could do that as well.  Whatever you're most comfortable with.  This is for Step 2.  You're gonna solve the questions on 41, page 41.  And then you're gonna choose one of the two to draw a picture and show how you solved it. And you could just be copying down what you had here.",teacher,55,0,0.0,,0.0,يمكنك أن تفعل ذلك أيضاً، أيّاً كان ما تشعرين بالراحة به، هذا للخطوة الثانية، سوف تحلّ الأسئلة الموجودة في 41، الصفحة 41، ومن ثمّ ستختارين إحداهما لترسم صورة وتظهر كيف حلّته، ويمكنك فقط نسخ ما لديك هنا.,يمكنك ان تفعل ذلك ايضا، ايا كان ما تشعرين بالراحه به، هذا للخطوه الثانيه، سوف تحل الاسئله الموجوده في 41، الصفحه 41، ومن ثم ستختارين احداهما لترسم صوره وتظهر كيف حلته، ويمكنك فقط نسخ ما لديك هنا.,37,0.0,False
+I want to use the [Inaudible].,student,6,0,,,,أُريدُ أَنْ أَسْتَعْملَ [لا يُسمَعُ].,اريد ان استعمل [لا يسمع].,5,0.0,False
+"Student S, when you're done with that question move on to board.  Step two.  Hmm?  What does step two say?",teacher,20,0,0.0,,1.0,الطالب (س) ، عندما تنتهي من هذا السؤال تحرك إلى الطائرة الخطوة الثانية ماذا تقول الخطوة الثانية؟,الطالب (س) ، عندما تنتهي من هذا السؤال تحرك الي الطائره الخطوه الثانيه ماذا تقول الخطوه الثانيه؟,17,0.0,False
+If we're talking can the recorder –,student,7,0,,,,إذا كنا نتحدث يمكن للمسجل ,اذا كنا نتحدث يمكن للمسجل,5,0.0,False
+It'll record – probably record your voice but it won't record a picture of you.,teacher,15,0,1.0,,0.0,ربما سيقوم بتسجيل صوتك لكنه لن يقوم بتسجيل صورة لك,ربما سيقوم بتسجيل صوتك لكنه لن يقوم بتسجيل صوره لك,10,0.0,False
+It will record my voice?,student,5,0,,,,سوف تسجل صوتي؟,سوف تسجل صوتي؟,3,0.0,False
+"Mm-hmm.  It's recording right now.  So Student J, open up to page 41.  Hmm?  So, Student T, open up to page 41.",teacher,22,0,1.0,,0.0,إنها تسجل الآن لذا الطالب ج، افتح إلى الصفحة 41,انها تسجل الان لذا الطالب ج، افتح الي الصفحه 41,9,0.0,False
+[Student C] smelled oranges.,student,4,0,,,,[الطلاب C] رائحت البرتقال.,[الطلاب C] رائحت البرتقال.,3,0.0,False
+Mm-hmm.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+[Inaudible]  Where's the other part?,student,5,0,,,,أين الجزء الآخر؟,اين الجزء الاخر؟,3,0.0,False
+"So what I want you to do is solve question one.  Student J, let's put",teacher,15,0,0.0,,0.0,لذا ما أريده منك هو حل السؤال الأول,لذا ما اريده منك هو حل السؤال الاول,8,0.125,True
+The machine is recording me.,student,5,0,,,,الآلة تسجلني,الاله تسجلني,2,0.0,False
+Pencils over here.  Put the other pencils over here and solve this one.  If you need manipulatives to solve two then I'll let you get them then 'cause two is kind of different.,teacher,33,0,0.0,,0.0,أقلام هنا ضع الأقلام الأخرى هنا وحل هذه إذا كنت بحاجة للتلاعب لحل اثنين سأدعك تحصل عليها بعد ذلك لأن اثنين مختلف نوعا ما,اقلام هنا ضع الاقلام الاخري هنا وحل هذه اذا كنت بحاجه للتلاعب لحل اثنين سادعك تحصل عليها بعد ذلك لان اثنين مختلف نوعا ما,24,0.0,False
+Are we gonna watch the tape?  Hear –,student,8,0,,0.0,,هل سنشاهد الشريط؟,هل سنشاهد الشريط؟,3,0.0,False
+I'm not even gonna watch the tape.  I'm just gonna send it in.,teacher,13,0,1.0,,0.0,لن أشاهد الشريط، سأرسله فحسب,لن اشاهد الشريط، سارسله فحسب,5,0.0,False
+Who's gonna watch the tape?,student,5,0,,,,من سيشاهد الشريط؟,من سيشاهد الشريط؟,3,0.0,False
+The researchers who want us to analyze or observe our math lessons.,teacher,12,0,1.0,,0.0,الباحثون الذين يريدون منا تحليل أو مراقبة دروس الرياضيات.,الباحثون الذين يريدون منا تحليل او مراقبه دروس الرياضيات.,9,0.1111111111111111,True
+What happens if something bad gets on the tape?,student,9,0,,0.0,,ماذا سيحدث إذا ظهر شيء سيء على الشريط؟,ماذا سيحدث اذا ظهر شيء سيء علي الشريط؟,8,0.0,False
+Then I'm sure it will be dealt with.  But there's nothing bad that's gonna be on the tape.,teacher,18,0,1.0,,0.0,إذاً أنا متأكد من أن الأمر سيتم التعامل معه لكن لا شيء سيء سيكون على الشريط,اذا انا متاكد من ان الامر سيتم التعامل معه لكن لا شيء سيء سيكون علي الشريط,16,0.0,False
+Yeah.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+So solve this.,teacher,3,0,,,0.0,لذا قم بحل هذا,لذا قم بحل هذا,4,0.0,False
+What if one of us did have a problem with each other?,student,12,0,,0.0,,ماذا لو كان أحدنا لديه مشكلة مع بعضنا البعض؟,ماذا لو كان احدنا لديه مشكله مع بعضنا البعض؟,9,0.0,False
+I'm not gonna talk about that right now because it's more than likely to have someone try and make that happen.  So we're just gonna get our math work done.,teacher,30,0,1.0,,0.0,لن أتحدث عن ذلك الآن لأنه من المحتمل أن يحاول شخص ما تحقيق ذلك لذا سنقوم بعمل الرياضيات فقط,لن اتحدث عن ذلك الان لانه من المحتمل ان يحاول شخص ما تحقيق ذلك لذا سنقوم بعمل الرياضيات فقط,19,0.0,False
+Student J?,student,2,0,,,,الطالب (جي) ؟,الطالب (جي) ؟,3,0.0,False
+Yes.,teacher,1,0,,,0.0,-أجل، أجل,-اجل، اجل,2,0.0,False
+Yesterday about the [book]?,student,4,0,,,,بالأمس عن [الكتاب]؟,بالامس عن [الكتاب]؟,4,0.0,False
+Mm-hmm.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+Technically it wasn't actually me who wrote it and so I only took the blame because of – I wanted a,student,21,0,,0.0,,من الناحية الفنية لم يكن في الواقع أنا من كتبها وبالتالي أخذت اللوم فقط بسبب,من الناحيه الفنيه لم يكن في الواقع انا من كتبها وبالتالي اخذت اللوم فقط بسبب,15,0.0,False
+[Diploma]?,teacher,1,0,0.0,,0.0,[دبلوم]؟,[دبلوم]؟,2,0.0,False
+Yeah.  To have a party.,student,5,0,,,,أجل، لإقامة حفلة,اجل، لاقامه حفله,3,0.0,False
+Okay.  All right.  So you didn't in fact write it?,teacher,10,0,0.0,,0.0,حسناً، حسناً، إذاً أنت لم تكتبها في الواقع؟,حسنا، حسنا، اذا انت لم تكتبها في الواقع؟,8,0.0,False
+Nuh-uh.,student,1,0,,,,(نوح),(نوح),1,0.0,False
+"Okay.  Well, let me pass that along to Ms. C., okay?",teacher,11,0,,,0.0,حسناً، دعيني أنقل هذا إلى السيدة (سي) ، حسناً؟,حسنا، دعيني انقل هذا الي السيده (سي) ، حسنا؟,9,0.0,False
+Okay.,student,1,0,,,,-حسناً,-حسنا,1,0.0,False
+I'll do that.  Thank you for telling me.  All right?,teacher,10,0,,,0.0,سأفعل ذلك، شكراً على إخبارك لي، حسناً؟,سافعل ذلك، شكرا علي اخبارك لي، حسنا؟,7,0.0,False
+May I please have a pencil?,student,6,0,,,,أيمكنني الحصول على قلم رصاص من فضلك؟,ايمكنني الحصول علي قلم رصاص من فضلك؟,7,0.0,False
+Right over there.  Hmm?  You have two minutes.,teacher,8,0,0.0,,0.0,هناك، لديك دقيقتين,هناك، لديك دقيقتين,3,0.0,False
+Can I go after her?,student,5,0,,,,هل يمكنني الذهاب خلفها؟,هل يمكنني الذهاب خلفها؟,4,0.0,False
+Go – actually let's wait a second.  What work have you done so far?  Work on it.  Get something –,teacher,20,0,1.0,,0.0,اذهب  في الواقع دعونا ننتظر ثانية. ما العمل الذي قمت به حتى الآن؟ العمل عليه. الحصول على شيء ,اذهب في الواقع دعونا ننتظر ثانيه. ما العمل الذي قمت به حتي الان؟ العمل عليه. الحصول علي شيء,18,0.0,False
+Can I work on [Inaudible],student,5,0,,,,هل يمكنني العمل على [لا يمكن سماع],هل يمكنني العمل علي [لا يمكن سماع],7,0.0,False
+"Mm-hmm.  What are we doing right now?  Page 41, please.",teacher,10,0,1.0,,0.0,ماذا نفعل الآن؟ صفحة 41، من فضلك,ماذا نفعل الان؟ صفحه 41، من فضلك,7,0.0,False
+He said a bad word. Did I say a bad word?,student,11,0,,0.0,,لقد قال كلمة سيئة هل قلت كلمة سيئة؟,لقد قال كلمه سيئه هل قلت كلمه سيئه؟,8,0.0,False
+Yes?,teacher,1,0,0.0,,0.0,-أجل؟,-اجل؟,1,0.0,False
+Are we supposed to do this from two or – ?,student,11,0,,0.0,,هل من المفترض أن نفعل هذا من اثنين أو  ؟,هل من المفترض ان نفعل هذا من اثنين او ؟,10,0.0,False
+"Yes.  And if you need to use grid paper or [300th] chart or cubes, you can use those.  Okay?",teacher,19,1,0.0,,0.0,نعم، وإذا كنت بحاجة إلى استخدام ورقة الشبكة أو الرسم البياني أو الكوبات، يمكنك استخدام تلك، حسناً؟,نعم، واذا كنت بحاجه الي استخدام ورقه الشبكه او الرسم البياني او الكوبات، يمكنك استخدام تلك، حسنا؟,17,0.0,False
+For this?,student,2,0,,,,من أجل هذا؟,من اجل هذا؟,3,0.0,False
+"Mm-hmm.  Okay, Student S, now that you solved it this way I want you to draw a picture of how you solved it and then write the word problem underneath it.  Mm-hmm.",teacher,32,0,,,0.0,حسناً، الطالب (س) ، الآن بعد حلّه بهذه الطريقة أريدك أن ترسم صورة لكيفية حلّه ثم تكتب مشكلة الكلمة تحتها,حسنا، الطالب (س) ، الان بعد حله بهذه الطريقه اريدك ان ترسم صوره لكيفيه حله ثم تكتب مشكله الكلمه تحتها,20,0.0,False
+[Inaudible] paper?,student,2,0,,,,ورقة غير مسموعة؟,ورقه غير مسموعه؟,3,0.0,False
+Step two.  You're gonna draw how you solved it.  I actually want to see it on paper.  I want to see that on this paper.,teacher,25,0,,,0.0,الخطوة الثانية، سوف ترسم كيف حلته، أريد أن أرى ذلك على الورق، أريد أن أرى ذلك على هذا الورق.,الخطوه الثانيه، سوف ترسم كيف حلته، اريد ان اري ذلك علي الورق، اريد ان اري ذلك علي هذا الورق.,19,0.0,False
+So I solve it again?,student,5,0,,,,إذاً سأحل الأمر مجدداً؟,اذا ساحل الامر مجددا؟,4,0.0,False
+No.  You can just copy that down onto here.  Put your name down,teacher,13,0,1.0,,0.0,لا، يمكنك فقط نسخ ذلك هنا، ضع اسمك هنا,لا، يمكنك فقط نسخ ذلك هنا، ضع اسمك هنا,9,0.0,False
+For which problem?  Problem one or problem two?,student,8,0,,0.0,,للمشكلة الأولى أم المشكلة الثانية؟,للمشكله الاولي ام المشكله الثانيه؟,5,0.0,False
+Either one.,teacher,2,0,1.0,,0.0,أياً كان.,ايا كان.,2,0.0,False
+And then right a story about it?,student,7,0,,,,ومن ثم قصة عن ذلك؟,ومن ثم قصه عن ذلك؟,5,0.0,False
+"No.  Let go.  We keep our hands to our self, Student J.",teacher,12,0,0.0,,0.0,لا، دعونا نذهب، سنحافظ على أيدينا لنفسنا، الطالب (جي),لا، دعونا نذهب، سنحافظ علي ايدينا لنفسنا، الطالب (جي),9,0.0,False
+And then – ?,student,4,0,,,,و بعدها ؟,و بعدها ؟,3,0.0,False
+[Inaudible]  Hmm?,teacher,2,0,,,0.0,[غير مسموع] Hmm؟,[غير مسموع] Hmm؟,3,0.0,False
+Do I have to draw a different story [probably]?,student,9,0,,0.0,,هل يجب أن أرسم قصة مختلفة؟,هل يجب ان ارسم قصه مختلفه؟,6,0.0,False
+Or show how you solved it on paper.  No.  I don't want you to write a story problem.  I want you to show how you solved one of these problems on the paper.  So either copy that down onto here or copy this down onto –,teacher,46,0,1.0,,0.0,لا اريدك ان تكتب مشكلة قصة اريدك ان تظهرك كيف حلتي واحدة من هذه المشاكل على الورق,لا اريدك ان تكتب مشكله قصه اريدك ان تظهرك كيف حلتي واحده من هذه المشاكل علي الورق,17,0.0,False
+[Inaudible] word problems?,student,3,0,,,,مشاكل في الكلمات؟,مشاكل في الكلمات؟,3,0.0,False
+"No, I just want you to show how you solved this problem or how you solved this problem on that paper.",teacher,21,0,,,0.0,لا، أنا فقط أريد منك أن تظهر كيف حل هذه المشكلة أو كيف حل هذه المشكلة على تلك الورقة.,لا، انا فقط اريد منك ان تظهر كيف حل هذه المشكله او كيف حل هذه المشكله علي تلك الورقه.,19,0.10526315789473684,True
+You mean write a word problem [Inaudible],student,7,0,,,,تعني كتابة مشكلة كلمة [لا يمكن سماعها],تعني كتابه مشكله كلمه [لا يمكن سماعها],7,0.0,False
+Not a word problem.  The word problem below it.  Draw the solution and then write the word problem underneath it.,teacher,20,1,1.0,,0.0,لا مشكلة الكلمة، مشكلة الكلمة تحتها، رسم الحل ثم اكتب مشكلة الكلمة تحتها.,لا مشكله الكلمه، مشكله الكلمه تحتها، رسم الحل ثم اكتب مشكله الكلمه تحتها.,13,0.0,False
+Mr. A?,student,2,0,,,,سيّد (أ) ؟,سيد (ا) ؟,3,0.0,False
+Yes?,teacher,1,0,,,0.0,-أجل؟,-اجل؟,1,0.0,False
+What are you supposed to do on this paper?,student,9,0,,0.0,,ماذا يفترض بك أن تفعل في هذه الورقة؟,ماذا يفترض بك ان تفعل في هذه الورقه؟,8,0.0,False
+Hmm?,teacher,1,0,0.0,,0.0,هل هذا صحيح؟,هل هذا صحيح؟,3,0.0,False
+He just [answered] us.,student,4,0,,,,لقد أجابنا فحسب,لقد اجابنا فحسب,3,0.0,False
+"Can you explain it?  Yes, Student J?",teacher,7,0,,,1.0,هل يمكنك أن تشرح ذلك؟,هل يمكنك ان تشرح ذلك؟,5,0.0,False
+I'm getting confused.  So –,student,5,0,,,,أنا أصبح مشوشاً,انا اصبح مشوشا,3,0.0,False
+Okay.  So why don't you read this problem out loud to me?,teacher,12,0,0.0,,1.0,حسناً، لما لا تقرأ هذه المشكلة بصوت عال لي؟,حسنا، لما لا تقرا هذه المشكله بصوت عال لي؟,9,0.0,False
+Miss S sells bags of oranges in her grocery  --,student,10,0,,0.0,,الآنسة (س) تبيع حقائب من البرتقال في متجرها,الانسه (س) تبيع حقائب من البرتقال في متجرها,8,0.0,False
+Grocery.,teacher,1,0,1.0,,0.0,البقالة.,البقاله.,1,0.0,False
+-- grocery store.  There are four oranges in the bag.,student,10,0,,0.0,,هناك أربعة برتقال في الحقيبة,هناك اربعه برتقال في الحقيبه,5,0.2,True
+Each bag.,teacher,2,0,1.0,,0.0,كل حقيبة,كل حقيبه,2,0.0,False
+I mean each bag.  David bought six bags of oranges to bring to his class.  How many oranges did David buy?,student,21,0,,0.0,,أعني كل حقيبة (ديفيد) اشترى ستة حقائب من البرتقال لأحضرها إلى صفيه كم عدد البرتقال التي اشترىها (ديفيد) ؟,اعني كل حقيبه (ديفيد) اشتري سته حقائب من البرتقال لاحضرها الي صفيه كم عدد البرتقال التي اشتريها (ديفيد) ؟,19,0.05263157894736842,True
+So how many bags are there?,teacher,6,0,1.0,,0.0,إذاً كم عدد الحقائب الموجودة؟,اذا كم عدد الحقائب الموجوده؟,5,0.0,False
+There's four oranges in each bag.,student,6,0,,,,هناك أربعة برتقال في كل حقيبة.,هناك اربعه برتقال في كل حقيبه.,6,0.16666666666666666,True
+And we said that we circle important number and underline important words.,teacher,12,2,0.0,,0.0,ونحن نقول أننا نقوم بعمل دائرة حول العدد المهم وتأكيد الكلمات المهمة.,ونحن نقول اننا نقوم بعمل دائره حول العدد المهم وتاكيد الكلمات المهمه.,12,0.08333333333333333,True
+[First one].,student,2,0,,,,[الأول واحد].,[الاول واحد].,2,0.0,False
+And how many – okay but then what?  Six bags of oranges?,teacher,12,0,,,0.0,وكم عدد الـ  حسنا لكن ماذا بعد ذلك؟ ستة أكياس من البرتقال؟,وكم عدد ال حسنا لكن ماذا بعد ذلك؟ سته اكياس من البرتقال؟,12,0.08333333333333333,True
+And then [I think I'm] [Inaudible].,student,6,0,,,,ومن ثم [أعتقد أنني] [غير قابل للسمع].,ومن ثم [اعتقد انني] [غير قابل للسمع].,7,0.0,False
+What's that?  Open up to page 41.,teacher,7,0,0.0,,0.0,ما هذا؟ افتح إلى الصفحة 41,ما هذا؟ افتح الي الصفحه 41,5,0.0,False
+Might be [Inaudible] Might be recording me because –,student,9,0,,0.0,,قد يكون [لا يمكن سماع] قد يكون تسجيل لي لأن ,قد يكون [لا يمكن سماع] قد يكون تسجيل لي لان,10,0.0,False
+"So page two.  So question two, Student S.",teacher,8,0,0.0,,0.0,إذاً الصفحة الثانية، السؤال الثاني، الطالب S.,اذا الصفحه الثانيه، السؤال الثاني، الطالب S.,6,0.0,False
+In all that [charting] that you had in the book she [Inaudible] like that.,student,14,0,,0.0,,في كل ما كتبتموه في الكتاب كانت مثلها.,في كل ما كتبتموه في الكتاب كانت مثلها.,8,0.0,False
+Okay.  I'll let –,teacher,4,0,0.0,,0.0,حسناً، سأترك,حسنا، ساترك,2,0.0,False
+Do you have to do forty-six or [Inaudible],student,8,0,,0.0,,هل يجب أن تفعل أربعين وستة أو [لا يمكن سماع],هل يجب ان تفعل اربعين وسته او [لا يمكن سماع],10,0.0,False
+Mm-hmm.,teacher,1,0,0.0,,0.0,-حسناً,-حسنا,1,0.0,False
+[Forty]?,student,1,0,,,,[أربعين]؟,[اربعين]؟,2,0.0,False
+"Mm-hmm.  Student S?  I don't think that needed to be opened up so why don't you put the things back in that tray.  Isn't there a tray with some things in it?  Put the fraction pieces back in, please.",teacher,39,1,,,0.0,الطالب (س) ، لا أعتقد أنه كان من الضروري فتحها لذا لماذا لا تضع الأشياء مرة أخرى في تلك الصحنة؟ أليس هناك صحن مع بعض الأشياء فيه؟,الطالب (س) ، لا اعتقد انه كان من الضروري فتحها لذا لماذا لا تضع الاشياء مره اخري في تلك الصحنه؟ اليس هناك صحن مع بعض الاشياء فيه؟,27,0.0,False
+This is going to be easy.  The second one's easy.,student,10,0,,0.0,,هذا سيكون سهلاً الثاني سيكون سهلاً,هذا سيكون سهلا الثاني سيكون سهلا,6,0.0,False
+"One, two, three, four, five, six.  So this is what?  Eight plus eight plus eight.  Can you show me how you added those to three – what numbers together and came up with 32?  When you're ready, Student K, raise your hand and I'll come take a look.",teacher,48,0,0.0,,0.0,واحد، اثنان، ثلاثة، أربعة، خمسة، ستة. إذا ما هو هذا؟ ثمانية زائد ثمانية زائد ثمانية. هل يمكنك أن تظهر لي كيف قمت بإضافة هذه إلى ثلاثة  أي أرقام معا وجاءت إلى 32؟ عندما تكون جاهزا، الطالب ك، رفع يدك وسوف يأتي لألقي نظرة.,واحد، اثنان، ثلاثه، اربعه، خمسه، سته. اذا ما هو هذا؟ ثمانيه زائد ثمانيه زائد ثمانيه. هل يمكنك ان تظهر لي كيف قمت باضافه هذه الي ثلاثه اي ارقام معا وجاءت الي 32؟ عندما تكون جاهزا، الطالب ك، رفع يدك وسوف ياتي لالقي نظره.,43,0.11627906976744186,True
+"I need help, Mr. A. Can I get some water?",student,10,0,,0.0,,أحتاج للمساعدة، سيد (إي) هل يمكنني الحصول على بعض الماء؟,احتاج للمساعده، سيد (اي) هل يمكنني الحصول علي بعض الماء؟,10,0.0,False
+"No.  No.  Why don't you draw – instead of writing down, why don't you try drawing?  How many bags are – did David buy?",teacher,24,0,0.0,,1.0,لا، لا. لماذا لا ترسم  بدلاً من الكتابة، لماذا لا تحاول الرسم؟ كم حقيبة  اشترى ديفيد؟,لا، لا. لماذا لا ترسم بدلا من الكتابه، لماذا لا تحاول الرسم؟ كم حقيبه اشتري ديفيد؟,16,0.0,False
+Six.,student,1,0,,,,ستة.,سته.,1,0.0,False
+Six?  So why don't you draw six bags?  How many oranges are in each bag?,teacher,15,0,,,0.0,ستة، لماذا لا ترسم ستة حقائب؟ كم عدد البرتقال في كل حقيبة؟,سته، لماذا لا ترسم سته حقائب؟ كم عدد البرتقال في كل حقيبه؟,12,0.08333333333333333,True
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+"Ooh.  Let's try solving it that way.  Drawing the picture. Either big in it.  Yes, Student K?",teacher,17,0,,,0.0,دعونا نحاول حل الأمر بهذه الطريقة، نرسم الصورة، إما كبيرة فيها.,دعونا نحاول حل الامر بهذه الطريقه، نرسم الصوره، اما كبيره فيها.,11,0.09090909090909091,True
+I need help.,student,3,0,,,,أنا بحاجة لمساعدة.,انا بحاجه لمساعده.,3,0.0,False
+Student G?,teacher,2,0,,,0.0,الطالب جي؟,الطالب جي؟,2,0.0,False
+It's not even going in.,student,5,0,,,,إنه لن يدخل حتى,انه لن يدخل حتي,4,0.0,False
+[Inaudible],teacher,1,0,0.0,,0.0,[غير مسموع],[غير مسموع],2,0.0,False
+Four times six. Count to four six times.,student,8,0,,0.0,,أربع مرات ستة عد إلى أربع مرات ستة,اربع مرات سته عد الي اربع مرات سته,8,0.25,True
+Go get a drink of water.  So draw a picture.  Okay.  So – and what does a picture represent?,teacher,19,0,0.0,,0.0,اذهب واحصل على مشروب من الماء. لذا ارسم صورة. حسناً. إذاً  وماذا تمثل صورة؟,اذهب واحصل علي مشروب من الماء. لذا ارسم صوره. حسنا. اذا وماذا تمثل صوره؟,14,0.0,False
+Six bags?,student,2,0,,,,ستة أكياس؟,سته اكياس؟,2,0.5,True
+So each of this is a bag?  And how many are in each bag?,teacher,14,0,,,0.0,إذاً كلّ هذه حقيبة، وكم عدد هذه في كلّ حقيبة؟,اذا كل هذه حقيبه، وكم عدد هذه في كل حقيبه؟,10,0.0,False
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+"So do – go ahead and fill in the four.  Okay, Student L, where's your math book?",teacher,17,0,,,0.0,حسناً، الطالب L، أين كتاب الرياضيات الخاص بك؟,حسنا، الطالب L، اين كتاب الرياضيات الخاص بك؟,8,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Okay, Student L?  Is this what you were looking for?  It was –",teacher,13,0,,,0.0,حسناً، الطالب (إل) هل هذا ما كنت تبحث عنه؟,حسنا، الطالب (ال) هل هذا ما كنت تبحث عنه؟,9,0.0,False
+It was on the floor.,student,5,0,,,,كان على الأرض,كان علي الارض,3,0.0,False
+It was on the floor.  [Make sure it goes in this.],teacher,11,0,1.0,,0.0,كان على الأرض [تأكد من أنها تدخل في هذا.],كان علي الارض [تاكد من انها تدخل في هذا.],9,0.0,False
+It is –,student,3,0,,,,إنه كذلك,انه كذلك,2,0.0,False
+So what you come up with?,teacher,6,0,,,0.0,إذاً ما الذي توصلت إليه؟,اذا ما الذي توصلت اليه؟,5,0.0,False
+Thirty-four.,student,1,0,,,,أربعة وثلاثون,اربعه وثلاثون,2,0.5,True
+Great.  So make sure you put your answer in here and then I [Inaudible],teacher,14,0,,,0.0,عظيم، لذا تأكد من وضع إجابتك هنا ومن ثم أنا,عظيم، لذا تاكد من وضع اجابتك هنا ومن ثم انا,10,0.0,False
+Mr. A. Can I use the bathroom?,student,7,0,,,,سيّد (إي) ، هل يمكنني استخدام الحمام؟,سيد (اي) ، هل يمكنني استخدام الحمام؟,7,0.0,False
+Show me how you solved it?,teacher,6,0,0.0,,1.0,أرني كيف حلته؟,ارني كيف حلته؟,3,0.0,False
+Can I use the bathroom?,student,5,0,,,,هل يمكنني استخدام الحمام؟,هل يمكنني استخدام الحمام؟,4,0.0,False
+"Student A, come on up.  Hmm?  Not right now.",teacher,9,0,1.0,,0.0,الطالب (إي) ، تعال ليس الآن,الطالب (اي) ، تعال ليس الان,6,0.0,False
+"[On the] word problem, do the words?",student,7,0,,,,مشكلة الكلمات، هل الكلمات؟,مشكله الكلمات، هل الكلمات؟,4,0.0,False
+Draw your solution on that white line – on that white paper and then write that word problem underneath it.,teacher,20,2,1.0,,0.0,رسم الحل الخاص بك على ذلك الخط الأبيض  على ذلك الورق الأبيض ثم كتابة هذه الكلمة مشكلة تحتها.,رسم الحل الخاص بك علي ذلك الخط الابيض علي ذلك الورق الابيض ثم كتابه هذه الكلمه مشكله تحتها.,18,0.0,False
+Oh.,student,1,0,,,,-أوه .,-اوه .,1,0.0,False
+"Mm-hmm.  So what's your answer?  How many oranges did he how many oranges?  Yes, so erase.",teacher,16,0,,,0.0,إذاً، ما هو إجابتك؟ كم عدد البرتقال التي قام بها؟,اذا، ما هو اجابتك؟ كم عدد البرتقال التي قام بها؟,10,0.0,False
+24 oranges.,student,2,0,,,,24 برتقال,24 برتقال,1,0.0,False
+That's [okay] [Inaudible],teacher,3,0,,,0.0,هذا [حسناً] [غير قابل للسمع],هذا [حسنا] [غير قابل للسمع],5,0.0,False
+"I [would have said], like [Inaudible].",student,6,0,,,,أنا [يجب أن أقول]، مثل [غير مستمع].,انا [يجب ان اقول]، مثل [غير مستمع].,8,0.0,False
+"Well, here's what I want you to do.  I want you to circle the important numbers and underline the important words and that should tell you whether or not it's multiplication or division.  And when you think you know I want you to compare your ideas to Student L's.",teacher,49,4,0.0,,0.0,حسناً، إليك ما أريده منك أن تفعله. أريد منك أن تقوم بعمل دائرة حول الأرقام المهمة وتؤكد الكلمات المهمة والتي يجب أن تخبرك ما إذا كانت مضاعفة أو تقسيم. وعندما تعتقد أنك تعرف أريد منك أن تقارن أفكارك مع الطالب L.,حسنا، اليك ما اريده منك ان تفعله. اريد منك ان تقوم بعمل دائره حول الارقام المهمه وتؤكد الكلمات المهمه والتي يجب ان تخبرك ما اذا كانت مضاعفه او تقسيم. وعندما تعتقد انك تعرف اريد منك ان تقارن افكارك مع الطالب L.,40,0.024390243902439025,True
+[I think it's division].,student,4,1,,,,[أعتقد أنه التقسيم].,[اعتقد انه التقسيم].,3,0.0,False
+[Inaudible] not this one.,teacher,4,0,,,0.0,[لا يسمع] ليس هذا واحد.,[لا يسمع] ليس هذا واحد.,5,0.0,False
+I did four times six and it gave me 24. [Inaudible] Last week Ms. S ordered six boxes of oranges.,student,20,0,,0.0,,فعلت أربع مرات ستة وأعطيت لي 24 الأسبوع الماضي السيدة S طلب ستة صناديق من البرتقال.,فعلت اربع مرات سته واعطيت لي 24 الاسبوع الماضي السيده S طلب سته صناديق من البرتقال.,14,0.125,True
+"So can you draw a representation of this?  Instead of – that – what are my important words in numbers?  I want you to underline the important words, circle the important numbers.",teacher,32,2,0.0,,0.0,لذا هل يمكنك رسم تمثيل لهذا؟ بدلا من  أن  ما هي كلماتي الهامة في الأرقام؟ أريد منك أن تؤكد الكلمات الهامة، دائرة الأرقام الهامة.,لذا هل يمكنك رسم تمثيل لهذا؟ بدلا من ان ما هي كلماتي الهامه في الارقام؟ اريد منك ان تؤكد الكلمات الهامه، دائره الارقام الهامه.,24,0.041666666666666664,True
+That was forty.,student,3,0,,,,كان ذلك أربعين.,كان ذلك اربعين.,3,0.0,False
+"Forty what?  And what is it they're talking about that has forty oranges inside?  All right.  Great.  Is that a number or -- ? [Beeping alarm]  Ladies and gentleman, I'm going to give you about four more minutes.  And then in four minutes I want us to talk about how questions one and two are related.  If you've already moved oranges.",teacher,61,0,,,0.0,أربعين ماذا؟ وما الذي يتحدثون عنه الذي يحتوي على أربعين برتقال في الداخل؟ حسناً. عظيم. هل هذا رقم أو --؟ سيداتي سادتي، سأعطيكم أربع دقائق أخرى. وبعد أربع دقائق أريد أن نتحدث عن كيفية ارتباط السؤال الأول والثاني. إذا كنتم قد نقلتم البرتقال بالفعل.,اربعين ماذا؟ وما الذي يتحدثون عنه الذي يحتوي علي اربعين برتقال في الداخل؟ حسنا. عظيم. هل هذا رقم او --؟ سيداتي سادتي، ساعطيكم اربع دقائق اخري. وبعد اربع دقائق اريد ان نتحدث عن كيفيه ارتباط السؤال الاول والثاني. اذا كنتم قد نقلتم البرتقال بالفعل.,44,0.022727272727272728,True
+I [Inaudible] boxes.,student,3,0,,,,أنا [لا يمكن سماع] صناديق.,انا [لا يمكن سماع] صناديق.,5,0.0,False
+Now you have boxes.  How many boxes are there?,teacher,9,0,,,0.0,الآن لديك صناديق كم عدد صناديق هناك؟,الان لديك صناديق كم عدد صناديق هناك؟,7,0.0,False
+Six?,student,1,0,,,,ستة؟,سته؟,1,0.0,False
+Okay.  So try drawing your boxes again.  And how many are in each box?,teacher,14,0,,,0.0,حسناً، حاولي رسم صناديقك مرة أخرى، وكم عدد الصناديق في كل صناديق؟,حسنا، حاولي رسم صناديقك مره اخري، وكم عدد الصناديق في كل صناديق؟,12,0.0,False
+Forty?,student,1,0,,,,أربعين؟,اربعين؟,1,0.0,False
+So what goes in each box?,teacher,6,0,,,0.0,إذاً ما الذي يقع في كل صندوق؟,اذا ما الذي يقع في كل صندوق؟,7,0.0,False
+[Forty]?,student,1,0,,,,[أربعين]؟,[اربعين]؟,2,0.0,False
+So are you gonna make 40 circles this time or do something else?,teacher,13,1,,,0.0,إذاً هل ستقومين بعمل 40 دائرة هذه المرة أم تفعلين شيئاً آخر؟,اذا هل ستقومين بعمل 40 دائره هذه المره ام تفعلين شيئا اخر؟,11,0.08333333333333333,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Okay.  I have one question for you, Student K.  Student K? Instead of tally marks, can you just write the number 40 in each box?  Do you think you can do that and still figure it out?  Try that because I think you might find that is a more efficient way of solving it.  Okay?  So what number is gonna go there?",teacher,62,0,,,0.0,حسنا، لدي سؤال واحد لك، الطالب ك. الطالب ك؟ بدلا من علامات العد، هل يمكنك فقط كتابة الرقم 40 في كل مربع؟ هل تعتقد أنك يمكن أن تفعل ذلك ومع ذلك معرفة ذلك؟ حاول ذلك لأنني أعتقد أنك قد تجد أن هذا هو وسيلة أكثر كفاءة لحل ذلك. حسنا؟,حسنا، لدي سؤال واحد لك، الطالب ك. الطالب ك؟ بدلا من علامات العد، هل يمكنك فقط كتابه الرقم 40 في كل مربع؟ هل تعتقد انك يمكن ان تفعل ذلك ومع ذلك معرفه ذلك؟ حاول ذلك لانني اعتقد انك قد تجد ان هذا هو وسيله اكثر كفاءه لحل ذلك. حسنا؟,48,0.0,False
+Forty.,student,1,0,,,,أربعين,اربعين,1,0.0,False
+"Okay.  Yeah.  Student J, bring page 41 over here.  Bring page 41 over here.  So now try solving it.",teacher,19,0,,,0.0,حسناً، أجل، الطالب (جي) ، أحضر الصفحة 41 إلى هنا، أحضر الصفحة 41 إلى هنا.,حسنا، اجل، الطالب (جي) ، احضر الصفحه 41 الي هنا، احضر الصفحه 41 الي هنا.,13,0.0,False
+What happened?  Is it recording me?,student,6,0,,,,ماذا حدث، هل تسجلني؟,ماذا حدث، هل تسجلني؟,4,0.0,False
+"It's okay.  Student J, what work have you done so far?",teacher,11,0,0.0,,0.0,حسناً، الطالب (جاي) ، ما العمل الذي قمت به حتى الآن؟,حسنا، الطالب (جاي) ، ما العمل الذي قمت به حتي الان؟,11,0.0,False
+Why are they [Inaudible] and they record me?,student,8,0,,0.0,,لماذا هم [لا يسمعون] ويُسجلونني؟,لماذا هم [لا يسمعون] ويسجلونني؟,5,0.0,False
+You need to solve problems one and two.,teacher,8,0,0.0,,0.0,عليك حل المشاكل الأولى والثانية,عليك حل المشاكل الاولي والثانيه,5,0.2,True
+One and two?,student,3,0,,,,واحد و اثنان؟,واحد و اثنان؟,3,0.0,False
+Right now on page 41.,teacher,5,0,,,0.0,الآن على الصفحة 41,الان علي الصفحه 41,3,0.0,False
+Whew.,student,1,0,,,,-أجل .,-اجل .,1,0.0,False
+"Look at the relationship between this number and that number. This number and that number.  Are you asking me or telling At your seat right there.  Keep your things on your desk. Okay.  Now, it's not six bags.  It's six boxes and how many are in each box?  Student I?",teacher,50,0,,,0.0,انظروا إلى العلاقة بين هذا الرقم و ذلك الرقم هذا الرقم و هذا الرقم هل تسألني أو تقولين في مقعدك هناك,انظروا الي العلاقه بين هذا الرقم و ذلك الرقم هذا الرقم و هذا الرقم هل تسالني او تقولين في مقعدك هناك,21,0.0,False
+"Mr. A.?  It's difference 280, right?  It is 280.  Can I use a ruler?",student,14,1,,0.0,,سيّد (إيه) ، الفرق هو 280، صحيح؟,سيد (ايه) ، الفرق هو 280، صحيح؟,7,0.0,False
+You may.,teacher,2,0,0.0,,0.0,يمكنك ذلك,يمكنك ذلك,2,0.0,False
+It's 280.,student,2,0,,,,إنها 280.,انها 280.,1,0.0,False
+"No, it's not.  I want you to go back and double check your math.",teacher,14,0,,,0.0,لا، ليس كذلك أريدك أن تعود وتحقق من الرياضيات,لا، ليس كذلك اريدك ان تعود وتحقق من الرياضيات,9,0.0,False
+"Mr. A., can I get crayons?",student,6,0,,,,سيّد (إي) ، أيمكنني الحصول على أقلام؟,سيد (اي) ، ايمكنني الحصول علي اقلام؟,7,0.0,False
+"Nope.  I need five and we'll see like what's [Inaudible] five from first.  Thank you, Student J.  Thank you, Student J. Thank you, T.  Student J? So let's talk about how the questions one and two are related.  Question one it says what?  It's six bags of four.  And hand if you can tell me what your answer was?  How many oranges was that?  Student I?",teacher,66,0,0.0,,0.0,لا. أنا بحاجة إلى خمسة وسنرى ما هو [لا يمكن سماع] خمسة من البداية. شكراً، الطالب J. شكراً، الطالب J. شكراً، الطالب J. شكراً، الطالب T. دعونا نتحدث عن كيفية علاقة الأسئلة الأولى والثانية. السؤال الأول يقول ماذا؟ انها ستة أكياس من أربعة. واليد إذا كنت تستطيع أن تخبرني ما كانت إجابتك؟ كم من البرتقال كان ذلك؟ الطالب I؟,لا. انا بحاجه الي خمسه وسنري ما هو [لا يمكن سماع] خمسه من البدايه. شكرا، الطالب J. شكرا، الطالب J. شكرا، الطالب J. شكرا، الطالب T. دعونا نتحدث عن كيفيه علاقه الاسئله الاولي والثانيه. السؤال الاول يقول ماذا؟ انها سته اكياس من اربعه. واليد اذا كنت تستطيع ان تخبرني ما كانت اجابتك؟ كم من البرتقال كان ذلك؟ الطالب I؟,55,0.05084745762711865,True
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+And what equation did you use to solve it?,teacher,9,1,,,1.0,وما هي المعادلة التي استخدمتها لحلها؟,وما هي المعادله التي استخدمتها لحلها؟,6,0.0,False
+Six times what [Inaudible],student,4,0,,,,ست مرات ما [غير مسموع],ست مرات ما [غير مسموع],5,0.0,False
+"Now how 'bout the second one?  Shh.  Student K., what did you come up with an answer for the second one?  Question two. 240.  Can any – can someone raise their hand and tell me what equation they used to solve it?  Student A?",teacher,44,1,,,1.0,هل يمكن لأي شخص أن يرفع يده ويقول لي ما هي المعادلة التي استخدمها لحلها؟ الطالب أ؟,هل يمكن لاي شخص ان يرفع يده ويقول لي ما هي المعادله التي استخدمها لحلها؟ الطالب ا؟,17,0.0,False
+Six – oh. Six times 40.,student,6,0,,,,ستة  أوه. ستة × 40.,سته اوه. سته × 40.,3,0.4,True
+"So how are these related?  Student J?  Student T?  I'm gonna wait.  I love the fact that Student I, and Student R, and Student E want to solve the questions that are in their book but we need to have a conversation about how these are related.  How are these two problems related?  Student T?",teacher,55,0,0.0,,1.0,إذاً كيف ترتبط هذه؟ الطالب J؟ الطالب T؟ سأنتظر. أحب حقيقة أن الطالب I، والطالب R، والطالب E يريدون حل الأسئلة الموجودة في كتابهم ولكن علينا أن نحصل على محادثة حول كيف ترتبط هذه المشاكل. كيف ترتبط هذه المشاكل؟ الطالب T؟,اذا كيف ترتبط هذه؟ الطالب J؟ الطالب T؟ سانتظر. احب حقيقه ان الطالب I، والطالب R، والطالب E يريدون حل الاسئله الموجوده في كتابهم ولكن علينا ان نحصل علي محادثه حول كيف ترتبط هذه المشاكل. كيف ترتبط هذه المشاكل؟ الطالب T؟,40,0.024390243902439025,True
+Because – I got to tell you something.  You put up 240 from six times 4.,student,16,0,,0.0,,لأن عليّ أن أخبرك شيئاً، تضع 240 من 6 × 4.,لان علي ان اخبرك شيئا، تضع 240 من 6 × 4.,7,0.0,False
+Thank you.  So how are these two related?,teacher,8,0,0.0,,1.0,شكراً، كيف ترتبط هذان الاثنان؟,شكرا، كيف ترتبط هذان الاثنان؟,5,0.0,False
+Because it got a two and a four in the front.,student,11,0,,1.0,,لأنها حصلت على 2 و 4 في المقدمة.,لانها حصلت علي 2 و 4 في المقدمه.,6,0.0,False
+So this is 24 here and this is 24 here.  So the sixes are the same.  What's different about this – the equation?  Student R?,teacher,25,1,0.0,,1.0,اذا هذا هو 24 هنا وهذا هو 24 هنا اذا الستة هي نفسها ما هو الاختلاف حول هذا  المعادلة؟ الطالب R؟,اذا هذا هو 24 هنا وهذا هو 24 هنا اذا السته هي نفسها ما هو الاختلاف حول هذا المعادله؟ الطالب R؟,19,0.0,False
+That the six and four – that – [they say] that six times forty. The forty [thing].,student,17,0,,0.0,,أن ستة وأربعة  أن  [يقولون] أن ست مرات أربعين. الأربعين [شيء].,ان سته واربعه ان [يقولون] ان ست مرات اربعين. الاربعين [شيء].,11,0.09090909090909091,True
+"Oh, wow.  You know what?  We just found – we just discovered this fantastic relationship.  Forty is how much of 10?",teacher,21,0,1.0,,0.0,لقد اكتشفنا للتو هذه العلاقة الرائعة. أربعين هو كم من 10؟,لقد اكتشفنا للتو هذه العلاقه الرائعه. اربعين هو كم من 10؟,11,0.0,False
+Four tens.,student,2,0,,,,أربعة عشرات.,اربعه عشرات.,2,0.5,True
+"It's four tens or is it 10 fours?  Student J, fair warning. All right.  If we're multiplying this number in the equation by 10 we have to multiply the answer by 10. Student R?  Okay.  I need all of you right here.  I need this half of the class to sit somewhere where you relationship.  Who can tell me what three times four is?",teacher,64,3,,,0.0,إذا كنا نضاعف هذا الرقم في المعادلة بنسبة 10 علينا أن نضاعف الجواب بنسبة 10؟ الطالب R؟ حسناً. أحتاجكم جميعاً هنا. أحتاج إلى هذا النصف من الفصل للجلوس في مكان ما حيث تربطون. من يستطيع أن يقول لي ما هو 3 × 4؟,اذا كنا نضاعف هذا الرقم في المعادله بنسبه 10 علينا ان نضاعف الجواب بنسبه 10؟ الطالب R؟ حسنا. احتاجكم جميعا هنا. احتاج الي هذا النصف من الفصل للجلوس في مكان ما حيث تربطون. من يستطيع ان يقول لي ما هو 3 × 4؟,40,0.0,False
+Three times?,student,2,0,,,,ثلاث مرات؟,ثلاث مرات؟,2,0.0,False
+"Three times four.  Student K, why don't you move up a bit to the edge of the rug.  Student T?  Three times four is what? Student R?",teacher,27,0,,,0.0,ثلاث مرات أربعة لماذا لا تتحرك قليلا إلى حافة السجادة الطالب T؟ ثلاث مرات أربعة ما هو الطالب R؟,ثلاث مرات اربعه لماذا لا تتحرك قليلا الي حافه السجاده الطالب T؟ ثلاث مرات اربعه ما هو الطالب R؟,19,0.15789473684210525,True
+12.,student,1,0,,,,12,12,0,0.0,False
+12.  I have an array here.  I know it's not big but it's three by four.  So three times four is 12.  What do you think three times forty is?  Student E?,teacher,32,1,,,1.0,12 . لدي صف هنا. أعلم أنه ليس كبيرا ولكنه 3×4 . لذلك 3 × 4 = 12 . ما الذي تعتقد 3 × 40 هو؟ الطالب E؟,12 . لدي صف هنا. اعلم انه ليس كبيرا ولكنه 3×4 . لذلك 3 × 4 = 12 . ما الذي تعتقد 3 × 40 هو؟ الطالب E؟,15,0.0,False
+I think it's [Inaudible],student,4,0,,,,أعتقد أنه [غير قابل للسمع],اعتقد انه [غير قابل للسمع],5,0.0,False
+"And why do you think that is?  Yes, Student A?",teacher,10,0,,,1.0,و لماذا تعتقدين أن هذا هو؟,و لماذا تعتقدين ان هذا هو؟,6,0.0,False
+It's the same thing except you just add a zero to the end.,student,13,1,,1.0,,انها نفس الشيء باستثناء أنك فقط تضيف صفر إلى النهاية.,انها نفس الشيء باستثناء انك فقط تضيف صفر الي النهايه.,10,0.1,True
+But am I just adding a zero to the answer?,teacher,10,0,1.0,,0.0,ولكن هل أنا فقط أضيف صفر إلى الإجابة؟,ولكن هل انا فقط اضيف صفر الي الاجابه؟,8,0.125,True
+Yeah.  You're adding 100 to the answer and you're adding 10 to the --,student,14,0,,0.0,,نعم، أنت تضيف 100 إلى الإجابة وتضيف 10 إلى...,نعم، انت تضيف 100 الي الاجابه وتضيف 10 الي...,7,0.0,False
+"So you're saying you're taking that first equation and multiplying it times 10.  So I have three times four here. And when I change my equation to three times forty, how many of these do I have?  I go from four to 40.  Student T?",teacher,45,3,1.0,,0.0,إذا كنت تقول أنك تأخذ هذه المعادلة الأولى وتضاعفها بمقدار 10 لذلك لدي 3 × 4 هنا وعندما أغير المعادلة إلى 3 × 40، كم عدد هذه لدي؟,اذا كنت تقول انك تاخذ هذه المعادله الاولي وتضاعفها بمقدار 10 لذلك لدي 3 × 4 هنا وعندما اغير المعادله الي 3 × 40، كم عدد هذه لدي؟,22,0.0,False
+You have four of those.,student,5,0,,,,لديك أربعة منها,لديك اربعه منها,3,0.3333333333333333,True
+"So that would be three times four, which is 12.  You're saying times four?  Let's try this.  So we're saying that an array – if I can represent this equation with three times four with an array that's represent that equation?",teacher,41,4,0.0,,1.0,اذاً هذا سيكون ثلاث مرات أربعة، وهو 12 هل تقول ضرب أربعة؟ دعونا نحاول هذا. اذاً نقول ان صف  اذا استطعت تمثيل هذه المعادلة بثلاث مرات أربعة مع صف يمثل هذه المعادلة؟,اذا هذا سيكون ثلاث مرات اربعه، وهو 12 هل تقول ضرب اربعه؟ دعونا نحاول هذا. اذا نقول ان صف اذا استطعت تمثيل هذه المعادله بثلاث مرات اربعه مع صف يمثل هذه المعادله؟,31,0.0625,True
+10 more.,student,2,0,,,,عشرة أخرى.,عشره اخري.,2,0.5,True
+Can you repeat that for me?,teacher,6,0,,,0.0,أيمكنك تكرار ذلك لي؟,ايمكنك تكرار ذلك لي؟,4,0.25,True
+10 more.,student,2,0,,,,عشرة أخرى.,عشره اخري.,2,0.5,True
+"10 more?  Let's try this.  Are we ready?  12, 24, 36 –",teacher,12,0,,,0.0,10 أخرى؟ دعونا نحاول هذا هل نحن مستعدون؟ 12، 24، 36 ,10 اخري؟ دعونا نحاول هذا هل نحن مستعدون؟ 12، 24، 36,9,0.0,False
+48.,multiple students,1,0,,,,48.,48.,0,0.0,False
+48.,teacher,1,0,,,0.0,48.,48.,0,0.0,False
+73.,student,1,0,,,,73.,73.,0,0.0,False
+"72.  84.  Student R, take your seat please.  You're blocking people's view.  Thank you.  96.  Or it's actually – we've gone past that.  We have 12.  Let's count this again.  12, 24, 36, 48, 60, 72, 84, 96, 108,",teacher,39,0,,,0.0,72. 84. الطالب R، اجلس من فضلك. أنت تعيق رؤية الناس. شكرا. 96. أو في الواقع  لقد تجاوزنا ذلك. لدينا 12. دعونا نحسب هذا مرة أخرى. 12، 24، 36، 48، 60، 72، 84، 96، 108،,72. 84. الطالب R، اجلس من فضلك. انت تعيق رؤيه الناس. شكرا. 96. او في الواقع لقد تجاوزنا ذلك. لدينا 12. دعونا نحسب هذا مره اخري. 12، 24، 36، 48، 60، 72، 84، 96، 108،,31,0.0,False
+15.,student,1,0,,,,15.,15.,0,0.0,False
+20.,teacher,1,0,,,0.0,عشرون,عشرون,1,1.0,True
+Oh.,student,1,0,,,,-أوه .,-اوه .,1,0.0,False
+How many arrays do I have?,teacher,6,1,,,0.0,كم عدد المجموعات التي لديّ؟,كم عدد المجموعات التي لدي؟,5,0.0,False
+"One, two, three, four – 10.",student,6,0,,,,واحد، اثنان، ثلاثة، أربعة  10,واحد، اثنان، ثلاثه، اربعه 10,4,0.2,True
+Call out.  Student I?,teacher,4,0,0.0,,0.0,اتصلي، الطالب الأول؟,اتصلي، الطالب الاول؟,3,0.0,False
+10.,student,1,0,,,,عشرة,عشره,1,1.0,True
+I have 10.  So when I went from this equation to this equation I just multiplied this and this by 10.  Does that make sense?,teacher,25,3,,,1.0,لدي 10 لذا عندما ذهبت من هذه المعادلة إلى هذه المعادلة ضربت هذا وهذا بال 10 هل هذا منطقي؟,لدي 10 لذا عندما ذهبت من هذه المعادله الي هذه المعادله ضربت هذا وهذا بال 10 هل هذا منطقي؟,17,0.0,False
+Yeah.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"So it's more than just adding a zero.  You're actually taking your first equation and multiplying times 10.  I now need to set you free to try the problems on question – on page 42 and 43.  And I need one, two, three, and whoever else has gum to get rid of it now.  There's at least three of you and I want the entire packets left on Student J?  You all done?  Excellent.  Can you put your name on it and that's great.  So I'm gonna have you move on to pages 42 and 43.  Mm-hmm.  Not yet.",teacher,99,2,,,0.0,لذا فهي أكثر من مجرد إضافة الصفر. أنت في الواقع تأخذ المعادلة الأولى وتضاعف 10 الآن أنا بحاجة إلى تحرير لكم لتجربة المشاكل في السؤال  على الصفحة 42 و 43. وأنا بحاجة إلى واحد، اثنان، ثلاثة، وأي شخص آخر لديه العلكة للتخلص منها الآن. هناك ثلاثة منكم على الأقل وأريد الحزمة الكاملة المتبقية على الطالب J؟ فعلتم جميعا؟ ممتازة. هل يمكنك وضع اسمك عليه وهذا عظيم. لذلك سأجعلك تنتقل إلى الصفحات 42 و 43.,لذا فهي اكثر من مجرد اضافه الصفر. انت في الواقع تاخذ المعادله الاولي وتضاعف 10 الان انا بحاجه الي تحرير لكم لتجربه المشاكل في السؤال علي الصفحه 42 و 43. وانا بحاجه الي واحد، اثنان، ثلاثه، واي شخص اخر لديه العلكه للتخلص منها الان. هناك ثلاثه منكم علي الاقل واريد الحزمه الكامله المتبقيه علي الطالب J؟ فعلتم جميعا؟ ممتازه. هل يمكنك وضع اسمك عليه وهذا عظيم. لذلك ساجعلك تنتقل الي الصفحات 42 و 43.,69,0.02702702702702703,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"I want to go see page 42, see what you started so far.  Yes, Student E, page 42.  So let's see page 42.  What's five times six?  Five",teacher,28,0,,,0.0,أريد أن أذهب لرؤية الصفحة 42، انظر ماذا بدأت حتى الآن. نعم، الطالب E، الصفحة 42.,اريد ان اذهب لرؤيه الصفحه 42، انظر ماذا بدات حتي الان. نعم، الطالب E، الصفحه 42.,15,0.0,False
+Half.,student,1,0,,,,النصف.,النصف.,1,0.0,False
+"Student S, see how we had three times four?  We had 12.  Okay? We said three times 40 is actually ten 12s so it's 120.",teacher,25,0,,,0.0,الطالب S، انظر كيف كان لدينا ثلاثة × أربعة؟ كان لدينا 12. حسنا؟ قالنا ثلاثة × 40 هو في الواقع عشرة 12s لذلك هو 120.,الطالب S، انظر كيف كان لدينا ثلاثه × اربعه؟ كان لدينا 12. حسنا؟ قالنا ثلاثه × 40 هو في الواقع عشره 12s لذلك هو 120.,19,0.12,True
+"Wait.  Six, 12, 18.",student,4,0,,,,انتظر، ستة، 12، 18,انتظر، سته، 12، 18,3,0.0,False
+"So what do you think this one is?  Okay.  So now take Student L – go use.  Student L, can I – I need a chaperone for a trip to the to find another place for you because you haven't done any work yet and every time I turn around you're working with – so what",teacher,56,0,,,0.0,إذاً ما رأيك في هذا؟ حسناً. الآن خذ الطالب L  اذهب واستخدمه. الطالب L، هل يمكنني  أحتاج إلى مرشد في رحلة إلى المكتب للعثور على مكان آخر لك لأنك لم تفعل أي عمل بعد وفي كل مرة ألتفت أنت تعمل مع,اذا ما رايك في هذا؟ حسنا. الان خذ الطالب L اذهب واستخدمه. الطالب L، هل يمكنني احتاج الي مرشد في رحله الي المكتب للعثور علي مكان اخر لك لانك لم تفعل اي عمل بعد وفي كل مره التفت انت تعمل مع,40,0.0,False
+"[Inaudible] do it, man.",student,4,0,,,,افعلها يا رجل,افعلها يا رجل,3,0.0,False
+So –,teacher,2,0,,,0.0,إذاً,اذا,1,0.0,False
+[Inaudible] do this.  [Inaudible] recorded.,student,5,0,,,,[لا يمكن سماعها] تفعل هذا. [لا يمكن سماعها] سجل.,[لا يمكن سماعها] تفعل هذا. [لا يمكن سماعها] سجل.,9,0.0,False
+You're what?  You're still take part in the math lesson.,teacher,10,0,0.0,,0.0,ما زلت تشارك في دروس الرياضيات,ما زلت تشارك في دروس الرياضيات,6,0.0,False
+Okay.  But what's the point of doing this?,student,8,0,,0.0,,حسناً، لكن ما الجدوى من فعل هذا؟,حسنا، لكن ما الجدوي من فعل هذا؟,7,0.0,False
+"So you learn, Student J. Excuse me, Student S?",teacher,9,0,0.0,,0.0,لذا تعلم، الطالب جي المعذرة، الطالب S؟,لذا تعلم، الطالب جي المعذره، الطالب S؟,7,0.0,False
+I need help.  Is this one 240?,student,7,0,,,,أحتاج مساعدة هل هذه 240؟,احتاج مساعده هل هذه 240؟,5,0.0,False
+Okay.  So what – five times 60.  I want you to go back and show me your thinking.  You can use centimeter grid paper.  You can use drawing paper to draw out your answer or you can use cubes.  So I want you to try and solve that one.  All right?,teacher,51,2,0.0,,0.0,حسناً، ما هي 5 × 60؟ أريد منك أن تعود وتظهر لي تفكيرك. يمكنك استخدام ورقة شبكة سنتيمتر. يمكنك استخدام ورقة رسم لتحديد الإجابة أو يمكنك استخدام الكوبات. لذا أريد منك أن تحاول حل هذه. حسناً؟,حسنا، ما هي 5 × 60؟ اريد منك ان تعود وتظهر لي تفكيرك. يمكنك استخدام ورقه شبكه سنتيمتر. يمكنك استخدام ورقه رسم لتحديد الاجابه او يمكنك استخدام الكوبات. لذا اريد منك ان تحاول حل هذه. حسنا؟,34,0.027777777777777776,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+What do you want to use?,teacher,6,0,,,0.0,ماذا تريد أن تستخدم؟,ماذا تريد ان تستخدم؟,4,0.0,False
+I'll just [Inaudible]  I wrote the story problem.,student,8,0,,0.0,,سأكتب مشكلة القصة,ساكتب مشكله القصه,3,0.0,False
+"Yep.  That's fine.  Yep.  So now I want you to work on these. So let's look at page 41.  Put it in the bin, please.  So I'm gonna read the question out loud and I want you to tell me what to circle and grocery store.  There are four oranges in each bag.  David bought six bags of oranges to bring to his class.  How many oranges did David buy?  What are my numbers – important numbers in this question?",teacher,80,1,0.0,,0.0,نعم. هذا جيد. نعم. لذلك الآن أريد منك أن تعمل على هذه. لذلك دعونا ننظر إلى الصفحة 41. وضعه في القمامة، من فضلك. لذلك أنا ذاهب لقراءة السؤال بصوت عال وأريد منك أن تخبرني ما الدائرة ومتاجر البقالة. هناك أربعة البرتقال في كل حقيبة. ديفيد اشترى ستة حقائب من البرتقال لجلبها إلى فصله. كم البرتقال ديفيد اشترى؟ ما هي أرقامي  أرقام مهمة في هذا السؤال؟,نعم. هذا جيد. نعم. لذلك الان اريد منك ان تعمل علي هذه. لذلك دعونا ننظر الي الصفحه 41. وضعه في القمامه، من فضلك. لذلك انا ذاهب لقراءه السؤال بصوت عال واريد منك ان تخبرني ما الدائره ومتاجر البقاله. هناك اربعه البرتقال في كل حقيبه. ديفيد اشتري سته حقائب من البرتقال لجلبها الي فصله. كم البرتقال ديفيد اشتري؟ ما هي ارقامي ارقام مهمه في هذا السؤال؟,64,0.03076923076923077,True
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+Okay.  And what's the word that goes with it?  The important word that goes with it?  Or words?,teacher,18,0,,,0.0,حسناً، ما هي الكلمة المهمة التي ترتبط بها أم الكلمات؟,حسنا، ما هي الكلمه المهمه التي ترتبط بها ام الكلمات؟,10,0.0,False
+60.  20 [Inaudible],student,3,0,,,,[لا يمكن سماعها],[لا يمكن سماعها],3,0.0,False
+You want me to read the sentence again with the four in it?,teacher,13,0,,,0.0,أتريدني أن أقرأ الجملة مرة أخرى مع الأربعة فيها؟,اتريدني ان اقرا الجمله مره اخري مع الاربعه فيها؟,9,0.0,False
+[I know what it is].,student,5,0,,,,[أعلم ما هو].,[اعلم ما هو].,3,0.0,False
+Four what?  Add the – write down 60 five times and add them together.,teacher,14,2,0.0,,0.0,أربعة ماذا؟ إضافة  اكتب 60 خمس مرات وأضافهم معا.,اربعه ماذا؟ اضافه اكتب 60 خمس مرات واضافهم معا.,8,0.3333333333333333,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Okay.  In what?  In each bag?  Excellent.  Now what's my other number in this, Student J?",teacher,16,0,,,0.0,حسناً، في ماذا، في كل حقيبة؟ ممتازة. الآن ما هو رقمي الآخر في هذا، الطالب جي؟,حسنا، في ماذا، في كل حقيبه؟ ممتازه. الان ما هو رقمي الاخر في هذا، الطالب جي؟,16,0.0,False
+Six.,student,1,0,,,,ستة.,سته.,1,0.0,False
+Six.  He bought six bags so we've got six bags with four oranges in each bag.  How can you draw that problem?,teacher,22,0,,,1.0,ستة، لقد اشترى ستة حقائب لذا لدينا ستة حقائب مع أربعة برتقال في كل حقيبة، كيف يمكنك رسم هذه المشكلة؟,سته، لقد اشتري سته حقائب لذا لدينا سته حقائب مع اربعه برتقال في كل حقيبه، كيف يمكنك رسم هذه المشكله؟,20,0.15,True
+Four times six.,student,3,0,,,,أربع مرات ستة.,اربع مرات سته.,3,0.0,False
+Four times six.  See if Mr. A can write – is that a four?  Is that right?,teacher,17,0,,,0.0,أربعة × ستة. انظر إذا كان السيد A يمكن أن تكتب  هو أربعة؟ هل هذا صحيح؟,اربعه × سته. انظر اذا كان السيد A يمكن ان تكتب هو اربعه؟ هل هذا صحيح؟,14,0.0625,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Is that a four?  Is that right?  Four times.  So Mr. A the artist here.  One second, Student J.  I'm trying to work on my upside down artistry.  How am I doing so far, Student J? I'm trying.  It doesn't have to be perfect.  Just has to represent the problem.  I found that if I don't worry about how stuff always looks it makes it easier and less frustrating for me to solve the problem.  So I don't need it to be perfect.  One, two, three – that's five bags.  How many more do I have to draw?",teacher,98,0,,,0.0,هل هذا أربعة؟ أليس كذلك؟ أربعة مرات. إذن السيد أ الفنان هنا. ثانية واحدة، الطالب جي. أنا أحاول العمل على فنوني رأسا على عقب. كيف حالي حتى الآن، الطالب جي؟ أنا أحاول. لا يجب أن تكون مثالية. فقط يجب أن تمثل المشكلة. وجدت أنه إذا لم أكن قلقا عن كيف تبدو الأشياء دائما يجعل من الأسهل وأقل إحباطا لي لحل المشكلة. لذلك أنا لا أحتاج إلى أن تكون مثالية. واحد، اثنان، ثلاثة  وهذا هو خمسة أكياس. كم يجب أن أرسم المزيد؟,هل هذا اربعه؟ اليس كذلك؟ اربعه مرات. اذن السيد ا الفنان هنا. ثانيه واحده، الطالب جي. انا احاول العمل علي فنوني راسا علي عقب. كيف حالي حتي الان، الطالب جي؟ انا احاول. لا يجب ان تكون مثاليه. فقط يجب ان تمثل المشكله. وجدت انه اذا لم اكن قلقا عن كيف تبدو الاشياء دائما يجعل من الاسهل واقل احباطا لي لحل المشكله. لذلك انا لا احتاج الي ان تكون مثاليه. واحد، اثنان، ثلاثه وهذا هو خمسه اكياس. كم يجب ان ارسم المزيد؟,81,0.037037037037037035,True
+One.,student,1,0,,,,واحد.,واحد.,1,0.0,False
+All right.  Let's go to it.  You ready?  You want to put the number in that one.  See if you can write better upside straight.  I bet you can write better than I can.,teacher,34,0,,,0.0,حسناً، لنذهب إليها، هل أنت مستعد؟ تريد أن تضع الرقم في هذا واحد، لنرى إذا كنت تستطيع كتابة أفضل رأسا على عقب. أراهن أنك تستطيع كتابة أفضل مني.,حسنا، لنذهب اليها، هل انت مستعد؟ تريد ان تضع الرقم في هذا واحد، لنري اذا كنت تستطيع كتابه افضل راسا علي عقب. اراهن انك تستطيع كتابه افضل مني.,28,0.0,False
+"16.  Look at – Oh, oh. [Inaudible]",student,7,0,,,,16، انظر إلى  أوه، أوه. [غير مسموع],16، انظر الي اوه، اوه. [غير مسموع],7,0.0,False
+You want me to write the four?  Okay.  So I'll write the four.,teacher,13,0,0.0,,0.0,أتريدني أن أكتب الأربعة؟ حسناً، سأكتب الأربعة,اتريدني ان اكتب الاربعه؟ حسنا، ساكتب الاربعه,7,0.0,False
+Wow.  This is that 12.,student,5,0,,,,هذا هو الثاني عشر,هذا هو الثاني عشر,4,0.25,True
+Mm-hmm.,teacher,1,0,0.0,,0.0,-حسناً,-حسنا,1,0.0,False
+[61.  20.  20].,student,3,0,,,,[61. 20. 20].,[61. 20. 20].,0,0.0,False
+20?,teacher,1,0,,,1.0,عشرون؟,عشرون؟,1,0.0,False
+24.,student,1,0,,,,24.,24.,0,0.0,False
+So what's your answer?,teacher,4,0,,,0.0,إذاً، ما هو إجابتك؟,اذا، ما هو اجابتك؟,4,0.0,False
+24.,student,1,0,,,,24.,24.,0,0.0,False
+All right.  Now you ready to try the next one?  You want me to read it out loud or you want – okay.  When Ms. S orders oranges from the fruit company they come in boxes. Each box has forty oranges inside.  Last week Miss S ordered six boxes of oranges.  How many oranges did she order?  So what are some of the important words and numbers here?,teacher,68,0,,,0.0,حسناً، هل أنتِ مستعدة لمحاولة المرة القادمة؟ هل تريدني أن أقرأها بصوت عالٍ أو تريدني؟ حسناً، عندما تقوم السيدة (س) بتطلب البرتقال من شركة الفاكهة تأتي في صناديق. كل صناديق تحتوي على أربعين برتقال في الداخل. الأسبوع الماضي طلبت السيدة (س) ست صناديق من البرتقال. كم عدد البرتقال التي طلبتها؟ ما هي بعض الكلمات والأرقام المهمة هنا؟,حسنا، هل انت مستعده لمحاوله المره القادمه؟ هل تريدني ان اقراها بصوت عال او تريدني؟ حسنا، عندما تقوم السيده (س) بتطلب البرتقال من شركه الفاكهه تاتي في صناديق. كل صناديق تحتوي علي اربعين برتقال في الداخل. الاسبوع الماضي طلبت السيده (س) ست صناديق من البرتقال. كم عدد البرتقال التي طلبتها؟ ما هي بعض الكلمات والارقام المهمه هنا؟,57,0.0,False
+Forty.  Six.,student,2,0,,,,أربعين، ستة,اربعين، سته,2,0.5,True
+Forty oranges.  Each box has 40 oranges.  Okay.  What else? You,teacher,11,0,,,1.0,أربعين برتقالًا في كل صندوق أربعين برتقالًا,اربعين برتقالا في كل صندوق اربعين برتقالا,7,0.0,False
+How many oranges did she order?,student,6,0,,,,كم عدد البرتقال التي طلبتها؟,كم عدد البرتقال التي طلبتها؟,5,0.0,False
+"So – what do you want me to do?  Mr. A the artist.  Student G, Page 42 is next.",teacher,19,0,0.0,,0.0,إذن ماذا تريدني أن أفعل؟ السيد A الفنان. الطالب G، الصفحة 42 هو التالي.,اذن ماذا تريدني ان افعل؟ السيد A الفنان. الطالب G، الصفحه 42 هو التالي.,12,0.0,False
+I know. Forty and six boxes.,student,6,0,,,,أعلم، أربعين وستة صناديق,اعلم، اربعين وسته صناديق,4,0.0,False
+Excuse me?,teacher,2,0,0.0,,0.0,المعذرة؟,المعذره؟,1,0.0,False
+Forty oranges and six [boxes].,student,5,0,,,,أربعين برتقال وستة صناديق,اربعين برتقال وسته صناديق,4,0.0,False
+"So I'll draw the fours, you draw the zeros.  We got a deal? Oh, do you know that's a four or does it look like a nine?",teacher,27,0,0.0,,0.0,إذاً سأسحب الأربعة وأنت سحب الصفرات هل لدينا صفقة؟ هل تعرف أن هذا أربعة أم أنه يبدو مثل تسعة؟,اذا ساسحب الاربعه وانت سحب الصفرات هل لدينا صفقه؟ هل تعرف ان هذا اربعه ام انه يبدو مثل تسعه؟,19,0.05263157894736842,True
+Looks like – I think I can [catch] it.,student,9,0,,0.0,,يبدو أنني أستطيع القبض عليه,يبدو انني استطيع القبض عليه,5,0.0,False
+[Inaudible] [There you go].,teacher,4,0,0.0,,0.0,[غير مسموع] [هناك تذهب].,[غير مسموع] [هناك تذهب].,4,0.0,False
+I got the answer.,student,4,0,,,,حصلت على الإجابة,حصلت علي الاجابه,3,0.0,False
+What was it?,teacher,3,0,,,0.0,ما الذي حدث؟,ما الذي حدث؟,3,0.0,False
+320.,student,1,0,,,,320.,320.,0,0.0,False
+"Student S, here's what I want you to do.  Do you do addition like this?  60 plus 60 plus 60 plus 60 plus 60 plus 60. Like that?  Can you do that?  What are all these zeros added together?",teacher,39,1,,,0.0,الطالب S، هنا ما أريده منك أن تفعل. هل تقوم بالإضافة مثل هذا؟ 60 زائد 60 زائد 60 زائد 60 زائد 60 زائد 60 زائد 60 مثل هذا؟ هل يمكنك القيام بذلك؟ ما كل هذه الصفر جمع معا؟,الطالب S، هنا ما اريده منك ان تفعل. هل تقوم بالاضافه مثل هذا؟ 60 زائد 60 زائد 60 زائد 60 زائد 60 زائد 60 زائد 60 مثل هذا؟ هل يمكنك القيام بذلك؟ ما كل هذه الصفر جمع معا؟,31,0.18421052631578946,True
+Zero.,student,1,0,,,,صفر.,صفر.,1,0.0,False
+Right.  Skip count by sixes.  Six –,teacher,7,0,,,0.0,حسناً، تخطي العد بـ6,حسنا، تخطي العد ب6,4,0.0,False
+"12, 18, 24, 32.",student,4,0,,,,12، 18، 24، 32,12، 18، 24، 32,3,0.0,False
+Six.,teacher,1,0,,,0.0,ستة.,سته.,1,0.0,False
+12.,student,1,0,,,,12,12,0,0.0,False
+"12, 18, 24, 30.  24?  Six.  Ready?  One, two, three, four, five.  Yes.",teacher,13,0,,,0.0,12، 18، 24، 30، 24؟ 6، جاهز؟ واحد، اثنان، ثلاثة، أربعة، خمسة. نعم.,12، 18، 24، 30، 24؟ 6، جاهز؟ واحد، اثنان، ثلاثه، اربعه، خمسه. نعم.,13,0.0,False
+"Oh, it's 20 [Inaudible].",student,4,0,,,,أوه، هو 20 [لا يمكن سماع].,اوه، هو 20 [لا يمكن سماع].,5,0.0,False
+"Yeah.  So can you skip count by 40s instead of 4s and then write your answer there?  Yes, Student J?",teacher,20,0,,,0.0,أجل، هل يمكنك أن تخطي العد بـ40 بدلاً من 4 ثم تكتب جوابك هناك؟,اجل، هل يمكنك ان تخطي العد ب40 بدلا من 4 ثم تكتب جوابك هناك؟,13,0.0,False
+I found a pattern.  See?,student,5,0,,,,وجدت نمطاً، أترى؟,وجدت نمطا، اتري؟,3,0.0,False
+What did you find?,teacher,4,0,1.0,,1.0,ما الذي وجدتيه؟,ما الذي وجدتيه؟,3,0.0,False
+[One and there's a two.  It just adds a zero but for them three it,student,15,1,,1.0,,[واحد وهناك اثنان. انها فقط تضيف صفر ولكن بالنسبة لهؤلاء الثلاثة هو,[واحد وهناك اثنان. انها فقط تضيف صفر ولكن بالنسبه لهؤلاء الثلاثه هو,12,0.08333333333333333,True
+"You know we're gonna talk about that.  Maybe not today but in the next couple of days.  Okay, but you've seen the pattern.  It may be adding a zero but it's because this number's 10 times large – this numbers' ten times larger than that number.  This number is ten times larger than that – Student I, I'm gonna tell you this once.",teacher,63,0,1.0,,0.0,ربما لن نتحدث عن ذلك اليوم ولكن في الأيام القليلة القادمة. حسناً، ولكنكم رأيتم النمط. قد يكون إضافة الصفر ولكن هذا لأن هذا الرقم أكبر من هذا الرقم 10 مرات,ربما لن نتحدث عن ذلك اليوم ولكن في الايام القليله القادمه. حسنا، ولكنكم رايتم النمط. قد يكون اضافه الصفر ولكن هذا لان هذا الرقم اكبر من هذا الرقم 10 مرات,29,0.03333333333333333,True
+Did I get the right [answer]?,student,6,0,,,,هل حصلت على الجواب الصحيح؟,هل حصلت علي الجواب الصحيح؟,5,0.0,False
+Can you handle the responsibility on those [boots]?,teacher,8,0,0.0,,0.0,هل يمكنك تحمل المسؤولية عن تلك الأحذية؟,هل يمكنك تحمل المسؤوليه عن تلك الاحذيه؟,7,0.0,False
+Mm-hmm.,student,1,0,,,,-حسناً,-حسنا,1,0.0,False
+"Okay, which means we – Student I, you need to use light footsteps, okay, walking.",teacher,15,0,,,0.0,حسناً، وهذا يعني أننا الطالب الأول، يجب أن تستخدم خطوات خفيفة، حسناً، المشي.,حسنا، وهذا يعني اننا الطالب الاول، يجب ان تستخدم خطوات خفيفه، حسنا، المشي.,13,0.0,False
+Do we have to do this page?,student,7,0,,,,هل يجب أن نفعل هذه الصفحة؟,هل يجب ان نفعل هذه الصفحه؟,6,0.0,False
+Mm-hmm.,teacher,1,0,1.0,,0.0,-حسناً,-حسنا,1,0.0,False
+Like that – [Inaudible],student,4,0,,,,مثل ذلك  [لا يسمع],مثل ذلك [لا يسمع],4,0.0,False
+[Inaudible] Sit down.,teacher,3,0,,,0.0,اجلس,اجلس,1,0.0,False
+I still didn't solve number two.,student,6,0,,,,ما زلت لم أحل رقم اثنين.,ما زلت لم احل رقم اثنين.,6,0.0,False
+Did that work?,teacher,3,0,0.0,,0.0,هل نجح ذلك؟,هل نجح ذلك؟,3,0.0,False
+I [stayed].,student,2,0,,,,أنا [بقي].,انا [بقي].,2,0.0,False
+All right.  Do you think you – ready to try page 42?  Give –,teacher,14,0,,,0.0,حسناً، هل تعتقدين أنكِ مستعدة لمحاولة الصفحة 42؟,حسنا، هل تعتقدين انك مستعده لمحاوله الصفحه 42؟,8,0.0,False
+Mr. A?,student,2,0,,,,سيّد (أ) ؟,سيد (ا) ؟,3,0.0,False
+"Yes, Student N?",teacher,3,0,,,0.0,نعم، الطالب ن؟,نعم، الطالب ن؟,3,0.0,False
+Is that enough?,student,3,0,,,,هل هذا كافٍ؟,هل هذا كاف؟,3,0.0,False
+Enough what?,teacher,2,0,,,0.0,بما يكفي ماذا؟,بما يكفي ماذا؟,3,0.0,False
+Fives?,student,1,0,,,,خمسة؟,خمسه؟,1,0.0,False
+How many fives are there?,teacher,5,0,,,0.0,كم عدد الخمسة هناك؟,كم عدد الخمسه هناك؟,4,0.0,False
+Eight.,student,1,0,,,,ثمانية,ثمانيه,1,1.0,True
+60?,teacher,1,0,,,0.0,60؟,60؟,1,0.0,False
+16.,student,1,0,,,,16.,16.,0,0.0,False
+Why don't you go on the rug and lay them out side by side.,teacher,14,0,,,0.0,لماذا لا تذهب على السجاد وتضعهم جنبا إلى جنب.,لماذا لا تذهب علي السجاد وتضعهم جنبا الي جنب.,9,0.0,False
+"Mr. A, can I [Inaudible]",student,5,0,,,,سيّد (أ) ، أيمكنني؟,سيد (ا) ، ايمكنني؟,4,0.0,False
+Some help?  You sure can.,teacher,5,0,1.0,,0.0,بعض المساعدة؟,بعض المساعده؟,2,0.0,False
+Oh my gosh.  I'm [Inaudible],student,5,0,,,,يا إلهي، أنا (لا أستطيع سماع),يا الهي، انا (لا استطيع سماع),6,0.0,False
+Now what if we instead of having six fives we multiply that five times 10 and we have six 50s.,teacher,20,1,0.0,,0.0,الآن ماذا لو بدلا من أن يكون لدينا ستة خمسة نضاعف ذلك خمسة × 10 ونحن لدينا ستة 50s.,الان ماذا لو بدلا من ان يكون لدينا سته خمسه نضاعف ذلك خمسه × 10 ونحن لدينا سته 50s.,16,0.21052631578947367,True
+Huh? Leave me alone.,student,4,0,,,,دعيني وشأني,دعيني وشاني,2,0.0,False
+So this says six 50s.  So what's six times 50?  Can we count? 50 –,teacher,15,0,,,0.0,اذا هذا يقول ستة 50s. اذا ما هو ستة × 50؟ هل يمكننا العد؟ 50 ,اذا هذا يقول سته 50s. اذا ما هو سته × 50؟ هل يمكننا العد؟ 50,12,0.13333333333333333,True
+100?,student,1,0,,,,مائة؟,مائه؟,1,0.0,False
+Okay.  Plus 50 more.,teacher,4,0,,,0.0,حسناً، بالإضافة إلى 50,حسنا، بالاضافه الي 50,3,0.0,False
+150?,student,1,0,,,,150؟,150؟,1,0.0,False
+Plus 50 more.,teacher,3,0,,,0.0,بالإضافة إلى 50 أخرى.,بالاضافه الي 50 اخري.,3,0.0,False
+200 it would be?,student,4,0,,,,200 سيكون ذلك؟,200 سيكون ذلك؟,2,0.0,False
+"Student S?  50, 100, 150.",teacher,5,0,,,0.0,الطالب S؟ 50، 100، 150,الطالب S؟ 50، 100، 150,4,0.0,False
+That's not [been solved].,student,4,0,,,,هذا لم يُحل,هذا لم يحل,3,0.0,False
+"Why don't you write it down?  50, 100, and complete the pattern.",teacher,12,0,,,0.0,لماذا لا تكتبها؟ 50، 100، وأكمل النمط.,لماذا لا تكتبها؟ 50، 100، واكمل النمط.,7,0.0,False
+It would be better if we had more help [Inaudible],student,10,0,,1.0,,سيكون من الأفضل أن يكون لدينا المزيد من المساعدة,سيكون من الافضل ان يكون لدينا المزيد من المساعده,9,0.0,False
+Excuse me.,teacher,2,0,0.0,,0.0,عذراً,عذرا,1,0.0,False
+Mr. A?,student,2,0,,,,سيّد (أ) ؟,سيد (ا) ؟,3,0.0,False
+Yes.,teacher,1,0,,,0.0,-أجل، أجل,-اجل، اجل,2,0.0,False
+My [lip] hurt.,student,3,0,,,,شفتي تؤلمني,شفتي تؤلمني,2,0.0,False
+Okay.  It's still there so that's good.,teacher,7,0,,,0.0,حسناً، مازال موجوداً لذلك هذا جيد,حسنا، مازال موجودا لذلك هذا جيد,6,0.0,False
+Can I go to the bathroom?,student,6,0,,,,هل يمكنني الذهاب إلى الحمام؟,هل يمكنني الذهاب الي الحمام؟,5,0.0,False
+Okay.,teacher,1,0,0.0,,0.0,-حسناً,-حسنا,1,0.0,False
+[Inaudible]  I didn't really work on the paper but I did it all on here.,student,15,0,,0.0,,لم أعمل حقاً على الصحيفة لكنني عملت كل شيء هنا,لم اعمل حقا علي الصحيفه لكنني عملت كل شيء هنا,10,0.0,False
+What was your answer?  Okay.,teacher,5,0,0.0,,0.0,ما كان ردك؟,ما كان ردك؟,3,0.0,False
+240 and actually the second way for two – for number two.,student,12,0,,0.0,,240 والطريقة الثانية للثانية  للثانية.,240 والطريقه الثانيه للثانيه للثانيه.,4,0.0,False
+[What else?],teacher,2,0,0.0,,0.0,ماذا أيضاً؟,ماذا ايضا؟,2,0.0,False
+This is Number One.,student,4,0,,,,هذا رقم واحد.,هذا رقم واحد.,3,0.0,False
+"So now I want you to try 42.  So one, two, three, four, five. So six 50s is how much?",teacher,20,0,,,0.0,لذا الآن أريد منك أن تحاول 42، لذا واحد، اثنان، ثلاثة، أربعة، خمسة.,لذا الان اريد منك ان تحاول 42، لذا واحد، اثنان، ثلاثه، اربعه، خمسه.,13,0.0,False
+Huh?,student,1,0,,,,هاه؟,هاه؟,1,0.0,False
+Six times 50 is how much?  Now try it with 60s.  Five 60s.,teacher,13,0,,,0.0,ستة مرات 50 كم؟ الآن جربها مع 60s. خمسة 60s.,سته مرات 50 كم؟ الان جربها مع 60s. خمسه 60s.,7,0.2,True
+Can I use the bathroom?,student,5,0,,,,هل يمكنني استخدام الحمام؟,هل يمكنني استخدام الحمام؟,4,0.0,False
+"When the other ladies come back, yes.",teacher,7,0,1.0,,0.0,عندما تعود السيدات الأخرى، نعم.,عندما تعود السيدات الاخري، نعم.,5,0.0,False
+Can I use the restroom and then my [money] in there – ?,student,13,0,,0.0,,هل بإمكاني استخدام الحمام وبعدها أموالي هناك؟,هل بامكاني استخدام الحمام وبعدها اموالي هناك؟,7,0.0,False
+We're actually gonna have a bathroom break very soon.,teacher,9,0,1.0,,0.0,في الواقع سنأخذ استراحة في الحمام قريباً جداً,في الواقع سناخذ استراحه في الحمام قريبا جدا,8,0.0,False
+Okay.,student,1,0,,,,-حسناً,-حسنا,1,0.0,False
+Okay.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+But it's an emergency.,student,4,0,,,,لكن هذه حالة طارئة,لكن هذه حاله طارئه,4,0.0,False
+"[Inaudible]  hold it like ten minutes. Student S.  Thank you, Student J.  I know that students are starting to see patterns between the smaller equations and the larger equations.  What I want and we're gonna talk about those patterns Friday. What I need you to do right now is to close up your student activity books and open up your math notebook and help me start filling in this chart right here.",teacher,72,2,,,0.0,الطالب S. شكراً، الطالب J. أعرف أن الطلاب بدأوا في رؤية أنماط بين المعادلات الأصغر والمعادلات الكبيرة. ما أريده ونحن سوف نتحدث عن تلك الأنماط يوم الجمعة. ما أريده منك أن تفعل الآن هو إغلاق كتب نشاط الطلاب وفتح دفتر ملاحظات الرياضيات الخاصة بك وساعدني على البدء في ملء هذا الرسم البياني هنا.,الطالب S. شكرا، الطالب J. اعرف ان الطلاب بداوا في رؤيه انماط بين المعادلات الاصغر والمعادلات الكبيره. ما اريده ونحن سوف نتحدث عن تلك الانماط يوم الجمعه. ما اريده منك ان تفعل الان هو اغلاق كتب نشاط الطلاب وفتح دفتر ملاحظات الرياضيات الخاصه بك وساعدني علي البدء في ملء هذا الرسم البياني هنا.,51,0.018867924528301886,True
+Where's Student M go? Is this supposed to [Inaudible] all the way on my desk.,student,15,0,,0.0,,هل من المفترض أن يكون هذا على مكتبي؟,هل من المفترض ان يكون هذا علي مكتبي؟,8,0.0,False
+"So, Student J, you're gonna need your math notebook out right now.  Student G?",teacher,14,0,0.0,,0.0,إذاً، الطالب (جي) ، ستحتاج إلى دفتر ملاحظاتك الرياضية الآن,اذا، الطالب (جي) ، ستحتاج الي دفتر ملاحظاتك الرياضيه الان,10,0.0,False
+You got the camera off?,student,5,0,,,,هل أطلقت الكاميرا؟,هل اطلقت الكاميرا؟,3,0.0,False
+"Okay.  You know what I've realized.  I've got students that can't go to their desk because their desks are on camera. So, you know copy it down tomorrow as part of your morning work.  Okay, Student G?",teacher,37,0,1.0,,0.0,حسناً، تعلم ما أدركت، لديّ طلاب لا يستطيعون الذهاب إلى مكتبهم لأن مكتوبهم على الكاميرا، لذا، يمكنك نسخها غداً كجزء من عملك الصباحي، حسناً، الطالب جي؟,حسنا، تعلم ما ادركت، لدي طلاب لا يستطيعون الذهاب الي مكتبهم لان مكتوبهم علي الكاميرا، لذا، يمكنك نسخها غدا كجزء من عملك الصباحي، حسنا، الطالب جي؟,26,0.0,False
+Can we go back to our desks?,student,7,0,,,,هل يمكننا العودة إلى مكتبنا؟,هل يمكننا العوده الي مكتبنا؟,5,0.0,False
+Nope.  Sit where you were when I turn the camera on.  What's one times 14.,teacher,15,0,1.0,,0.0,لا، اجلس حيث كنت عندما أشغل الكاميرا، ما هو واحد × 14,لا، اجلس حيث كنت عندما اشغل الكاميرا، ما هو واحد × 14,10,0.0,False
+Are we supposed to be on the same page?,student,9,0,,0.0,,هل من المفترض أن نكون على نفس الصفحة؟,هل من المفترض ان نكون علي نفس الصفحه؟,8,0.0,False
+Sevens?  So what's ten times 14.,teacher,6,0,0.0,,0.0,سبعة؟ اذا ما هو عشرة × 14,سبعه؟ اذا ما هو عشره × 14,5,0.14285714285714285,True
+"Ten times 14 –  Can we go to the bathroom?  I'm going. Mr. A?  I'm [growing].  Well, I'm [growing even though I didn't]",student,23,0,,0.0,,10 × 14 هل يمكننا الذهاب إلى الحمام؟ أنا ذاهب. السيد A؟ أنا [نمو] حسنا، أنا [نمو] على الرغم من أنني لم أفعل,10 × 14 هل يمكننا الذهاب الي الحمام؟ انا ذاهب. السيد A؟ انا [نمو] حسنا، انا [نمو] علي الرغم من انني لم افعل,20,0.0,False
+Five.,teacher,1,0,0.0,,0.0,خمسة.,خمسه.,1,0.0,False
+[They can't record me]. Mr. A?,student,6,0,,,,سيّد (إي) ؟,سيد (اي) ؟,3,0.0,False
+Four.,teacher,1,0,0.0,,0.0,أربعة.,اربعه.,1,0.0,False
+"Mr. A, is this the – Mr. A, they can't record me.",student,12,0,,0.0,,سيّد (إي) ، هل هذا هو (إي) سيّد (إي) ، لا يمكنهم تسجيلي.,سيد (اي) ، هل هذا هو (اي) سيد (اي) ، لا يمكنهم تسجيلي.,13,0.0,False
+Three.  I need you to just sit down and follow along with what's on the board.,teacher,16,0,0.0,,0.0,ثلاثة، أريدك أن تجلس وتتابع ما هو على اللوح,ثلاثه، اريدك ان تجلس وتتابع ما هو علي اللوح,9,0.0,False
+Can't record me. [Inaudible]  Video camera,student,6,0,,,,لا يمكن تسجيل لي. [غير مسموع] كاميرا الفيديو,لا يمكن تسجيل لي. [غير مسموع] كاميرا الفيديو,8,0.0,False
+Just sit down and follow along with what's on the easel.,teacher,11,0,0.0,,0.0,فقط اجلس وتتابع مع ما هو على الحاجز.,فقط اجلس وتتابع مع ما هو علي الحاجز.,8,0.0,False
+[Oh my God].,student,3,0,,,,(يا إلهي),(يا الهي),2,0.0,False
+"Student J, go ahead and sit back at the seat you were at.",teacher,13,0,,,0.0,الطالب (جاي) ، إجلس على مقعدك,الطالب (جاي) ، اجلس علي مقعدك,6,0.0,False
+I'm gonna crawl over the –,student,6,0,,,,سأزحف فوق الـ,سازحف فوق ال,3,0.0,False
+"So Student M, I need you to turn your chair.  Student T, turn you chair.  So what's 10?  The 10th multiple of 15.",teacher,23,1,0.0,,0.0,إذاً الطالب M، أريدك أن تلتفت كرسيك الطالب T، تلتفت كرسيك ما هو 10؟,اذا الطالب M، اريدك ان تلتفت كرسيك الطالب T، تلتفت كرسيك ما هو 10؟,14,0.0,False
+[150].,student,1,0,,,,[150].,[150].,0,0.0,False
+Raise your hand if you know the 10h multiple of 16.,teacher,11,1,,,0.0,ارفع يدك إذا كنت تعرف مضاعف 10h من 16.,ارفع يدك اذا كنت تعرف مضاعف 10h من 16.,7,0.0,False
+Nine.,student,1,0,,,,تسعة,تسعه,1,1.0,True
+"Student M, Student L, turn your chairs around so you can see this.    Ruth?",teacher,14,0,,,0.0,الطالب (إم) ، الطالب (إل) ، حولوا كراسيكم لكي ترون هذا,الطالب (ام) ، الطالب (ال) ، حولوا كراسيكم لكي ترون هذا,11,0.0,False
+160.,student,1,0,,,,160.,160.,0,0.0,False
+The 10th multiple of 18.  Miss L?,teacher,7,1,,,0.0,المضاعف العاشر من 18، آنسة L؟,المضاعف العاشر من 18، انسه L؟,6,0.0,False
+180.,student,1,0,,,,180.,180.,0,0.0,False
+Yes.  Thank you.  How 'bout the 10th multiple of 24.,teacher,10,1,,,0.0,نعم، شكراً، ماذا عن العاشر مضاعف من 24؟,نعم، شكرا، ماذا عن العاشر مضاعف من 24؟,8,0.0,False
+"Student K, what do you think the 10th multiple of 24 is?",student,12,1,,0.0,,الطالب كيه، ما الذي تعتقد أن العدد العاشر من 24 هو؟,الطالب كيه، ما الذي تعتقد ان العدد العاشر من 24 هو؟,10,0.0,False
+"And K, keep your chair down.  It's – remember what Ms. M. said about adding a zero.",teacher,17,0,0.0,,0.0,"و (كاي) ، أبقي كرسيك أسفل، إنه ""تذكر ما قالته السيدة (م) حول إضافة الصفر.","و (كاي) ، ابقي كرسيك اسفل، انه ""تذكر ما قالته السيده (م) حول اضافه الصفر.",15,0.06666666666666667,True
+That's what I said last time.,student,6,0,,,,هذا ما قلته المرة الماضية,هذا ما قلته المره الماضيه,5,0.0,False
+When we multiply times 10 we add a zero.  So what happens when we add a zero to 24?,teacher,19,3,0.0,,0.0,عندما نضاعف 10 نضيف الصفر اذا ماذا يحدث عندما نضيف الصفر إلى 24؟,عندما نضاعف 10 نضيف الصفر اذا ماذا يحدث عندما نضيف الصفر الي 24؟,12,0.0,False
+I [glued] it on this one.,student,6,0,,,,لقد ضمنتها على هذه,لقد ضمنتها علي هذه,4,0.0,False
+"Student T, what's the 10th multiple of 24?",teacher,8,1,0.0,,0.0,الطالب ت، ما هو العاشر مضاعف من 24؟,الطالب ت، ما هو العاشر مضاعف من 24؟,8,0.0,False
+10th multiple of 24?,student,4,1,,,,المضاعف العاشر من 24؟,المضاعف العاشر من 24؟,4,0.0,False
+Mm-hmm.  Do you need a lifeline?  Student E?,teacher,8,1,,,0.0,هل تحتاج إلى خط إنقاذ؟,هل تحتاج الي خط انقاذ؟,5,0.2,True
+240.,student,1,0,,,,240.,240.,0,0.0,False
+240.  10th multiple of 27.  Dewey?,teacher,6,1,,,1.0,240، العاشر المتعدد من 27، ديوي؟,240، العاشر المتعدد من 27، ديوي؟,6,0.0,False
+270.,student,1,0,,,,270.,270.,0,0.0,False
+The 10th multiple of 30.  Student J?,teacher,7,1,,,0.0,المضاعف العاشر من 30 الطالب J؟,المضاعف العاشر من 30 الطالب J؟,5,0.0,False
+[300].,student,1,0,,,,[300],[300],0,0.0,False
+"10th multiple of 32?  Student S, the 10th multiple of 32.  Ten times 32.  Ten times 32.",teacher,17,2,,,0.0,المتعدد العاشر من 32؟ الطالب S، المتعدد العاشر من 32.,المتعدد العاشر من 32؟ الطالب S، المتعدد العاشر من 32.,9,0.0,False
+All right [Inaudible],student,3,0,,,,حسناً، لا يمكن سماعها,حسنا، لا يمكن سماعها,4,0.0,False
+Ten 32s or 32 tens.,teacher,5,0,,,0.0,عشرة 32 أو 32 عشرة.,عشره 32 او 32 عشره.,3,0.2,True
+320.,student,1,0,,,,320.,320.,0,0.0,False
+Mm-hmm.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+I [knew] –,student,3,0,,,,كنت أعرف,كنت اعرف,2,0.0,False
+What pattern are you seeing here?,teacher,6,0,,,1.0,ما النمط الذي تراه هنا؟,ما النمط الذي تراه هنا؟,5,0.0,False
+Oh.,student,1,0,,,,-أوه .,-اوه .,1,0.0,False
+Student D?,teacher,2,0,,,0.0,الطالب (دي) ؟,الطالب (دي) ؟,3,0.0,False
+Adding up [Inaudible],student,3,0,,,,إضافة [غير مستمع],اضافه [غير مستمع],3,0.3333333333333333,True
+So what I do?  What's this number?  Okay.  What's – what's this one?  Student E?,teacher,15,0,,,0.0,إذا ماذا أفعل؟ ما هو هذا الرقم؟ حسناً. ما هو  ما هو هذا؟ الطالب E؟,اذا ماذا افعل؟ ما هو هذا الرقم؟ حسنا. ما هو ما هو هذا؟ الطالب E؟,15,0.0,False
+[260].,student,1,0,,,,[260].,[260].,0,0.0,False
+This one.  Student R?,teacher,4,0,,,0.0,هذا الطالب (ر) ؟,هذا الطالب (ر) ؟,4,0.0,False
+440.,student,1,0,,,,-440.,-440.,0,0.0,False
+Yes.,teacher,1,0,,,0.0,-أجل، أجل,-اجل، اجل,2,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Student J?,teacher,2,0,,,0.0,الطالب (جي) ؟,الطالب (جي) ؟,3,0.0,False
+[450].,multiple students,1,0,,,,[450].,[450].,0,0.0,False
+"Yep.  Jenny, this one.  This one?  Yes?",teacher,7,0,,,0.0,(جيني) ، هذه، هذه؟,(جيني) ، هذه، هذه؟,4,0.0,False
+600.,student,1,0,,,,600.,600.,0,0.0,False
+And I want the last one.,teacher,6,0,,,0.0,وأريد الأخير,واريد الاخير,2,0.0,False
+[700.  750].,student,2,0,,,,[700. 750].,[700. 750].,0,0.0,False
+Okay.  We'll work on this column tomorrow.,teacher,7,0,,,0.0,حسناً، سنعمل على هذا العمود غداً,حسنا، سنعمل علي هذا العمود غدا,6,0.0,False
+"We have to write that? Mr. A, what about the [one up here]?",student,13,0,,0.0,,سيد (أ) ، ماذا عن (الذي هنا) ؟,سيد (ا) ، ماذا عن (الذي هنا) ؟,8,0.0,False
+"Thank you, Student L.  All right.  I need my students to pack up their things.  I'm gonna turn the camera off.  We've ended our lesson.  We're gonna clean up and have the room clean so we can move on to special with Ms. J.",teacher,44,0,0.0,,0.0,حسناً، أريد من طلابي أن يحزموا أشيائهم، سأطفئ الكاميرا، انتهينا دراستنا، سننظف وننظف الغرفة،,حسنا، اريد من طلابي ان يحزموا اشيائهم، ساطفئ الكاميرا، انتهينا دراستنا، سننظف وننظف الغرفه،,14,0.0,False
+Mr. A –,student,3,0,,,,السيد (أ),السيد (ا),2,0.0,False

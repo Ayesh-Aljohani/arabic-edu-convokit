@@ -1,0 +1,538 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions,text_arabic,text_arabic_normalized,talktime_words_arabic,math_density_arabic,has_math_arabic
+Okay.  Let’s begin.  Objective reader.  Who’s my objective reader?  Student E?  Go ahead and read the math objectives for today.,teacher,20,0,,,0.0,حسناً، دعونا نبدأ. القارئ المستهدف. من هو القارئ المستهدف؟ الطالب إيه؟ إذهب وقرأ أهداف الرياضيات اليوم.,حسنا، دعونا نبدا. القارئ المستهدف. من هو القارئ المستهدف؟ الطالب ايه؟ اذهب وقرا اهداف الرياضيات اليوم.,16,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Okay, now, use a voice in which we can all hear you.  So go back and read it again using a big boy voice.",teacher,24,0,,,0.0,حسناً، الآن، استخدم صوتاً يمكننا سماعك جميعاً، لذا عد وأقرأه مرة أخرى باستخدام صوت صبي كبير.,حسنا، الان، استخدم صوتا يمكننا سماعك جميعا، لذا عد واقراه مره اخري باستخدام صوت صبي كبير.,16,0.0,False
+Students will be able to find the simplest form of fractions. Students will be able to explain their solutions to a partner.,student,22,2,,0.0,,سيتمكن الطلاب من العثور على أبسط شكل من أشكال الكسور. سيتمكن الطلاب من شرح حلولهم إلى شريك.,سيتمكن الطلاب من العثور علي ابسط شكل من اشكال الكسور. سيتمكن الطلاب من شرح حلولهم الي شريك.,17,0.0,False
+Much better.  Okay.  I’m going to put a fraction on the board. I want you to put that fraction in its simplest form. [Whispering in Spanish],teacher,26,2,1.0,,0.0,أفضل بكثير. حسناً، سأضع جزءاً على اللوحة. أريدك أن تضع هذا الجزء في أبسط شكله.,افضل بكثير. حسنا، ساضع جزءا علي اللوحه. اريدك ان تضع هذا الجزء في ابسط شكله.,15,0.0,False
+Forty.  Forty.  [Inaudible],student,3,0,,,,أربعين، أربعين.,اربعين، اربعين.,2,0.0,False
+"When you have figured it out, raise your hand.  And I want you to share how you figured out how to get the simplest form of a fraction.  You’re making it bigger.  Is that what simple means?  What does simple mean?  To make it bigger or smaller?",teacher,47,1,,,1.0,عندما تكتشف ذلك، ارفع يديك. وأريدك أن تشارك كيف اكتشفت كيفية الحصول على أبسط شكل من الكسور. أنت تجعلها أكبر. هل هذا ما يعني بسيط؟ ماذا يعني بسيط؟ تجعله أكبر أو أصغر؟,عندما تكتشف ذلك، ارفع يديك. واريدك ان تشارك كيف اكتشفت كيفيه الحصول علي ابسط شكل من الكسور. انت تجعلها اكبر. هل هذا ما يعني بسيط؟ ماذا يعني بسيط؟ تجعله اكبر او اصغر؟,32,0.0,False
+Smaller.,student,1,0,,,,أصغر,اصغر,1,0.0,False
+"Okay.   Student L, how did you get the simplest fraction?",teacher,10,1,,,1.0,حسناً، الطالب (إل) ، كيف حصلت على أبسط جزء؟,حسنا، الطالب (ال) ، كيف حصلت علي ابسط جزء؟,9,0.0,False
+Ten goes into eighty eight times and then ten goes into 200 twenty times.,student,14,0,,0.0,,عشرة تذهب إلى ثمانين وثمانين مرة ثم عشرة تذهب إلى مائة وعشرين مرة.,عشره تذهب الي ثمانين وثمانين مره ثم عشره تذهب الي مائه وعشرين مره.,13,0.23076923076923078,True
+So then what ended up being your fraction?,teacher,8,1,0.0,,0.0,إذاً ما الذي أصبح جزءك؟,اذا ما الذي اصبح جزءك؟,5,0.0,False
+[Eight.],student,1,0,,,,[ثمانية.],[ثمانيه.],1,0.0,False
+So that’s one possible answer.  What’s another answer?  Student M?,teacher,10,0,,,0.0,إذاً هذا واحد من الإجابات المحتملة. ما هو الإجابة الأخرى؟ الطالب M؟,اذا هذا واحد من الاجابات المحتمله. ما هو الاجابه الاخري؟ الطالب M؟,12,0.0,False
+[Inaudible] goes into 20 [Inaudible] eight two times.,student,8,0,,0.0,,[لا يسمع] يذهب إلى 20 [لا يسمع] ثمانية مرتين.,[لا يسمع] يذهب الي 20 [لا يسمع] ثمانيه مرتين.,8,0.1111111111111111,True
+So breaking this down by four?  So what’s your fraction?,teacher,10,1,0.0,,0.0,إذاً إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، إذاً، ما هو الجزء الخاص بك؟,اذا اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، اذا، ما هو الجزء الخاص بك؟,94,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Anybody else have anything that they did?  Wander?  Share with the class.  You raised your hand.,teacher,16,0,,,1.0,أي شخص آخر لديه أي شيء قام به؟ أرحل؟ شارك مع الفصل.,اي شخص اخر لديه اي شيء قام به؟ ارحل؟ شارك مع الفصل.,12,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Sh!,teacher,1,0,,,0.0,اللعنة!,اللعنه!,1,0.0,False
+I bring [Inaudible] into [Inaudible] and 200 into 2 and [Inaudible] four [Inaudible] two one [Inaudible] 20 over 50.  And I break that into two again ten over 25.,student,29,0,,0.0,,أحضر [الجهاز غير السمعي] إلى [الجهاز غير السمعي] و200 إلى 2 و [الجهاز غير السمعي] أربعة [الجهاز غير السمعي] اثنان واحد [الجهاز غير السمعي] 20 على 50.,احضر [الجهاز غير السمعي] الي [الجهاز غير السمعي] و200 الي 2 و [الجهاز غير السمعي] اربعه [الجهاز غير السمعي] اثنان واحد [الجهاز غير السمعي] 20 علي 50.,24,0.07407407407407407,True
+"So, it took you a long time to do that, no?",teacher,11,0,0.0,,0.0,إذاً، لقد استغرق الأمر وقتاً طويلاً للقيام بذلك، صحيح؟,اذا، لقد استغرق الامر وقتا طويلا للقيام بذلك، صحيح؟,9,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"That’s the problem.  Some of us know how to find a simpler fraction but we don’t know how to find the simplest fraction.  So, if you think that the simplest fraction is eight twentieths, raise your hand.   If you think the simplest fraction is two fifths, raise your hand.  If you think the simplest fraction is ten over 25, raise your hand.  Okay.  Lights, camera and action.",teacher,67,5,,,0.0,هذه هي المشكلة. بعضنا يعرف كيفية العثور على جزء بسيط ولكننا لا نعرف كيفية العثور على الجزء الأبسط. لذلك، إذا كنت تعتقد أن الجزء الأبسط هو ثمانية عشرينات، رفع يدك. إذا كنت تعتقد أن الجزء الأبسط هو اثنين من الخامسة، رفع يدك. إذا كنت تعتقد أن الجزء الأبسط هو عشرة على 25، رفع يدك. حسنا. الأضواء، الكاميرا والعمل.,هذه هي المشكله. بعضنا يعرف كيفيه العثور علي جزء بسيط ولكننا لا نعرف كيفيه العثور علي الجزء الابسط. لذلك، اذا كنت تعتقد ان الجزء الابسط هو ثمانيه عشرينات، رفع يدك. اذا كنت تعتقد ان الجزء الابسط هو اثنين من الخامسه، رفع يدك. اذا كنت تعتقد ان الجزء الابسط هو عشره علي 25، رفع يدك. حسنا. الاضواء، الكاميرا والعمل.,58,0.034482758620689655,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"I know I did not hear people speaking, especially when my back is turned. Okay.  So this is what we have to do when we have to find the simplest fractions.  What we do is we look at the factors of the numerator and the denominator.  What’s factors again?  I totally forgot what factors means.  What does it mean to find a factor of a number?  Student A?",teacher,68,6,,,1.0,أنا أعرف أنني لم أسمع الناس يتحدثون، وخاصة عندما تكون ظهري مُحوَّل. حسناً. لذلك هذا ما علينا القيام به عندما نحتاج للعثور على أبسط الكسور. ما نفعله هو النظر إلى عوامل العداد والاسم. ما هي العوامل مرة أخرى؟ نسيت تماماً ما تعنيه العوامل. ماذا يعني العثور على عامل من عدد؟ الطالب A؟,انا اعرف انني لم اسمع الناس يتحدثون، وخاصه عندما تكون ظهري محول. حسنا. لذلك هذا ما علينا القيام به عندما نحتاج للعثور علي ابسط الكسور. ما نفعله هو النظر الي عوامل العداد والاسم. ما هي العوامل مره اخري؟ نسيت تماما ما تعنيه العوامل. ماذا يعني العثور علي عامل من عدد؟ الطالب A؟,52,0.038461538461538464,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+To find a number that multiplies?,teacher,6,1,,,0.0,للعثور على رقم يضاعف؟,للعثور علي رقم يضاعف؟,4,0.0,False
+Factor is a number that you can replace [Inaudible].,student,9,0,,0.0,,الفاكتور هو رقم يمكنك استبداله,الفاكتور هو رقم يمكنك استبداله,5,0.0,False
+Okay.  Another explanation?  Student M?,teacher,5,0,0.0,,1.0,حسناً، تفسير آخر، الطالب (م) ؟,حسنا، تفسير اخر، الطالب (م) ؟,6,0.0,False
+A number that goes into another number evenly?,student,8,0,,0.0,,رقم يذهب إلى رقم آخر بالتساوي؟,رقم يذهب الي رقم اخر بالتساوي؟,6,0.0,False
+"Excellent.  A number that goes into another number evenly.  For example, what you said Student A.  I knew exactly what you were talking about but those are better words.  It makes it simpler to understand, okay? So let’s do the factors of the numerator for letter A.  What are the factors for the numerator of letter A?  What are the factors of two?  What numbers go into two evenly?  Student J?",teacher,71,5,1.0,,0.0,ممتاز. رقم يذهب إلى رقم آخر بالتساوي. على سبيل المثال، ما قلته الطالب A. كنت أعرف بالضبط ما كنت تتحدث عنه ولكن هذه كلمات أفضل. يجعل من الأسهل أن نفهم، حسنا؟ لذلك دعونا نقوم  العوامل من العداد للحرف A. ما هي العوامل من العداد للحرف A؟ ما هي العوامل من اثنين؟ ما هي العوامل التي تذهب إلى اثنين بالتساوي؟ الطالب J؟,ممتاز. رقم يذهب الي رقم اخر بالتساوي. علي سبيل المثال، ما قلته الطالب A. كنت اعرف بالضبط ما كنت تتحدث عنه ولكن هذه كلمات افضل. يجعل من الاسهل ان نفهم، حسنا؟ لذلك دعونا نقوم العوامل من العداد للحرف A. ما هي العوامل من العداد للحرف A؟ ما هي العوامل من اثنين؟ ما هي العوامل التي تذهب الي اثنين بالتساوي؟ الطالب J؟,59,0.0,False
+One.,student,1,0,,,,واحد.,واحد.,1,0.0,False
+One and?,teacher,2,0,,,0.0,واحد و؟,واحد و؟,2,0.0,False
+[Inaudible] Two?,student,2,0,,,,اثنان؟,اثنان؟,1,0.0,False
+"One and two, good.  What are the factors of eight?  What are the factors of eight?  Student J?",teacher,18,2,,,0.0,واحد و اثنان، جيد. ما هي عوامل الثمانية؟ ما هي عوامل الثمانية؟ الطالب J؟,واحد و اثنان، جيد. ما هي عوامل الثمانيه؟ ما هي عوامل الثمانيه؟ الطالب J؟,14,0.14285714285714285,True
+"Two, four and eight.",student,4,0,,,,اثنان، أربعة وثمانية.,اثنان، اربعه وثمانيه.,3,0.3333333333333333,True
+Are you missing one?,teacher,4,0,,,0.0,هل تفتقدين واحدة؟,هل تفتقدين واحده؟,3,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"You’re missing the obvious one.  Student W, what’s the factor she’s missing?",teacher,12,0,,,0.0,تلميذ (و) ، ما هو العامل الذي تفتقده؟,تلميذ (و) ، ما هو العامل الذي تفتقده؟,8,0.0,False
+One.,student,1,0,,,,واحد.,واحد.,1,0.0,False
+One.  I didn’t hear you.,teacher,5,0,,,0.0,واحد، لم أسمعك,واحد، لم اسمعك,3,0.0,False
+I said one.  [Inaudible],student,4,0,,,,قلت واحداً,قلت واحدا,2,0.0,False
+"Now, if you – you can say that you said that.  If I didn’t hear it, I didn’t hear it.  You need to use a big girl voice or a big boy voice.  So, which number goes into the numerator and the denominator?  Which number goes into the numerator and the denominator?  Student A?",teacher,54,4,,,0.0,الآن، إذا كنت  يمكنك أن تقول أنك قلت ذلك. إذا لم أسمع ذلك، لم أسمع ذلك. تحتاج إلى استخدام صوت فتاة كبيرة أو صوت ولد كبير. إذاً، أي رقم يدخل في العداد والعاقل؟ أي رقم يدخل في العداد والعاقل؟ الطالب A؟,الان، اذا كنت يمكنك ان تقول انك قلت ذلك. اذا لم اسمع ذلك، لم اسمع ذلك. تحتاج الي استخدام صوت فتاه كبيره او صوت ولد كبير. اذا، اي رقم يدخل في العداد والعاقل؟ اي رقم يدخل في العداد والعاقل؟ الطالب A؟,41,0.0,False
+Two.,student,1,0,,,,اثنان.,اثنان.,1,0.0,False
+"Two.  We have two right here as a factor of two and we have two over here as a factor of eight.  So, we know that we need to divide by two.  So what’s my new fraction?  What’s my new fraction?  I should see more hands than this.  What’s my new fraction?  Who haven’t I heard from?  Student M?",teacher,59,4,,,0.0,اثنان. لدينا اثنان هنا كعامل اثنين و لدينا اثنان هنا كعامل ثمانية. لذلك، نحن نعلم اننا بحاجة الى تقسيم اثنين. اذا ما هو كسر جديد لي؟ ما هو كسر جديد لي؟ يجب ان أرى المزيد من اليدين من هذا. ما هو كسر جديد لي؟ من لم اسمع؟ الطالب M؟,اثنان. لدينا اثنان هنا كعامل اثنين و لدينا اثنان هنا كعامل ثمانيه. لذلك، نحن نعلم اننا بحاجه الي تقسيم اثنين. اذا ما هو كسر جديد لي؟ ما هو كسر جديد لي؟ يجب ان اري المزيد من اليدين من هذا. ما هو كسر جديد لي؟ من لم اسمع؟ الطالب M؟,49,0.10204081632653061,True
+One-fourth.,student,1,0,,,,ربع واحد.,ربع واحد.,2,0.5,True
+"One-fourth.  So that’s our simplest, simplest fraction.  Let’s do another one for letter B.  Which factors go into ten? Student E?",teacher,21,2,,,0.0,واحد ربع. لذلك هذا هو لدينا أبسط، أبسط كسر. دعونا نفعل واحد آخر للحرف B. ما العوامل تذهب إلى عشرة؟ الطالب E؟,واحد ربع. لذلك هذا هو لدينا ابسط، ابسط كسر. دعونا نفعل واحد اخر للحرف B. ما العوامل تذهب الي عشره؟ الطالب E؟,21,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"One, two, five and ten.  Good.  What factors goes into 20? What factors go into 20?  Student D?",teacher,18,2,,,1.0,واحد، اثنان، خمسة وعشرة. جيد. ما العوامل التي تذهب إلى 20؟ ما العوامل التي تذهب إلى 20؟ الطالب D؟,واحد، اثنان، خمسه وعشره. جيد. ما العوامل التي تذهب الي 20؟ ما العوامل التي تذهب الي 20؟ الطالب D؟,19,0.05263157894736842,True
+"Five, [Inaudible]",student,2,0,,,,خمسة، [غير مسموع],خمسه، [غير مسموع],3,0.0,False
+Is she missing any?,teacher,4,0,,,0.0,هل تفتقد أي منها؟,هل تفتقد اي منها؟,4,0.0,False
+Yeah.  Yeah.  Mm-hm.,multiple students,3,0,,,,أجل، أجل.,اجل، اجل.,2,0.0,False
+"What is she missing, Student J?",teacher,6,0,,,0.0,ما الذي تفتقده، الطالب جي؟,ما الذي تفتقده، الطالب جي؟,5,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Is that it?,teacher,3,0,,,0.0,أهذا كل شيء؟,اهذا كل شيء؟,3,0.0,False
+No.,multiple students,1,0,,,,-كلا .,-كلا .,1,0.0,False
+Is that it?  I think there’s one more.  I don’t know who’s gonna be able to get it though.  Student J?,teacher,21,0,,,0.0,أعتقد أن هناك واحد آخر لا أعرف من سيتمكن من الحصول عليه,اعتقد ان هناك واحد اخر لا اعرف من سيتمكن من الحصول عليه,12,0.0,False
+One?,student,1,0,,,,واحد؟,واحد؟,1,0.0,False
+You already have one.  Student J?,teacher,6,0,,,0.0,لديكِ واحدة بالفعل، الطالب (جي) ؟,لديك واحده بالفعل، الطالب (جي) ؟,6,0.0,False
+Um –,student,2,0,,,,أم ,ام,1,0.0,False
+"One, two, five, ten, 20 and four.  Good.  Good.  Now, we have a problem here.  Because we have two numbers that goes into the numerator and the denominator.  Five and ten go into both of them.  Do you see that?  They’re both factors. Five and ten. So, when we have that problem, which we have a lot of, we had it on the board earlier, you need to pick the highest number. When you divide a number by a bigger number it ends up being smaller.  So, what’s our new fraction if we divide it by the bigger number?  Which one is the bigger number? Student D?",teacher,107,6,,,0.0,واحد، اثنان، خمسة، عشرة، 20 وأربعة. جيد. جيد. الآن، لدينا مشكلة هنا. لأن لدينا اثنين من الأرقام التي تذهب إلى العداد والعاقب. خمسة وعشرة تذهب إلى كليهما. هل ترى ذلك؟ هم كل من العوامل. خمسة وعشرة. لذلك، عندما لدينا تلك المشكلة، والتي لدينا الكثير من، كان لدينا على اللوحة في وقت سابق، تحتاج إلى اختيار أعلى عدد. عندما تقسم عدد من قبل عدد أكبر ينتهي بكونه أصغر.,واحد، اثنان، خمسه، عشره، 20 واربعه. جيد. جيد. الان، لدينا مشكله هنا. لان لدينا اثنين من الارقام التي تذهب الي العداد والعاقب. خمسه وعشره تذهب الي كليهما. هل تري ذلك؟ هم كل من العوامل. خمسه وعشره. لذلك، عندما لدينا تلك المشكله، والتي لدينا الكثير من، كان لدينا علي اللوحه في وقت سابق، تحتاج الي اختيار اعلي عدد. عندما تقسم عدد من قبل عدد اكبر ينتهي بكونه اصغر.,66,0.029850746268656716,True
+Ten.,student,1,0,,,,عشرة.,عشره.,1,0.0,False
+Ten.  Good.  So we divide it by ten.  What’s our new fraction?,teacher,12,2,,,0.0,عشرة. جيد. إذاً نقسمها على عشرة. ما هو الجزء الجديد لدينا؟,عشره. جيد. اذا نقسمها علي عشره. ما هو الجزء الجديد لدينا؟,11,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+What’s our new fraction?  Student L?,teacher,6,1,,,0.0,ما هو الجزء الجديد لدينا؟ الطالب L؟,ما هو الجزء الجديد لدينا؟ الطالب L؟,7,0.0,False
+One half.,student,2,0,,,,نصف.,نصف.,1,0.0,False
+One half.  Excellent.  You see how we did that?,teacher,9,0,,,0.0,نصف، ممتاز، أترى كيف فعلنا ذلك؟,نصف، ممتاز، اتري كيف فعلنا ذلك؟,6,0.0,False
+Yeah.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Anybody have questions so far?  So, when you have a numerator and a denominator that has two factors that go into each other, which one do you pick?  Which one do you pick? Student Y?",teacher,35,3,,,0.0,إذاً، عندما يكون لديك عدداً وعيداً يحتويان على عاملين يتوافقون مع بعضهما البعض، أيّ واحد تختار؟ أيّ واحد تختار؟ الطالب Y؟,اذا، عندما يكون لديك عددا وعيدا يحتويان علي عاملين يتوافقون مع بعضهما البعض، اي واحد تختار؟ اي واحد تختار؟ الطالب Y؟,21,0.0,False
+The bigger number.,student,3,0,,,,الرقم الأكبر.,الرقم الاكبر.,2,0.0,False
+"The bigger number out off the two.  Excellent.  Now, let’s look at letter C.  What are the factors of three?  Student A?",teacher,22,1,,,0.0,الرقم الأكبر من اثنين. ممتاز. الآن، دعونا ننظر إلى الحرف C. ما هي عوامل الثلاثة؟ الطالب A؟,الرقم الاكبر من اثنين. ممتاز. الان، دعونا ننظر الي الحرف C. ما هي عوامل الثلاثه؟ الطالب A؟,16,0.058823529411764705,True
+Three and one.,student,3,0,,,,ثلاثة وواحد,ثلاثه وواحد,2,0.5,True
+What are the factors of five?  Student J?,teacher,8,1,,,0.0,ما هو العوامل لخمسة؟,ما هو العوامل لخمسه؟,4,0.0,False
+One [Inaudible],student,2,0,,,,واحد [غير مسموع],واحد [غير مسموع],3,0.0,False
+One and five.  Do we have a number that’s common?  Can we divide by a number that’s there?  Student W?,teacher,20,1,,,0.0,واحد وخمسة. هل لدينا رقم شائع؟ هل يمكننا تقسيمه بأعداد موجودة؟ الطالب W؟,واحد وخمسه. هل لدينا رقم شائع؟ هل يمكننا تقسيمه باعداد موجوده؟ الطالب W؟,13,0.0,False
+[Inaudible] [to get a number that is not common.],student,9,0,,0.0,,[لا يمكن سماعها] [للوصول إلى رقم غير شائع.],[لا يمكن سماعها] [للوصول الي رقم غير شائع.],8,0.0,False
+No.  I want the simplest fraction.  Simple means breaking it down to the smallest possible numbers.  I don’t want to make it bigger.  That’s finding an equivalent fraction.  I want to break it down to simple form.  Simple.   What does simple mean?  Student L?,teacher,44,2,0.0,,1.0,لا. أريد أبسط كسر. بسيط يعني تقسيمها إلى أصغر الأرقام الممكنة. أنا لا أريد أن تجعلها أكبر. هذا هو العثور على كسر معادلة. أريد تقسيمها إلى شكل بسيط. بسيط. ماذا يعني بسيط؟ الطالب L؟,لا. اريد ابسط كسر. بسيط يعني تقسيمها الي اصغر الارقام الممكنه. انا لا اريد ان تجعلها اكبر. هذا هو العثور علي كسر معادله. اريد تقسيمها الي شكل بسيط. بسيط. ماذا يعني بسيط؟ الطالب L؟,34,0.029411764705882353,True
+Easiest.,student,1,0,,,,أسهل شيء,اسهل شيء,2,0.0,False
+"Easiest.  Plain.  Okay?  We don’t want to make it harder.  We could keep going.  You could have hundreds of equivalent fractions but we’re trying to find the very small little fraction, simplest form.  So, what can we do here?  What number can we divide by?  Student J?",teacher,47,4,,,0.0,أسهل. بسيط. حسناً؟ لا نريد أن نجعل الأمر أكثر صعوبة. يمكننا الاستمرار. يمكنك الحصول على مئات الكسور المتكافئة ولكننا نحاول العثور على الكسور الصغيرة جداً، أسهل شكل. لذا، ماذا يمكننا أن نفعل هنا؟ ما هو الرقم الذي يمكننا تقسيمه؟ الطالب J؟,اسهل. بسيط. حسنا؟ لا نريد ان نجعل الامر اكثر صعوبه. يمكننا الاستمرار. يمكنك الحصول علي مئات الكسور المتكافئه ولكننا نحاول العثور علي الكسور الصغيره جدا، اسهل شكل. لذا، ماذا يمكننا ان نفعل هنا؟ ما هو الرقم الذي يمكننا تقسيمه؟ الطالب J؟,41,0.0,False
+[Inaudible] by one.,student,3,0,,,,[غير مسموع] من قبل واحد.,[غير مسموع] من قبل واحد.,5,0.0,False
+What happens when we divide anything by one?,teacher,8,1,,,0.0,ماذا يحدث عندما نقسم أي شيء بواحد؟,ماذا يحدث عندما نقسم اي شيء بواحد؟,7,0.0,False
+It’s still the same.,student,4,0,,,,لا تزال نفسها,لا تزال نفسها,3,0.0,False
+"Student J, what happens when we divide anything by one?",teacher,10,1,,,1.0,الطالب جي، ماذا يحدث عندما نقسم أي شيء واحد؟,الطالب جي، ماذا يحدث عندما نقسم اي شيء واحد؟,9,0.0,False
+It stays the same.,student,4,0,,,,انها تبقى نفسها.,انها تبقي نفسها.,3,0.0,False
+"It stays the same.  So, if we divide three fifths by one, guess what answer we come up with?",teacher,19,1,,,0.0,فإنه يبقى كما هو، لذا، إذا قمنا بتقسيم ثلاثة الخامسة بمقدار واحد، تخمين ما هي الإجابة التي سنحصل عليها؟,فانه يبقي كما هو، لذا، اذا قمنا بتقسيم ثلاثه الخامسه بمقدار واحد، تخمين ما هي الاجابه التي سنحصل عليها؟,19,0.05263157894736842,True
+Three fifths.,student,2,0,,,,ثلاثة الخامسة,ثلاثه الخامسه,2,0.5,True
+"Three fifths.  So then, is it in its simplest form?",teacher,10,0,,,0.0,إذاً، هل هي في أبسط شكلها؟,اذا، هل هي في ابسط شكلها؟,6,0.0,False
+Yes.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"When you cannot divide any more, when you’re all the way down to dividing by one that means it’s in its simplest form and you don’t need to do any more.  ‘Cause some of you, when I gave you problems last time you had three fits and you’re like, “Well, there isn’t a number that goes into three and into five.”  And I’m like, “Exactly.  What does that mean?” You’re like.  Two?  When you get to the point where you’re dividing by one, you’re done.  Questions on that?",teacher,88,1,,,0.0,عندما لا تستطيعين الانقسام بعد الآن، عندما تكونين حتى الانقسام بمقدار واحد فهذا يعني أنه في أبسط شكله ولا تحتاجين للقيام بمزيد من ذلك. لأن بعضكم، عندما أعطيتكم المشاكل في المرة الماضية كنتم تعاني من ثلاث نوبات وكنتم مثل، حسناً، لا يوجد عدد يذهب إلى ثلاثة إلى خمسة. وأنا مثل، بالضبط. ماذا يعني هذا؟ أنت مثل. اثنان؟ عندما تصلين إلى نقطة حيث كنتم تقسمين بمقدار واحد، انتم قد انتهوا من الأسئلة حول ذلك؟,عندما لا تستطيعين الانقسام بعد الان، عندما تكونين حتي الانقسام بمقدار واحد فهذا يعني انه في ابسط شكله ولا تحتاجين للقيام بمزيد من ذلك. لان بعضكم، عندما اعطيتكم المشاكل في المره الماضيه كنتم تعاني من ثلاث نوبات وكنتم مثل، حسنا، لا يوجد عدد يذهب الي ثلاثه الي خمسه. وانا مثل، بالضبط. ماذا يعني هذا؟ انت مثل. اثنان؟ عندما تصلين الي نقطه حيث كنتم تقسمين بمقدار واحد، انتم قد انتهوا من الاسئله حول ذلك؟,73,0.0273972602739726,True
+No.,multiple students,1,0,,,,-كلا .,-كلا .,1,0.0,False
+Questions on anything we’ve done so far?,teacher,7,0,,,0.0,أسئلة عن أي شيء فعلناها حتى الآن؟,اسئله عن اي شيء فعلناها حتي الان؟,7,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+You sure?  Positive?,teacher,3,0,,,0.0,هل أنت متأكد؟,هل انت متاكد؟,3,0.0,False
+Yes.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Okay.  Teacher’s assistants?  Student W is going to have a piece of paper that says two. Student L is going to have a piece of paper that says one.  Hang on a second guys.  Each of you are going to have a different piece of paper from your partner.  So, Student J is going to have one and Student L is going to have two.  Student J is going to have one and Student L is going to have two. Do you see what I’m talking about?  [Inaudible] is going to have one, Student Y is going to have two. What I want you to do is when you are done with your sheets, it’s the same thing we were doing before, simplest fractions.  I want you to explain to your partner how you got your answer.  Okay?  So I want to hear you using the beautiful words of English and explaining how you got to where you got and how did you solve it.  Okay?  Questions on that?",teacher,169,1,,,0.0,حسناً. مساعدات المعلمين؟ الطالب W سيكون لديه قطعة ورق تقول اثنين. الطالب L سيكون لديه قطعة ورق تقول واحدة. انتظروا ثانيةً يا رفاق. كل واحد منكم سيكون لديه قطعة ورق مختلفة من شريككم. لذا، الطالب J سيكون لديه قطعة ورق واحدة والطالب L سيكون لديه اثنين. الطالب J سيكون لديه واحد والطالب L سيكون لديه اثنين. هل ترى ما أتحدث عنه؟ [غير قابل للسمع] سيكون لديه واحد، الطالب Y سيكون لديه اثنين. ما أريدك أن تفعله هو عندما تنتهي من أوراقك، هو نفس الشيء الذي كنا نفعله من قبل، أسهل الكسور. أريد منك أن تشرح لشريكك كيف حصلت على إجابتك. حسناً؟ لذلك أريد أن أسمعك تستخدم كلمات اللغة الإنجليزية الجميلة وتشرحك كيف وصلت و كيف حللت تلك الأسئلة؟ حسناً؟,حسنا. مساعدات المعلمين؟ الطالب W سيكون لديه قطعه ورق تقول اثنين. الطالب L سيكون لديه قطعه ورق تقول واحده. انتظروا ثانيه يا رفاق. كل واحد منكم سيكون لديه قطعه ورق مختلفه من شريككم. لذا، الطالب J سيكون لديه قطعه ورق واحده والطالب L سيكون لديه اثنين. الطالب J سيكون لديه واحد والطالب L سيكون لديه اثنين. هل تري ما اتحدث عنه؟ [غير قابل للسمع] سيكون لديه واحد، الطالب Y سيكون لديه اثنين. ما اريدك ان تفعله هو عندما تنتهي من اوراقك، هو نفس الشيء الذي كنا نفعله من قبل، اسهل الكسور. اريد منك ان تشرح لشريكك كيف حصلت علي اجابتك. حسنا؟ لذلك اريد ان اسمعك تستخدم كلمات اللغه الانجليزيه الجميله وتشرحك كيف وصلت و كيف حللت تلك الاسئله؟ حسنا؟,112,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Okay, Student L.",teacher,3,0,,,0.0,حسناً، الطالب (إل),حسنا، الطالب (ال),3,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+What?,teacher,1,0,,,0.0,ـ ماذا؟,ماذا؟,2,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Go ahead.  You guys can give it out.,teacher,8,0,,,0.0,هيّا، تستطيعون إعطائه,هيا، تستطيعون اعطائه,3,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Excellent.  Lights.  Sh! So, put your name on it.  Find the simplest fraction and then shade in, thank you.  Finished?",teacher,20,1,,,0.0,حسناً، أضواء، ضع اسمك عليها، ابحث عن الجزء الأسهل، ثم ضع ظلّاً، شكراً.,حسنا، اضواء، ضع اسمك عليها، ابحث عن الجزء الاسهل، ثم ضع ظلا، شكرا.,13,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+And then I want you to shade in the part of the figure that represents your fraction.  Good. Okay.  Okay.  There’s 12 right?  How many do you need to color in?,teacher,31,1,,,0.0,ومن ثم أريدك أن تضع ظلال في الجزء من الرقم الذي يمثل الجزء الخاص بك. جيد. حسنا. حسنا. هناك 12 حق؟ كم تحتاج إلى لون في؟,ومن ثم اريدك ان تضع ظلال في الجزء من الرقم الذي يمثل الجزء الخاص بك. جيد. حسنا. حسنا. هناك 12 حق؟ كم تحتاج الي لون في؟,25,0.0,False
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+"Uh-huh.  And that’s the same as one third.  Keep going. [Inaudible], you shouldn’t be playing right now.  You’re not in music class.  You’re not a drummer.  Okay? Dropping pencils, Student D.  What do we divide here to get to – two fourth is the same as one fourth?   Oh.  Why did you change it?  You made a mistake?  So then you need to change that. Do you?  Is that one half?  You colored in two out of four? Think about what I’m asking.  You have to color in two out of four which is the same as one half. Did you color in one half?  Color in one half.  Half means in the middle.  Right?  Mm-hm.",teacher,116,1,,,0.0,و هذا هو نفس الثلث. استمر. [لا يمكن سماعها] ، يجب أن لا تعزف الآن. أنت لست في فئة الموسيقى. أنت لست بطار. حسنا؟ إسقاط الأقلام، الطالب D. ما الذي نقسم هنا للوصول إلى  2 ربع هو نفس ربع؟ أوه. لماذا قمت بتغيير ذلك؟ قمت بخطأ؟ لذلك ثم تحتاج إلى تغيير ذلك. هل أنت؟ هل هذا نصف؟ هل قمت بتلوين في اثنين من أربعة؟ فكر في ما أنا أسألك عنه. يجب عليك تلوين في اثنين من أربعة وهو نفس نصف. هل قمت بتلوين في نصف؟ لون في نصف. نصف يعني في الوسط. صحيح؟,و هذا هو نفس الثلث. استمر. [لا يمكن سماعها] ، يجب ان لا تعزف الان. انت لست في فئه الموسيقي. انت لست بطار. حسنا؟ اسقاط الاقلام، الطالب D. ما الذي نقسم هنا للوصول الي 2 ربع هو نفس ربع؟ اوه. لماذا قمت بتغيير ذلك؟ قمت بخطا؟ لذلك ثم تحتاج الي تغيير ذلك. هل انت؟ هل هذا نصف؟ هل قمت بتلوين في اثنين من اربعه؟ فكر في ما انا اسالك عنه. يجب عليك تلوين في اثنين من اربعه وهو نفس نصف. هل قمت بتلوين في نصف؟ لون في نصف. نصف يعني في الوسط. صحيح؟,91,0.03225806451612903,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+You have to color in one fourth of that whole thing or four sixteenths.  That’s not one fourth.,teacher,18,1,,,0.0,يجب أن تلوين في ربع كل شيء أو أربعة ستة عشر. هذا ليس ربع.,يجب ان تلوين في ربع كل شيء او اربعه سته عشر. هذا ليس ربع.,14,0.21428571428571427,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+It’s either one fourth or four sixteenths.,teacher,7,0,,,0.0,إما ربع أو أربعة عشر,اما ربع او اربعه عشر,5,0.8,True
+"If I color this way, [Inaudible] five?",student,7,0,,,,إذا كنت ألون بهذه الطريقة، [غير قابل للسمع] خمسة؟,اذا كنت الون بهذه الطريقه، [غير قابل للسمع] خمسه؟,9,0.0,False
+What?,teacher,1,0,0.0,,0.0,ـ ماذا؟,ماذا؟,2,0.0,False
+"If I color five this, [Inaudible] five?",student,7,0,,,,إذا كنت ألون خمسة هذا، [غير سمع] خمسة؟,اذا كنت الون خمسه هذا، [غير سمع] خمسه؟,8,0.125,True
+"Where you getting – you have to break this down to the smallest fraction, Student J. No, no.  Forget about coloring.  Break this down to the smallest fraction.",teacher,28,2,1.0,,0.0,حيث تحصل على  يجب أن تقطع هذا إلى الجزء الأصغر، الطالب J. لا، لا. انسى عن التلوين.,حيث تحصل علي يجب ان تقطع هذا الي الجزء الاصغر، الطالب J. لا، لا. انسي عن التلوين.,16,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"That number is not broken down, is it?  Good.  So you color in that.  How many boxes are there?",teacher,19,0,,,0.0,هذا الرقم ليس مقطوعاً، أليس كذلك؟ حسناً، لذا قم بتلوين ذلك. كم عدد الصناديق الموجودة هناك؟,هذا الرقم ليس مقطوعا، اليس كذلك؟ حسنا، لذا قم بتلوين ذلك. كم عدد الصناديق الموجوده هناك؟,16,0.0,False
+Ten.,student,1,0,,,,عشرة.,عشره.,1,0.0,False
+So then how many are you supposed to color in?,teacher,10,0,,,0.0,إذاً كم من المفترض أن تلوين؟,اذا كم من المفترض ان تلوين؟,6,0.0,False
+Five.,student,1,0,,,,خمسة.,خمسه.,1,0.0,False
+Really?  That’s a five?,teacher,4,0,,,0.0,حقاً، هل هذا خمسة؟,حقا، هل هذا خمسه؟,4,0.0,False
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+There you go. Good.  Uh-huh.  You also have to color it in.  Four goes into nine?,teacher,16,0,,,0.0,حسناً، عليك أيضاً أن تلوينها، أربعة تساوي تسعة؟,حسنا، عليك ايضا ان تلوينها، اربعه تساوي تسعه؟,8,0.125,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Four goes into nine two times?,teacher,6,0,,,0.0,أربعة تذهب إلى تسعة مرتين؟,اربعه تذهب الي تسعه مرتين؟,5,0.4,True
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+Give me the factors of each of these numbers.,teacher,9,1,,,0.0,أعطني العوامل لكل من هذه الأرقام,اعطني العوامل لكل من هذه الارقام,6,0.0,False
+Factor is one.,student,3,0,,,,العامل هو واحد,العامل هو واحد,3,0.0,False
+And?,teacher,1,0,,,1.0,-وماذا؟,-وماذا؟,1,0.0,False
+Nine.,student,1,0,,,,تسعة,تسعه,1,1.0,True
+And?,teacher,1,0,,,1.0,-وماذا؟,-وماذا؟,1,0.0,False
+Three?,student,1,0,,,,ثلاثة؟,ثلاثه؟,1,0.0,False
+Good.  Sure.  Put them down.  Write them down.  Write them down.   The factors. Good.  And the factors of six.,teacher,19,2,,,0.0,حسناً، بالتأكيد، ضعها، اكتبها، اكتبها، العوامل، جيد، والعوامل السادسة.,حسنا، بالتاكيد، ضعها، اكتبها، اكتبها، العوامل، جيد، والعوامل السادسه.,9,0.0,False
+"Two, three, six.",student,3,0,,,,اثنان، ثلاثة، ستة.,اثنان، ثلاثه، سته.,3,0.0,False
+What number do they have in common?,teacher,7,0,,,1.0,ما هو عددهم المشترك؟,ما هو عددهم المشترك؟,4,0.0,False
+[Nine.],student,1,0,,,,[تسعة.],[تسعه.],1,0.0,False
+What number do they both have?,teacher,6,0,,,0.0,ما هو الرقم الذي لديهم؟,ما هو الرقم الذي لديهم؟,5,0.0,False
+These ones are even.  These ones are odd.,student,8,0,,0.0,,هذه متساوية هذه غريبة,هذه متساويه هذه غريبه,4,0.0,False
+What number do they both have that they share the same factor?,teacher,12,0,0.0,,0.0,ما هو العدد الذي يشترك فيهما في نفس العامل؟,ما هو العدد الذي يشترك فيهما في نفس العامل؟,9,0.0,False
+Three.,student,1,0,,,,ثلاثة.,ثلاثه.,1,0.0,False
+"Three.  So you have to divide them by three.  So, go ahead.",teacher,12,1,,,0.0,ثلاثة، لذا يجب أن تقسيمها بثلاثة، لذا، هيا.,ثلاثه، لذا يجب ان تقسيمها بثلاثه، لذا، هيا.,8,0.0,False
+So I have to divide this by three?,student,8,1,,0.0,,إذاً عليّ تقسيم هذا بثلاثة؟,اذا علي تقسيم هذا بثلاثه؟,5,0.0,False
+Mm-hm.  Sh! Okay.  Now you’re getting it.  Okay.,teacher,8,0,1.0,,0.0,حسناً، الآن ستفهمين الأمر,حسنا، الان ستفهمين الامر,4,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Yep.  Yep, yep.  Is anybody done?  Anybody else?  If you are done, I want you to take those fractions and reduce them to simplest form.",teacher,25,1,,,0.0,نعم، نعم، نعم، هل انتهى أحد؟ هل انتهى أحد آخر؟ إذا انتهيت، أريدك أن تأخذ هذه الكسور وتقللها إلى أبسط شكل.,نعم، نعم، نعم، هل انتهي احد؟ هل انتهي احد اخر؟ اذا انتهيت، اريدك ان تاخذ هذه الكسور وتقللها الي ابسط شكل.,21,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Very good.  You got the right answer.  You don’t understand what?,teacher,11,0,,,0.0,جيد جداً، لديك الإجابة الصحيحة، لا تفهم ماذا؟,جيد جدا، لديك الاجابه الصحيحه، لا تفهم ماذا؟,8,0.0,False
+To shade it.,student,3,0,,,,لتظليلها.,لتظليلها.,1,0.0,False
+How many pieces are there?,teacher,5,0,,,0.0,كم عدد القطع الموجودة؟,كم عدد القطع الموجوده؟,4,0.0,False
+Eight.,student,1,0,,,,ثمانية,ثمانيه,1,1.0,True
+So then how many do you have to shade?  To make it the fraction.,teacher,14,1,,,0.0,اذاً كم عدد ما يجب عليك ان تضع الظلال عليه؟,اذا كم عدد ما يجب عليك ان تضع الظلال عليه؟,10,0.0,False
+Three.,student,1,0,,,,ثلاثة.,ثلاثه.,1,0.0,False
+How many out of eight?,teacher,5,0,,,0.0,كم عدد من ثمانية؟,كم عدد من ثمانيه؟,4,0.0,False
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+Really?  That’s a four?,teacher,4,0,,,0.0,حقاً، هل هذه أربعة؟,حقا، هل هذه اربعه؟,4,0.0,False
+"No, six. I can help her.",student,6,0,,,,لا، ستة يمكنني مساعدتها,لا، سته يمكنني مساعدتها,4,0.25,True
+"No, she’s got it.",teacher,4,0,1.0,,0.0,لا، انها حصلت عليه.,لا، انها حصلت عليه.,4,0.0,False
+Six.,student,1,0,,,,ستة.,سته.,1,0.0,False
+"Thank you, though.  How did you know?",teacher,7,0,,,1.0,شكراً لك، كيف عرفت؟,شكرا لك، كيف عرفت؟,4,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"As the numerator?  If you and your partner are done, you both can share how you solved the problem.  All of them.",teacher,22,1,,,0.0,إذا أنتِ و شريككِ إنتهيتما، يمكنكما أن تشاركما كيف حلتم المشكلة.,اذا انت و شريكك انتهيتما، يمكنكما ان تشاركما كيف حلتم المشكله.,11,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Hm?,teacher,1,0,,,0.0,هل هذا صحيح؟,هل هذا صحيح؟,3,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Do the factors.  Do what we just did.,teacher,8,1,,,0.0,افعل العوامل، افعل ما فعلناه للتو,افعل العوامل، افعل ما فعلناه للتو,6,0.0,False
+"One, two, [Inaudible].",student,3,0,,,,واحد، اثنان، [لا يمكن سماع].,واحد، اثنان، [لا يمكن سماع].,5,0.0,False
+What number do they share?,teacher,5,0,,,1.0,ما هو الرقم الذي يشاركونه؟,ما هو الرقم الذي يشاركونه؟,5,0.0,False
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+Four.  Right.,teacher,2,0,,,0.0,أربعة، صحيح,اربعه، صحيح,2,0.0,False
+Yeah.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+Okay.  Four divided by four is four?,teacher,7,1,,,0.0,حسناً، أربعة مقسومة على أربعة هي أربعة؟,حسنا، اربعه مقسومه علي اربعه هي اربعه؟,7,0.2857142857142857,True
+[Inaudible] four.,student,2,0,,,,أربعة,اربعه,1,1.0,True
+Four divided by four –,teacher,5,1,,,0.0,أربعة مقسمة على أربعة ,اربعه مقسمه علي اربعه,4,0.5,True
+Is one.,student,2,0,,,,هو واحد,هو واحد,2,0.0,False
+"Yeah.  That’s what you had before.  Why’d you erase it? Student [Inaudible], are you done?  So I want to give you another sheet.  Wait until Student A is done.  No.  No. No, no, no, no, no.  Keep working.  When you and your partner are done, I want to hear you sharing how you solved your problems.",teacher,56,0,,,0.0,نعم. هذا ما كان لديك من قبل. لماذا قمت بحذفه؟ الطالب (لا يمكن سماعه) ، هل انتهيت؟ لذلك أريد أن أعطيك ورقة أخرى. انتظر حتى يتم الطالب A. لا. لا، لا، لا، لا، لا، لا، لا، لا. استمر بالعمل. عندما أنت وشريكك انتهيت، أريد أن أسمعك تقاسم كيف حلت مشاكلك.,نعم. هذا ما كان لديك من قبل. لماذا قمت بحذفه؟ الطالب (لا يمكن سماعه) ، هل انتهيت؟ لذلك اريد ان اعطيك ورقه اخري. انتظر حتي يتم الطالب A. لا. لا، لا، لا، لا، لا، لا، لا، لا. استمر بالعمل. عندما انت وشريكك انتهيت، اريد ان اسمعك تقاسم كيف حلت مشاكلك.,49,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+You should know all of them.  Do what we just did in class.,teacher,13,0,,,0.0,يجب أن تعرفهم جميعاً، افعل ما فعلناه في الصف,يجب ان تعرفهم جميعا، افعل ما فعلناه في الصف,9,0.0,False
+Can I help [Inaudible]?,student,4,0,,,,هل يمكنني مساعدتك؟,هل يمكنني مساعدتك؟,3,0.0,False
+No.  What’s this?  Have you ever seen a fraction like this before?,teacher,12,1,,,0.0,لا، ما هذا؟ هل رأيت قطعة كهذه من قبل؟,لا، ما هذا؟ هل رايت قطعه كهذه من قبل؟,9,0.0,False
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+What number did we use to get to five?  What number did we divide by to get to five?,teacher,19,1,,,0.0,ما هو الرقم الذي استخدمناه للوصول إلى خمسة؟ ما هو الرقم الذي نقسمه للوصول إلى خمسة؟,ما هو الرقم الذي استخدمناه للوصول الي خمسه؟ ما هو الرقم الذي نقسمه للوصول الي خمسه؟,16,0.0,False
+Five.,student,1,0,,,,خمسة.,خمسه.,1,0.0,False
+Five divided by five is five?,teacher,6,1,,,0.0,خمسة مقسومة على خمسة هي خمسة؟,خمسه مقسومه علي خمسه هي خمسه؟,6,0.3333333333333333,True
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+"You just told me that.  So, what number did we use to get to five from here?  Ten divided by what equals five?",teacher,23,1,,,0.0,لقد أخبرتني للتو، ما هو الرقم الذي استخدمناه للوصول إلى 5 من هنا؟ 10 مقسمة على ما يساوي 5؟,لقد اخبرتني للتو، ما هو الرقم الذي استخدمناه للوصول الي 5 من هنا؟ 10 مقسمه علي ما يساوي 5؟,17,0.05263157894736842,True
+Two?,student,1,0,,,,اثنان؟,اثنان؟,1,0.0,False
+Yeah.  The same thing we do to the numerator we have to do to the denominator.  So 16 divided by what?,teacher,21,3,,,0.0,نعم، نفس الشيء الذي نقوم به مع العداد يجب أن نقوم به مع القاسم، إذن 16 مقسماً بماذا؟,نعم، نفس الشيء الذي نقوم به مع العداد يجب ان نقوم به مع القاسم، اذن 16 مقسما بماذا؟,17,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Sixteen divided by two is seven?  Ah!  That’s a little bit better.  So, 16 divided by two is what?  Sixteen divided by two is what?",teacher,25,3,,,0.0,ستة عشر مقسمة على اثنين هو سبعة؟ آه! هذا أفضل قليلا. إذاً، ستة عشر مقسمة على اثنين ما هو؟ ستة عشر مقسمة على اثنين ما هو؟,سته عشر مقسمه علي اثنين هو سبعه؟ اه! هذا افضل قليلا. اذا، سته عشر مقسمه علي اثنين ما هو؟ سته عشر مقسمه علي اثنين ما هو؟,26,0.34615384615384615,True
+Eight.,student,1,0,,,,ثمانية,ثمانيه,1,1.0,True
+There we go.  Excellent.,teacher,4,0,,,0.0,ها نحن ذا، ممتاز,ها نحن ذا، ممتاز,4,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Hm?,teacher,1,0,,,0.0,هل هذا صحيح؟,هل هذا صحيح؟,3,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Student J, come over here.  How many are you supposed to color in out of six?",teacher,16,0,,,0.0,الطالب (جاي) ، تعال إلى هنا، كم من المفترض أن تلوين من ستة؟,الطالب (جاي) ، تعال الي هنا، كم من المفترض ان تلوين من سته؟,13,0.0,False
+Six.,student,1,0,,,,ستة.,سته.,1,0.0,False
+How many are you supposed to color out of six?,teacher,10,0,,,0.0,كم من المفترض أن تلوين من ستة؟,كم من المفترض ان تلوين من سته؟,7,0.0,False
+Three?,student,1,0,,,,ثلاثة؟,ثلاثه؟,1,0.0,False
+That’s a three?,teacher,3,0,,,0.0,هل هذا ثلاثة؟,هل هذا ثلاثه؟,3,0.0,False
+Four. [Inaudible],student,2,0,,,,أربعة.,اربعه.,1,0.0,False
+"I know.   That’s why I was like, “Why’d you erase it?”  And what’s wrong with this one?  Let’s divide it.  What’s wrong with this one?",teacher,25,1,,,0.0,أعلم، لهذا السبب قلت، لماذا قمت بحذفها؟ وما الخطأ في هذه؟ لنقسمها. ما الخطأ في هذه؟,اعلم، لهذا السبب قلت، لماذا قمت بحذفها؟ وما الخطا في هذه؟ لنقسمها. ما الخطا في هذه؟,16,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+I’m not talking about this.  I’m talking about the fraction. What’s wrong with the fraction?,teacher,15,2,,,0.0,أنا لا أتحدث عن هذا أنا أتحدث عن الجزء ما الخطأ في الجزء؟,انا لا اتحدث عن هذا انا اتحدث عن الجزء ما الخطا في الجزء؟,13,0.0,False
+The half of 14 is 7.,student,6,0,,,,نصف 14 هو 7.,نصف 14 هو 7.,2,0.25,True
+Half of seven is one?,teacher,5,0,1.0,,0.0,نصف سبعة واحد؟,نصف سبعه واحد؟,3,0.6666666666666666,True
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+What you do to the numerator you have to do to the denominator. Seven divided by what equals one?,teacher,19,3,,,0.0,ما تفعله مع العداد يجب أن تفعله مع القاسم 7 مقسومًا على ما يساوي 1,ما تفعله مع العداد يجب ان تفعله مع القاسم 7 مقسوما علي ما يساوي 1,13,0.06666666666666667,True
+Seven divided by two?,student,4,1,,,,سبعة مقسمة على اثنين؟,سبعه مقسمه علي اثنين؟,4,0.25,True
+Seven divided by two is one?  Are you guys done?,teacher,10,1,,,0.0,سبعة مقسومة على اثنين هي واحد؟ هل انتهيتم يا رفاق؟,سبعه مقسومه علي اثنين هي واحد؟ هل انتهيتم يا رفاق؟,10,0.1,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Okay.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+Seven divided by three is one.,student,6,1,,,,سبعة مقسومة بثلاثة هي واحد,سبعه مقسومه بثلاثه هي واحد,5,0.2,True
+"Really?  So we have seven and we have three.  And that equals one?  Yeah?  Do the math.  No, no, no, no.   And then what’s left over?",teacher,26,0,1.0,,0.0,حقاً؟ إذن لدينا سبعة و لدينا ثلاثة. وهذا يساوي واحد؟ نعم؟ قم بالحساب. لا، لا، لا، لا. وماذا تبقى بعد ذلك؟,حقا؟ اذن لدينا سبعه و لدينا ثلاثه. وهذا يساوي واحد؟ نعم؟ قم بالحساب. لا، لا، لا، لا. وماذا تبقي بعد ذلك؟,21,0.09523809523809523,True
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+Do you ever see a remainder on a fraction?,teacher,9,2,,,0.0,هل رأيتِ أيّ وقت مضى بقية على جزء؟,هل رايت اي وقت مضي بقيه علي جزء؟,8,0.0,False
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+Do you think you’re gonna get a remainder in a fraction?,teacher,11,2,,,0.0,هل تعتقد أنك ستحصل على بقية في جزء؟,هل تعتقد انك ستحصل علي بقيه في جزء؟,8,0.0,False
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+What are the factors for seven?,teacher,6,1,,,0.0,ما هي العوامل السبعة؟,ما هي العوامل السبعه؟,4,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Hang on a second, [Inaudible].",teacher,5,0,,,0.0,انتظر لحظة، [لا يمكن سماع].,انتظر لحظه، [لا يمكن سماع].,5,0.0,False
+[One.]  Three.,student,2,0,,,,ثلاثة.,ثلاثه.,1,0.0,False
+Three goes into seven evenly?  Sh!,teacher,6,0,,,0.0,ثلاثة يصل إلى سبعة بالتساوي؟,ثلاثه يصل الي سبعه بالتساوي؟,5,0.4,True
+Two.,student,1,0,,,,اثنان.,اثنان.,1,0.0,False
+"Good.  You finished your simplest forms sheet.  So, Student A, you can go get a sheet, too.  They’re over there.",teacher,20,0,,,0.0,حسناً، لقد أنهيت أسهل ورقة الأوراق، لذا، الطالب الأول، يمكنك أن تذهب وتحضر ورقة أيضاً.,حسنا، لقد انهيت اسهل ورقه الاوراق، لذا، الطالب الاول، يمكنك ان تذهب وتحضر ورقه ايضا.,15,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Student J, factors means a number that goes into this number evenly.  No remainder.",teacher,14,2,,,0.0,الطالب J، العوامل تعني رقم يذهب إلى هذا الرقم بشكل متساوي. لا بقي.,الطالب J، العوامل تعني رقم يذهب الي هذا الرقم بشكل متساوي. لا بقي.,13,0.0,False
+Seven one more time.,student,4,0,,,,سبعة مرة أخرى.,سبعه مره اخري.,3,0.3333333333333333,True
+"That’s it, right?  What numbers go into 14?",teacher,8,0,,,0.0,هذا كل شيء، أليس كذلك؟ أي أرقام تذهب إلى 14؟,هذا كل شيء، اليس كذلك؟ اي ارقام تذهب الي 14؟,10,0.0,False
+One.  Seven.  Two.  And 14.,student,5,0,,,,واحد، سبعة، اثنان، و14,واحد، سبعه، اثنان، و14,4,0.0,False
+What number do they have the same?,teacher,7,0,0.0,,1.0,أي رقم لديهم هو نفسه؟,اي رقم لديهم هو نفسه؟,5,0.0,False
+Seven.,student,1,0,,,,سبعة.,سبعه.,1,0.0,False
+So we have to divide by seven.  Which is what?,teacher,10,1,,,0.0,اذاً علينا ان نقسم بـ7,اذا علينا ان نقسم ب7,5,0.0,False
+Seven.,student,1,0,,,,سبعة.,سبعه.,1,0.0,False
+Seven divided by seven is seven?,teacher,6,1,,,0.0,سبعة مقسومة على سبعة هي سبعة؟,سبعه مقسومه علي سبعه هي سبعه؟,6,0.3333333333333333,True
+Fourteen?  [Inaudible],student,2,0,,,,أربعة عشر؟,اربعه عشر؟,2,0.5,True
+It’s division.  Not multiplication.,teacher,4,2,,,0.0,إنها تقسيم وليس مضاعفة,انها تقسيم وليس مضاعفه,4,0.0,False
+And not addition.,student,3,1,,,,وليس إضافة.,وليس اضافه.,2,0.0,False
+Division.,teacher,1,1,,,0.0,القسم,القسم,1,0.0,False
+How many times does seven go into seven? One time.,student,10,0,,0.0,,كم مرة يدخل سبعة إلى سبعة؟,كم مره يدخل سبعه الي سبعه؟,6,0.16666666666666666,True
+How many times does 14 go into – seven go into 14?,teacher,12,0,1.0,,0.0,كم مرة يذهب 14 إلى  7 يذهب إلى 14؟,كم مره يذهب 14 الي 7 يذهب الي 14؟,7,0.0,False
+Two times. So what answer goes there? Two.,student,8,0,,0.0,,مرتين، ما هي الإجابة؟,مرتين، ما هي الاجابه؟,4,0.0,False
+Yep.,teacher,1,0,0.0,,0.0,-أجل .,-اجل .,1,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+What are the factors for three?,teacher,6,1,,,0.0,ما هي العوامل الثلاثة؟,ما هي العوامل الثلاثه؟,4,0.0,False
+"One, two.",student,2,0,,,,واحد، اثنان.,واحد، اثنان.,2,0.0,False
+Two goes into three?,teacher,4,0,,,0.0,اثنان يذهب الى ثلاثة؟,اثنان يذهب الي ثلاثه؟,4,0.25,True
+Three.,student,1,0,,,,ثلاثة.,ثلاثه.,1,0.0,False
+What are the factors for nine?,teacher,6,1,,,0.0,ما هي العوامل التي تؤدي إلى تسعة؟,ما هي العوامل التي تؤدي الي تسعه؟,7,0.0,False
+"One, three.  No.  Nine.  Three.",student,5,0,,,,واحد، ثلاثة، لا، تسعة، ثلاثة,واحد، ثلاثه، لا، تسعه، ثلاثه,5,0.2,True
+Good.  What do they have the same?,teacher,7,0,0.0,,1.0,جيد، ماذا لديهم مشترك؟,جيد، ماذا لديهم مشترك؟,4,0.0,False
+Three.,student,1,0,,,,ثلاثة.,ثلاثه.,1,0.0,False
+Three.  So how many times does three go into three?,teacher,10,0,,,0.0,ثلاثة، كم مرة يصل ثلاثة إلى ثلاثة؟,ثلاثه، كم مره يصل ثلاثه الي ثلاثه؟,7,0.14285714285714285,True
+Once.,student,1,0,,,,مرة واحدة.,مره واحده.,2,0.0,False
+How many times does three go into nine?,teacher,8,0,,,0.0,كم مرة يذهب ثلاثة إلى تسعة؟,كم مره يذهب ثلاثه الي تسعه؟,6,0.16666666666666666,True
+I know how many time three goes into six and nine.,student,11,0,,0.0,,أعرف كم عدد المرات التي يذهب فيها ثلاثة إلى ستة وتسعة,اعرف كم عدد المرات التي يذهب فيها ثلاثه الي سته وتسعه,11,0.18181818181818182,True
+Don’t do that right now.  We’re doing math.  We’re not doing anything else so I do not know why you’re doing your homework while we’re supposed to be doing math.,teacher,30,0,0.0,,0.0,لا تفعل ذلك الآن نحن نقوم بالرياضيات نحن لا نقوم بأي شيء آخر لذا لا أعرف لماذا تقوم بعمل منزلك بينما من المفترض أن نقوم بالرياضيات,لا تفعل ذلك الان نحن نقوم بالرياضيات نحن لا نقوم باي شيء اخر لذا لا اعرف لماذا تقوم بعمل منزلك بينما من المفترض ان نقوم بالرياضيات,26,0.0,False
+[Inaudible] Three.,student,2,0,,,,ثلاثة,ثلاثه,1,1.0,True
+"There you go.  Okay, now I want you to take this time to work with your partner.  If they do not have it all completely filled in, that’s when you can come in to help them.  I didn’t hear you guys explaining to each other how you solved it.",teacher,49,0,,,0.0,حسناً، الآن أريدكم أن تأخذوا هذا الوقت للعمل مع شريككم. إذا لم يكن لديهم كل شيء مليئاً تماماً، عندها يمكنكم القدوم لمساعدتهم. لم أسمعكم تشرحون لبعضكم البعض كيف حلتم الأمر.,حسنا، الان اريدكم ان تاخذوا هذا الوقت للعمل مع شريككم. اذا لم يكن لديهم كل شيء مليئا تماما، عندها يمكنكم القدوم لمساعدتهم. لم اسمعكم تشرحون لبعضكم البعض كيف حلتم الامر.,30,0.0,False
+He’s not done. I didn’t do it. He’s not done.,student,10,0,,0.0,,هو لم ينتهي، أنا لم أفعل ذلك، هو لم ينتهي,هو لم ينتهي، انا لم افعل ذلك، هو لم ينتهي,10,0.0,False
+"Get finished.  What are you doing getting out of your seat? Sit down and continue.   Student Y, are you done?",teacher,20,0,1.0,,0.0,انتهي، ما الذي تفعله لتخرج من مقعدك؟ اجلس واستمر,انتهي، ما الذي تفعله لتخرج من مقعدك؟ اجلس واستمر,9,0.0,False
+Yeah.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+Then you can help him.  Are you guys done?,teacher,9,0,,,0.0,ثم يمكنك مساعدته هل انتهيتم؟,ثم يمكنك مساعدته هل انتهيتم؟,5,0.0,False
+We’re working on [Inaudible].,student,4,0,,,,نحن نعمل على (لا يمكن سماعها),نحن نعمل علي (لا يمكن سماعها),6,0.0,False
+Sh!,teacher,1,0,,,0.0,اللعنة!,اللعنه!,1,0.0,False
+We’re trying to find [the answer].,student,6,0,,,,نحن نحاول العثور على الجواب,نحن نحاول العثور علي الجواب,5,0.0,False
+"Good.  Yep.   Did you ask [Inaudible] how he solved it?  I didn’t hear.  Go ahead, Student J, I want to hear you say it.",teacher,24,0,0.0,,1.0,حسناً، أجل، هل سألت (لاسمعي) كيف حل الأمر؟ لم أسمع.,حسنا، اجل، هل سالت (لاسمعي) كيف حل الامر؟ لم اسمع.,10,0.1,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"I hear too much chatter.  If you’re sharing ideas, a little bit lower please.",teacher,14,0,,,0.0,أنا أسمع الكثير من المحادثات إذا كنت تشارك الأفكار، أبعد قليلا من فضلك.,انا اسمع الكثير من المحادثات اذا كنت تشارك الافكار، ابعد قليلا من فضلك.,13,0.0,False
+[Inaudible] and that makes it [Inaudible].,student,6,0,,,,و هذا يجعله (غير قابل للسمع),و هذا يجعله (غير قابل للسمع),6,0.0,False
+Good.  And then Student D?,teacher,5,0,0.0,,0.0,حسناً، ثم الطالب (دي) ؟,حسنا، ثم الطالب (دي) ؟,5,0.0,False
+Two out of four and I knew the – the one goes into four and one goes into [Inaudible] and two goes into four and two goes into two and it gave me one half.,student,35,0,,0.0,,اثنان من أربعة وأنا أعرف  واحد يذهب إلى أربعة و واحد يذهب إلى [Inaudible] و اثنان يذهب إلى أربعة و اثنان يذهب إلى اثنين و أعطاني نصف.,اثنان من اربعه وانا اعرف واحد يذهب الي اربعه و واحد يذهب الي [Inaudible] و اثنان يذهب الي اربعه و اثنان يذهب الي اثنين و اعطاني نصف.,26,0.2222222222222222,True
+"Good.  Now I want to hear you do that for every single problem. Okay?  I want to hear you explain how you did it.  The more you explain it, you’ll never forget it.  Right?  If you keep explaining it over and over you’ll never forget how to do it.  I want to hear you guys explaining.  Go ahead, Student L.  Explain to Student J.",teacher,64,0,0.0,,1.0,جيد. الآن أريد أن أسمعك تفعل ذلك لكل مشكلة واحدة. حسناً؟ أريد أن أسمعك تفسير كيف فعلت ذلك. كلما أوضحتها أكثر، لن تنسىها أبداً. صحيح؟ إذا كنت تستمر في شرحها مراراً وتكراراً لن تنسى أبداً كيف تفعل ذلك. أريد أن أسمعكم تشرحون.,جيد. الان اريد ان اسمعك تفعل ذلك لكل مشكله واحده. حسنا؟ اريد ان اسمعك تفسير كيف فعلت ذلك. كلما اوضحتها اكثر، لن تنسيها ابدا. صحيح؟ اذا كنت تستمر في شرحها مرارا وتكرارا لن تنسي ابدا كيف تفعل ذلك. اريد ان اسمعكم تشرحون.,42,0.0,False
+Okay.  [Inaudible] are 16.  Okay.  [Inaudible] 16 [Inaudible].,student,8,0,,0.0,,حسناً، [غير مسموع] هو 16 حسناً. [غير مسموع] 16 [غير مسموع].,حسنا، [غير مسموع] هو 16 حسنا. [غير مسموع] 16 [غير مسموع].,9,0.0,False
+How?,teacher,1,0,0.0,,0.0,-كيف؟,-كيف؟,1,0.0,False
+Because four goes into eight one time and four goes into 16 four times. [Inaudible] for simple fractions [Inaudible].,student,19,1,,1.0,,لأن أربعة تذهب إلى ثمانية مرة واحدة و أربعة تذهب إلى 16 أربعة مرات.,لان اربعه تذهب الي ثمانيه مره واحده و اربعه تذهب الي 16 اربعه مرات.,13,0.2857142857142857,True
+Sh!,teacher,1,0,0.0,,0.0,اللعنة!,اللعنه!,1,0.0,False
+[Inaudible] three goes into 12 four times.,student,7,0,,,,ثلاثة يذهب إلى 12 أربعة مرات.,ثلاثه يذهب الي 12 اربعه مرات.,5,0.3333333333333333,True
+Keep going.  You’re not done.  That was the easy one.  That was the one that was given to you.  Now let’s do the other ones that –,teacher,27,0,0.0,,0.0,استمر. أنت لم تنتهي. هذا هو السهل. هذا هو الذي تم إعطائه لك. الآن دعونا نقوم بالآخرين,استمر. انت لم تنتهي. هذا هو السهل. هذا هو الذي تم اعطائه لك. الان دعونا نقوم بالاخرين,17,0.0,False
+Okay.  We’re not given to you.  Okay.,student,7,0,,,,حسناً، نحن لسنا مُعطين لك,حسنا، نحن لسنا معطين لك,5,0.0,False
+Okay.  Good.  Now you guys can describe to each other.  Sit down.  What’s your paper doing?  Put it on your desk.,teacher,21,0,0.0,,0.0,حسناً، حسناً، الآن بإمكانكم وصف بعضكم البعض، اجلسوا، ماذا تفعلون في ورقتكم؟ ضعوها على مكتبكم.,حسنا، حسنا، الان بامكانكم وصف بعضكم البعض، اجلسوا، ماذا تفعلون في ورقتكم؟ ضعوها علي مكتبكم.,15,0.0,False
+"That’s [Inaudible] and all that was [Inaudible] and then multiply [Inaudible] Oh, no, no, no. [Inaudible] I think this one doesn’t have to be broken apart because [Inaudible] fits – wait [Inaudible].",student,32,1,,1.0,,هذا [الجهاز غير السمعي] وكل ما كان [الجهاز غير السمعي] ثم مضاعفة [الجهاز غير السمعي] أوه، لا، لا، لا. [الجهاز غير السمعي] أعتقد أن هذا لا يجب أن يتم تفكيكه لأن [الجهاز غير السمعي] يناسب  انتظر [الجهاز غير السمعي].,هذا [الجهاز غير السمعي] وكل ما كان [الجهاز غير السمعي] ثم مضاعفه [الجهاز غير السمعي] اوه، لا، لا، لا. [الجهاز غير السمعي] اعتقد ان هذا لا يجب ان يتم تفكيكه لان [الجهاز غير السمعي] يناسب انتظر [الجهاز غير السمعي].,39,0.0,False
+Un-uh.  A ten.,teacher,3,0,0.0,,0.0,عشرة,عشره,1,1.0,True
+Five.,student,1,0,,,,خمسة.,خمسه.,1,0.0,False
+Uh-huh.,teacher,1,0,,,0.0,اه-ها.,اه-ها.,2,0.0,False
+[Inaudible] times and nine times.,student,5,0,,,,[غير مسموع] مرات وتسعة مرات.,[غير مسموع] مرات وتسعه مرات.,5,0.0,False
+Uh-huh.,teacher,1,0,0.0,,0.0,اه-ها.,اه-ها.,2,0.0,False
+So this one doesn’t have to be broken apart like that.,student,11,0,,0.0,,لذلك هذا لا يجب أن يُفكك هكذا.,لذلك هذا لا يجب ان يفكك هكذا.,7,0.0,False
+"Each of them.   If you have trouble finding any of the simplest fractions, each of them you can do this.",teacher,20,1,0.0,,0.0,إذا كان لديك صعوبة في العثور على أي من أبسط الكسور، يمكنك القيام بذلك.,اذا كان لديك صعوبه في العثور علي اي من ابسط الكسور، يمكنك القيام بذلك.,14,0.0,False
+"But if you don’t have trouble, you don’t have to?",student,10,0,,0.0,,ولكن إذا لم يكن لديك مشاكل، أنت لا يجب أن يكون؟,ولكن اذا لم يكن لديك مشاكل، انت لا يجب ان يكون؟,11,0.0,False
+If you don’t have trouble.  But let’s start at the beginning where I’m going to assume that we’re going to have trouble because we kind of just started.,teacher,28,0,1.0,,0.0,لكن دعونا نبدأ من البداية حيث سأفترض أننا سنواجه مشاكل لأننا بدأنا للتو,لكن دعونا نبدا من البدايه حيث سافترض اننا سنواجه مشاكل لاننا بدانا للتو,13,0.0,False
+Like on this one?,student,4,0,,,,مثل هذه المرة؟,مثل هذه المره؟,3,0.0,False
+"Yeah, that’s fine.  If you can do it in your head.",teacher,11,0,,,0.0,أجل، لا بأس، إن استطعت فعل ذلك بعقلك,اجل، لا باس، ان استطعت فعل ذلك بعقلك,8,0.0,False
+Yeah!,student,1,0,,,,-أجل !,-اجل !,1,0.0,False
+Excited?  Sit down.,teacher,3,0,,,0.0,هل أنت متحمس؟,هل انت متحمس؟,3,0.0,False
+[Inaudible] the numbers.,student,3,0,,,,الأرقام لا يمكن سماعها,الارقام لا يمكن سماعها,4,0.0,False
+"See?  The more you do this, the easier it’s going to get where you don’t need to do the factors.  You just know automatically it’s one half.  It’s one third.  Okay? Keep going, keep going.  You just started.",teacher,38,1,,,0.0,ترى؟ كلما فعلت هذا، كلما كان من السهل الحصول على حيث لا تحتاج إلى القيام بالعوامل. أنت فقط تعرف تلقائيًا أنه نصف. إنه ثلث. حسناً؟ استمر، استمر. لقد بدأت للتو.,تري؟ كلما فعلت هذا، كلما كان من السهل الحصول علي حيث لا تحتاج الي القيام بالعوامل. انت فقط تعرف تلقائيا انه نصف. انه ثلث. حسنا؟ استمر، استمر. لقد بدات للتو.,30,0.0,False
+I explained [Inaudible].,student,3,0,,,,لقد شرحت [لا يمكن سماع].,لقد شرحت [لا يمكن سماع].,5,0.0,False
+Every single problem.,teacher,3,0,,,0.0,كل مشكلة واحدة.,كل مشكله واحده.,3,0.0,False
+Okay.,student,1,0,,,,-حسناً,-حسنا,1,0.0,False
+Okay.  I’m going to give you guys a few more minutes to go over with each other how to solve the problems and then I have a game that we’re going to play.,teacher,33,0,,,0.0,حسناً، سأعطيكم بعض الدقائق لتناقشوا كيفية حل المشاكل وبعدها لدي لعبة سنلعبها,حسنا، ساعطيكم بعض الدقائق لتناقشوا كيفيه حل المشاكل وبعدها لدي لعبه سنلعبها,12,0.08333333333333333,True
+Yeah! Yeah!,student,2,0,,,,أجل، أجل!,اجل، اجل!,2,0.0,False
+Did you guys explain each problem?  ‘Cause that was really quick.  I don’t believe you.  It took you a while just to explain the one that was already given to you so –,teacher,33,0,,,1.0,هل شرحتم كل مشكلة؟ لأنها كانت سريعة جداً، لا أصدقكم، استغرق الأمر وقتاً طويلاً فقط لتفسير تلك التي تم إعطائها لكم,هل شرحتم كل مشكله؟ لانها كانت سريعه جدا، لا اصدقكم، استغرق الامر وقتا طويلا فقط لتفسير تلك التي تم اعطائها لكم,21,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+– I want to hear you explain.,teacher,7,0,,,1.0,أريد سماع تفسيرك,اريد سماع تفسيرك,3,0.0,False
+Okay.,student,1,0,,,,-حسناً,-حسنا,1,0.0,False
+I heard you guys explaining.,teacher,5,0,,,0.0,سمعتكم تشرحون,سمعتكم تشرحون,2,0.0,False
+There are four people here and then two –,student,9,0,,0.0,,هناك أربعة أشخاص هنا ثم اثنان,هناك اربعه اشخاص هنا ثم اثنان,6,0.3333333333333333,True
+Un-uh.  You already did that one.  I know.  [Inaudible],teacher,9,0,0.0,,0.0,لقد فعلتها بالفعل أعلم ذلك,لقد فعلتها بالفعل اعلم ذلك,5,0.0,False
+[Inaudible] the simplest fraction and to have [Inaudible] and a half of four is two.,student,15,1,,0.0,,[Inaudible] الجزء الأسهل ولديهم [Inaudible] ونصف من أربعة هو اثنين.,[Inaudible] الجزء الاسهل ولديهم [Inaudible] ونصف من اربعه هو اثنين.,8,0.1,True
+So then do that.  Did you and Student A explain to each other?,teacher,13,0,0.0,,1.0,إذاً افعلي ذلك هل شرحتِ أنتِ و الطالب (أ) لبعضكما البعض؟,اذا افعلي ذلك هل شرحت انت و الطالب (ا) لبعضكما البعض؟,11,0.0,False
+I did.,student,2,0,,,,لقد فعلتها,لقد فعلتها,2,0.0,False
+"So then you have to do that.  When she comes back you have to explain to each other, okay?",teacher,19,0,,,1.0,وعندما تعود يجب أن تشرحوا لبعضكم البعض، حسناً؟,وعندما تعود يجب ان تشرحوا لبعضكم البعض، حسنا؟,8,0.0,False
+So it’s nine and ten.  So –,student,7,0,,,,لذا فهي تسعة وعشرة,لذا فهي تسعه وعشره,4,0.25,True
+Did you and [Inaudible] go over it?  You’re not done.,teacher,10,0,0.0,,0.0,هل بحثت أنت و (لاسمعي) عن الأمر؟,هل بحثت انت و (لاسمعي) عن الامر؟,7,0.0,False
+I was hoping –,student,4,0,,,,كنت آمل,كنت امل,2,0.0,False
+You’re not done because that’s one half.  Oh.  Are you done? Not yet. Are you done now?,teacher,17,0,,,0.0,أنت لم تنتهي لأن هذا نصف. أوه. هل انتهيت؟ ليس بعد. هل انتهيت الآن؟,انت لم تنتهي لان هذا نصف. اوه. هل انتهيت؟ ليس بعد. هل انتهيت الان؟,14,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Good.  Is she doing good?  She’s getting it?,teacher,8,0,,,0.0,حسناً، هل هي بخير؟,حسنا، هل هي بخير؟,4,0.0,False
+Five goes into ten.,student,4,0,,,,خمسة يذهب إلى عشرة.,خمسه يذهب الي عشره.,4,0.25,True
+Probably put the calculators away.  [Inaudible] doesn’t know how to do this and this isn’t easy math.,teacher,17,0,,,0.0,من المحتمل أن تضع الحاسبات بعيداً لا يعرف كيف يفعل هذا وهذا ليس رياضيات سهلة,من المحتمل ان تضع الحاسبات بعيدا لا يعرف كيف يفعل هذا وهذا ليس رياضيات سهله,15,0.0,False
+[Inaudible] this calculator.,student,3,0,,,,هذه الحاسبة.,هذه الحاسبه.,2,0.0,False
+I know.  Keep right [Inaudible].  Three more minutes.,teacher,8,0,,,0.0,أعلم، ابق يميناً، ثلاث دقائق أخرى.,اعلم، ابق يمينا، ثلاث دقائق اخري.,6,0.0,False
+[Inaudible].,student,1,0,,,,[غير مسموع].,[غير مسموع].,2,0.0,False
+Okay.  Now I’m gonna hear [Inaudible] explain.,teacher,7,0,,,1.0,حسناً، الآن سأستمع إلى تفسيرها,حسنا، الان ساستمع الي تفسيرها,5,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Let’s go.,teacher,2,0,,,0.0,دعونا نذهب,دعونا نذهب,2,0.0,False
+I don’t know.,student,3,0,,,,أنا لا أعرف.,انا لا اعرف.,3,0.0,False
+What?,teacher,1,0,,,0.0,ـ ماذا؟,ماذا؟,2,0.0,False
+I don’t.,student,2,0,,,,أنا لا.,انا لا.,2,0.0,False
+What?,teacher,1,0,,,0.0,ـ ماذا؟,ماذا؟,2,0.0,False
+I don’t.,student,2,0,,,,أنا لا.,انا لا.,2,0.0,False
+Okay.  Look at what [Inaudible] is doing.  Yep.,teacher,8,0,,,0.0,حسناً، أنظر إلى ما يفعله (لا يسمعه),حسنا، انظر الي ما يفعله (لا يسمعه),7,0.0,False
+"I still don’t know how to do it and when it has two like two, two, four and four.",student,19,0,,0.0,,ما زلت لا أعرف كيف أفعل ذلك وعندما يكون لديه اثنان مثل اثنان، اثنان، أربعة وأربعة.,ما زلت لا اعرف كيف افعل ذلك وعندما يكون لديه اثنان مثل اثنان، اثنان، اربعه واربعه.,16,0.125,True
+What did I say to do when it has two?,teacher,10,0,1.0,,0.0,ماذا قلت لك أن تفعل عندما يكون لديه اثنين؟,ماذا قلت لك ان تفعل عندما يكون لديه اثنين؟,9,0.0,False
+The biggest number.,student,3,0,,,,أكبر رقم.,اكبر رقم.,2,0.0,False
+What’s the biggest number?,teacher,4,0,,,0.0,ما هو أكبر رقم؟,ما هو اكبر رقم؟,4,0.0,False
+Four.,student,1,0,,,,أربعة.,اربعه.,1,0.0,False
+There you go.  Do you want me to show you how I would explain?,teacher,14,0,,,1.0,هل تريدني أن أريك كيف أوضح لك؟,هل تريدني ان اريك كيف اوضح لك؟,7,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"I would say for this one.  I would say the factors of the numerator are one, two, and three.  And six.  The factors of the denominator are one, three and nine.  They both have the same factor of three.  So I divide the numerator by three and I got two.  And I divide the denominator by three and I get –",teacher,61,8,,,0.0,سأقول لهذا. سأقول أن عوامل العدادة هي واحد، اثنان، وثلاثة. وستة. عوامل المعادلة هي واحد، ثلاثة، وتسعة. كلاهما لديه نفس العاملة من ثلاثة. لذلك أنا أجزأ العدادة على ثلاثة وأحصل على اثنين. وأنا أجزأ المعادل على ثلاثة وأحصل على ,ساقول لهذا. ساقول ان عوامل العداده هي واحد، اثنان، وثلاثه. وسته. عوامل المعادله هي واحد، ثلاثه، وتسعه. كلاهما لديه نفس العامله من ثلاثه. لذلك انا اجزا العداده علي ثلاثه واحصل علي اثنين. وانا اجزا المعادل علي ثلاثه واحصل علي,39,0.10256410256410256,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Nine divided by three is five?,teacher,6,1,,,0.0,تسعة مقسومة بثلاثة هي خمسة؟,تسعه مقسومه بثلاثه هي خمسه؟,5,0.2,True
+Oh.  Nine divided by three.  Three?,student,6,1,,,,تسعة مقسمة على ثلاثة ثلاثة؟,تسعه مقسمه علي ثلاثه ثلاثه؟,5,0.4,True
+"Yeah.  So, change it.",teacher,4,0,0.0,,0.0,أجل، لذا، غيّره,اجل، لذا، غيره,3,0.0,False
+It’s two thirds.,student,3,0,,,,إنها ثلثين,انها ثلثين,2,0.0,False
+"Two thirds, exactly.  Good.  Okay.  I want you guys to explain to each other.",teacher,14,0,,,0.0,حسناً أريدكم أن تشرحوا لبعضكم البعض,حسنا اريدكم ان تشرحوا لبعضكم البعض,6,0.0,False
+I found this out because it says one out of three and that’s – wait.  One. [Inaudible],student,17,0,,0.0,,لقد اكتشفت هذا لأنه يقول واحد من كل ثلاثة و هذا   إنتظر. واحد. [غير مستمع],لقد اكتشفت هذا لانه يقول واحد من كل ثلاثه و هذا انتظر. واحد. [غير مستمع],15,0.06666666666666667,True
+"Nah, you’re fine.",teacher,3,0,0.0,,0.0,لا، أنت بخير.,لا، انت بخير.,3,0.0,False
+Because it says one –,student,5,0,,,,لأنه يقول واحد ,لانه يقول واحد,3,0.0,False
+Sh!,teacher,1,0,0.0,,0.0,اللعنة!,اللعنه!,1,0.0,False
+"Ah wait, wait. [Inaudible] four.",student,5,0,,,,مهلاً، مهلاً، أربعة,مهلا، مهلا، اربعه,3,0.3333333333333333,True
+Okay.  Start finishing up.  Do your very last problem.,teacher,9,0,0.0,,0.0,حسناً، ابدأ بالانتهاء، إنجز آخر مشاكلك,حسنا، ابدا بالانتهاء، انجز اخر مشاكلك,6,0.0,False
+Is this [Inaudible]?,student,3,0,,,,هَلْ هَذَا [لا يُسمَعُ]؟,هل هذا [لا يسمع]؟,5,0.0,False
+Yes.,teacher,1,0,,,0.0,-أجل، أجل,-اجل، اجل,2,0.0,False
+[How do you] [Inaudible]?,student,4,0,,,,كيف حالك؟,كيف حالك؟,2,0.0,False
+Because I didn’t hear you explain to Student Y.  Is this one whole?,teacher,13,1,,,0.0,لأنني لم أسمعك تشرح للطلاب ي. هل هذا واحد كامل؟,لانني لم اسمعك تشرح للطلاب ي. هل هذا واحد كامل؟,10,0.0,False
+Because a whole is [Inaudible].,student,5,1,,,,لأن الكامل هو [غير قابل للسمع].,لان الكامل هو [غير قابل للسمع].,6,0.0,False
+What are the factors of two?,teacher,6,1,0.0,,0.0,ما هي العوامل الثانية؟,ما هي العوامل الثانيه؟,4,0.0,False
+"One, two.",student,2,0,,,,واحد، اثنان.,واحد، اثنان.,2,0.0,False
+"I just did this.  I don’t get it.  One, two.  What are the factors of four?",teacher,16,1,,,0.0,لقد فعلت هذا للتو. لا أفهم ذلك. واحد، اثنان. ما هي عوامل أربعة؟,لقد فعلت هذا للتو. لا افهم ذلك. واحد، اثنان. ما هي عوامل اربعه؟,13,0.07692307692307693,True
+"One, two, four.",student,3,0,,,,واحد، اثنان، أربعة.,واحد، اثنان، اربعه.,3,0.0,False
+Good.  So then what number do you divide by?,teacher,9,1,,,0.0,حسناً، إذاً ما هو الرقم الذي تقسيمه؟,حسنا، اذا ما هو الرقم الذي تقسيمه؟,7,0.0,False
+Two?,student,1,0,,,,اثنان؟,اثنان؟,1,0.0,False
+So what’s two divided by two?,teacher,6,1,,,0.0,اذاً ما هو 2 مقسوم على 2؟,اذا ما هو 2 مقسوم علي 2؟,6,0.14285714285714285,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+What’s four divided by two?,teacher,5,1,,,0.0,ما هو أربعة مقسومة على اثنين؟,ما هو اربعه مقسومه علي اثنين؟,6,0.16666666666666666,True
+Two.,student,1,0,,,,اثنان.,اثنان.,1,0.0,False
+"So then is it two over two?  For every single one of them, I want you to – this one’s fine.  This one’s good.  Good. The rest of them are good.",teacher,31,0,,,0.0,إذاً فهل هو اثنان على اثنين؟ بالنسبة لكل واحد منهم، أريد منك أن تقرر أن هذا جيد. هذا جيد. جيد. البقية جيدة.,اذا فهل هو اثنان علي اثنين؟ بالنسبه لكل واحد منهم، اريد منك ان تقرر ان هذا جيد. هذا جيد. جيد. البقيه جيده.,22,0.045454545454545456,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Good.  Keep going.,teacher,3,0,,,0.0,حسناً، استمر,حسنا، استمر,2,0.0,False
+I did [Inaudible]. Because she told me what she did was she colored in what it said on the top.,student,20,0,,0.0,,لأنها أخبرتني بأن ما فعلته هو أنّها ألغت بالألوان التي كانت مكتوبة على القمة,لانها اخبرتني بان ما فعلته هو انها الغت بالالوان التي كانت مكتوبه علي القمه,14,0.0,False
+"Yep.  She’s right.  Yep. If there are 16 pieces, which they are, you have to color in the numerator.",teacher,19,1,1.0,,0.0,نعم، إنها محقة، نعم، إذا كان هناك 16 قطعة، والتي هي، عليك أن تلوين في العداد.,نعم، انها محقه، نعم، اذا كان هناك 16 قطعه، والتي هي، عليك ان تلوين في العداد.,15,0.0,False
+Okay.,student,1,0,,,,-حسناً,-حسنا,1,0.0,False
+You did it fine.,teacher,4,0,,,0.0,لقد فعلتها بشكل جيد,لقد فعلتها بشكل جيد,4,0.0,False
+Wait.  I have to color – oh!   I have to do a [Inaudible] .,student,14,0,,0.0,,مهلاً، عليّ أن ألوّن (أوه) عليّ أن أقوم بـ (لا يُسمع),مهلا، علي ان الون (اوه) علي ان اقوم ب (لا يسمع),11,0.0,False
+You colored in a fourth.  You’ve got a third.,teacher,9,0,1.0,,0.0,لقد رسمت في الرابع، حصلت على الثالث.,لقد رسمت في الرابع، حصلت علي الثالث.,7,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Just color one more.,teacher,4,0,,,0.0,فقط لون واحد أكثر.,فقط لون واحد اكثر.,4,0.0,False
+"Just color one more. Yeah, but now there’s [Inaudible].",student,9,0,,0.0,,نعم، لكن الآن هناك (لا يمكن سماعها),نعم، لكن الان هناك (لا يمكن سماعها),7,0.0,False
+"No, it’s not.  It’s the same thing.",teacher,7,0,0.0,,0.0,لا، ليس كذلك، إنه نفس الشيء,لا، ليس كذلك، انه نفس الشيء,6,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Okay.  So, [Inaudible] to get out of your seat.  So now what I want you to do is I want you to clear your desks. Questions on what we did?",teacher,30,0,,,1.0,حسناً، إذاً، أخرج من مقعدك، والآن أريدك أن تنظف مكتبك، أسئلة حول ما فعلناها؟,حسنا، اذا، اخرج من مقعدك، والان اريدك ان تنظف مكتبك، اسئله حول ما فعلناها؟,14,0.0,False
+No.,multiple students,1,0,,,,-كلا .,-كلا .,1,0.0,False
+Sure?,teacher,1,0,,,0.0,-أأنت متأكد؟,-اانت متاكد؟,2,0.0,False
+Yes.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+Some of you had a little bit of difficulty.,teacher,9,0,,,0.0,بعضكم كان لديه بعض الصعوبات,بعضكم كان لديه بعض الصعوبات,5,0.0,False
+I did.  I did.,student,4,0,,,,لقد فعلت، فعلت,لقد فعلت، فعلت,3,0.0,False
+Let’s try one as a class together.  You like it?,teacher,10,0,,,0.0,دعونا نحاول واحدة في الصف معاً، أتحبينها؟,دعونا نحاول واحده في الصف معا، اتحبينها؟,7,0.0,False
+"Yeah, it’s hard. I love it.",student,6,0,,,,أجل، إنه صعب، أحب ذلك.,اجل، انه صعب، احب ذلك.,5,0.0,False
+Sh! What do we have to do first?  What do you have to do first? [Inaudible]?,teacher,16,0,0.0,,0.0,ماذا علينا أن نفعل أولاً؟ ماذا عليك أن تفعل أولاً؟,ماذا علينا ان نفعل اولا؟ ماذا عليك ان تفعل اولا؟,10,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"See what number goes into the numerator and see what numbers go into the denominator.  So, what are the factors of three?",teacher,22,3,,,0.0,انظروا ما هو العدد الذي يدخل في العداد و انظروا ما هو العدد الذي يدخل في المسمي,انظروا ما هو العدد الذي يدخل في العداد و انظروا ما هو العدد الذي يدخل في المسمي,17,0.0,False
+One and three.,student,3,0,,,,واحد وثلاثة,واحد وثلاثه,2,0.0,False
+"What are the factors of 15, Student R?",teacher,8,1,,,0.0,ما هو العوامل لـ 15، الطالب R؟,ما هو العوامل ل 15، الطالب R؟,7,0.0,False
+"15, [Inaudible].",student,2,0,,,,15، [غير قابل للسمع].,15، [غير قابل للسمع].,4,0.0,False
+"Ten?  Ten goes into 15?  No.  Okay, what number do they have in common?  Wait.",teacher,15,0,,,1.0,حسناً، ما هو الرقم المشترك بينهما؟ انتظر.,حسنا، ما هو الرقم المشترك بينهما؟ انتظر.,7,0.0,False
+You’re missing one.,student,3,0,,,,أنت تفتقد واحدة.,انت تفتقد واحده.,3,0.0,False
+"She is missing one.  What is she missing, Student J?",teacher,10,0,,,0.0,إنّها تفتقد واحدة، ماذا تفتقد، الطالب (جي) ؟,انها تفتقد واحده، ماذا تفتقد، الطالب (جي) ؟,8,0.0,False
+Three.,student,1,0,,,,ثلاثة.,ثلاثه.,1,0.0,False
+Three.  So now what number do they have in common?  Student D?,teacher,12,0,,,1.0,ثلاثة، الآن ما هو الرقم المشترك بينهما؟ الطالب (د) ؟,ثلاثه، الان ما هو الرقم المشترك بينهما؟ الطالب (د) ؟,10,0.0,False
+Three.,student,1,0,,,,ثلاثة.,ثلاثه.,1,0.0,False
+"So what do we do with this information?  Oh, three.  They have three in common.  That’s it.  What do we do next?",teacher,22,0,,,0.0,إذاً ماذا نفعل بهذه المعلومات؟ ثلاثة. لديهم ثلاثة مشتركة. هذا كل شيء. ماذا نفعل بعد ذلك؟,اذا ماذا نفعل بهذه المعلومات؟ ثلاثه. لديهم ثلاثه مشتركه. هذا كل شيء. ماذا نفعل بعد ذلك؟,16,0.0625,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+We divide it by that number. What’s our new fraction?  What’s our new fraction?  Student W?,teacher,16,3,,,0.0,ما هو الجزء الجديد؟ ما هو الجزء الجديد؟ الطالب W؟,ما هو الجزء الجديد؟ ما هو الجزء الجديد؟ الطالب W؟,10,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+What?,teacher,1,0,,,0.0,ـ ماذا؟,ماذا؟,2,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+I thought you said four fifths.  I was like what?  Do we agree?,teacher,13,0,,,0.0,اعتقدت أنك قلت أربع خمسات كنت مثل ماذا؟ هل نتفق؟,اعتقدت انك قلت اربع خمسات كنت مثل ماذا؟ هل نتفق؟,10,0.0,False
+Yes.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+Are you sure?,teacher,3,0,,,0.0,هل أنتِ متأكدة؟,هل انت متاكده؟,3,0.0,False
+Yes.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+"Okay.  So, now what I want us to do is – because we love dominoes so much – I actually have dominoes.  And you have to do the simplest fraction.  So, each of you are going to have nine pieces.  I took out one piece.  Nine pieces.  You start where it says start which is one half.  If I can find it.  Somewhere in here.  I can’t find it.  Yeah!",teacher,70,1,,,0.0,حسناً، الآن ما أريده منا هو أن نقوم به  لأننا نحب الدومينو كثيراً  لدي الدومينو في الواقع. ويجب أن نقوم بأبسط جزء. لذا، كل واحد منكم سيكون لديه تسعة قطع. أخرجت قطعة واحدة. تسعة قطع. تبدأ من حيث يقول البدء وهو نصف. إذا وجدتها. في مكان ما هنا. لا أستطيع العثور عليها. نعم.,حسنا، الان ما اريده منا هو ان نقوم به لاننا نحب الدومينو كثيرا لدي الدومينو في الواقع. ويجب ان نقوم بابسط جزء. لذا، كل واحد منكم سيكون لديه تسعه قطع. اخرجت قطعه واحده. تسعه قطع. تبدا من حيث يقول البدء وهو نصف. اذا وجدتها. في مكان ما هنا. لا استطيع العثور عليها. نعم.,53,0.03773584905660377,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Definitely supposed to have it. There we go.  So we start where it says one half.  I even wrote start for you.  And your partner and you have to figure out the equivalent fraction.  You have to end at one fifth.  Where it says end. Now, I here you will have numbers.  You will have words.  And you will also have pictures.  So, it’s different ways to show the same fraction.  For those of you – I’m pretty sure you all know how to play dominoes but how do you play dominoes?",teacher,92,2,,,1.0,بالتأكيد من المفترض أن يكون لدينا ذلك. ها نحن نذهب. لذلك نبدأ حيث يقول نصف. حتى كتبت البداية بالنسبة لك. وعليك أنت وشريكك معرفة الجزء المكافئ. عليك أن تنتهي في واحد الخامس. حيث يقول نهاية. الآن، أنا هنا سيكون لديك أرقام. سيكون لديك الكلمات. وسوف يكون لديك أيضا الصور. لذلك، هناك طرق مختلفة لإظهار نفس الجزء. بالنسبة لأولئك منكم  أنا متأكد من أنك تعرف جميعًا كيف تلعب الدومينو ولكن كيف تلعب الدومينو؟,بالتاكيد من المفترض ان يكون لدينا ذلك. ها نحن نذهب. لذلك نبدا حيث يقول نصف. حتي كتبت البدايه بالنسبه لك. وعليك انت وشريكك معرفه الجزء المكافئ. عليك ان تنتهي في واحد الخامس. حيث يقول نهايه. الان، انا هنا سيكون لديك ارقام. سيكون لديك الكلمات. وسوف يكون لديك ايضا الصور. لذلك، هناك طرق مختلفه لاظهار نفس الجزء. بالنسبه لاولئك منكم انا متاكد من انك تعرف جميعا كيف تلعب الدومينو ولكن كيف تلعب الدومينو؟,72,0.0,False
+I don’t know.,student,3,0,,,,أنا لا أعرف.,انا لا اعرف.,3,0.0,False
+How do you play dominoes?  You only play it all the time with vocabulary words.  Student J?,teacher,17,0,,,1.0,كيف تعزف الدومينو؟,كيف تعزف الدومينو؟,3,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+I can’t hear you.,teacher,4,0,,,0.0,لا أستطيع سماعك,لا استطيع سماعك,3,0.0,False
+Until you don’t have nothing.,student,5,0,,,,حتى لا يكون لديك أي شيء.,حتي لا يكون لديك اي شيء.,6,0.0,False
+That’s it?  Until you don’t have nothing?  Is that how you play dominoes?  Student L?,teacher,15,0,1.0,,0.0,هل هكذا تلعب الدومينو؟,هل هكذا تلعب الدومينو؟,4,0.0,False
+You have to match them with the correct one.,student,9,0,,0.0,,عليك أن تطابقهم مع الصحيح.,عليك ان تطابقهم مع الصحيح.,5,0.0,False
+"You have to match it.  So, we begin with one half.  Each of you are going to put one half on the table.  That’s your start. Then you’ll have eight pieces left over.  One person will have four. The next person will have four.  So, we have to match the picture to the fraction.   What’s that a picture of? What’s the representation in fraction form?  Student M? One half.  So you have to actually look for one half.  And then you keep going.  Questions on that?",teacher,86,2,1.0,,0.0,يجب أن تطابقها. لذا، نبدأ مع نصف. كل واحد منكم سوف يضع نصف على الطاولة. هذا هو بدايتك. ثم سيكون لديك ثمانية قطع تبقى. شخص واحد سيكون أربعة. الشخص التالي سيكون أربعة. لذلك، يجب أن تطابق الصورة مع الجزء. ما هي هذه الصورة؟ ما هو تمثيل في شكل الجزء؟ الطالب M؟ نصف. لذلك يجب أن تبحث في الواقع عن نصف. ثم تستمر. أسئلة على ذلك؟,يجب ان تطابقها. لذا، نبدا مع نصف. كل واحد منكم سوف يضع نصف علي الطاوله. هذا هو بدايتك. ثم سيكون لديك ثمانيه قطع تبقي. شخص واحد سيكون اربعه. الشخص التالي سيكون اربعه. لذلك، يجب ان تطابق الصوره مع الجزء. ما هي هذه الصوره؟ ما هو تمثيل في شكل الجزء؟ الطالب M؟ نصف. لذلك يجب ان تبحث في الواقع عن نصف. ثم تستمر. اسئله علي ذلك؟,65,0.03076923076923077,True
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+"Okay.  So, get ready with your partner.  Face to face each other.  Remember, the start does not count.  You put the start right on the table.  Okay? So start goes right on the table.  Student W, do you want to look at it?",teacher,43,0,,,0.0,حسناً، إستعد مع شريكك، وجهاً لوجه، تذكر، البداية لا تعتبر، تضع البداية مباشرةً على الطاولة، حسناً، البداية تذهب مباشرةً على الطاولة.,حسنا، استعد مع شريكك، وجها لوجه، تذكر، البدايه لا تعتبر، تضع البدايه مباشره علي الطاوله، حسنا، البدايه تذهب مباشره علي الطاوله.,21,0.0,False
+Okay.  We need to find one half.,student,7,0,,,,حسناً، يجب أن نجد النصف,حسنا، يجب ان نجد النصف,5,0.0,False
+"Sh!    Good, Student A, she has a start right on the table. And they’re about to divide the remaining eight pieces. Which is four and four.",teacher,26,1,0.0,,0.0,حسناً، الطالب الأوّل، لديها بداية على الطاولة، وهم على وشك تقسيم الثمانية الأجزاء المتبقية، وهي أربعة وأربعة.,حسنا، الطالب الاول، لديها بدايه علي الطاوله، وهم علي وشك تقسيم الثمانيه الاجزاء المتبقيه، وهي اربعه واربعه.,17,0.058823529411764705,True
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+She just said what –,teacher,5,0,,,0.0,لقد قالت فقط ماذا,لقد قالت فقط ماذا,4,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"Exactly.  And I just finished explaining it, Student A.  What do we do when we have nine pieces?",teacher,18,0,,,1.0,بالضبط، لقد أنهيت للتو شرحها، الطالب (أ) ماذا نفعل عندما يكون لدينا تسعة قطع؟,بالضبط، لقد انهيت للتو شرحها، الطالب (ا) ماذا نفعل عندما يكون لدينا تسعه قطع؟,14,0.07142857142857142,True
+Put the start in the middle. The start is nobody.,student,10,0,,0.0,,ضع البداية في الوسط البداية هي لا أحد,ضع البدايه في الوسط البدايه هي لا احد,8,0.0,False
+Start is nobody.  Thank you.,teacher,5,0,1.0,,0.0,البداية لا أحد، شكراً لك,البدايه لا احد، شكرا لك,5,0.0,False
+I have the start.,student,4,0,,,,لدي البداية,لدي البدايه,2,0.0,False
+Sh!,teacher,1,0,,,0.0,اللعنة!,اللعنه!,1,0.0,False
+Can we go now?,student,4,0,,,,هل يمكننا الذهاب الآن؟,هل يمكننا الذهاب الان؟,4,0.0,False
+Okay.  You might have to do a little bit of math to figure out simplest forms or equivalent fractions.,teacher,19,1,,,0.0,حسناً، قد تحتاج إلى القيام ببعض الرياضيات لتحديد أبسط الأشكال أو الكسور المعادلة.,حسنا، قد تحتاج الي القيام ببعض الرياضيات لتحديد ابسط الاشكال او الكسور المعادله.,13,0.0,False
+Teacher?,student,1,0,,,,أيها المعلم؟,ايها المعلم؟,2,0.0,False
+Mm-hm?,teacher,1,0,,,0.0,-أجل؟,-اجل؟,1,0.0,False
+It’s kind of tricky ‘cause –,student,6,0,,,,إنه نوعاً ما صعب لأن,انه نوعا ما صعب لان,5,0.0,False
+It is very tricky and if you make a mistake – or you can do this.,teacher,16,0,1.0,,0.0,إنه أمر صعب جداً وإذا ارتكبت خطأ فيمكنك فعل هذا,انه امر صعب جدا واذا ارتكبت خطا فيمكنك فعل هذا,10,0.0,False
+"Oh, yeah.",student,2,0,,,,أوه، نعم.,اوه، نعم.,2,0.0,False
+Right?,teacher,1,0,,,0.0,أليس كذلك؟,اليس كذلك؟,2,0.0,False
+Do you have a turn? One third.  Got it.,student,9,0,,0.0,,هل لديك دور؟ ثلث، فهمت,هل لديك دور؟ ثلث، فهمت,5,0.0,False
+"Now, what number do you end with?",teacher,7,0,0.0,,0.0,الآن، ما هو الرقم الذي تنتهي به؟,الان، ما هو الرقم الذي تنتهي به؟,7,0.0,False
+One fifth. Three won’t fit in here. This is one fifth?,student,11,0,,0.0,,واحد الخامس ثلاثة لن يناسب هنا هذا واحد الخامس؟,واحد الخامس ثلاثه لن يناسب هنا هذا واحد الخامس؟,9,0.1111111111111111,True
+No.  What’s one fifth?,teacher,4,0,1.0,,0.0,لا، ما هو الخامس؟,لا، ما هو الخامس؟,4,0.0,False
+"Wait, wait.",student,2,0,,,,انتظر، انتظر,انتظر، انتظر,2,0.0,False
+That’s one fifth.,teacher,3,0,,,0.0,هذا واحد الخامس.,هذا واحد الخامس.,3,0.0,False
+One – one –,student,4,0,,,,واحد واحد واحد,واحد واحد واحد,3,0.0,False
+Over five.,teacher,2,0,,,0.0,أكثر من خمسة.,اكثر من خمسه.,3,0.0,False
+Why won’t it fit?,student,4,0,,,,لماذا لا يتناسب؟,لماذا لا يتناسب؟,3,0.0,False
+That’s not it.  So you have to back up.  Find another representation for that one.  One fifth is last.  You have to find another representation.  There’s a few of them that are repetitive.,teacher,33,0,,,0.0,هذا ليس كل شيء. لذلك يجب أن تتراجع. إبحث عن تمثيل آخر لهذا واحد. واحد الخامس هو الأخير. عليك أن تجد تمثيل آخر. هناك عدد قليل منهم التي تتكرر.,هذا ليس كل شيء. لذلك يجب ان تتراجع. ابحث عن تمثيل اخر لهذا واحد. واحد الخامس هو الاخير. عليك ان تجد تمثيل اخر. هناك عدد قليل منهم التي تتكرر.,29,0.0,False
+[Inaudible] this is correct?,student,4,0,,,,هل هذا صحيح؟,هل هذا صحيح؟,3,0.0,False
+When you break down two sixths you get one third.,teacher,10,0,,,0.0,عندما تقسمين اثنين من السادسة تحصلين على ثلث.,عندما تقسمين اثنين من السادسه تحصلين علي ثلث.,8,0.0,False
+"[Yeah, since I asked you] that first to see what she thought and [Inaudible].  I’ve got one fifth and it doesn't go there.",student,23,0,,0.0,,أجل، منذ أن طلبت منك ذلك لأرى أولاً ما رأته و (لا يمكن سماعها),اجل، منذ ان طلبت منك ذلك لاري اولا ما راته و (لا يمكن سماعها),14,0.0,False
+That means you’ve got to back up.  You made a wrong turn.,teacher,12,0,0.0,,0.0,هذا يعني أنك يجب أن تتراجع لقد قمت بتحويل خاطئ,هذا يعني انك يجب ان تتراجع لقد قمت بتحويل خاطئ,10,0.0,False
+One third.,student,2,0,,,,ثلث,ثلث,1,1.0,True
+Yes.  Try doing it that way.  Do we have another representation for one fourth?,teacher,14,0,,,0.0,نعم، حاولي القيام بذلك بهذه الطريقة هل لدينا تمثيل آخر لربع؟,نعم، حاولي القيام بذلك بهذه الطريقه هل لدينا تمثيل اخر لربع؟,11,0.0,False
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+Are you sure?,teacher,3,0,,,0.0,هل أنتِ متأكدة؟,هل انت متاكده؟,3,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+Do you have a representation for one fourth?  I am looking at it right now.,teacher,15,0,,,0.0,هل لديك ممثلة لربع؟,هل لديك ممثله لربع؟,4,0.0,False
+I gotta [Inaudible]. Do we [Inaudible] teacher?,student,7,0,,,,يجب أن (لا نسمع) هل نحن (لا نسمع) معلمون؟,يجب ان (لا نسمع) هل نحن (لا نسمع) معلمون؟,9,0.0,False
+That’s your end piece.  Keep going.,teacher,6,0,0.0,,0.0,هذه قطعتك النهائية، استمر,هذه قطعتك النهائيه، استمر,4,0.0,False
+One fourth.  [Inaudible],student,3,0,,,,ربع.,ربع.,1,0.0,False
+He’s got it.,teacher,3,0,,,0.0,لقد حصلت عليه.,لقد حصلت عليه.,3,0.0,False
+"Two, one, one.",student,3,0,,,,اثنان، واحد، واحد.,اثنان، واحد، واحد.,3,0.0,False
+Uh-huh.  Uh-huh.,teacher,2,0,,,0.0,اه، اه، اه.,اه، اه، اه.,3,0.0,False
+One fifth.  He don’t have it.  I have it.,student,9,0,,0.0,,واحد الخامس، ليس لديه، لديّه,واحد الخامس، ليس لديه، لديه,5,0.0,False
+You have to back up.  They all work.  I promise.,teacher,10,0,0.0,,0.0,يجب أن تتراجع، كلّها تعمل، أعدك,يجب ان تتراجع، كلها تعمل، اعدك,6,0.0,False
+We got like –,student,4,0,,,,لدينا مثل ,لدينا مثل,2,0.0,False
+I know.  There’s a lot of repetition.,teacher,7,0,,,0.0,أعلم، هناك الكثير من التكرار,اعلم، هناك الكثير من التكرار,5,0.0,False
+That’s three.,student,2,0,,,,هذا ثلاثة.,هذا ثلاثه.,2,0.0,False
+Huh?  You’re winning?  Good job.  [Inaudible],teacher,6,0,,,0.0,أنتِ تفوزين، عمل جيد,انت تفوزين، عمل جيد,4,0.0,False
+So it goes this one.  Because there’s no –,student,9,0,,1.0,,لذا يذهب هذا. لأنه لا يوجد  ,لذا يذهب هذا. لانه لا يوجد,6,0.0,False
+You have to back up.   Mm-mm.,teacher,6,0,0.0,,0.0,يجب أن تتراجع,يجب ان تتراجع,3,0.0,False
+I don’t got no [Inaudible].,student,5,0,,,,ليس لدي أي (لا يمكن سماعها),ليس لدي اي (لا يمكن سماعها),6,0.0,False
+One fourth is not the same as one fifth.,teacher,9,0,0.0,,0.0,ربع ليس نفس الخامس,ربع ليس نفس الخامس,4,0.25,True
+"I couldn’t get it. We can’t figure out this one because you said [Inaudible] two, one.",student,16,0,,0.0,,لم أستطع فهمها، لا يمكننا معرفة هذا لأنّك قلت (لا يمكن سماعها) اثنان، واحد.,لم استطع فهمها، لا يمكننا معرفه هذا لانك قلت (لا يمكن سماعها) اثنان، واحد.,14,0.0,False
+Mm-hm.,teacher,1,0,0.0,,0.0,-حسناً,-حسنا,1,0.0,False
+I don’t have it.,student,4,0,,,,لا أملكها,لا املكها,2,0.0,False
+You need to back up.  So we know this goes last.  Right?  I think so far you’re doing okay.  That’s one half.  That’s one fourth.  You need to back up. Do you see how I’m trying to figure out how it goes in?,teacher,43,0,,,0.0,يجب أن تتراجع. لذلك نحن نعلم أن هذا آخر. أليس كذلك؟ أعتقد حتى الآن أنت بخير. هذا هو نصف. هذا هو ربع. يجب أن تتراجع. هل ترى كيف أنا أحاول معرفة كيف يدخل؟,يجب ان تتراجع. لذلك نحن نعلم ان هذا اخر. اليس كذلك؟ اعتقد حتي الان انت بخير. هذا هو نصف. هذا هو ربع. يجب ان تتراجع. هل تري كيف انا احاول معرفه كيف يدخل؟,33,0.0,False
+Mm-hm.,student,1,0,,,,-حسناً,-حسنا,1,0.0,False
+"You have to back up and make sure that you place each of them and this is where you end.  Okay?  So, go back and go over it all and see how you can place them.",teacher,36,0,,,0.0,يجب أن تتراجع وتتأكد من وضع كل واحد منهم وهذا هو المكان الذي تنتهي فيه,يجب ان تتراجع وتتاكد من وضع كل واحد منهم وهذا هو المكان الذي تنتهي فيه,15,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+You won again?,teacher,3,0,,,0.0,هل فزت مجدداً؟,هل فزت مجددا؟,3,0.0,False
+This is [Inaudible]?,student,3,0,,,,هَلْ هَذَا [غير مُسمع]؟,هل هذا [غير مسمع]؟,5,0.0,False
+One fourth is not the same as three sixths.,teacher,9,0,,,0.0,الربع ليس نفس الثلاثة السادسة,الربع ليس نفس الثلاثه السادسه,5,0.0,False
+Where is the six?  It’s hard to find.,student,8,0,,0.0,,-أين السادسة؟,-اين السادسه؟,2,0.0,False
+I know.  How we doing?,teacher,5,0,0.0,,0.0,أعلم، كيف حالنا؟,اعلم، كيف حالنا؟,3,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"We’re here to help each other, remember?",teacher,7,0,,,0.0,نحن هنا لمساعدة بعضنا البعض، تذكر؟,نحن هنا لمساعده بعضنا البعض، تذكر؟,6,0.0,False
+Yes. Go ahead.,student,3,0,,,,نعم، هيا,نعم، هيا,2,0.0,False
+Okay.  One more minute.  You guys are doing great.,teacher,9,0,,,0.0,حسناً، دقيقة واحدة، أنتم تقومون بعمل رائع,حسنا، دقيقه واحده، انتم تقومون بعمل رائع,7,0.0,False
+You said to fix it.  She destroyed it all.,student,9,0,,0.0,,أخبرتني أن أصلحها لقد دمرت كل شيء,اخبرتني ان اصلحها لقد دمرت كل شيء,7,0.0,False
+So you gotta put it back together.,teacher,7,0,0.0,,0.0,لذا عليك أن تضعها معاً,لذا عليك ان تضعها معا,5,0.0,False
+This goes to a third.,student,5,0,,,,هذا يذهب إلى الثالث.,هذا يذهب الي الثالث.,4,0.0,False
+Hm?,teacher,1,0,0.0,,0.0,هل هذا صحيح؟,هل هذا صحيح؟,3,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+"No, you got pieces left over.  You gotta fit these in.  You gotta fit these bad boys in.  You’re missing a fourth.",teacher,22,0,,,0.0,لا، لديك قطع متبقية، يجب أن تضع هذه، يجب أن تضع هؤلاء الرجال السيئين، أنت تفتقد الرابعة,لا، لديك قطع متبقيه، يجب ان تضع هذه، يجب ان تضع هؤلاء الرجال السيئين، انت تفتقد الرابعه,17,0.0,False
+A fourth?,student,2,0,,,,رابع؟,رابع؟,1,0.0,False
+"Yeah, you’re missing a fourth.  Yep.",teacher,6,0,,,0.0,أجل، أنتِ تفوتين الرابعة,اجل، انت تفوتين الرابعه,4,0.0,False
+[Inaudible],student,1,0,,,,[غير مسموع],[غير مسموع],2,0.0,False
+What’s the same thing as three sixths?,teacher,7,0,,,0.0,ما هو نفس الشيء مثل ثلاثة ستة؟,ما هو نفس الشيء مثل ثلاثه سته؟,7,0.14285714285714285,True
+One half.,student,2,0,,,,نصف.,نصف.,1,0.0,False
+One half.  Is that one half?,teacher,6,0,,,0.0,نصف، هل هذا نصف؟,نصف، هل هذا نصف؟,4,0.0,False
+No.,student,1,0,,,,-كلا .,-كلا .,1,0.0,False
+No.,teacher,1,0,,,0.0,-كلا .,-كلا .,1,0.0,False
+One half is this.,student,4,0,,,,النصف هو هذا,النصف هو هذا,3,0.0,False
+Good.  So you need to put that somewhere else.  You have it in the wrong order.,teacher,16,0,,,0.0,حسناً، يجب أن تضعها في مكان آخر، لديك ترتيب خاطئ.,حسنا، يجب ان تضعها في مكان اخر، لديك ترتيب خاطئ.,10,0.1,True
+Play with it.,student,3,0,,,,لعب معها.,لعب معها.,2,0.0,False
+Twenty seconds.  You should never be out of your seat. Sit.  You know that already.  No.  Almost.  Okay.  Ten seconds. Finish up your game.  What?,teacher,25,0,,,0.0,عشرون ثانية، يجب أن لا تخرج من مقعدك، أجلس، أنت تعرف ذلك بالفعل، كلا، تقريباً، حسناً، عشر ثواني، أنهي لعبتك.,عشرون ثانيه، يجب ان لا تخرج من مقعدك، اجلس، انت تعرف ذلك بالفعل، كلا، تقريبا، حسنا، عشر ثواني، انهي لعبتك.,20,0.1,True
+We’re stuck on eight.,student,4,0,,,,نحن عالقون في الثامنة.,نحن عالقون في الثامنه.,4,0.0,False
+"Sh!  Too loud.  You have a piece on the floor.  Several pieces on the floor.  All right.  You need to back it up.  You know this is where you start and this is where you end. You need to get everything in between.  So, this belongs in the one fourth.  This belongs somewhere else. Take it off.  Okay.  Time’s up.  All eyes should be on me.",teacher,66,0,,,0.0,ش! صاخب جداً. لديك قطعة على الأرض. عدة قطع على الأرض. حسناً. عليك أن تدعمها. تعرف أن هذا هو المكان الذي تبدأ فيه وهنا هو المكان الذي تنتهي فيه. عليك أن تحصل على كل شيء بينهما. لذلك، هذا ينتمي إلى الربع الأول. هذا ينتمي إلى مكان آخر. خلعه. حسناً. انتهى الوقت. يجب أن تكون كل العيون علي.,ش! صاخب جدا. لديك قطعه علي الارض. عده قطع علي الارض. حسنا. عليك ان تدعمها. تعرف ان هذا هو المكان الذي تبدا فيه وهنا هو المكان الذي تنتهي فيه. عليك ان تحصل علي كل شيء بينهما. لذلك، هذا ينتمي الي الربع الاول. هذا ينتمي الي مكان اخر. خلعه. حسنا. انتهي الوقت. يجب ان تكون كل العيون علي.,57,0.0,False
+Yes.,student,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+Good.  What I want you to do is I want you to put the pieces back together.  Paperclip them in.  There we go.  We’re set.  [Inaudible] and I know what to do.    The teacher’s assistants are going to come around to collect the dominoes pieces.  Make sure that they’re ready.,teacher,50,0,,,0.0,حسناً، ما أريدك أن تفعله هو أن تضع الأجزاء معاً، أضعها في ورقة. ها نحن ذا. نحن جاهزون. [لا يمكن سماعها] وأنا أعرف ما يجب القيام به. مساعدات المعلمين ستأتي لجمع قطع الدومينو. تأكد من أنها جاهزة.,حسنا، ما اريدك ان تفعله هو ان تضع الاجزاء معا، اضعها في ورقه. ها نحن ذا. نحن جاهزون. [لا يمكن سماعها] وانا اعرف ما يجب القيام به. مساعدات المعلمين ستاتي لجمع قطع الدومينو. تاكد من انها جاهزه.,37,0.0,False
+Thank you.,student,2,0,,,,شكراً لكِ,شكرا لك,2,0.0,False
+For your teacher’s assistants.  Can someone remind me what did we do today?  What did we learn today?  Student L?,teacher,20,0,,,1.0,للمساعدين المعلمين، هل يمكن لأحد أن يذكرني بما فعلناه اليوم؟,للمساعدين المعلمين، هل يمكن لاحد ان يذكرني بما فعلناه اليوم؟,10,0.0,False
+We learned how to make the fractions smaller.,student,8,1,,0.0,,لقد تعلمنا كيف نجعل الكسور أصغر,لقد تعلمنا كيف نجعل الكسور اصغر,6,0.0,False
+You learned how to make the fractions smaller. And how do we make   the fractions smaller?  Student J?,teacher,18,2,1.0,,0.0,تعلمت كيف تجعل الكسور أصغر وكيف نجعل الكسور أصغر؟ الطالب J؟,تعلمت كيف تجعل الكسور اصغر وكيف نجعل الكسور اصغر؟ الطالب J؟,11,0.0,False
+[Inaudible] number – you find one number that’s [Inaudible].,student,9,0,,0.0,,[لا يمكن سماعها] رقم  تجد رقم واحد هو [لا يمكن سماعها].,[لا يمكن سماعها] رقم تجد رقم واحد هو [لا يمكن سماعها].,11,0.0,False
+You find one number that goes into the numerator and the denominator.  Is that what we did today?  Student A?,teacher,20,2,1.0,,0.0,ستجد رقمًا واحدًا يذهب إلى العداد والاسم. هل هذا ما فعلناه اليوم؟ الطالب A؟,ستجد رقما واحدا يذهب الي العداد والاسم. هل هذا ما فعلناه اليوم؟ الطالب A؟,14,0.0,False
+The factors of [Inaudible] numerator and denominator and then we divide – we find two kinds of factors that both [Inaudible] the denominator [Inaudible] and then we divided the numerator and [Inaudible] to find that number and we found [Inaudible] fraction.,student,41,9,,0.0,,العوامل من [Inaudible] العداد والسمي ومن ثم نقسم  نجد نوعين من العوامل التي كل من [Inaudible] المسمي [Inaudible] ومن ثم نقسم الععد و [Inaudible] للعثور على هذا الرقم ونحن وجدنا [Inaudible] الجزء.,العوامل من [Inaudible] العداد والسمي ومن ثم نقسم نجد نوعين من العوامل التي كل من [Inaudible] المسمي [Inaudible] ومن ثم نقسم الععد و [Inaudible] للعثور علي هذا الرقم ونحن وجدنا [Inaudible] الجزء.,27,0.0,False
+Excellent.  Student L?,teacher,3,0,1.0,,0.0,ممتاز، الطالب (إل) ؟,ممتاز، الطالب (ال) ؟,4,0.0,False
+"We found an easier way to break down the fraction by putting like giving, giving or putting the factors and then if this has the same factor number you can already know this right off.  You divide it by that number and then you get your simplest fraction.",student,48,4,,0.0,,لقد وجدنا طريقة أسهل لفك الكسر عن طريق وضع مثل إعطاء أو إعطاء أو إضافة العوامل ومن ثم إذا كان له نفس العدد العامل يمكنك بالفعل معرفة هذا مباشرة,لقد وجدنا طريقه اسهل لفك الكسر عن طريق وضع مثل اعطاء او اعطاء او اضافه العوامل ومن ثم اذا كان له نفس العدد العامل يمكنك بالفعل معرفه هذا مباشره,29,0.034482758620689655,True
+Good.  Student J?,teacher,3,0,0.0,,0.0,جيد، الطالب (جي) ؟,جيد، الطالب (جي) ؟,4,0.0,False
+I learned get when get the factor of the two numbers.,student,11,0,,0.0,,تعلمت أن أحصل عندما أحصل على عامل العددين.,تعلمت ان احصل عندما احصل علي عامل العددين.,8,0.125,True
+Good.  The numerator and the denominator.  Good.  All right. Can you read our objectives to see if we met our objectives for the day?,teacher,24,2,0.0,,0.0,حسناً، العداد والعاقب، حسناً، هل يمكنك قراءة أهدافنا لمعرفة ما إذا كنا نجتمع بأهدافنا لهذا اليوم؟,حسنا، العداد والعاقب، حسنا، هل يمكنك قراءه اهدافنا لمعرفه ما اذا كنا نجتمع باهدافنا لهذا اليوم؟,16,0.0,False
+No. Please. We’ll be able to find the simplest form of the fractions.,student,13,1,,0.0,,لا، رجاءً، سنكون قادرين على العثور على أبسط شكل الكسور,لا، رجاء، سنكون قادرين علي العثور علي ابسط شكل الكسور,10,0.0,False
+Did we do that?,teacher,4,0,0.0,,0.0,هل فعلنا ذلك؟,هل فعلنا ذلك؟,3,0.0,False
+Yes.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+Good.,teacher,1,0,,,0.0,-حسناً,-حسنا,1,0.0,False
+Students will be able to explain their solutions to a partner.,student,11,1,,0.0,,سيتمكن الطلاب من شرح حلولهم لشريك.,سيتمكن الطلاب من شرح حلولهم لشريك.,6,0.0,False
+Did we do that?,teacher,4,0,0.0,,0.0,هل فعلنا ذلك؟,هل فعلنا ذلك؟,3,0.0,False
+Yes.,multiple students,1,0,,,,-أجل، أجل,-اجل، اجل,2,0.0,False
+Excellent.  Okay.,teacher,2,0,,,0.0,ممتاز حسناً,ممتاز حسنا,2,0.0,False

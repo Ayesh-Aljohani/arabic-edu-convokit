@@ -1,0 +1,229 @@
+﻿text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions,text_arabic
+"Cameras are on.  It’s 11:30, December 13.  This is Math class. So, recording in progress. Okay, let me have your attention please, boys and girls, put the books away and get your folder ready and your notebook, as well as your box.  So last week we’ve been exploring volume, right, and volume of a rectangular prism.  So can someone just tell us or remind us how we found the volume of this box, or this rectangular prism?",teacher,77,7,,,0.0,الكاميرات تعمل. إنها الساعة 11:30، 13 ديسمبر. هذا هو فصل الرياضيات. لذا، التسجيل مستمر. حسنا، دعوني انتباهكم رجاءً، أيتها الفتيان والفتيات، ضعوا الكتب بعيداً واستعدوا مجلدكم ومكتبتكم، فضلاً عن صندوقكم. لذلك الأسبوع الماضي كنا نستكشف حجم، صحيح، و حجم prism مستطيل. لذلك هل يمكن لأحد فقط أن يخبرنا أو يذكرنا كيف وجدنا حجم هذا الصندوق، أو هذا prism مستطيل؟
+You multiply the length by the width by the height.,student,10,2,,0.0,,تضاعف الطول بالعرض بالارتفاع
+"Okay, so we figured out one way to do this was to multiply…",teacher,13,1,1.0,,0.0,حسناً، فكّرنا أنّ طريقة واحدة للقيام بذلك هي مضاعفة...
+The length…,student,2,1,,,,الطول...
+The length.,teacher,2,1,,,0.0,الطول.
+The width.,student,2,0,,,,العرض.
+"The width, and then the height.  Okay, so that was one way to find, right, and we all tried that.  Is there another way to find this, Student D?",teacher,29,0,,,1.0,حسناً، هذه كانت طريقة واحدة للعثور عليها، صحيح، وكلنا حاولنا ذلك، هل هناك طريقة أخرى للعثور عليها، يا طالب د؟
+The bottom of the surface times the height.,student,8,0,,0.0,,قاع السطح ضرب ارتفاعه
+"The bottom of the surface here you said? Okay, so surface, for example, this one has 5 across and 4 this way, so what does that mean? The surface has 20 squares.  And if you were to put cubes, you can put 20 cubes, right? The bottom layer. And why do you multiply by 3, Student D?",teacher,57,4,1.0,,1.0,على سبيل المثال، السطح، هذا واحد لديه 5 على طوله و 4 في هذا الاتجاه، لذلك ما الذي يعني ذلك؟ السطح لديه 20 مربع. وإذا كنت تضع مكعبات، يمكنك وضع 20 مكعب، أليس كذلك؟ الطبقة السفلى. ولماذا تضاعف ب 3 طالب D؟
+Because that’s the height.,student,4,0,,,,لأن هذا هو الارتفاع
+"Because that’s the height, that’s the 3 layers, right? So if you were to take apart the 3 layers, then you have 3 layers of cube. Any other ways that we tried or you tried? No? Okay.  So last time you made this box, and this is Box 1, and we did volume, and I would say everyone did very well on the test on Friday in terms of finding volume.  I don’t think anyone had a problem finding volume.  Maybe there are a couple of problems with other things, being careless, for example, the pattern, that you miscalculated, then something else, just being careless.  But in terms of volume, I think you had no problem doing that. So today we are going to shift into something, not volume, but similar.  I shouldn't say similar to volume, but something that we can use this box to find, to help us to start. And that is called a surface area.  So today we’re going to explore finding the surface area of an object, of a rectangular prism.  I’m just going to write this word.  And please write this down in your notebook. Okay, so write down surface area, and what does that look like to you, the words “surface area”? What does that sound like? What do you think it means? Student A?",teacher,222,17,,,0.0,لأن هذا هو الارتفاع، هذا هو الطبقات الثلاثة، أليس كذلك؟ إذاً إذا كنت ستقوم بتفريق الطبقات الثلاثة، عندها لديك 3 طبقات من الكوب. أي طرق أخرى حاولناها أو حاولت؟ لا؟ حسناً. لذا في المرة الأخيرة التي صنعت فيها هذا الصندوق، وهذا الصندوق 1، وقمنا بحجم، وأقول أن الجميع نجحوا بشكل جيد جداً في الاختبار يوم الجمعة من حيث العثور على الحجم.
+The surface of the area,student,5,1,,,,سطح المنطقة
+"So the surface, like this board has a surface, the floor has a surface, but what about area? What’s area? Student S?",teacher,22,2,1.0,,0.0,لذا السطح، مثل هذه اللوحة لديها السطح، الأرض لديها السطح، ولكن ماذا عن المساحة؟ ما المساحة؟ الطالب S؟
+[Inaudible],student,1,0,,,,[غير مسموع]
+So area is the number of…,teacher,6,1,,,0.0,إذن المساحة هي عدد...
+[Inaudible],multiple students,1,0,,,,[غير مسموع]
+"Okay, you remember this, right?",teacher,5,0,,,0.0,حسناً، تتذكرين هذا، صحيح؟
+From last year.,student,3,0,,,,من العام الماضي
+"So area, that’s the number of square units, right? Of an area. For example, this floor, you can count the number of squares, the number of tiles.  This board, if we put the grid here, then you can also count the number of squares. So does that have to do with the inside? Does that have to do with cubes? If we’re just looking at the surface?",teacher,67,7,,,1.0,إذاً المساحة، هذا هو عدد الوحدات المربعة، صحيح؟ من مساحة. على سبيل المثال، هذا الطابق، يمكنك حساب عدد المربعات، عدد البلاط. هذه اللوحة، إذا وضعنا الشبكة هنا، يمكنك أيضاً حساب عدد المربعات.
+No.,student,1,0,,,,-كلا .
+"Think about it.  We’re looking at surface.  Why did you say no, Student L?",teacher,14,0,,,1.0,فكر بالأمر نحن ننظر إلى السطح لماذا قلت لا، الطالب L؟
+"Because it’s not finding the whole thing, it’s just finding the surface.",student,12,1,,1.0,,لأنها لا تجد كل شيء، انها مجرد العثور على السطح.
+"Okay, it’s not the whole prism, but it’s just the surface.  So for example, if you just look at the surface of this, how many squares do you see at the bottom of your box?",teacher,35,3,1.0,,0.0,حسناً، إنها ليست الصورة بأكملها، ولكنها مجرد السطح. لذلك على سبيل المثال، إذا نظرت إلى السطح فقط من هذا، كم مربع ترى في أسفل الصندوق؟
+24.,student,1,0,,,,24.
+"There are 24 squares, right? Because it’s 6 x 4. And what about the surface of the bottom of this box? How many squares do you see?",teacher,27,2,,,0.0,هناك 24 مربع، أليس كذلك؟ لأنه 6 × 4 وماذا عن سطح الجزء السفلي من هذا الصندوق؟ كم مربع ترى؟
+24.,multiple students,1,0,,,,24.
+And they’re the same?,teacher,4,0,,,0.0,وهل هم متشابهون؟
+Yes.,multiple students,1,0,,,,-أجل، أجل
+"These are the same.  So can I say that they have the same surface, or the area are the same? Now, but if you look at the two boxes, do they hold the same number of cubes?",teacher,37,2,,,0.0,هذه هي نفسها. لذلك هل يمكنني أن أقول أن لديهم نفس السطح، أو المساحة هي نفسها؟ الآن، ولكن إذا نظرت إلى الصناديق، هل تحتوي نفس عدد الكوبات؟
+No.,multiple students,1,0,,,,-كلا .
+"So can I say that the volume is different, okay? This one versus this one.  But what about the surface? Just the bottom.  We’re just looking at the bottom.  The same, right? So area is the same but volume is different.  So if we look at surface, are we looking at the inside, how many cubes it can fit in here?",teacher,61,4,,,0.0,لذا يمكنني أن أقول أن الحجم مختلف، حسنا؟ هذا مقابل هذا. ولكن ماذا عن السطح؟ فقط القاع. نحن فقط ننظر إلى القاع. نفس الشيء، أليس كذلك؟ لذلك المساحة هي نفسها ولكن الحجم مختلفة. إذا نظرت إلى السطح، نحن ننظر إلى الداخل، كم عدد الكوبات التي يمكن أن تناسب هنا؟
+No.,multiple students,1,0,,,,-كلا .
+"Okay, we’re just looking at the surface. So for example this paper has a surface and you can see the number of squares here, right? Okay? But if I turn it this way, suppose you can look at the paper as flat from this angle, do you see any? If this is two-dimensional, you’re not supposed to see any height, right? But it has a surface, but there’s no volume.  And last week I think we said that volume has to do with what kind of objects?",teacher,87,5,,,0.0,حسنا، نحن فقط ننظر إلى السطح. لذلك على سبيل المثال هذه الورقة لديها سطح ويمكنك رؤية عدد المربعات هنا، أليس كذلك؟ حسنا؟ ولكن إذا قمت بتحويلها بهذه الطريقة، إذا كنت يمكن أن ننظر إلى الورقة على أنها مسطحة من هذا الزاوية، هل ترى أي؟ إذا كان هذا ثنائي الأبعاد، لا من المفترض أن نرى أي ارتفاع، أليس كذلك؟ ولكن لديها سطح، ولكن ليس هناك حجم. والأسبوع الماضي أعتقد أننا قلنا أن حجم له علاقة مع أي نوع من الأشياء؟
+Three-dimensional. Three-dimensional solids.,student,3,2,,,,ثلاثية الأبعاد، الصلبات الثلاثية الأبعاد
+"Three-dimensional solids, right? So I want you to remember this, boys and girls, and as we find the area or the surface, we’re not going to think about the volume, okay? [Interruption] So what was I saying? Okay, when we look at the surface area, we’re not going to think about volume, okay? So what you’re going to do is to create a box that looks like this, but this time I am going to give you a grid that looks like this instead of the pattern.  You will have to figure out the pattern for making this, and you just draw it and cut it out and make a box the size of this, all right? And this is the same as the first one that you made last week before you added. Now, after that, pay attention please, after that you’re actually going to use this as a cover.  And this is a box, so you cover this box and now it’s a rectangular prism, right? Okay.  So again, we’re not looking at volume, so not the inside, but only on the outside, the surface, okay? Let me just help you start by looking at one of the sides.  So let’s say the box is like this, Student S, let’s say this is the top.  I just call it the top, and that’s the bottom, sides, front, back, okay? How can we find the surface or the area of this top side? Student J?",teacher,246,10,,,0.0,حسناً، عندما ننظر إلى مساحة السطح، لن نفكر في حجمها، حسناً؟ حسناً، عندما ننظر إلى مساحة السطح، لن نفكر في حجمها، حسناً؟ إذاً ما الذي ستفعله هو إنشاء مربع يبدو هكذا، ولكن هذه المرة سأعطيك شبكة تبدو هكذا بدلاً من النمط. سوف تضطر إلى معرفة النمط لصنع هذا، و سوف ترسمها وتقطعها وتصنع مربع بحجم هذا، حسناً؟ وهذا هو نفسه الذي قمت به الأسبوع الماضي قبل إضافة ذلك. الآن، بعد ذلك، يرجى الاهتمام، بعد ذلك سوف تجد هذا مربع كغطاء.
+Measure length and width.,student,4,2,,,,قياس الطول والعرض
+"Length, okay, that’s 6 units.  And then 4 units this way.  So how many?",teacher,14,3,,,0.0,الطول، حسناً، هذه 6 وحدات، ثم 4 وحدات بهذه الطريقة، كم عدد؟
+24 units.,student,2,1,,,,24 وحدة
+"There are 24 not just units, but square units.  So 6 times 4 square units.  Okay, does that make sense? So now we took care of the top.  How many sides are there in a rectangular prism? How many different sides?",teacher,41,7,,,0.0,هناك 24 وحدة ليست مجرد وحدة، ولكن وحدة مربع. لذلك 6 × 4 وحدة مربع. حسنا، هل هذا منطقي؟ لذلك الآن قمنا بالاهتمام بالجزء العلوي. كم الجانب هناك في مجسم مستطيل؟ كم الجانب المختلفة؟
+6.,student,1,0,,,,6 .
+"6, right? Top, bottom, 1, 2, front, back, 3, 4, side, side, 5, 6.  Okay? So what you’re going to do is you’ll make this box first and then I want you to write… Figure out the area of the top and then the area of the bottom, the area of the front side, area of the backside, the side, one of the sides, and then the other side, okay? So once we have all six of those, what does that mean? We have found all the surfaces, right? All the sides.  And then how do you find the surface area of this entire rectangular prism?",teacher,106,8,,,1.0,6، صحيح؟ أعلى، أسفل، 1، 2، الأمام، الخلف، 3، 4، الجانب، الجانب، 5، 6؟ حسناً، ما الذي ستفعله هو أن تصنع هذا الصندوق أولاً، ثم أريدك أن تكتب... تحديد مساحة الجزء العلوي ومن ثم مساحة الجزء السفلي، مساحة الجانب الأمامي، مساحة الجانب الخلفي، الجانب، أحد الجانبين، ومن ثم الجانب الآخر، حسناً؟
+You add them up?,student,4,1,,,,هل قمت بإضافةها؟
+"You just add everything up and then you have the total surface area of this.  So why don’t I have you start by making the top.  This is pattern for Box 1. Can you walk around the other way instead of walking this way? Thank you. Okay, does everyone have one? You need one more? So use a pencil to make the pattern and then you cut, okay? Yes? There’s one more right there, yes. Okay, so make sure you count carefully. Student J, do you know what to do? Can you stop for a minute, Student J? So how many squares across? How many units? If you count from here, how many?",teacher,113,6,,,0.0,حسناً، هل يمكنكم المشي في الاتجاه الآخر بدلاً من المشي بهذه الطريقة؟ شكراً. حسناً، هل لدى الجميع واحد؟ هل تحتاجون إلى واحد آخر؟ لذا استخدموا قلم رصاص لإنشاء النمط ثم قطعوا، حسناً؟ نعم؟ هناك واحد آخر هناك، نعم. حسناً، تأكدوا من احتسابها بعناية. حسناً، اتأكدوا من حسابها بعناية. الطالب J، هل تعلمون ماذا تفعلون؟ هل يمكنك التوقف لدقيقة، الطالب J؟
+4 square units.,student,3,2,,,,أربعة وحدات مربعة
+"4, right? Square units.  How about this way? Here to here? Is it also 4 square units?",teacher,17,4,,,0.0,أربعة، صحيح؟ وحدات مربعة. ماذا عن هذا الطريق؟ هنا إلى هنا؟ هل هي أيضا أربعة وحدات مربعة؟
+Yes.,student,1,0,,,,-أجل، أجل
+"So is this going to match? You need to make a pattern that’s this size, right? And only one layer.  One unit high, okay? All right, very good.  Very good.  Are you all set, Student J? Okay. Why are you making another one, Student L?",teacher,45,1,,,1.0,حسناً، جيد جداً. جيد جداً. هل أنت جاهز، الطالب J؟ حسناً. لماذا أنت تصنع واحدة أخرى، الطالب L؟
+Because I messed it up.,student,5,0,,,,لأنني أفسدت الأمر
+"So here you just cut the corner, is that right?",teacher,10,0,0.0,,0.0,لذا هنا أنت فقط قطع الزاوية، أليس كذلك؟
+Yeah.,student,1,0,,,,-أجل، أجل
+"That’s fine, you can do another one. What are you looking for?",teacher,12,0,,,0.0,لا بأس، يمكنك القيام بعمل آخر، ماذا تبحث؟
+Tape.,student,1,0,,,,شريط.
+"Just tape the top and you don’t have to tape the lid, the cover.  Just tape the sides so you can cover this, like a box, okay? Okay, now that’s the same as this, okay? Boys, how do you think we can find the area? Remember we talked about this? Or the surface area of this whole rectangular prism?",teacher,59,6,,,0.0,فقط ربط الجزء العلوي وليس عليك ربط الغطاء، الغطاء فقط ربط الجانبين حتى تتمكن من تغطية هذا، مثل الصندوق، حسناً؟ حسناً، الآن هذا هو نفس هذا، حسناً؟ يا رفاق، كيف تعتقدون أننا نستطيع العثور على المنطقة؟ تذكرون أننا تحدثنا عن هذا؟ أو مساحة سطح هذه الصورة المستقيمة بأكملها؟
+"You find all the areas, like this part, this part, this part and this part and this part and you add them up together.",student,24,2,,0.0,,يمكنك العثور على جميع المناطق، مثل هذا الجزء، هذا الجزء، هذا الجزء، هذا الجزء، وهذا الجزء، وهذا الجزء، وتجمعهم معا.
+"Okay, do you agree with that, Student S?  The area.",teacher,10,1,1.0,,0.0,حسناً، هل توافقين على ذلك، الطالب (س) ؟
+"That does not work.  If you add this and that, these share. No, you add this 20 plus 24 plus 18…",student,21,2,,0.0,,هذا لا ينجح إذا أضفت هذا وذلك، هذه حصة لا، تضيف هذا 20 زائد 24 زائد 18
+"Okay, Student S, can you say that again? What do you mean they share?",teacher,14,0,1.0,,1.0,حسناً، الطالب (س) ، أيمكنك قول ذلك مجدداً؟
+"Because right here, if you put the cube in, this square and this square are the same squares.",student,18,4,,1.0,,لأن هنا، إذا وضعت المربع في، هذا المربع وهذا المربع هي نفس المربع.
+"They’re part of the same cube, so we can’t count them twice. But remember what we said? Are we working with cubes or are we not doing cubes any more, and this time, Student S, it’s just the surface, okay.  Just the surface.  So this has nothing to do with that, because we’re not doing cubes, okay, just the squares.  In other words, how many squares are there all around this, okay? So remember surface area. Area is just the surface, not the inside, okay? So that’s a good point.  Do you understand?",teacher,93,9,1.0,,0.0,فهي جزء من نفس الكوب، لذا لا يمكننا احتسابها مرتين. لكن تذكر ما قلنا؟ هل نعمل مع الكوبات أو نحن لا نعمل مع الكوبات بعد الآن، وهذه المرة، الطالب S، انها فقط السطح، حسنا. فقط السطح. لذلك هذا ليس له علاقة بذلك، لأننا لا نقوم بعمل الكوبات، حسنا، فقط المربعات. بعبارة أخرى، كم مربع هناك في جميع أنحاء هذا، حسنا؟ لذا تذكر مساحة السطح. المساحة هي فقط السطح، وليس الداخل، حسنا؟ لذلك هذا نقطة جيدة. هل تفهم؟
+Yes.,student,1,0,,,,-أجل، أجل
+"Okay, so can you start calculating and write in your notebook just like the way I wrote on the board? So once you have your box, boys and girls, you can start figuring out the surface area of this box.  The entire box.  It’s just like counting all the squares around this box, so that’s the number of squares, area. Here, Student G, tell me about this? How did you figure these out?",teacher,73,5,,,1.0,حسناً، هل يمكنك البدء في الحساب والكتابة في دفتر الملاحظاتك تماماً كما كتبت على اللوحة؟ إذاً بمجرد أن يكون لديك الصندوق، أيها الفتيان والفتيات، يمكنك البدء في معرفة مساحة سطح هذا الصندوق. الصندوق بأكمله.
+So the top area I found by the bottom because it’s the same.,student,13,1,,1.0,,إذاً المنطقة العليا التي وجدتها بالقرب من القاع لأنّها نفسها
+"You’re saying the top area is the same as the bottom area, okay.",teacher,13,2,1.0,,0.0,أنت تقول أن المنطقة العليا هي نفس المنطقة السفلى، حسناً.
+"And the front, this here, and the back are the same.",student,11,0,,0.0,,والجبهة، وهذا هنا، والخلف هي نفسها.
+"Okay, where’s the front.  So 3 units by 4 units, show me.  Mm- hmm, go ahead, so they are 12 square units, right? The front and the …",teacher,28,4,1.0,,0.0,حسناً، أين الجانب الأمامي، إذاً 3 وحدات على 4 وحدات، أرني، هيا، فهي 12 وحدة مربعة، صحيح؟ الجانب الأمامي و...
+Back.,student,1,0,,,,عودوا
+Are the same.  Then what about the last two?,teacher,9,0,,,0.0,هل هي نفسها، ماذا عن الأخيرين؟
+"The sides, they’re also the same.",student,6,0,,,,الجانبين، هم أيضا نفس الشيء.
+"Right, okay.  So that’s why you did it twice.  Okay.  And how do you find the total number of squares around this rectangular prism?",teacher,24,4,0.0,,1.0,حسناً، حسناً، لهذا السبب قمت بذلك مرتين، حسناً، وكيف تجد العدد الإجمالي للمربعات حول هذه الصورة المستقيمة؟
+[Inaudible],student,1,0,,,,[غير مسموع]
+"Mm-hmm, and then you have the… Total surface area, very good. Okay what are you working on?",teacher,17,3,,,0.0,ثم لديك مساحة السطح الكاملة جيدة جداً حسناً، ما الذي تعمل عليه؟
+[I had to re-do it.],student,5,0,,,,[يجب علي إعادة القيام بذلك.]
+Oh.  So just quickly fix it and then you can start looking for the area.,teacher,15,1,0.0,,0.0,لذا إصلاحها بسرعة وبعدها يمكنك البدء في البحث عن المنطقة
+This is not going to fit on the box.,student,9,0,,0.0,,هذا لن يتناسب مع الصندوق
+"So, Student M, what’s the strategy for finding the surface area?",teacher,11,2,0.0,,0.0,إذاً، الطالب (م) ، ما هي إستراتيجية العثور على مساحة السطح؟
+Multiply the width…,student,3,1,,,,مضاعفة العرض...
+"Okay, just a minute.  Why don’t you look at this for now.  So tell me how you can find the surface area.  What is the surface area?",teacher,27,4,,,0.0,حسناً، لحظة، لمَ لا تنظر إلى هذا الآن؟ أخبرني كيف يمكنك العثور على مساحة السطح؟
+"The top, the area of the top and the bottom.  You find it by multiplying the length and the width.",student,20,3,,0.0,,الجزء العلوي، مساحة الجزء العلوي والأسفل. يمكنك العثور عليه عن طريق مضاعفة الطول والعرض.
+"Okay, and why do you have to multiply the length by the width?",teacher,13,2,1.0,,1.0,حسناً، ولماذا يجب أن تضاعف الطول بعرضه؟
+To figure out the area.,student,5,1,,,,لمعرفة المنطقة
+Where’s the area?,teacher,3,1,1.0,,0.0,أين المنطقة؟
+The units.,student,2,1,,,,الوحدات
+"Okay, the number of…  What are these?",teacher,7,0,,,0.0,حسناً، ما هو رقم هذه؟
+Square units.,student,2,2,,,,وحدات مربعة.
+"So once you have this then, what do you do?",teacher,10,0,,,0.0,إذاً بمجرد أن تحصل على هذا، ماذا تفعل؟
+You [inaudible].,student,2,0,,,,أنت [غير مسموع].
+"Remember, we have to look for the surface area, that means all these sides all together, right? So what do you have to do? Can you figure out the area of this side? How about the area of this? So what does that make?",teacher,44,4,,,1.0,تذكر، يجب أن نبحث عن مساحة السطح، وهذا يعني كل هذه الجانبين معا، أليس كذلك؟ ماذا عليك أن تفعل؟ هل يمكنك معرفة مساحة هذا الجانب؟ ماذا عن مساحة هذا؟
+The area around the box.,student,5,1,,,,المنطقة حول الصندوق.
+"Yes, so how do you find the total surface area?",teacher,10,3,1.0,,1.0,نعم، إذاً كيف تجد مساحة السطح الكلية؟
+[Inaudible],student,1,0,,,,[غير مسموع]
+"Well, you can do this way, you can do this.  So once you have all 6 then what do you do?",teacher,21,0,,,1.0,حسناً، يمكنك فعل ذلك بهذه الطريقة، يمكنك فعل هذا، إذاً بمجرد أن يكون لديك كل ستة، ماذا تفعل؟
+Add them up.,student,3,1,,,,إضافهم.
+"Okay, so let’s see that in your notebook.  Let’s put this aside and why don’t we start writing. Okay boys and girls, I need to see that in your notebook, so you need to write down surface area.  Student L, put this book away. Where’s the surface area?",teacher,48,4,,,0.0,حسناً، دعونا نرى ذلك في دفتر الملاحظات. دعونا نضع هذا جانباً ولماذا لا نبدأ في الكتابة. حسناً يا شباب وفتيات، أريد أن أرى ذلك في دفتر الملاحظات، لذا عليك أن تكتب مساحة السطح. الطالب L، ضع هذا الكتاب جانباً. أين مساحة السطح؟
+108.,student,1,0,,,,108.
+And you need to show me how you found 108.  108 what? Units?,teacher,13,1,,,0.0,وعليك أن تريني كيف وجدت 108.108 ماذا؟
+[Inaudible],student,1,0,,,,[غير مسموع]
+"Surface area, is that a unit?",teacher,6,3,,,0.0,مساحة السطح، هل هذه وحدة؟
+[Inaudible],student,1,0,,,,[غير مسموع]
+"So you need to show you how found each one, okay? All right are you all set? Okay, so you’ve got the first step.",teacher,24,0,,,0.0,لذا عليك أن تظهر لك كيف وجدت كل واحد، حسناً؟ هل أنت جاهز؟ حسناً، إذاً لديك الخطوة الأولى.
+Can we use tape?,student,4,0,,,,هل يمكننا استخدام الشريط؟
+"Yes, if you have tape you can just tape these corners.",teacher,11,0,,,0.0,نعم، إذا كان لديك شريط يمكنك فقط ربط هذه الزوايا.
+Okay.,student,1,0,,,,-حسناً
+"Okay, Student S, do you now what’s happening? What are you looking for now?",teacher,14,0,,,0.0,حسناً، الطالب (س) ، هل تعرف ما الذي يحدث الآن؟
+I’m looking for the area [inaudible].,student,6,1,,,,أبحث عن المنطقة
+"All around this box, right? Okay? So how do you think you can find the area to the bottom.  Let’s say that’s the top, this is the bottom.",teacher,28,1,1.0,,1.0,في جميع أنحاء هذا الصندوق، أليس كذلك؟ حسناً؟ إذاً كيف تعتقد أنه يمكنك العثور على المنطقة إلى الأسفل. دعونا نقول أن هذا هو الجزء العلوي، هذا هو الجزء السفلي.
+Multiply [inaudible].,student,2,1,,,,مضاعفة [غير مستمع].
+"Right.  Okay.  So can you write that down? Student A, I need to see your work.",teacher,16,0,,,0.0,حسناً، أيمكنك كتابة ذلك؟ الطالب الأول، أريد رؤية عملك
+"After we do all these, we add these other things?",student,10,1,,0.0,,بعد أن نفعل كل هذا، نضيف هذه الأشياء الأخرى؟
+Why? Why do you need to add all those numbers?,teacher,10,1,1.0,,1.0,لماذا تحتاج إلى إضافة كل هذه الأرقام؟
+To find the surface area.,student,5,2,,,,لإيجاد مساحة السطح
+And what is surface area?,teacher,5,2,1.0,,0.0,وما هو مساحة السطح؟
+The area of a three-dimensional shape.,student,6,2,,,,مساحة شكل ثلاثي الأبعاد
+"Okay, Student K, if you were to explain to someone what surface area is, let’s say you have this prism, how do you explain it? Surface is the area…",teacher,29,4,1.0,,1.0,حسناً، الطالب كيه، لو كنت ستشرح لشخص ما هو مساحة السطح، لنفترض أن لديك هذه الصورة، كيف ستشرحها؟
+On the surface.,student,3,0,,,,على السطح
+On what surface? Just one surface?,teacher,6,0,,,0.0,على أي سطح؟
+All the surfaces.,student,3,0,,,,جميع السطحات
+"All the sides and surfaces, okay? So earlier you asked me whether you had to add the numbers, so do you have to add those?",teacher,25,2,,,0.0,كل الجوانب والسطح، حسناً؟ لذا في وقت سابق سألتني إذا كان عليك إضافة الأرقام، لذا هل عليك إضافة تلك؟
+[Inaudible],student,1,0,,,,[غير مسموع]
+And why?,teacher,2,0,,,1.0,ولماذا؟
+"Because it says, you have to [inaudible] one surface, you’re doing [inaudible] surface.",student,13,0,,1.0,,لأنه يقول، يجب أن تكون على سطح واحد، فأنت تقوم بعمل سطح غير مسموع.
+"Okay, so once you found six surfaces, you just add them, right? And that’s exactly what Student M just said, is that right? Very good. Okay, now if you were looking at this box like this, so where’s the top?",teacher,40,1,1.0,,0.0,حسناً، إذاً بمجرد العثور على ستة أسطح، يمكنك إضافةها، أليس كذلك؟ وهذا بالضبط ما قاله الطالب M للتو، أليس كذلك؟ جيد جداً. حسناً، الآن إذا كنت تنظر إلى هذا الصندوق هكذا، إذاً أين الجزء العلوي؟
+Over here.,student,2,0,,,,هُنا
+"This is the top, bottom, front, back, side, and side.  Can you see that? There are six sides.  But you can also look at it from this angle. So can this be the front?",teacher,34,1,,,0.0,هذا هو الجزء العلوي والأسفل والجبهة والخلف والجانب والجانب. هل ترى ذلك؟ هناك ستة جانب. ولكن يمكنك أيضا أن ننظر إليها من هذا الزاوية.
+Yes.,student,1,0,,,,-أجل، أجل
+And then what would the back be?,teacher,7,0,,,0.0,وماذا سيكون الخلف؟
+This side.,student,2,0,,,,من هذا الجانب
+"Right.  Side and side.   So depending on how you look at the box.  If you put it up this way, then this would be the …",teacher,26,0,,,0.0,حسناً، جانباً و جانباً، اعتماداً على كيفية النظر إلى الصندوق، إذا وضعته بهذه الطريقة،
+Top.,student,1,0,,,,أعلى.
+"So you have to decide how you want to look at this box, and then figure out the front side, back, top, bottom. Student E, let me see your… So what do you have to do next?",teacher,37,0,,,0.0,لذا عليك أن تقرر كيف تريد أن تنظر إلى هذا الصندوق، ثم معرفة الجانب الأمامي، الخلفي، الأعلى، الأسفل. الطالب إيه، دعني أرى...
+Recount the bottom area.,student,4,1,,,,أعد المنطقة السفلى
+And what do you notice about the top and the bottom?,teacher,11,0,,,1.0,وماذا لاحظت عن الأعلى والأسفل؟
+They’re the same.,student,3,0,,,,إنهم متشابهون
+"Can you see that they’re actually the same?  All right, now you have top and bottom.  Okay, Student M, I want you to start figuring out the answer and how did you get this number?",teacher,35,0,,,0.0,حسنا، الآن لديك أعلى وأسفل حسنا، الطالب M، أريدك أن تبدأ في معرفة الإجابة وكيف حصلت على هذا الرقم؟
+"First I was looking at this, then [inaudible].",student,8,0,,0.0,,في البداية كنت أنظر إلى هذا، ثم [غير مسموع].
+"Did you count all the squares? Student K, did you write down the surface area? Can you show how you found it? Okay.  Can you check with each other and make sure you agree.  Yes, Michael?",teacher,36,3,0.0,,0.0,هل عدت كل المربعات؟ هل كتبت مساحة السطح؟ هل يمكنك أن تظهر كيف وجدتها؟ حسناً، هل يمكنك التحقق من بعضك البعض وتأكد من موافقتك؟ نعم، مايكل؟
+I counted all the squares.,student,5,1,,,,لقد عدت كل المربعات
+"Oh, you counted all the squares.  You counted each one of these? Okay.     That works, because you’re looking for the surface of this whole thing, right? But what I’d like you to do is to take this box like one side of a time.  So you calculate the area of this side, this side, this side, this side.  And then what do you do at the end?",teacher,67,3,1.0,,0.0,لقد عدت جميع المربعات. لقد عدت كل واحدة من هذه؟ حسناً. هذا يعمل، لأنك تبحث عن سطح هذا الشيء كله، صحيح؟ ولكن ما أود منك فعله هو أخذ هذا الصندوق كجانب واحد من الوقت. لذلك تحسب مساحة هذا الجانب، هذا الجانب، هذا الجانب. ثم ماذا تفعل في النهاية؟
+Add them all together.,student,4,1,,,,أضفهم جميعاً معاً
+"And then you have the total surface area.  Okay, just like the way I wrote on the board.  You see the red? Let’s see.  Okay, very good.  All right. Okay, another minute, boys and girls.  Take another minute to finish, and if you’re done, I’d like you to write down – okay, listening please – to write down how you can calculate or find a surface area of a rectangular prism, okay? So if you were to explain to someone who does not know how to find the surface area, what would you say? Just write it down, okay? And make sure you have the right units. Okay, let me have you stop for a minute, boys and girls. I think most of you have found the area of all the sides, so how can we find the area, the surface area, or the area to all of these sides around this rectangular prism? Student A?",teacher,156,17,,,0.0,ومن ثم لديك المساحة السطحية الإجمالية. حسناً، تماماً كما كتبت على اللوحة. هل ترى الأحمر؟ دعونا نرى. حسناً، جيد جداً. حسناً. حسناً. حسناً، دقيقة أخرى، يا فتيان وفتيات. خذ دقيقة أخرى لإنهاء، وإذا انتهيت من ذلك، أود منك أن تكتب  حسناً، اسمعني رجاءً  لكى تكتب كيف يمكنك حساب أو العثور على مساحة السطح من نظرية مستطيلة، حسناً؟ إذاً إذا كنت ستشرح لشخص لا يعرف كيف يجد المساحة السطحية، ماذا ستقول؟ فقط اكتبها، حسناً؟ وتأكد من أن لديك الوحدات الصحيحة. حسناً، دعوني أتوقف لدقيقة واحدة، يا فتيان وفتيات. أعتقد أن معظمكم قد وجد مساحة جميع الجانبين، لذا كيف يمكننا العثور على المساحة، المساحة، أو المساحة السطحية حول جميع الجانبين من هذا المرافق المستطيل؟
+You have to combine all the area of the sides.,student,10,1,,0.0,,يجب أن تجمع كل مساحة الجانبين
+"Okay, do you agree with that? You have to combine all the areas of the sides.",teacher,16,1,1.0,,0.0,حسناً، هل توافقين على ذلك؟ يجب أن تجمع كل مناطق الجانبين.
+You have to combine all 6 surfaces and then see how much squares they can be by multiplying the length and the height.,student,23,3,,0.0,,يجب أن تجمع بين السطحات الست ثم ترى كم مربع يمكن أن تكون من خلال مضاعفة الطول والارتفاع.
+"Okay, so we need to find the area, how many squares on each surface, right?",teacher,15,2,1.0,,0.0,حسناً، علينا أن نجد المنطقة، كم مربع على كل سطح، صحيح؟
+[And then you write them down on the page and then you add the bottom and each top.],student,18,1,,0.0,,[وبعدها تكتبها على الصفحة ثم تضيف الجزء السفلي وكل الجزء العلوي.]
+"Okay, so can you help finish the rest of this? And what about the bottom area? Student J?",teacher,18,1,1.0,,0.0,حسناً، هل يمكنك أن تساعدني في إنهاء بقية هذا؟
+[Inaudible].,student,1,0,,,,[غير مسموع].
+"Let’s say we’re looking at this box from this angle.  Let’s say this is 6 and 4 and 3, okay? So that the bottom, okay, bottom is this area here, right? So how do we find the bottom area? Student J?",teacher,41,3,,,0.0,دعونا نقول أننا ننظر إلى هذا الصندوق من هذا الزاوية. دعونا نقول أن هذا هو 6 و 4 و 3، حسنا؟ حتى أن الجزء السفلي، حسنا، الجزء السفلي هو هذه المنطقة هنا، صحيح؟
+Multiply.,multiple students,1,1,,,,مضاعفة
+"Okay, multiply.",teacher,2,1,,,0.0,حسناً، مضاعفة
+6 units and 4 units equals 24 units.,student,8,3,,0.0,,6 وحدة و 4 وحدة تساوي 24 وحدة
+Did I hear 24 units?,teacher,5,1,1.0,,0.0,هل سمعت 24 وحدة؟
+Yes.,student,1,0,,,,-أجل، أجل
+"Okay, why is it important to say square units instead of units? Are they the same?",teacher,16,3,,,1.0,حسناً، لماذا من المهم أن نقول وحدات مربعة بدلاً من وحدات؟ هل هي نفسها؟
+A square unit would be three-dimensional? Two-dimensional.,student,7,4,,,,وحدة مربعة ستكون ثلاثية الأبعاد؟
+"Okay, are these squares?",teacher,4,1,0.0,,0.0,حسناً، هل هذه مربعات؟
+Yes.,student,1,0,,,,-أجل، أجل
+So are these square units?,teacher,5,2,,,0.0,إذاً هل هذه وحدات مربعة؟
+"Yes. It’s important because it could be any type of units.  It’s important because people might get confused, like what kind of units?",student,23,2,,0.0,,نعم، إنه مهم لأنه يمكن أن يكون أي نوع من الوحدات، إنه مهم لأن الناس قد يصابون بالارتباك، مثل أي نوع من الوحدات؟
+"Right, if you just say units, then it could be an inch, a centimeter, okay, a foot, etc.  Right? But when you say square units, what does that mean? You actually count squares, number of squares.  And when we say cubic, just like last week, we count the number of –",teacher,51,6,1.0,,1.0,صحيح، إذا قلت وحدات فقط، فإنها يمكن أن تكون بوصة، سنتيمتر، حسنا، قدم، إلخ صحيح؟ ولكن عندما تقول وحدات مربعة، ما الذي يعنيه ذلك؟ أنت في الواقع تعدد المربعات، عدد من المربعات. وعندما نقول مكعب، تماما مثل الأسبوع الماضي، نحن نحسب عدد 
+Boxes. Cubes.,student,2,1,,,,صناديق، مكعبات
+"Cubes or boxes, all right, cubes.  So it’s very important that you use the right unit.  Okay, now let’s move on to the next one.  So Student K, what would the next one be? Let’s say this is the front.",teacher,40,3,,,0.0,الكوبات أو الصناديق، حسناً، الكوبات. لذا فمن المهم جداً أن تستخدم الوحدة المناسبة. حسناً، الآن دعونا ننتقل إلى الوحدة التالية.
+The front area would be 3 times 6.  [Crosstalk],student,9,1,,0.0,,المساحة الأمامية ستكون 3 × 6.
+"How come some people disagree? Let’s hear it.  Student M, did you disagree? So is it wrong that it’s 3 by 6?",teacher,22,0,1.0,,1.0,لماذا يختلف بعض الناس؟ دعونا نسمع ذلك. الطالب M، هل اختلفت؟ إذاً هل من الخطأ أن يكون 3×6؟
+It’s 6 by 3.,student,4,0,,,,انها 6 ب 3
+"Or 6 by 3, does it matter? It’s the same.  Okay.  Now group one, hold it, hold it.  How many people actually have 3 units by 6 units? How many have 6 units by 3 units? And do you get the same answer, the same number of squares? How many have something different for the front side.  Student J, what do you have?",teacher,63,5,,,0.0,أو 6 على 3، هل يهم؟ هو نفس الشيء. حسناً. الآن المجموعة الأولى، أمسكها، أمسكها. كم من الناس لديهم 3 وحدات على 6 وحدات؟ كم من الناس لديهم 6 وحدات على 3 وحدات؟ وهل تحصل على نفس الإجابة، نفس عدد المربعات؟ كم من الناس لديهم شيء مختلف للجانب الأمامي. الطالب J، ماذا لديك؟
+I have 3 times 4.,student,5,0,,,,لدي 3 × 4
+3 times 4? How did he get 3 times 4?,teacher,10,0,1.0,,1.0,3 × 4؟ كيف حصل على 3 × 4؟
+He went the other way.,student,5,0,,,,ذهب في الاتجاه الآخر.
+"Oh, so this is your front side, is that right, Student J? Student S, which is front, is this front side or is this front side?",teacher,26,0,0.0,,0.0,إذاً هذا هو الجانب الأمامي، أليس كذلك، الطالب J؟ الطالب S، الذي هو الجانب الأمامي، هو هذا الجانب الأمامي أم هو هذا الجانب الأمامي؟
+This is front. Both.,student,4,0,,,,هذا أمامك، كلاهما.
+"What do you mean, both? Explain to us, please. One at a time.",teacher,13,0,,,1.0,اشرح لنا رجاءاً واحداً في كل مرة
+"It depends on the way that you look at it. You could say this is the front, or you could say this is the front, this is the front.",student,29,0,,0.0,,هذا يعتمد على الطريقة التي تنظر بها، يمكنك أن تقول هذا هو الجبهة، أو يمكنك أن تقول هذا هو الجبهة، هذا هو الجبهة.
+"Okay, and do you agree with him? Depending on how you look at this, right? And I drew this up here, I said we’re going to look at this box from this angle, so we say this is the front side.  But if you look at it from this way, that’s the front side, right? Can the top be the front also?",teacher,62,1,1.0,,1.0,حسناً، هل توافقين معه؟ اعتماداً على كيفية النظر إلى هذا، صحيح؟ وقد رسمت هذا هنا، قلت أننا سننظر إلى هذا الصندوق من هذا الزاوية، لذا نقول أن هذا هو الجانب الأمامي. ولكن إذا نظرت إليه من هذا الجانب، فهذا هو الجانب الأمامي، صحيح؟ هل يمكن أن يكون الجزء العلوي أيضاً الجانب الأمامي؟
+Yes.,student,1,0,,,,-أجل، أجل
+"Yeah.  Okay.  All right, so let’s just keep this as the front side and what about the … so what is that?",teacher,22,0,,,0.0,حسناً، دعونا نحتفظ بهذا على الجانب الأمامي وماذا عن...
+[Inaudible].,student,1,0,,,,[غير مسموع].
+"All right, someone else, the backside? Student K? It’s the same is that right?",teacher,14,0,,,0.0,حسناً، شخص آخر في الجانب الخلفي؟ الطالب كيه؟
+Yes.,student,1,0,,,,-أجل، أجل
+"Okay, very good.  And then the side. So this side and that side.  Student D, what’s the side, or left side, this side?",teacher,23,0,,,0.0,حسناً، جيد جداً، ثم الجانب، هذا الجانب، وهذا الجانب، الطالب د، ما هو الجانب، أو الجانب الأيسر، هذا الجانب؟
+[Inaudible],student,1,0,,,,[غير مسموع]
+I’m sorry? Can you see this? So what is that side? Or this side?,teacher,14,0,,,0.0,أنا آسف، هل ترى هذا؟ ما هذا الجانب؟ أو هذا الجانب؟
+3 by 4.,student,3,0,,,,ثلاثة على أربعة
+"Oh, 3 by 4, okay? So 3 units by 4 units, and that’s 12.  Okay. And then the last one, Student S?",teacher,22,2,,,0.0,ثلاثة على أربعة، حسناً؟ إذاً ثلاث وحدات على أربعة وحدات، وهذا هو 12، حسناً. ثم آخر واحد، الطالب S؟
+"On the side, there’s 12, 3 times 4.  [Inaudible]",student,9,0,,0.0,,على الجانب، هناك 12، 3 × 4.
+"Okay.  And that’s 12, right.  And I asked you to write down how you find the total surface area, so what would you say? Student L, how can you find the total surface area?",teacher,34,6,1.0,,1.0,حسناً، وهذا 12، صحيح، وطلبت منك أن تكتب كيف تجد إجمالي مساحة السطح، فماذا تقول؟ الطالب L، كيف يمكنك العثور على إجمالي مساحة السطح؟
+You add all the …,student,5,1,,,,إضافة كل ...
+"All of these, okay.  So now the surface area of this rectangular prism is…",teacher,14,4,0.0,,0.0,كل هذا، حسناً، الآن مساحة سطح هذه الصورة المستقيمة هي
+108 units. 108 square units.,student,5,3,,,,108 وحدة، 108 وحدة مربعة.
+"Okay, remember square units.  All right.  You all set? Okay, so let me give you another one to practice.  You can use this box, or you can draw a box, but this has different dimensions.  So for this one, first of all I’m going to have you find the volume, and then you’ll find the surface area, okay? So this is a rectangular prism.  Okay, wait a minute, Student S, let’s leave that up because I want people to be able to see that.  Okay, so this rectangular prism is 4 by 3 by 2 inches. Okay, so draw in your notebook.  I want you to draw the prism, and then I want you to find the volume.  Okay, we’ve been practicing finding volume, right? And then the surface area. What are the dimensions for this box, Student M? You see the numbers? 4 by 3 by 2, okay? What’s this?  24…",teacher,152,16,1.0,,0.0,حسناً، تذكر وحدات مربعة. حسناً. هل أنت جاهز؟ حسناً، دعني أعطيك واحدة أخرى للتدريب. يمكنك استخدام هذا الصندوق، أو يمكنك رسم الصندوق، ولكن هذا لديه أبعاد مختلفة. لذلك بالنسبة لهذا، أولاً سأجعلك تجد الحجم، ثم ستجد مساحة السطح، حسناً؟
+I counted it like [inaudible].,student,5,0,,,,لقد عدتُه كـ (غير مُسمع)
+Did you count the number of cubes?,teacher,7,1,1.0,,0.0,هل عدت عدد الكوبات؟
+Yes.,student,1,0,,,,-أجل، أجل
+"So earlier we said we can find one layer and then multiply by the number of layers, right? So what’s that bottom layer? How many cubes can that hold?",teacher,29,2,,,0.0,لذلك في وقت سابق قالنا يمكننا العثور على طبقة واحدة ثم مضاعفة عدد الطبقات، أليس كذلك؟ ما هي الطبقة السفلى؟ كم عدد الكوبات التي يمكن أن تستوعب؟
+4.,student,1,0,,,,4 .
+"Remember, we’re going back to volume, so the number of cubes you can put inside.",teacher,15,2,,,0.0,تذكر، نحن نعود إلى الحجم، حتى عدد الكوبات التي يمكنك وضعها داخل.
+"Oh, without this?",student,3,0,,,,بدون هذا؟
+Mm-hmm.,teacher,1,0,,,0.0,-حسناً
+12?,student,1,0,,,,اثني عشر؟
+Mm-hmm.  So now there are two layers.,teacher,7,0,,,0.0,الآن هناك طبقتين
+So 24.,student,2,0,,,,إذن 24
+"Right, so the volume is 24 cubic inches, that’s good.  And now you’re going to think about the surface area. So volume, how did you find the volume.",teacher,28,5,,,1.0,صحيح، لذلك الحجم هو 24 بوصة مكعبة، وهذا جيد. والآن سوف نفكر في المساحة السطحية.
+4 times 3.,student,3,0,,,,4 × 3
+"Okay, write it next to it please. Okay, now you have the box, now look for the volume and then look for the surface area. Remember to label the numbers, Student R, labeling.  You labeled with number, but what about the units? Volume, square, okay.  Now remember volume, going back to last week, what does volume mean? The number of cubes we can put inside, right? So what units do we call those?",teacher,73,10,,,0.0,حسناً، اكتبها بجانبه من فضلك. حسناً، الآن لديك الصندوق، ابحث عن الحجم ومن ثم ابحث عن المساحة السطحية. تذكر لتسمية الأرقام، الطالب R، التسمية. قمت بتسمية بالأرقام، ولكن ماذا عن الوحدات؟ الحجم، المربع، حسناً. الآن تذكر الحجم، تعود إلى الأسبوع الماضي، ماذا يعني الحجم؟ عدد الكوبات التي يمكننا وضعها في الداخل، صحيح؟ إذاً ما هي الوحدات التي نسميها؟
+Cubic units.,student,2,2,,,,وحدات مكعب.
+"Mm-hmm.  And then the surface area, since we’re looking for area, is just the number of squares, right? Did you finish, Student L? What are you supposed to do to these numbers? Are we supposed to just leave the numbers without labels?",teacher,42,4,,,0.0,ثم مساحة السطح، بما أننا نبحث عن مساحة، هو فقط عدد المربعات، أليس كذلك؟ هل انتهيت، الطالب L؟ ماذا يجب أن تفعل مع هذه الأرقام؟ هل من المفترض أن نترك فقط الأرقام دون علامات؟
+No.,student,1,0,,,,-كلا .
+"And what I’d like you to do is see if you can find an easier way to find the surface area, instead of finding the top and then the bottom, the front, the back, is there an easier way?",teacher,39,2,,,0.0,وما أود منك فعله هو معرفة ما إذا كان بإمكانك العثور على طريقة أسهل للعثور على مساحة السطح، بدلاً من العثور على الجزء العلوي ومن ثم الجزء السفلي،
+I think there is.,student,4,0,,,,أعتقد أن هناك.
+2 times 4 is…,teacher,4,0,,,0.0,2 × 4 هو...
+8.,student,1,0,,,,8
+8 times 3.,teacher,3,0,,,0.0,ثمانية × ثلاثة
+"No, no, no, 2 times 4, and then, never mind.  Um, like these two numbers you times them, which is 8, and you do 8 for the next one as well.  You could times 2, times 3, which is 6.  4 times 3, 12.",student,44,0,,0.0,,لا، لا، لا، لا، 2 × 4، ثم لا يهم، مثل هذين الأعدادين تضربهم، والتي هي 8، ويمكنك أن تضرب 2 × 3، والتي هي 6 × 4 × 3 12.
+"Okay, why did you do those twice? Each one twice?",teacher,10,0,1.0,,1.0,حسناً، لماذا فعلتها مرتين كل مرة مرتين؟
+"Because I put each side, like right here.  You still find the same answer, because each side is the same on the other side.  This side and the back side, the top and the bottom.",student,35,0,,1.0,,لأنني وضعت كل جانب، مثل هنا، لا تزال تجد نفس الإجابة، لأن كل جانب هو نفسه على الجانب الآخر، هذا الجانب والجانب الخلفي، أعلى وأسفل.
+"Okay, very good.  So you noticed the front and the back and the top and the bottom, those are the same. And instead of finding it two times, you just find once, and then multiply by 2.  Very good.  Maybe you can try to write a formula. Okay, those people who finished, see if you can write a formula for finding a surface area.  See if there’s an easier way to do that instead of doing 6 steps and then add, is there an easier way? Do you see a pattern, any patterns?",teacher,93,4,1.0,,0.0,حسناً، جيد جداً. إذاً لاحظت أن الجبهة الأمامية والخلفية والعليا والأسفل هي نفسها. وبدلاً من العثور عليها مرتين، يمكنك العثور على مرة واحدة، ثم مضاعفة بمقدار 2. جيد جداً. ربما يمكنك محاولة كتابة صيغة. حسناً، أولئك الذين انتهوا، انظروا إذا كان بإمكانكم كتابة صيغة للعثور على مساحة سطح. انظروا إذا كان هناك طريقة أسهل للقيام بذلك بدلاً من القيام بخطوات 6 ثم أضف، هل هناك طريقة أسهل؟ هل ترى نمطًا، أي أنماط؟
+I can make it into 3 steps.,student,7,0,,,,يمكنني جعلها في ثلاث خطوات.
+And how is that? How does that work?,teacher,8,0,1.0,,1.0,وكيف هذا؟ كيف يعمل ذلك؟
+"Because this is the same on the other side, so you can do 4 times 2 times 2, but that’s only 3 steps.",student,23,0,,1.0,,لأن هذا هو نفس الشيء على الجانب الآخر، لذلك يمكنك القيام 4 × 2 × 2، ولكن هذا فقط 3 خطوات.
+"So you don’t have to repeat that because it … okay, very good. Can you write a formula, just write it down. What do you notice about these numbers?",teacher,29,0,0.0,,1.0,لذا لا يجب أن تكرر ذلك لأنه... حسناً، جيد جداً. هل يمكنك كتابة صيغة، فقط اكتبها. ماذا تلاحظ في هذه الأرقام؟
+"They’re the same, right? And so are these, see? So how can you write a formula, if you can write a formula to find surface area.  Something that’s easier than doing one side at a time.  Think about it.   Yes? [0:53:00] You could do top times … top plus the front plus the right times 2.",student,56,2,,0.0,,فهي نفسها، أليس كذلك؟ وكذلك هذه، كما ترى؟ إذاً كيف يمكنك كتابة صيغة، إذا كنت تستطيع كتابة صيغة للعثور على مساحة السطح. شيء أسهل من فعل جانب واحد في وقت واحد. فكر في ذلك. نعم؟ [0:53:00] يمكنك القيام بأوقات أعلى ... أعلى زائد الجانب الأمامي زائد الجانب الصحيح 2.
+So top area plus front area plus right area times 2? Why times 2?,teacher,14,3,1.0,,1.0,إذاً المساحة العليا + المساحة الأمامية + المساحة اليمنى × 2؟ لماذا × 2؟
+Because it’s [inaudible] so you can times 2 it.,student,9,0,,1.0,,لأنه (غير قابل للسمع) لذا يمكنك ضربه 2
+"Oh, very good.  Can you write it? Just write the whole formula. Surface area equals… Length times height times width, remember what that … we did that last week, right? So what’s that? What would that be if you multiply…",teacher,40,5,0.0,,0.0,جيد جداً. هل يمكنك كتابته؟ فقط اكتب الصيغة بأكملها. مساحة السطح تساوي... طول × ارتفاع × عرض، تذكر ما... فعلنا ذلك الأسبوع الماضي، صحيح؟
+52 square units.,student,3,2,,,,52 وحدة مربعة
+"That would be the volume, but we’re not looking for volume, right? You found the volume, now we’re looking for surface area.",teacher,22,5,,,0.0,هذا سيكون الحجم، ولكننا لا نبحث عن الحجم، أليس كذلك؟ لقد وجدت الحجم، والآن نحن نبحث عن مساحة السطح.
+"I figured out an easier way.  If the top area is 6 x 4, you don’t have to do the bottom because it’s going to be the same.  So it goes both sides, front and back, and then left and right.",student,41,1,,1.0,,لقد وجدت طريقة أسهل. إذا كانت المساحة العلوية هي 6 × 4 ، فلن تضطر إلى القيام بالأسفل لأنها ستكون نفسها. لذا فإنها تذهب إلى كلا الجانبين ، الأمام والخلف ، ثم اليسار واليمين.
+"Okay, so if you only find one of them and then double, multiply 2, then you find.  Okay, very good.",teacher,20,1,0.0,,0.0,حسناً، إذا وجدتم واحداً فقط، ثم مضاعفاً، مضاعفاً بـ2، ستجدون ذلك.
+"Because it’s going to be the same, the ones over here and the other sides.",student,15,0,,1.0,,لأنّه سَيَكُونُ نفسَهُ، أولئك هنا والجانب الآخرين.

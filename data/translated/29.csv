@@ -1,0 +1,265 @@
+﻿text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions,text_arabic
+"All right.  Everyone has a cube, correct?",teacher,7,1,,,0.0,حسناً، كل شخص لديه مكعب، صحيح؟
+Yes.,multiple students,1,0,,,,-أجل، أجل
+And a [stamp].,teacher,3,0,,,0.0,و (خاتمة)
+Yes.,multiple students,1,0,,,,-أجل، أجل
+"Right.  You should be working with the person sitting next to you.  We want you to have a cube and a stamp.  Okay?  We all know what a cube is, correct?",teacher,31,2,,,0.0,حسناً، يجب أن تعمل مع الشخص الجالس بجانبك، نريدك أن تحصل على مكعب وخطّة، حسناً، جميعنا نعرف ما هو مكعب، صحيح؟
+Yes.,multiple students,1,0,,,,-أجل، أجل
+All right.  The stamp represents one square unit.  Okay?  The stamp represents one square unit.  So everyone look at the cube.  Let’s look at the cube.  How many surfaces are there on the cube?,teacher,34,7,,,0.0,حسناً، العلامة تمثل وحدة مربعة واحدة. حسناً؟ العلامة تمثل وحدة مربعة واحدة. لذا الجميع ينظر إلى المكعب. دعونا ننظر إلى المكعب. كم عدد السطحات الموجودة على المكعب؟
+Six.,student,1,0,,,,ستة.
+"Raise your hand, please.  Remember, we do not speak out. So you are looking at the cube.  How many surfaces are there?  There are six surfaces.  There’s one, [inaudible] is one, one on the bottom, and one on top.  Now, this stamp represents one square unit.  Okay?  This stamp represents one square unit. If I cover all the surfaces with a stamp, how many square units will that be?",teacher,69,7,,,0.0,ارفع يديك، رجاءً. تذكر أننا لا نتحدث. لذا أنت تنظر إلى المكعب. كم سطح هناك؟ هناك ستة سطحات. هناك واحدة، [غير مسموعة] هي واحدة، واحدة في الأسفل، وواحدة في الأعلى. الآن، هذه العلامة تمثل وحدة مربعة واحدة. حسناً؟ هذه العلامة تمثل وحدة مربعة واحدة. إذا غطيت جميع السطحات بالعلامة، كم وحدة مربعة سيكون ذلك؟
+Six.,student,1,0,,,,ستة.
+"Do not speak out.  Raise your hand, please.  How many square units with one?",teacher,14,2,,,0.0,لا تتكلّم، ارفعوا يدكم، من فضلكم، كم عدد الوحدات المربعة مع واحدة؟
+[Inaudible] equal to six square units.,student,6,2,,,,[غير مسموع] يساوي ست وحدات مربعة.
+Okay.  Six square units.  There’s one here – everyone is looking – another one.  Okay?,teacher,15,2,1.0,,0.0,حسناً، ست وحدات مربعة، هناك واحد هنا، الجميع يبحث عن واحد آخر، حسناً؟
+Yes.,student,1,0,,,,-أجل، أجل
+"Both sides, top and bottom.  Six square units.  Correct?",teacher,9,2,,,0.0,على الجانبين، أعلى وأسفل، ستة وحدات مربعة، صحيح؟
+Yes.,student,1,0,,,,-أجل، أجل
+"Now, today’s objective, everyone, is surface area.  How many of you have seen this term before?  We found the area of a shape, the perimeter of a shape, the volume of a shape.  So now we’re going to work to find the surface area of the dimensional shape.  So let’s look at the term “surface area.”  When you see the term surface area, what does that mean?  What are they asking for?  What are they looking for?  Yes, Student C?",teacher,80,12,,,0.0,الآن، الهدف اليوم، الجميع، هو مساحة السطح. كم منكم قد رأى هذا المصطلح من قبل؟ وجدنا مساحة الشكل، محيط الشكل، حجم الشكل. لذلك الآن نحن ذاهبون إلى العمل للعثور على مساحة السطح من الشكل الأبعاد. لذلك دعونا ننظر إلى مصطلح مساحة السطح.
+[Inaudible] the surfaces of a cube.  We have to find the area of it.,student,14,2,,0.0,,يجب أن نجد مساحة مكعب
+Okay.  Student C said we have to look at the surfaces of a cube.  Does it always have to be a cube everyone?,teacher,23,2,1.0,,0.0,حسناً، الطالب (سي) قال أن علينا أن ننظر إلى أسطح الكوب هل يجب أن يكون الكوب دائماً؟
+No.,multiple students,1,0,,,,-كلا .
+"What else could it be, Student C?",teacher,7,0,,,1.0,ماذا يمكن أن يكون غير ذلك، الطالب سي؟
+A rectangle.,student,2,1,,,,مستطيل
+[Inaudible] rectangle.,teacher,2,1,,,0.0,مستطيل
+A rectangular prism.,student,3,2,,,,نظرية مستطيلة
+"Oh, you saw not just a rectangle but a rectangular –",teacher,11,2,,,0.0,أوه، لم ترى مجرد مستطيل ولكن مستطيل 
+Prism.,multiple students,1,1,,,,بريزما.
+"Prism, right?",teacher,2,1,,,0.0,بريزم، أليس كذلك؟
+Yes.,multiple students,1,0,,,,-أجل، أجل
+"Okay, Student C, repeat what you said again?",teacher,8,0,,,0.0,حسناً، الطالب (سي) ، تكرر ما قلته مرة أخرى؟
+"We have to look for the surface of a rectangular prism, and the area.",student,14,3,,0.0,,علينا أن نبحث عن سطح نظرية مستطيلة، والمنطقة.
+Okay.  She’s saying we have to find the surfaces and the area of the rectangular prism.  Can someone answer that for me? Can someone answer that?  Yes [inaudible].,teacher,28,3,1.0,,0.0,حسناً، إنها تقول أننا يجب أن نجد السطح ومساحة الصورة المستقيمة، هل يمكن لأحد أن يجيب لي؟ هل يمكن لأحد أن يجيب على ذلك؟
+You also have to find the volume.  You have to find the [inaudible].,student,13,1,,0.0,,عليك أيضاً العثور على الصوت يجب عليك العثور على الصوت
+"Okay, what Student W said – okay.  We have to find the length, the width, and the height.  So before we can find the surface area, we have to figure out what is the length, what is the width. We have to find out – what [inaudible], if we want.  What word describes length, width, and height?  What’s that word I’m looking for?  What one word describes length, width, and height?  Yes.  Starts with a D.",teacher,76,6,1.0,,0.0,حسناً، ما قاله الطالب W  حسناً. علينا العثور على الطول، والعرض، والارتفاع. لذا قبل أن نجد مساحة السطح، علينا معرفة ما هو الطول، وما هو العرض. علينا معرفة  ما [غير مسموع] ، إذا أردنا. ما هي الكلمة التي تصف الطول، والعرض، والارتفاع؟ ما هي تلك الكلمة التي أبحث عنها؟ ما هي الكلمة التي تصف الطول، والعرض، والارتفاع؟ نعم. تبدأ بـ D.
+Dimension.,multiple students,1,1,,,,الأبعاد
+"Dimensions.  Dimension.  [Inaudible] we need to find the dimensions of the prism, okay?  So what I want you to do as a group – I’m going to give each group a rectangular prism. Why is it called a rectangular prism?  Student J?",teacher,42,8,,,1.0,الأبعاد. الأبعاد. [غير مسموع] نحن بحاجة إلى العثور على أبعاد الصورة، حسناً؟ لذلك ما أريده منك أن تفعله كمجموعة  سأعطى كل مجموعة بصورة مستطيلة. لماذا تسمى بصورة مستطيلة؟ الطالب J؟
+It’s a 3-D shape and then [inaudible] rectangles.,student,8,1,,0.0,,إنه شكل ثلاثي الأبعاد ثم مستطيل
+Okay.  It’s a 3-D shape and the base is a –?,teacher,11,0,1.0,,0.0,حسناً، إنه شكل ثلاثي الأبعاد والقاعدة هي ؟
+Rectangle.,multiple students,1,1,,,,مستطيل
+"Rectangle.  Okay.  So I’m giving each group a rectangular prism.  You will work as a group to find how many stamps – everyone listen – find how many stamps of surface area of the rectangular prism.  Do not take it apart, please.  It’s not a toy, remember.  Each group has a rectangular prism. Yes?",teacher,54,9,,,0.0,مستطيل. حسناً. لذلك سأعطى لكل مجموعة نظرية مستطيلة. ستعملون كمجموعة للعثور على عدد العلامات  الجميع يستمعون  العثور على عدد العلامات من المساحة السطحية من نظرية مستطيلة. لا تفكرها، من فضلكم. انها ليست لعبة، تذكروا. كل مجموعة لديها نظرية مستطيلة. نعم.
+"Do you mean that [inaudible] both sides, the length, the width, and the height [inaudible].",student,15,1,,0.0,,هل تعني أن الجانبين الطويل والعريض والارتفاع غير مسموعين؟
+"Okay.  Remember, you’re working together. In addition to the rectangular prism, I am going to give each group a piece of chart paper, and you have to show me how you figured out the answer.  Each group will have a chart paper.  So many faces again does this rectangular prism have?",teacher,51,5,0.0,,0.0,حسناً، تذكرون، إنكم تعملون معاً. بالإضافة إلى الصورة المستقيمة، سأعطى لكل مجموعة قطعة من ورقة الرسم البياني، وعليك أن تريني كيف اكتشفت الإجابة. كل مجموعة سيكون لها ورقة الرسم البياني.
+Six.,multiple students,1,0,,,,ستة.
+"Six faces.  So we’re going to figure out how many stamps it will take to cover the entire rectangular prism.  Okay?  I will give you a piece of paper.  You have to show me how you solved the problem. [Inaudible] one, two, three, four.  [Inaudible.]",teacher,45,2,,,0.0,ستة وجوه. لذلك نحن ذاهبون لمعرفة كم من الطوابع ستحتاج إلى تغطية كل prism مستطيل. حسنا؟ سأعطيك قطعة من الورق. عليك أن تظهر لي كيف حل المشكلة. [لا يمكن سماع] واحد، اثنان، ثلاثة، أربعة. [لا يمكن سماع]
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+We’re finding the surface area.  [Inaudible] area.,teacher,7,3,,,0.0,نحن نعثر على مساحة السطح.
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+[Inaudible.] Okay.  Someone should be taking notes.,teacher,7,0,,,0.0,حسناً، يجب أن يكتب أحدهم ملاحظات
+"I will, because [inaudible].",student,4,0,,,,سأفعل، لأن [غير مسموع].
+"[Inaudible] ideas.  Let’s see what I have here.  Working together as a group.  That means all four of you, working together.  [Inaudible.]",teacher,22,0,,,0.0,دعونا نرى ما لدي هنا، العمل معاً كمجموعة، وهذا يعني أنكم الأربعة تعملون معاً.
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+[Inaudible.],teacher,1,0,,,0.0,[غير مسموع.]
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+[Inaudible.],teacher,1,0,,,0.0,[غير مسموع.]
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+[Inaudible] the surface area of any prism. [Inaudible.]  What does 3 represent?,teacher,12,3,,,0.0,[لا يمكن سماعها] مساحة سطح أي نظارة. [لا يمكن سماعها.] ماذا يمثل 3؟
+The length?  The width?  The length?,student,6,2,,,,الطول، العرض، الطول؟
+The width.  What does the 4 represent?,teacher,7,0,1.0,,0.0,العرض، ماذا يمثل الرابع؟
+The length.,student,2,1,,,,الطول.
+Okay.  So what does the 12 represent?,teacher,7,0,,,1.0,حسناً، ما الذي يمثل 12؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+"Wait a minute.  You multiply the length by the width, so what does the 12 represent?  What happened [inaudible]?",teacher,19,2,,,0.0,انتظر لحظة، تضاعف الطول بالعرض، ما الذي يمثل 12؟ ماذا حدث؟
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+So you multiply by the length by the width. What are we finding?,teacher,13,2,,,0.0,اذا تضاعف بالطول بالعرض ما الذي نجده؟
+Area.,student,1,1,,,,المنطقة
+"Thank you.  Okay.  So, now that we have this, and that represents area, [inaudible] multiply that by 3? [Inaudible.]  One surface, one surface.  [Inaudible.]",teacher,24,2,,,0.0,شكراً. حسناً، الآن لدينا هذا، وهذا يمثل المساحة، [غير مسموع] مضاعفة ذلك بـ 3؟ [غير مسموع] سطح واحد، سطح واحد. [غير مسموع]
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+It does.  So why do you think [inaudible].,teacher,8,0,,,1.0,-إنه كذلك، فلماذا تظنين ذلك؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+Wait a minute.  This surface [inaudible] prism height again?,teacher,9,1,,,0.0,انتظر لحظة، هذا ارتفاع البرازما السطحي مجدداً؟
+6.,multiple students,1,0,,,,6 .
+So that’s [inaudible]?,teacher,3,0,,,0.0,إذاً هذا (غير قابل للسمع) ؟
+[Inaudible.] [Inaudible.],multiple students,2,0,,,,[غير مسموع] [غير مسموع]
+[Inaudible.] [Inaudible.],teacher,2,0,,,0.0,[غير مسموع] [غير مسموع]
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+"What did I say, Miss [inaudible]? What do you guys say, when you multiply 12 by 3?  What did I say?  Remember, I said, how many [inaudible] do you have that has 12 [inaudible]?  Remember, [inaudible] has two surfaces, so what happened to these two surfaces? [Inaudible] this surface?  Is it hard?  Is it [inaudible]? Student J?  [Inaudible] again.  How many square units?  How many stamps?  If I [inaudible], how many stamps would you need?  Only 6?  9?  Okay.  So how many stamps would you need to cover this [inaudible]? So, [inaudible] like this, by 6?  [Inaudible.]",teacher,97,3,,,1.0,ماذا قلت يا آنسة [غير مسموعة]؟ ماذا تقولون يا رفاق عندما تضربون 12 ب 3؟ ماذا قلت؟ تذكر، قلت، كم عدد [غير مسموعة] لديك التي لديها 12 [غير مسموعة]؟ تذكر، [غير مسموعة] لديها سطحين، فماذا حدث لهذه السطحين؟ [غير مسموعة] هذه السطح؟ هل صعبة؟ [غير مسموعة]؟ هل هو [غير مسموعة]؟ الطالب J؟ [غير مسموعة] مرة أخرى. كم وحدة مربعة؟ كم طوابع؟ إذا أنا [غير مسموعة] ، كم طوابع ستحتاج؟ فقط 6؟ 9؟ حسناً.
+Three.  Four.,student,2,0,,,,ثلاثة، أربعة
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+[Inaudible.]  Is this 3 by 3 as well?,teacher,8,0,,,0.0,هَلْ هَذَا 3 على 3 أيضاً؟
+This is a cube.,student,4,1,,,,هذا مكعب
+"12 by 3.  [Inaudible.]  The surface area, I’m making stamps [inaudible].  How many stamps – no talking when I’m talking.  How many stamps [inaudible].",teacher,24,2,,,0.0,مساحة السطح، أنا أقوم بإنشاء طوابع، كم طوابع لا تتحدث عندما أتحدث، كم طوابع.
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+[Inaudible.] [Inaudible.] [Inaudible.] [Inaudible.] [Inaudible.],multiple students,5,0,,,,[غير مسموع] [غير مسموع] [غير مسموع] [غير مسموع] [غير مسموع] [غير مسموع]
+Hold on for a moment.  [Inaudible.],teacher,6,0,1.0,,0.0,انتظر لحظة.
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+Okay everyone.,teacher,2,0,,,0.0,حسناً، الجميع
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+"Okay.  Everyone has a [inaudible].  I need everyone’s attention.  Student A, I’m waiting for you.  Student D, I’m waiting for your attention.  Student Q, I’m waiting for your attention.  [Inaudible], focus.  Okay.  So we have a prism. How many stamps will it take to cover the entire prism?  Raise your hands.  How many stamps will it take to cover the entire prism?  Are you paying attention over there?  Okay.  42. What are the dimensions again, everyone?",teacher,76,4,,,0.0,حسناً. كل شخص لديه [لا يسمعه]. أحتاج إلى إنتباه الجميع. الطالب A، أنا أنتظرك. الطالب D، أنا أنتظر إنتباهك. الطالب Q، أنا أنتظر إنتباهك. [لا يسمعه]، التركيز. حسناً. لدينا نظاماً. كم عدد العلامات التي ستحتاج إلى تغطية نظاماً كاملاً؟ ارفعوا أيديكم. كم عدد العلامات التي ستحتاج إلى تغطية نظاماً كاملاً؟
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+What is it?,teacher,3,0,,,0.0,-ما الأمر؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+"[Inaudible] attention, especially you, Student Q.  And Student D, I really need your attention, because for the next activity, you will have to work in pairs to find the surface area of two rectangular prisms.  And I need you to focus and pay attention so that you can be successful in finding the answer. So everyone, look at your prism.  What are the dimensions?",teacher,64,6,,,0.0,الانتباه، خاصة أنت، الطالب Q، والطالب D، أنا حقا بحاجة إلى انتباهك، لأن للنشاط التالي، سيكون لديك للعمل في أزواج للعثور على المساحة السطحية من prisms مستطيلين. وأنا بحاجة إلى التركيز والاهتمام حتى تتمكن من النجاح في العثور على الإجابة.
+6.,student,1,0,,,,6 .
+"Remember, I’m looking for dimensions.  Look at your prisms right now.  What is it?",teacher,14,2,,,0.0,تذكر، أنا أبحث عن أبعاد أنظر إلى نظاراتك الآن ما هي؟
+12.,student,1,0,,,,12
+"Dimensions, everyone.  What is the length?  [Inaudible.]",teacher,7,2,,,0.0,الأبعاد، الجميع، ما هو الطول؟
+3. 24.,student,2,0,,,,3. 24.
+Okay.  [Inaudible.]  What’s the width?,teacher,5,0,,,0.0,حسناً، ما هو العرض؟
+3.,student,1,0,,,,3 .
+3 square units.  And the height?,teacher,6,2,,,0.0,ثلاث وحدات مربعة، والارتفاع؟
+Is 3.,student,2,0,,,,هو 3
+3 square units.,teacher,3,2,,,0.0,ثلاث وحدات مربعة
+"[Inaudible.]  So 3 times 4 is 12, times 3 is –.",student,11,0,,0.0,,اذاً 3 × 4 = 12 × 3 = 
+"Okay.  If you covered the entire [inaudible] with the stamps, the stamp [inaudible] square unit, how many square units did you figure out it will take? [0:28:00]",teacher,27,4,1.0,,0.0,حسناً، إذا غطيت الطوابع بأكملها، الطوابع المربعة، كم عدد الطوابع المربعة التي ستحتاجها؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+"What do you have, Student W?  66 square units.  [Inaudible.] Okay.  Student I was who said it will take 42 square units.",teacher,22,4,,,0.0,ماذا لديك، الطالب W؟ 66 وحدة مربعة. حسناً. الطالب الأول الذي قال أنه سيستغرق 42 وحدة مربعة.
+"No, I said that.",student,4,0,,,,لا، أنا قلت ذلك.
+"Okay, well, that’s [inaudible].  You’re good.",teacher,6,0,,,0.0,حسناً، هذا غير قابل للسمعة أنتِ جيدة
+He said 76.,student,3,0,,,,قال 76
+"76.  And this would explain to me how you figured it out.  I need a speaker for this [inaudible], and you’re going to explain to me how you figured it out.  Okay, everyone is listening right now.  Okay, how did you figure it out, Student K?",teacher,46,0,,,1.0,و هذا سيشرح لي كيف اكتشفت ذلك. أنا بحاجة إلى متحدث لهذا، وأنت ستشرح لي كيف اكتشفت ذلك. حسنا، الجميع يستمعون الآن. حسنا، كيف اكتشفت ذلك، الطالب ك؟
+"We counted the whole [inaudible], and then we got 12.",student,10,1,,0.0,,لقد عدنا كل شيء، ثم وصلنا إلى 12
+"Okay.  Everyone listen.  Student D, you’re not paying attention, please.  Okay.  Hold on for one minute.  Student K said we counted the number of 12 units for the [inaudible] side, okay?  How many square units was that?",teacher,37,3,1.0,,0.0,حسناً، اسمعوا جميعاً، الطالب (د) ، أنت لا تستمع، رجاءً، حسناً، إنتظر لحظة، الطالب (ك) قال أننا عدنا عدد 12 وحدة للجانب غير السمعي، حسناً، كم عدد الوحدات المربعة تلك؟
+That was 12.,student,3,0,,,,كان ذلك 12
+Wait a minute.  12 square units.,teacher,6,2,,,0.0,انتظر لحظة، 12 وحدة مربعة.
+And then we knew that all the other sides were 12.,student,11,0,,1.0,,ومن ثم عرفنا أن جميع الجانبين الآخرين كان 12.
+And Student K said that we knew that all the three sides were also 12 square units.  Why did you think that?,teacher,22,2,1.0,,1.0,و قال الطالب ك أننا نعلم أن جميع الجانبين الثلاثة هي أيضا 12 وحدة مربعة. لماذا تعتقد ذلك؟
+Because –,student,2,0,,,,لأن 
+"Everyone pay attention.  Student D, you’re not paying attention. Okay.  Why is that?",teacher,13,0,,,1.0,انتبهوا جميعاً الطالب (دي) ، أنتِ لا تنتبهين
+Because they all have the same dimensions.,student,7,1,,,,لأنهم جميعاً لديهم نفس الأبعاد
+"Okay.  Student K says I know they’re all equal, 12 square units, because they do not all have the same dimensions. Next, Student K.",teacher,24,3,1.0,,0.0,حسناً، الطالب ك يقول أنني أعرف أنهم جميعاً متساوون، 12 وحدة مربعة، لأن كل منهم ليس لديهم نفس الأبعاد.
+Then I did the other faces which are equal to 9.,student,11,0,,0.0,,ثم قمت بالوجوه الأخرى التي تساوي 9.
+"Okay.  Then – what did Student K just say, Student D?  How can you learn if you’re not listening?  Everyone, this is a new concept for most of you.  We need to listen to learn.  We need to listen to each other.  We need to be respectful to each other so that we can learn.  Okay, continue, Student K.",teacher,59,0,0.0,,1.0,حسناً. إذن ماذا قال الطالب ك للتو، الطالب د؟ كيف يمكنك أن تتعلم إذا كنت لا تستمع؟ الجميع، هذا مفهوم جديد بالنسبة لمعظمكم. نحن بحاجة إلى الاستماع للتعلم. نحن بحاجة إلى الاستماع إلى بعضنا البعض. نحن بحاجة إلى أن نكون محترمين بعضنا البعض حتى نتمكن من التعلم. حسناً، استمر، الطالب ك.
+[Inaudible] that the other faces were 9 because that goes 3 by 3.,student,13,0,,1.0,,[لا يمكن سماع] أن الوجوه الأخرى كانت 9 لأن ذلك يذهب 3 على 3.
+"Okay.  Student K said the other faces were 9 because the side faces everyone were 9, because they were 3 by 3, so they added another 9 square units.  9 square units, okay?  And then, what was the next step?",teacher,40,4,1.0,,0.0,حسناً، قال الطالب (ك) أن الوجوه الأخرى كانت 9 لأن الوجوه الجانبية للجميع كانت 9، لأنها كانت 3 على 3، لذا أضافوا 9 وحدة مربعة أخرى. 9 وحدة مربعة، حسناً؟ ثم، ما هي الخطوة التالية؟
+And then we added all of them.  We added the total.,student,11,1,,0.0,,ومن ثم قمنا بإضافة جميعها. قمنا بإضافة الإجمالي.
+"Okay.  So he found the sum of all the surfaces, and that equaled to –",teacher,15,1,0.0,,0.0,حسناً، لقد وجد مجموع جميع السطحات، وهذا يساوي 
+66.,student,1,0,,,,66
+66 square units.  Does everyone understand that?,teacher,7,2,,,1.0,66 وحدة مربعة هل يفهم الجميع ذلك؟
+Yes.,multiple students,1,0,,,,-أجل، أجل
+"Student D, you know shooking your head means that I understand. What do you understand?",teacher,15,0,,,1.0,الطالب (دي) ، أنت تعرف أن هز رأسك يعني أنني أفهم ماذا تفهم؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+Okay.  Tell me.  Tell me what [inaudible]. What did he do?,teacher,11,0,,,1.0,حسناً، أخبرني، أخبرني ماذا فعل؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+He added the what?  Did he add the dimensions?  What you’re telling me is that he added the dimensions.  You’re telling me that he added 4 square units plus 3 square units plus 3 square units.  Is that what he did?,teacher,41,9,,,0.0,هل قام بإضافة ما؟ هل قام بإضافة الأبعاد؟ ما تخبرني به هو أنه قام بإضافة الأبعاد.
+No.,multiple students,1,0,,,,-كلا .
+No.  Tell me what did he do?  What did he do?,teacher,11,0,,,1.0,لا، أخبرني ماذا فعل؟
+He [inaudible] 12 times 4.,student,5,0,,,,هو [غير مسموع] 12 مرات 4.
+"No.  I’m talking to Student D right now.  Listen, listen.",teacher,10,0,0.0,,0.0,لا، أنا أتحدث إلى الطالب (د) الآن
+12 times 12.,student,3,0,,,,12 × 12
+"Okay.  So are these the dimensions, everyone?",teacher,7,1,,,1.0,حسناً، هل هذه الأبعاد، الجميع؟
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+12 square units.  Is that a dimension?,teacher,7,3,,,0.0,12 وحدة مربعة هل هذا بعد؟
+No.,multiple students,1,0,,,,-كلا .
+What is that?,teacher,3,0,,,0.0,-ما هذا؟
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+What does this represent?,teacher,4,0,,,0.0,ماذا يمثل هذا؟
+The area.,student,2,1,,,,المنطقة
+You’re not paying attention.  What does this represent?,teacher,8,0,,,0.0,أنتِ لا تهتمين ماذا يمثل هذا؟
+The area.,multiple students,2,1,,,,المنطقة
+"That’s the area, the surface area of one side.  That represents the surface area of one side, and he said because all four sides have the same dimensions, so therefore the surface area is the same for [inaudible] 12 four times.  Then he turned around and said, “Oh, these dimensions are different.”  This is a 3 by 3, so the area of this surface is going to be 9.  Okay?  This is 3 by 3, so the area of the surface is going to be 9.  So he found the surface area of these two sides, and then he added these two sides – are we paying attention?",teacher,108,13,,,0.0,هذا هو المساحة، مساحة السطح من جانب واحد. وهذا يمثل مساحة السطح من جانب واحد، وقال انه لأن جميع الجانبين الأربعة لديهم نفس الأبعاد، لذلك فإن مساحة السطح هي نفسها ل [غير قابل للسمع] 12 أربع مرات. ثم تحول وقال،  أوه، هذه الأبعاد مختلفة. هذا هو 3 على 3، لذلك مساحة هذه السطح سوف تكون 9. حسنا؟ هذا هو 3 على 3، لذلك مساحة السطح سوف تكون 9.
+Yes.,multiple students,1,0,,,,-أجل، أجل
+"The eyes should be following me, Student B, as I walk around. So he added the surface area of all these sides to get the surface area of the entire rectangular prism.  [Inaudible.]  Okay everyone.  Everyone understand?  Okay.  Student J, tell me what Student K just did?",teacher,47,6,,,0.0,يجب أن تكون العيون تتبعني، الطالب ب، بينما أمشي حولها. لذا أضاف مساحة السطح من كل هذه الجانبين للحصول على مساحة السطح من الجانب المستطيل بأكمله. حسناً الجميع. الجميع فهم؟ حسناً. الطالب ج، أخبرني ماذا فعل الطالب ك للتو؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+Okay.  What’s 3 by 3?,teacher,5,0,,,0.0,حسناً، ما هو 3×3؟
+9.,student,1,0,,,,9
+What is 3 by 3 here?,teacher,6,0,,,0.0,ما هو 3 على 3 هنا؟
+"Oh, can I draw it? [Inaudible.]",student,6,0,,,,هل يمكنني رسمها؟
+"What is 3 by 3, though?  We know it’s 9.  We know the surface area of this side, the dimensions of this side is 3 by 3, which is the same as this side.  These two sides are the same dimensions.  So Student K, what are the dimensions of these two sides?",teacher,52,5,0.0,,0.0,ما هو 3×3؟ نحن نعلم أنه 9؟ نحن نعلم مساحة سطح هذا الجانب، أبعاد هذا الجانب هو 3×3، وهو نفس هذا الجانب. هذين الجانبين هما نفس الأبعاد.
+3 and 4.,student,3,0,,,,ثلاثة و أربعة
+3 by 4.  So the top and the bottom have the same dimensions. What are the dimensions of the top and bottom?,teacher,22,2,,,0.0,3×4 إذاً العلوي والأسفل لديهم نفس الأبعاد ما هي أبعاد العلوي والأسفل؟
+3 by 4.,student,3,0,,,,ثلاثة على أربعة
+"3 by 4 as well.  So, Student I, the surface area of the prism [inaudible].  Once you find the area of this surface, how do you find this area of [inaudible]?  Multiply it by what?",teacher,35,6,,,0.0,إذاً، الطالب الأول، مساحة السطح [غير قابل للسمع]. بمجرد العثور على مساحة هذه السطح، كيف تجد هذه المساحة من [غير قابل للسمع]؟ ضربها بماذا؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+Why would you multiply the surface area –?,teacher,8,3,,,1.0,لماذا تضاعف مساحة السطح؟
+"No, no [inaudible].",student,3,0,,,,لا، لا [غير مسموع].
+The 6?  By what?,teacher,4,0,,,0.0,من خلال ماذا؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+Okay.  Oh.  Why did you say “oh”?,teacher,7,0,,,1.0,"حسناً، لماذا قلت ""أوه""؟"
+I said no.,student,3,0,,,,قلت لا
+No.  Okay.  Tell me why it’s no.,teacher,7,0,,,0.0,لا، حسناً، أخبرني لماذا لا
+[Inaudible] 12.  Multiply this one times by 4 and this one is 9 and [inaudible].,student,15,1,,0.0,,[لا يمكن سماعها] 12. مضاعفة هذا مرة واحدة ب 4 وهذا واحد هو 9 و [لا يمكن سماعها].
+"[Inaudible.]  And now, so everyone can hear.  You know what, Student B?  I’m going to be calling your mother.  Thank you.  Yes.",teacher,22,0,1.0,,0.0,والآن، لكي يسمع الجميع، أتعلمين ماذا، الطالب ب؟ سأتصل بأمك. شكراً لكِ. نعم.
+"First you multiply, on the side, multiply the 12 by 4, and –?",student,13,2,,0.0,,أولاً تضرب، على الجانب، تضرب 12 ب 4، و ؟
+Why do you [inaudible]?,teacher,4,0,0.0,,1.0,لماذا أنت [غير مسموع]؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+3 by 3.,teacher,3,0,,,0.0,ثلاثة بثلاثة
+No.  3 times 3 equals 9 [inaudible].,student,7,0,,,,رقم 3 × 3 يساوي 9
+Because?,teacher,1,0,0.0,,0.0,-لماذا؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+"Okay.  Everyone listen.  You will work in pairs, everyone, to find the surface area of these two rectangular prisms.  Do them in your journal. You’re going to do them in your journal, everyone.  Everyone has one?",teacher,36,4,,,0.0,حسناً، اسمعوا جميعاً، ستعملون في أزواج، جميعكم، للعثور على مساحة سطح هذين الزجاجين المستطيلين. قموا بذلك في مذكراتكم. ستقومون بذلك في مذكراتكم، جميعكم. الجميع لديه واحدة؟
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+"Everyone, you have 17 minutes to solve [inaudible].",teacher,8,0,,,0.0,الجميع، لديك 17 دقيقة لحل [غير مسموع].
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+"[Inaudible] sitting next to you or [inaudible]. What’s going on, Student J?  What’s going on Student K? Student K?  What’s going on?",teacher,22,0,,,0.0,[لا يسمع] الجلوس بجانبك أو [لا يسمع]. ما الذي يحدث، الطالب J؟ ما الذي يحدث الطالب K؟ الطالب K؟ ما الذي يحدث؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+"Remember, you have 15 minutes.  Please sit down.  [Inaudible.] [Inaudible.]  The whole thing.  You know what?  I’m [inaudible] okay?",teacher,19,1,,,0.0,تذكروا، لديكم 15 دقيقة، رجاءً اجلسوا. [غير قابل للسمع] [غير قابل للسمع] [غير قابل للسمع] كل شيء.
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+So let’s see.  Keep working together.,teacher,6,0,,,0.0,لذا دعونا نرى، استمر بالعمل معاً.
+3 times 7.  3 times 7.,student,6,0,,,,3 × 7 3 × 7
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+"Why aren’t you working?  You were working together. [Inaudible.] [Inaudible.]  You know what?  I am very proud of [inaudible]. And Student J’s group is really trying to work well together.  Student A, I don’t know about your group, in the back.  I don’t know about your group.  Okay? What do you mean?  [Inaudible.]",teacher,53,0,,,1.0,لماذا لا تعملون؟ كنتم تعملون معًا. [لا تسمعون] [لا تسمعون] [لا تسمعون] [لا تسمعون] [لا تسمعون] [لا تسمعون] [لا تسمعون] [لا تسمعون] [لا تسمعون] [لا تسمعون]
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+That’s how you guys [inaudible].  Why is [inaudible].  Why is that? [Inaudible.]  Wait a minute.  We have to find the area of [inaudible].,teacher,23,1,,,0.0,هكذا أنتم يا رفاق. لماذا هو غير مسموع؟ لماذا هو؟ [غير مسموع] انتظر لحظة. علينا العثور على منطقة [غير مسموع].
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+"Uh, Miss K, you’re not focused right now.  You should be working together with Student J, instead of talking to Student B.  You shouldn’t [inaudible].  Find the area.",teacher,28,1,,,0.0,آنسة (كاي) ، أنتِ لستِ مركزة الآن، يجب أن تعملين مع الطالب (ج) بدلاً من التحدث إلى الطالب (بي)
+18 to [inaudible].,student,3,0,,,,18 إلى [غير مسموع].
+"No, no.  Right now.  [Inaudible.]",teacher,5,0,,,0.0,لا، لا، الآن
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+I think I’ve got something.,student,5,0,,,,أعتقد أنني وجدت شيئاً
+[Inaudible.]   What’s going on over there?,teacher,6,0,0.0,,1.0,ما الذي يجري هناك؟
+8 times 7 is 56.  [Inaudible.],student,6,0,,,,ثمانية × سبعة = 56
+[Inaudible] area of this prism?,teacher,5,2,1.0,,0.0,منطقة من هذه الصورة؟
+[Inaudible] told me the wrong thing.  I just came here.,student,10,0,,0.0,,(لا يسمع) أخبرني بشيء خاطئ.
+"[Inaudible.]  What do you have, Student J?  Are you working as a group?",teacher,13,0,1.0,,0.0,ماذا لديك، الطالب جي؟ هل تعملين كمجموعة؟
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+This is a rectangular.,student,4,1,,,,هذا مستطيل.
+[Inaudible.],teacher,1,0,,,0.0,[غير مسموع.]
+These two are [inaudible].,student,4,0,,,,هذان الاثنان لا يمكن سماعهما
+"Are you finding the volume of the prism?  Are you finding the [inaudible] same situation [inaudible] everybody? Okay?  So what are the top and the bottom? What are the dimensions that we are talking about here?  The dimensions.  By what? The top and the bottom [inaudible].  So if we know these dimensions, we can find the area of the top and bottom, correct?",teacher,63,6,,,0.0,هل تجد حجم الصورة؟ هل تجد نفس الموقف؟ حسناً؟ ما هي الجزء العلوي والأسفل؟ ما هي الأبعاد التي نتحدث عنها هنا؟ الأبعاد؟ بماذا؟ الجزء العلوي والأسفل؟ إذاً إذا عرفنا هذه الأبعاد، يمكننا العثور على مساحة الجزء العلوي والأسفل، صحيح؟
+Yes.,student,1,0,,,,-أجل، أجل
+"So let’s do that.  Find the dimensions of [inaudible] area of the top and the bottom.  And remember, I want to see your work.  I want to see an equation and your work. [Inaudible.] [Inaudible.]  I don’t see [inaudible].",teacher,39,3,,,0.0,دعونا نفعل ذلك. ابحث عن أبعاد مساحة [غير مسموعة] من الأعلى والأسفل. وتذكر، أريد أن أرى عملك. أريد أن أرى معادلة وعملك. [غير مسموعة.] [غير مسموعة.] أنا لا أرى [غير مسموعة].
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+Where is the 3 coming from?,teacher,6,0,,,0.0,من أين تأتي الثلاثة؟
+So this one is 8 by 6.,student,7,0,,,,لذلك هذا واحد هو 8 × 6.
+[Inaudible.],teacher,1,0,0.0,,0.0,[غير مسموع.]
+Is this cube [inaudible]? [Inaudible] area?  I already got it.,student,10,2,,0.0,,هل هذه المكعبة منطقة غير مسموعة؟
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+[Inaudible.]  Are you talking about [inaudible]?,teacher,6,0,,,0.0,هل تتحدث عن (الجهاز غير السمعي) ؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+What are the dimensions of the [inaudible]?,teacher,7,1,,,0.0,ما هي أبعاد [الجهاز غير السمعي]؟
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+[Inaudible.]  Okay everyone.  Are you finished?,teacher,6,0,,,0.0,حسناً الجميع، هل انتهيتم؟
+Yes.,multiple students,1,0,,,,-أجل، أجل
+[Inaudible] first one.,student,3,0,,,,أول واحد.
+[Inaudible.],teacher,1,0,,,0.0,[غير مسموع.]
+We didn’t see [inaudible].,student,4,0,,,,لم نرى [غير مسموع].
+Okay. [Inaudible.]  Okay everyone.  Listen.,teacher,5,0,,,0.0,حسناً، حسناً، اسمعوا جميعاً
+[Inaudible.],multiple students,1,0,,,,[غير مسموع.]
+"Everyone listen.  I’m waiting for Student D and Student I to pay attention.  [Inaudible.] Okay.  We’re working on the first prism.  So what are the dimensions of the first prism, Student K?",teacher,32,3,,,0.0,حسناً، نحن نعمل على الصورة الأولى، ما هي أبعاد الصورة الأولى، أيها الطالب ك؟
+[Inaudible.],student,1,0,,,,[غير مسموع.]
+Okay.  The first prism is 3 centimeters.,teacher,7,2,,,0.0,حسناً، العرض الأول 3 سنتيمترات
+I don’t get this. [Inaudible.],student,5,0,,,,لا أفهم هذا
+"By what?  By 7.  Student W needs to pay attention.  That means you turn around and you’re looking at Miss [inaudible], okay?  7 centimeters –",teacher,25,1,1.0,,0.0,من خلال ماذا؟ من قبل 7. الطالب W يجب أن تولي اهتماما. وهذا يعني أنك تلتفت وتشاهد الآنسة [غير مسموعة، حسنا؟ 7 سنتيمتر 
+By 8 centimeters. No. Yes.,student,5,1,,,,بثمانية سنتيمترات لا نعم
+"We are working on the first prism.  I need Student D’s attention, Student B’s attention.  Student B, at this time I would like you to go back to your seat.  At this time, Student I, I’d like you to move to Student D’s seat, because I need everyone to pay attention and focus. Okay.  We have at least, hopefully, three to four more minutes to go. Student J, what is the surface area of the [quad] of your prism?",teacher,79,4,0.0,,0.0,نحن نعمل على الجانب الأول. أنا بحاجة إلى انتباه الطالب D، انتباه الطالب B. الطالب B، في هذا الوقت أود منك أن تعود إلى مقعدك. في هذا الوقت، الطالب I، أود منك أن تنتقل إلى مقعد الطالب D، لأنني أحتاج إلى الجميع للإنتباه والتركيز. حسنا. لدينا على الأقل، على أمل، ثلاثة إلى أربعة دقائق أخرى للذهاب. الطالب J، ما هو مساحة سطح [الربع] من الجانب الخاص بك؟
+[Inaudible.]  The surface area –,student,5,2,,,,مساحة السطح 
+"The area.  [Inaudible.]  3 by 7, right?  So we have 3 centimeters by 7 centimeters.  That’s the quad, correct?",teacher,19,3,1.0,,0.0,المساحة. [لا يمكن سماعها] 3×7، صحيح؟ إذن لدينا 3 سنتيمترات على 7 سنتيمترات. هذا هو الرباع، صحيح؟
+Yes.,multiple students,1,0,,,,-أجل، أجل
+"And then – you need to pay attention – 3 by 8, 3 by 8.  Okay. That equals to 24 what?",teacher,21,0,,,0.0,"و بعد ذلك  تحتاج إلى الانتباه  3 × 8, 3 × 8. حسنا. هذا يساوي 24 ماذا؟"
+Centimeters.,multiple students,1,1,,,,سنتيمترات
+[Inaudible] area.,teacher,2,1,,,0.0,منطقة لا يمكن سماعها
+"[Inaudible.] Somebody’s at the door, Miss R.  It’s a little kid. [Inaudible.]  How do you know it’s not 7?",student,19,0,,0.0,,شخص ما عند الباب، آنسة (ر) إنه طفل صغير كيف تعرف أنه ليس السابعة؟
+What about the side?  What are the dimensions of the side of the first [inaudible].,teacher,15,1,1.0,,0.0,ماذا عن الجانب؟ ما هي أبعاد الجانب الأول [غير مسموع].
+[Inaudible.] 8 by –,student,4,0,,,,[لا يمكن سماعها] 8 من 
+8 by what?,teacher,3,0,,,0.0,ثمانية بماذا؟
+8 by 7.,student,3,0,,,,ثمانية بسبعة
+8 by 7.  It’s 7 centimeters by 8 centimeters.  Okay? And what is the surface area?,teacher,16,4,,,0.0,إنها 7 سنتيمترات على 8 سنتيمترات حسناً؟ و ما مساحة السطح؟
+56.,student,1,0,,,,56
+Student I?,teacher,2,0,,,0.0,الطالب الأول؟
+It’s 56.,student,2,0,,,,إنها 56.
+56.,teacher,1,0,,,0.0,56
+56 square centimeters.,student,3,2,,,,56 سنتيمتر مربع.
+"Okay.  The next – we’ve done the top and the bottom.  Student D, the top and the bottom.  What are the dimensions?",teacher,22,1,,,0.0,حسناً، في المرحلة القادمة قمنا بعمل الأعلى والأسفل، الطالب (د) ، الأعلى والأسفل، ما هي الأبعاد؟
+8 times 7.,student,3,0,,,,ثمانية × سبعة
+"8 by 7 centimeters.  Okay.  The surface area of that is, Student K?",teacher,13,3,,,0.0,مساحة السطح من ذلك هو، الطالب ك؟
+21 square centimeters.,student,3,2,,,,21 سنتيمتر مربع.
+"21 square centimeters?  Student D, are you paying attention, Student D?  You’re not focused.  What is my next step, Student B?",teacher,21,2,,,0.0,21 سنتيمتر مربع؟ الطالب (د) ، هل انتبه، الطالب (د) ؟ أنت غير مركز. ما هي خطوتي التالية، الطالب (ب) ؟
+Then you add them up.,student,5,1,,,,ثم تضيفهم
+"Okay.  Now we are going to find the sum of all the surface areas, so that equals to –?  4 plus 4 is?",teacher,23,3,0.0,,0.0,حسناً، الآن سوف نجد مجموع جميع المساحات السطحية، لذلك هذا يساوي ؟ 4 زائد 4 هو؟
+[Inaudible] 14.,student,2,0,,,,[غير مسموع] 14.
+Correct.,teacher,1,0,,,0.0,-صحيح .
+"20, 22.",student,2,0,,,,20، 22.
+Okay.  Wait for my directions everyone.,teacher,6,0,,,0.0,حسناً، انتظروا تعليماتي جميعاً

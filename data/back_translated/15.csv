@@ -1,0 +1,422 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions,text_arabic,text_back_translated
+"Good morning, everyone.",teacher,3,0,,,0.0,صباح الخير، الجميع.,Good morning to everyone.
+"Good morning, Mr. G.",student,4,0,,,,صباح الخير، سيد جي.,"Good morning, Mr. J."
+"Remember, I want a few people, excuse me, a few people, a few assistants, and I know I have Student R.  Yes, good job. Yes.  Now, yesterday morning we were – let me wait for Student R – Student R, yes. Student R.  Nice.  And we don’t have Student N’s attention.  That’s good, very good, Student N.  And Student R.  And Student R. And Student K, you don’t need that Student K.  Student K, you don’t need that.  Student K, I need your attention. Yes, Student M?",teacher,87,0,,,0.0,تذكر، أريد بعض الأشخاص، عذراً لي، بعض الأشخاص، بعض المساعدين، وأعرف أن لدي طالب ر. نعم، عمل جيد. نعم. نعم. الآن، صباح أمس، دعوني أنتظر طالب ر  طالب ر، نعم. طالب ر. لطيف. ونحن لا نملك اهتمام الطالب. هذا جيد، جيد جداً، الطالب ن. و الطالب ر. و الطالب ر. و الطالب ك، أنت لا تحتاج إلى ذلك الطالب ك. الطالب ك، أنت لا تحتاج إلى ذلك. الطالب ك، أنا بحاجة إلى اهتمامك. نعم، الطالب م؟,"Remember, I need some people, excuse me, some people, some helpers, and I know that I have student R. Yes, good work. Yes. Yes. Yes. Now, yesterday morning, let me wait for student R. Student R, yes. Student R. Nice. And we don't have student interest. That's good, very good, student N. and student R. and student R. and student K, you don't need that student K. Student K, you don't need that. Student K, I need your attention."
+I need to get something from [inaudible].,student,7,0,,,,أنا بحاجة للحصول على شيء من [غير مسموع].,I need to get something from [unheard of].
+"Now listen, remember we were building our tower, and we did quite, quite a bit with that multiple tower, building it up.  And we have a few people that did it here, we have a few people that did it.  The other people did it over there, and we have it out there. And now we’re going to do a little bit extra, extra math.  And you should be able to do – after you build your tower, Student K, after you build your tower, you should be able to write and predict.  So after you predict, you write the multiplication.  You write the multiple.  You write the multiple of 10.",teacher,111,4,0.0,,0.0,الآن اسمع، تذكر أننا كنا نبني برجنا، ونحن فعلنا القليل جدا مع هذا البرج المتعدد، بناؤه. ونحن لدينا عدد قليل من الناس الذين فعلوا ذلك هنا، لدينا عدد قليل من الناس الذين فعلوا ذلك. الناس الآخرين فعلوا ذلك هناك، ونحن لدينا ذلك هناك. والآن سوف نقوم بفعل قليلا إضافية، الرياضيات الإضافية. ويجب أن تكون قادرة على القيام ب بعد أن تبني برجك، الطالب K، بعد أن تبني برجك، يجب أن تكون قادرة على كتابة وتنبؤ.,"Now, look, remember that we were building our tower, and we did very little with this multi-tower, building it. And we have a few people who did it here, we have a few people who did it there. Other people did it there, and we have it there. Now we're going to do a little extra, extra math. And you should be able to do B after you build your tower, student K, after you build your tower, you should be able to write and write."
+Then you write the equation.,student,5,1,,,,ثم تكتب المعادلة.,Then write the equation.
+"Okay, then you write the equation.  With the prior knowledge that we built the tower in, remember the 10 multiple, the 5th multiple, and different stage of the multiple.  So two building, building, build two-digit multiple tower.  Now we’re moving on from the single multiple tower, like we did 3…",teacher,50,7,1.0,,0.0,حسنا، ثم تكتب المعادلة. مع المعرفة السابقة التي بنيت البرج في، تذكر العشرة المتعددة، والعشرة المتعددة، والمرحلة المختلفة من المتعددة. لذلك بناء اثنين، بناء، بناء برج متعدد الأرقام. الآن نحن نتحرك من البرج المتعدد واحد، كما فعلنا 3...,"Well, then you write the equation. with previous knowledge of where the tower was built, remember the polynomial ten, the polynomial ten, and the different stage of the polynomial. so build two, build, build a polynomial tower. now we move from the polynomial tower, as we did 3..."
+4.,student,1,0,,,,4 .,4 .
+We count by…,teacher,3,0,,,0.0,نحن نحسب من خلال...,We calculate through...
+We did 60.,student,3,0,,,,لقد فعلنا 60,We've made it to 60.
+"Wait a minute, hold on.  Three…",teacher,6,0,,,0.0,انتظر لحظة، انتظر,"Wait a minute, wait a minute."
+30.,student,1,0,,,,ثلاثون,thirty-three.
+"No, 3, 6, 9, 12.  We’re counting by three. We’re skip counting by three.  3…",teacher,15,0,,,0.0,لا، ثلاثة، ستة، ستة، ستة، إثنان، سنعد إلى ثلاثة، سنغادر العد إلى ثلاثة، ثلاثة...,"No, three, six, six, six, two, we'll count to three, we'll count to three, three..."
+"6, 9, 12, 15.",multiple students,4,0,,,,6، 9، 12، 15,"6, 9, 12, 15"
+You all aren’t paying attention.,teacher,5,0,,,0.0,أنتم جميعاً لا تهتمون,All of you don't care.
+"18, 18, 18, 181 21. 24. 27.",student,7,0,,,,18، 18، 18، 181 21، 24. 27.,"18, 18, 18, 181 21, 24. 27."
+27.,teacher,1,0,1.0,,0.0,27.,27. 27.
+30. 33.,student,2,0,,,,٣٠ ٣٣,30 33
+"33, right.  That way we build to the 10th digit.  Let’s start again.  If we add our 10th, then it becomes what? 30… Right? Pay attention.  Hold on.   Hold on, Student K.  30.  Look, look, wait for your turn.  Look at me.",teacher,42,2,,,0.0,33، صحيح، بهذه الطريقة سنبني على الرقم العاشر، دعونا نبدأ من جديد، إذا أضفنا الرقم العاشر، ثم يصبح ماذا؟ 30... صحيح؟ انتبه. انتظر. انتظر. انتظر، الطالب K. 30. انظر، انظر، انتظر دورك. انظر إلي.,"33, right, this way we're going to build on the number ten, let's start over, if we add the number ten, then it becomes what? 30... right? attention. wait. wait. wait. wait. wait, student K. 30. look, look, wait your turn. look at me."
+30. 60. 90. 120.,student,4,0,,,,30، 60، 90، 120,"30, 60, 90, 120"
+Good job.,teacher,2,0,,,0.0,عمل جيد,Good practice is good practice.
+150.,student,1,0,,,,150.,150.
+150.,teacher,1,0,,,0.0,150.,150.
+180.,student,1,0,,,,180.,180.
+180.  So is that 6? Is that 6?,teacher,8,0,,,1.0,هل هذا 6؟,Is that 6?
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"6, that’s it.  And then, let’s continue.",teacher,7,0,,,0.0,ستة، هذا هو. وبعد ذلك، دعونا نستمر.,"Six, that's it, and after that, let's go on."
+110.,student,1,0,,,,110.,110.
+No!,multiple students,1,0,,,,لا، لا!,"No, no, no!"
+"No, no, wait a minute, we’re counting by 30, right?",teacher,10,0,,,0.0,لا، لا، انتظر لحظة، نحن نحسب إلى 30، أليس كذلك؟,"No, no, wait a minute, we're counting to 30, right?"
+"180, 210? 230.",student,3,0,,,,180، 210؟ 230,"180, 210? 230 180?"
+"210, 40, 24…",teacher,3,0,,,0.0,210، 40، 24...,"210, 40, 24..."
+270. And then 300.,student,4,0,,,,و بعد ذلك 300,And then 300.
+"Now, this is the kind of [inaudible] revision, and remember we use these to kind of make it even more effective.  Student K, Student K, Student K.  Yes.   That could be a tower too, because we use all these.  But yesterday the best that I learned about you is when we were doing this tower using only two digits, only two digits – she was [inaudible] – only two digits and I find out there are some people – and you know these are going to go up there – I find out there are some people that did an even better wonderful job.  And they keep on asking how many other ways.  And they did other ways.  They use other ways. And now we kind of do other.  Now, I looked at this one and I see that person.  That’s what we’re going to continue working on this morning, right?  I take this person, that’s Student V’s, and we remember what we had is that person built a tower up to 16 and his biggest number was what?",teacher,179,3,,,0.0,الآن، هذا هو النوع من مراجعة، وتذكر أننا نستخدم هذه لجعلها أكثر فعالية نوعا ما. الطالب ك، الطالب ك، الطالب ك. نعم. يمكن أن يكون ذلك برج أيضا، لأننا نستخدم كل هذا. ولكن بالأمس أفضل ما تعلمته عنك هو عندما كنا نعمل هذا البرج باستخدام رقمين فقط، رقمين فقط  كانت [غير مسمعة]  رقمين فقط وأكتشفت أن هناك بعض الناس  وتعلمون أن هذه ستصعد هناك  أكتشفت أن هناك بعض الناس الذين قاموا بعمل أفضل من ذلك بكثير. ويواصلون على سؤال عدة طرق أخرى.,"Now, this is the kind of review, and remember that we use this to make it somewhat more effective. Student K, student K, student K. Yes. It can also be a tower, because we use all this. But yesterday the best thing I learned about you is that when we were making this tower using only two numbers, only two numbers were only two numbers and I discovered that there are some people out there and you know these will go up there and I discovered that there are some people who have done much better than that."
+44.,student,1,0,,,,44,44 44 44
+"44.  And he worked -- that wasn’t a he, that’s a she -- she worked up to different, right?  She did it by to build a tower we said that the best way you could help yourself is really getting it by layers and dividing it into – oh, I see division – dividing it into groups.  Groups. You could divide it into 5 groups.  You could divide your tower into tenth group, and you could divide your tower into fourth. See? Because we are doing it for 16th, and that person decide to do it in 1, 2, 3…",teacher,100,5,,,0.0,44 و عمل - هذا لم يكن هو ، هذا هو هي - عملت إلى مختلفة ، أليس كذلك؟ لقد فعلت ذلك من خلال بناء برج قالنا أن أفضل طريقة يمكن أن تساعد نفسك هي حقا الحصول عليها في طبقات وتقسيمها إلى  أوه ، أرى التقسيم  تقسيمها إلى مجموعات. مجموعات. يمكنك تقسيمها إلى 5 مجموعات. يمكنك تقسيم برجك إلى مجموعة عشرة ، ويمكنك تقسيم برجك إلى رابع. انظر؟ لأننا نقوم بذلك في 16 ، وهذا الشخص يقرر القيام بذلك في 1 ، 2 ، 3 ...,"I did it by building a tower and we said that the best way to help yourself is to really get them into layers and divide them into oh, I see the division into groups. groups. you can divide them into 5 groups. you can divide your tower into a group of ten, and you can divide your tower into a fourth. see? because we do it in 16, and this person decides to do it in 1, 2, 3 ..."
+Ooooh!,student,1,0,,,,-أوه!,"-Oh, my God!"
+"Yeah, and I’m glad you realize.  You didn't even recognize. Then what she did even, an extra one, she wrote…",teacher,20,0,,,0.0,نعم، وأنا سعيدة أنكِ أدركتِ أنكِ لم تدركِ حتى، ثم ما فعلته حتى، واحدة إضافية، كتبت...,"Yes, and I'm glad you realized that you didn't even realize, then what you did even, one more, I wrote..."
+The equation.,student,2,1,,,,المعادلة,Equation  equation 
+"The equation.  Except you didn't put the equation, but I could see you write the equation, this is good.  Now what are we going to do, another person, Student N, hold on for me, thank you.  Another person.  Hold this and check to see what she did.  And another person, that was Student M. Student M did the same thing as this.  She wrote her – and her number was 55, the base number. And she kind of used the value of skip counting by 5 and built on it. But she did the same thing.  She wrote down the 4th multiple, the 5th multiple, the 12th multiple, and the 16th multiple, and the 20th multiple.  And I think those people have a very good base.  What we’re going to do this morning, we’re going to try to write how -- reverse.  What is the reverse of that multiple tower?",teacher,150,10,,,0.0,المعادلة. ما عدا أنك لم تضع المعادلة، ولكنني رأيتك تكتب المعادلة، هذا جيد. الآن ما الذي سنفعله، شخص آخر، الطالب N، انتظر لي، شكراً. شخص آخر. أمسك هذا وتحقق من ماذا فعلت. شخص آخر، كان الطالب M. الطالب M فعل الشيء نفسه. كتبت لها  والرقم لها كان 55، الرقم الأساسي. واستخدمت نوعاً ما قيمة تخطي العد بنسبة 5 وبناء عليها. لكنها فعلت الشيء نفسه. كتبت المضاعفة الرابعة، المضاعفة الخامسة، المضاعفة الثانية عشرة، والمضاعفة السادسة عشرة، والمضاعفة العشرين. وأعتقد أن هؤلاء الناس لديهم قاعدة جيدة جداً.,"Now what we're going to do, another person, student N, wait for me, thank you. Another person. Grab this and check what you did. Another person, student M. Student M did the same thing. I wrote to her and her number was 55, the base number. And I kind of used a value that goes beyond the 5 and based on it. But she did the same thing."
+Division.,student,1,1,,,,القسم,I swear by it.
+"Division.  So we’re going to try to use this to make the reverse, look.  Because I’m going to help people finish their multiple tower, then from there we’re going to kind of come back and kind of write the division. Another person that did a wonderful job, look. What do you think she did?",teacher,54,3,,,1.0,التقسيم. لذلك سوف نحاول استخدام هذا للقيام بالعكس، انظر. لأنني سوف أساعد الناس على إنهاء برجهم المتعدد، ثم من هناك سوف نعود نوعا ما ونكتب نوعا ما التقسيم. شخص آخر قام بعمل رائع، انظر. ماذا تعتقد أنها فعلت؟,"So we're going to try to use this to do the opposite, see, because I'm going to help people finish their multipurpose tower, and then from there we're going to sort of come back and write a sort of division."
+Oh!,student,1,0,,,,-أوه,"-Oh, my gosh."
+"Student K, what do you think she did?",teacher,8,0,,,1.0,الطالب كيه، ماذا تعتقد أنها فعلت؟,"Student K, what do you think she did?"
+She built the tower and gave the equation and plussed it.,student,11,1,,0.0,,لقد بنيت البرج وأعطت المعادلة وأضافها,I built the tower and gave the equation and added it.
+How? So multiple tower is like plussing and plus and plus?,teacher,11,1,1.0,,0.0,كيف؟ إذاً البرج المتعدد هو مثل إضافة زائد زائد زائد؟,So the multipurpose tower is like adding plus plus plus plus?
+No.,student,1,0,,,,-كلا .,"- No , not at all ."
+What is multiple tower? Okay.,teacher,5,1,,,0.0,ما هو البرج المتعدد؟,What is a multipurpose tower?
+Skip counting…,student,2,0,,,,تفوت العد...,Missed the count...
+"No, it’s not you, Student S, it’s not you.  She needs to tell me what did she see.  What can you learn from …",teacher,24,0,,,1.0,لا، ليس أنت، الطالب (س) ، ليس أنت، يجب أن تخبرني بما رأت، ماذا يمكنك أن تتعلم من...,"No, not you, student (s), not you, you have to tell me what she saw, what can you learn from..."
+She put it by the stairs [inaudible].,student,7,0,,,,وضعتها عند الدرج,I put it on the stairs.
+"Because we call it tower and she said she built it by étage. Etage means we build on the tower and a different layer or different level, and she even named.  But she write the equation next to it.  That’s what I’m going to ask you to do.  Write the equation for each of them.  That’s another way.  You could do it that way too.",teacher,65,2,1.0,,0.0,"لأننا نسميها البرج وقالت إنها بنتها بالمرحلة. ""مرحلة"" تعني أننا نبني على البرج وطبقة مختلفة أو مستوى مختلف، وأنها حتى سميت. لكنها تكتب المعادلة بجوارها. هذا ما سأطلب منك فعله. اكتب المعادلة لكل منهما. هذه طريقة أخرى. يمكنك القيام بذلك بهذه الطريقة أيضا.","Because we call it the tower and she said it was her building with the stage. ""stage"" means that we build on the tower and a different layer or level, and it's even named. but she writes the equation next to it. that's what I'm going to ask you to do. write the equation for each of them. that's another way. you can do it this way too."
+I was trying to do like how many…how many…,student,9,0,,0.0,,كنت أحاول أن أفعل كم... كم...,I was trying to do how much... how much...
+Times?,teacher,1,0,0.0,,0.0,(تايمز) ؟,(Times) ?
+"No, how many 12s or…",student,5,0,,,,لا، كم عدد 12 أو...,"No, how many numbers are 12 or..."
+That’s good too.  How many 12s in – in what? It was 12? Your base number was 12?,teacher,18,0,1.0,,0.0,هذا جيد أيضاً. كم عدد 12 في  في ماذا؟ كان 12؟ كان رقم أساسك 12؟,What is the number 12 in what? was it 12? was your base number 12?
+How many 12s is in 268.,student,6,0,,,,كم عدد الـ 12 في 268,The number 12 in 268 km
+"Good job.   How many 12s?  I could tell you really have your division.  Yeah, because the question you ask, how many 12s is in…",teacher,24,1,1.0,,0.0,أجل، لأن السؤال الذي تسأله هو، كم عدد الـ 12 في...,"Yes, because the question you're asking is, how many numbers are 12 in..."
+268.,multiple students,1,0,,,,268,268 268
+"That’s the thing this morning we’re going to find out.  All right? Another person, look, look.  Excuse me.  We are just revising people who really did a wonderful job.  Yes, Student M.",teacher,32,0,,,0.0,هذا ما سنكتشفه هذا الصباح شخص آخر، اسمع، اسمع، عذراً، نحن نراجع فقط أشخاص قاموا بعمل رائع حقاً,"That's what we're going to find out this morning someone else, listen, listen, listen, excuse me, we're just going back to people who did a really great job."
+"I think that the way that I did it, I do it by four.",student,14,0,,0.0,,أعتقد أن الطريقة التي فعلتها، أنا أفعل ذلك في أربعة.,"I guess the way I did it, I do it in four."
+You did it by four.  And I encourage people to do it by groups.,teacher,14,0,1.0,,0.0,لقد فعلتها في الرابعة وأشجع الناس على القيام بذلك في مجموعات,I did it at four and I encourage people to do it in groups.
+"Four is a factor. 16 divided by four [inaudible]. And four is a factor of 8, and 8 is a factor of 16.",student,23,1,,0.0,,أربعة هو عامل. 16 مقسمة على أربعة. و أربعة هو عامل من 8 و 8 هو عامل من 16.,Four is a factor. 16 divided by four. and four is a factor of 8 and 8 is a factor of 16.
+"Good job.   Good job.  Now you really, really, you are learning.  You’re building.  You’re building a lot doing this unit. Now this is another person that kind of writes the equation, and that person has the equation right there and she writes …",teacher,43,3,0.0,,0.0,عمل جيد. عمل جيد. الآن أنت حقا، حقا، أنت تتعلم. أنت تبني. أنت تبني الكثير عن طريق القيام بهذه الوحدة. الآن هذا شخص آخر نوعا ما يكتب المعادلة، وهذا الشخص لديه المعادلة هناك وتكتب ...,"Now you're really, really, you're learning. You're building. You're building a lot by doing this unit. Now this other person sort of writes the equation, and this person has the equation there and writes ..."
+Student R.,student,2,0,,,,الطالب ر.,The student is the student.
+28 times equals.  Now do you think you are ready to build for 30? Can you predict?,teacher,17,0,,,0.0,28 ضرب يساوي الآن هل تعتقد أنك مستعد لبناء 30؟ هل يمكنك التنبؤ؟,Do you think you're ready to build 30? can you predict?
+32.,student,1,0,,,,32.,32. 32.
+Can you predict what your 32nd digit multiple would be? And that’s the thing we’re going to do this morning.,teacher,20,2,,,0.0,هل يمكنك التنبؤ بمعدل رقمك الثالث والثلاثين؟ وهذا ما سنفعله هذا الصباح.,Can you predict your rate at number 33? and that's what we're going to do this morning.
+This one is a 26 multiple tower.,student,7,1,,,,هذه هي برج متعدد 26,This is the 26 Multiple Tower.
+"That’s good.  So now I’m going to pass these back.  Excuse me, listen, you’re not listening. You are not listening.  Student K.  Yes.  Thank you.  Student N. Yes.  Now, you need to listen for direction.  You need to do another one from scratch.  You need to do another one from scratch.  I’ll let you do it, but it’s going to take time.  Because see, these people.  We’re kind of doing the second part of the lesson.  The second part is learning. First one you predict and you write the equation.  Next, then you build the tower, which is the second half of the 16th multiple of your number.  And then you do.  Now, how many people have question on what we’re going to do.  Yes?",teacher,125,2,0.0,,0.0,هذا جيد. لذلك الآن سوف أعيد هذه. اعذرني، اسمعني، أنت لا تستمع. أنت لا تستمع. الطالب ك. نعم. شكراً. الطالب ن. نعم. الآن، تحتاج إلى الاستماع للتوجيه. تحتاج إلى القيام بعمل آخر من الصفر. تحتاج إلى القيام بعمل آخر من الصفر. سأدعك تفعل ذلك، ولكن سيستغرق وقتاً. لأن انظروا، هؤلاء الناس. نحن نوعاً ما نقوم بالجزء الثاني من الدروس. الجزء الثاني هو التعلم. الأول أنت تنبأ وتكتب المعادلة. ثم، تبني البرج، وهو النصف الثاني من 16 ضربة من عددك. ثم تفعل. الآن، كم من الناس لديهم سؤال حول ما سنفعله. نعم؟,"Now, you need to listen to the instruction. You need to do another job from scratch. You need to do another job from scratch. I'll let you do that, but it will take time. Because look, these people. We kind of do the second part of the lessons. Part two is learning."
+Is it going to be the same as multiple towers?,student,10,1,,0.0,,هل ستكون نفسها مثل الأبراج المتعددة؟,Will it be the same as the towers?
+"It is multiple tower. You’re going to do… You did for the 16th, now you’re going to do for up to…",teacher,21,1,1.0,,0.0,إنّه برج متعدد، ستفعلين ذلك، ستفعلين ذلك في السادس عشر، والآن ستفعلين ذلك حتى...,"It's a multipurpose tower, you're going to do it, you're going to do it on the 16th, and now you're going to do it until..."
+32.,student,1,0,,,,32.,32. 32.
+"32nd multiple, yes.",teacher,3,1,,,0.0,32 ضرب، نعم.,"Twenty-two times, yes."
+Divide by 32nd multiple?,student,4,2,,,,تقسيم بـ 32 ضرباً؟,Divide by 32 times?
+"They’re not listening, they’re not listening.  You need to listen to her question.",teacher,13,0,,,0.0,إنهم لا يستمعون، إنهم لا يستمعون عليك أن تستمع إلى سؤاله,"They don't listen, they don't listen to you to listen to his question."
+After we’ll get it.,student,4,0,,,,بعد ذلك سنحصل عليه,Then we'll have it.
+"Yes, after.",teacher,2,0,,,0.0,نعم، بعد ذلك.,"Yes, after that."
+Should we divide the 2nd multiple or the… 32nd multiple.,student,10,3,,0.0,,هل يجب أن نقسم المضاعف الثاني أو المضاعف الثالث والثلاثين,Should we divide the second or the thirty-third?
+"I’m glad you asked that question.  Then I’m going to have people.  The same way you did your multiple equation, I’m going to have people kind of decide, what is the division equation, which is just like he said, how many, and then show the division side.  We’ll do one, all right? So, I need your attention. Student V, if you could move up for a minute.  Student V, are you okay?",teacher,72,5,1.0,,0.0,أنا سعيدة أنك طرحت هذا السؤال. ثم سأحصل على الناس. بنفس الطريقة التي قمت بها معادلة متعددة، سأحصل على الناس نوع من القرار، ما هي معادلة التقسيم، وهو بالضبط كما قال، كم عدد، ثم عرض جانب التقسيم. سنقوم بواحدة، حسنا؟ لذلك، أنا بحاجة إلى انتباهك. الطالب V، إذا كنت يمكن أن تتحرك لمدة دقيقة. الطالب V، هل أنت بخير؟,"I'm glad you asked this question. Then I'll get people. In the same way that I did multiple equations, I'll get people some kind of decision, what is the partition equation, which is exactly what he said, how many, then the width of the partition side. We're going to do one, okay? So, I need your attention. Student V, if you can move for a minute. Student V, are you okay?"
+I just think about an idea here.  You know the roller coaster?,student,12,0,,0.0,,أنا فقط أفكر في فكرة هنا هل تعرف الساحلة العابرة؟,I'm just thinking of an idea here.
+"Ride, roller coaster? Yeah.",teacher,4,0,1.0,,0.0,ركوب السيارات العابرة؟,Riding in passing cars?
+"[Speaking in French] build with multiple towers.  [French] fast, would be as slow.",student,13,1,,0.0,,[تحدث الفرنسية] بناء مع أبراج متعددة. [فرنسية] بسرعة، سيكون بطيء.,"[French] building with multiple towers. [French] Fast, it will be slow."
+"Wow, that’s physics.",teacher,3,0,1.0,,0.0,هذا هو الفيزياء,That's what physics is all about.
+"Yeah, that’s why we were taking the pencil and counting the second.",student,12,0,,0.0,,أجل، لهذا السبب كنا نأخذ القلم ونعد الثانية,"Yeah, that's why we used to take a pencil and count the second."
+"Wow, so you’re getting into the physical study, that’s a big science.  So we’ll kind of, we’ll probably get into that later.  Now listen carefully.  Student V, why I wanted you to be here is because I needed your help to tell me which is…",teacher,45,0,0.0,,0.0,حسناً، إذاً أنتِ تدخلين إلى دراسة الفيزياء، هذا علم كبير، لذا سندخل في ذلك نوعاً ما، على الأرجح سندخل في ذلك لاحقاً. الآن استمعي بعناية. الطالب الخامس، لماذا أردتُكِ أن تكوني هنا لأنني احتجتُ لمساعدتكِ لتخبريني ما هو...,"Okay, so you're going to study physics, which is a big science, so we're going to get into that sort of thing, probably later on. Now listen carefully."
+I can’t see anything from [inaudible].,student,6,0,,,,لا أستطيع رؤية أي شيء من [غير مسموع].,I can't see anything from [unheard of].
+"I need a few that can help me with the division, because I know some people are ready.   Sit down, sit down, sit down, sit, sit, sit.  Sit down, Student K, sit down.  Now quickly, and I have the rest for the other people.  The rest.  Before you move on to your seat and work on it.  Student K.  Could you give to Student K back there please.  Student R, Student R, what’s to do, he’s over.  Student R.  Student I. I have yours.",teacher,84,1,0.0,,0.0,أحتاج إلى عدد قليل من الأشخاص الذين يمكنهم مساعدتي في التقسيم، لأنني أعرف أن بعض الناس مستعدون. اجلس، اجلس، اجلس، اجلس، اجلس، اجلس. اجلس، اجلس، اجلس، اجلس، اجلس، اجلس، اجلس، اجلس، اجلس الآن بسرعة، ولدي الباقي للناس الآخرين. الباقي. قبل أن تنتقل إلى مقعدك وتعمل على ذلك. الطالب K. هل يمكن أن تعطى للطالب K هناك من فضلك. الطالب R، الطالب R، ما يجب القيام به، هو over. الطالب R. الطالب I. لدي لك.,"I need a few people who can help me with the split, because I know some people are ready. Sit, sit, sit, sit, sit, sit. Sit, sit, sit, sit, sit, sit, sit, sit, sit, sit, sit now quickly, and I have the rest for other people. The rest. Before you move to your seat and work on it. Student K. Can you give student K there, please. Student R, student R, ma"
+You said to fix this?,student,5,0,,,,قلت أن أصلح هذا؟,Did you say I should fix this?
+"No, no, we’ll see. Student J.  Hold on, hold on, we’ll ask you a few questions.  Student K, good job.  Student J, good job.  Student N, good job. Student J, good job.  And give that to Student L, please. Okay, Student K.  We need you back here, and Student R. Hold on, hold on.  Okay.  Now, before you go back to your seat, listen carefully.  I need your attention.  A quick, quick one.  Quick one.  I could see she’s showing it. Student V, I need your attention.  I need you to kind of show people the divisions.  Not the division [story], but a division equation.  And we could call it division.  I know a lot of you already know division is the…",teacher,122,6,1.0,,0.0,لا، لا، سنرى. الطالب J. انتظر، انتظر، سنطرح لك بعض الأسئلة. الطالب K، عمل جيد. الطالب J، عمل جيد. الطالب N، عمل جيد. الطالب J، عمل جيد. و أعط ذلك للطالب L، من فضلك. حسنا، الطالب K. نحتاجك هنا، والطالب R. انتظر، انتظر. حسنا. الآن، قبل أن تعود إلى مقعدك، الاستماع بعناية. أنا بحاجة إلى انتباهك. واحدة سريعة، سريعة. واحدة سريعة. أستطيع أن أرى أنها تظهر ذلك. الطالب V، أنا بحاجة إلى انتباهك. أريد منك أن تظهر للناس التقسيمات. ليس التقسيم [القصة] ، ولكن معادلة. ويمكننا أن نسميها التقسيم. وأنا أعلم أن الكثير منكم يعرف بالفعل التقسيم هو...,"No, no, we'll see. Student J. Wait, wait, we'll ask you some questions. Student K, good work. Student J, good work. Student N, good work. Student J, good work. And give it to student L, please."
+Opposite of multiplication.,student,3,1,,,,العكس من مضاعفة,The opposite of doubling is true.
+"Thank you.  Now, if you wrote your equation, your equation was…",teacher,11,2,,,0.0,الآن، إذا كتبت معادلتك، معادلتك كانت...,"Now, if I wrote your equation, your equation would be..."
+[Inaudible],student,1,0,,,,[غير مسموع],[Unheard of]
+"Student M, we need your attention for a minute.  One minute and then I’ll let you work.  Listen, listen, everyone.  I need you to look at what we are doing.  Student J.  Yes.",teacher,33,0,,,0.0,الطالب (إم) ، نحتاج إلى إنتباهك لدقيقة، دقيقة واحدة، ثم سأتركك تعمل، اسمعوا، اسمعوا جميعاً، أريدكم أن تنظروا إلى ما نفعله. الطالب (ج) نعم.,"Student (M), we need your attention for a minute, a minute, and then I'll let you work, listen, listen, all of you, I want you to look at what we're doing. Student (C) Yes."
+704.,student,1,0,,,,704,704  704
+704.,teacher,1,0,,,0.0,704,704  704
+Divided by 16.,student,3,1,,,,مقسومة على 16,Divided into 16
+"Divided by 16.  Now, how do you get to do this equation? What was your time? What was your multiple equation?",teacher,21,4,,,1.0,الآن، كيف يمكنك القيام بهذه المعادلة؟ ما هو وقتك؟ ما هو المعادلة المتعددة؟,"Now, how can you do this equation? What is your time? What is the multiple equation?"
+My multiple equation was 44 times 16.,student,7,2,,,,معادلتي المتعددة كانت 44 × 16.,My polynomial equation was 44 × 16.
+44.  Sorry.  I need your attention so you can help me.  44 times 16.,teacher,14,0,1.0,,0.0,المعذرة أحتاج انتباهك حتى تتمكن من مساعدتي,"I'm sorry, I need your attention so you can help me."
+Equals 704.,student,2,0,,,,يساوي 704.,is equal to 704.
+Equals 704. And remember we said when we’re doing our – and we call this factor… Some people are not paying attention.  Factor…,teacher,23,0,,,0.0,يساوي 704 وتذكر أننا قلنا عندما نقوم بعمل  و نسمي هذا العامل... بعض الناس لا ينتبهون.,It's equal to 704 and remember that when we do a task and call this factor... some people don't pay attention.
+Factor times factor equals product.,multiple students,5,1,,,,العوامل × العوامل = المنتج,Factors × factors = product
+"Product.  Now, for our division, what do we do?",teacher,9,2,1.0,,0.0,المنتج، الآن، بالنسبة لقسمنا، ماذا نفعل؟,"Product, now, for our department, what do we do?"
+"Mr. J., I know a way to do it, [inaudible] 16.",student,11,0,,0.0,,سيد جي، أنا أعرف طريقة للقيام بذلك، [غير مسموع] 16.,"Mr. J, I know a way to do this, [unheard of] 16."
+"Yes, but this is our…  I’ll come to you for a minute.  Then we did the factor …",teacher,18,0,0.0,,0.0,أجل، لكن هذا هو... سأأتي إليك لدقيقة، ثم فعلنا العامل...,"Yeah, but that's it... I'll come to you for a minute, and then we do the worker thing..."
+You mean the product.,student,4,1,,,,تعني المنتج,Means the product
+"We did the product, I’m sorry, product for our division.  And then we look for how many, look up here, how many, how many, this is how many…",teacher,28,3,,,0.0,لقد صنعنا المنتج، أنا آسف، المنتج لقسمنا ثم نبحث عن عدد، نبحث هنا، كم عدد، كم عدد، هذا عدد...,"We made the product, I'm sorry, the product of our division and then we look for a number, we look here, how many, how many, how many, this number..."
+Groups.,student,1,0,,,,المجموعات.,The groups.
+"How many groups of 16.  Thank you very much.  How many groups. Now we’re going to build it into how many groups of 32? This is our prediction.  We did for 16, now the next one would be 32.   We don’t need to tell, yes, because people have different numbers, and I want people to kind of work it up.  Build the tower up to, not to 16 now, but to 32. But you can predict.  How could you predict that? See, Student R is not really paying attention.  I don’t think he’ll be able to do a good job.  Student R.  Could you help us.  How could you predict.  If I know for 16…",teacher,115,0,,,1.0,كم عدد المجموعات من 16؟ شكراً جزيلاً لكم. كم عدد المجموعات. الآن سنقوم بإنشائها إلى عدد المجموعات من 32؟ هذا هو التنبؤ لدينا. فعلنا لـ 16، والآن المجموعة التالية ستكون 32. نحن لا نحتاج أن نقول، نعم، لأن الناس لديهم أرقام مختلفة، وأريد أن الناس نوعاً ما يعملون على ذلك. بناء البرج إلى، وليس إلى 16 الآن، ولكن إلى 32. ولكن يمكنك التنبؤ. كيف يمكنك التنبؤ بذلك؟ انظر، الطالب R لا يجهل الانتباه حقاً. لا أعتقد أنه سيكون قادراً على القيام بعمل جيد. الطالب R. هل يمكنك مساعدتنا. كيف يمكنك التنبؤ. إذا كنت أعرف لـ 16 ...,"How many sets of 16? Thank you very much. How many sets. Now we're going to build it up to the number of sets of 32? That's our prediction. We did 16 and now the next set will be 32. We don't need to say, yes, because people have different numbers, and I want people to sort of work on that. building the tower to, not to 16, but to 32, but you can predict."
+Yes?,student,1,0,,,,-أجل؟,- Yes?
+"He’s good now, listen to Student R. If I know for 16 multiple, this is my product.",teacher,17,2,,,0.0,هو جيد الآن، استمع إلى الطالب R. إذا كنت أعرف ل 16 مضاعفة، وهذا هو منتج بلدي.,"It's good now, listen to student R. If I know 16 times, that's my product."
+[Inaudible],student,1,0,,,,[غير مسموع],[Unheard of]
+It’s Student R.  Student R.  Give Student R a chance.,teacher,10,0,,,0.0,إنه الطالب (ر) الطالب (ر) أعط الطالب (ر) فرصة,It's the student.The student.Give the student a chance.
+"If you know 16, you can know 32, because you can just add another 16.",student,15,1,,1.0,,إذا كنت تعرف 16 ، يمكنك معرفة 32 ، لأنك يمكنك فقط إضافة 16 آخر.,"If you know 16, you can know 32, because you can only add another 16."
+Good job.  And now somebody say add.  We could add another…,teacher,11,2,1.0,,0.0,عمل جيد والآن يقول أحدهم إضافة يمكننا إضافة آخر,Good work and now someone says add one we can add another
+Timing by two.,student,3,0,,,,التوقيت في اثنين.,The time is two o'clock.
+"Timing by two, that’s very good, that’s the thing I was waiting for.  And now [inaudible] is here.",teacher,18,0,,,0.0,التوقيت عند الثانية، هذا جيد جداً، هذا هو الشيء الذي كنتُ أنتظرُه، والآن هو هنا.,"The timing at two o'clock, that's very good, that's what I've been waiting for, and now it's here."
+Seven hundred and [four]. Student I is not paying attention.,student,10,1,,0.0,,الطالب الأول لا ينتبه,The first student does not pay attention to the student.
+"Okay, now, I want you to still kind of build it, even you know. So you build 15.  You could say I know it because I’ve done up to, and after 16 then I’ll go – listen – if I skip counting by 4, then my next one would be …",teacher,51,0,0.0,,0.0,حسناً، الآن، أريد منك أن تبنيه نوعاً ما، حتى لو كنت تعرف ذلك. لذا يمكنك أن تبنيه 15. يمكنك أن تقول أنني أعرف ذلك لأنني قمت بذلك، وبعد 16 ثم سأذهب,"Well, now, I want you to adopt it somehow, even if you know it. so you can adopt it 15. you can say I know it because I did it, and after 16 then I'll go"
+"1,400.",student,1,0,,,,1400.,1400.
+"No, no, hold on.  My next multiple would be, if I do skip counting by 4, the 20th…",teacher,18,1,,,0.0,لا، لا، انتظر، ضربي التالي سيكون، إذا تخطيت العد بـ4، العشرين...,"No, no, wait, my next multiplication will be, if I pass the count of four, twenty..."
+"24, 28.",student,2,0,,,,24، 28,"24, 28, and 24."
+Yeah.,teacher,1,0,,,0.0,-أجل، أجل,"- Yes, yes, yes"
+28 … 32!,student,3,0,,,,28 ... 32!,Twenty-eight ... thirty-two!
+"Good job.  Good job.  Now I’m going to let people see and we’ll walk around.  Mr. R is here now, and he’s going to walk around and see people who not only built a multiple tower up to the 32nd, but they will write the division, which is kind of the opposite, okay? All right.  Now you may go back to your seat, and then we’ll come back to see what did you learn. You’re already there? So you need to do it kind of [inaudible]. Rio? I don’t have a Rio marker, I only have this. Are you sure you want to? Just kind of make it.",teacher,108,2,,,0.0,عمل جيد. عمل جيد. الآن سأدع الناس يرون وسنمشي حولها. السيد آر هنا الآن، وسوف يمشي حولها ويرى الناس الذين لم يقتصروا على بناء برج متعدد حتى الثالث والثلاثين، ولكنهم سيكتبون التقسيم، والذي هو نوعا ما العكس، حسناً؟ الآن يمكنك العودة إلى مقعدك، ومن ثم سنعود لرؤية ما تعلمته. أنت هناك بالفعل؟ لذلك يجب عليك القيام بذلك نوعاً ما [غير قابل للسمع]. ريو؟ ليس لدي علامة ريو، لدي فقط هذا. هل أنت متأكد من أنك تريد ذلك؟ فقط نوعاً ما قم بذلك.,"Now I'm going to let people see and walk around. Mr. R is here right now, and I'm going to walk around and see people who not only built multiple towers until the 33rd, but they're going to write the split, which is kind of the opposite, okay? Now you can go back to your seat, and then we'll go back to see what you've learned."
+I did 16 so now it’s time to do the 36.,student,11,0,,0.0,,لقد فعلت 16 لذا الآن حان الوقت للقيام بال36,I've done 16 so now it's time to do 36.
+I’ll come to you.  You build it up to 32nd.  You need to build it up to…,teacher,17,0,0.0,,0.0,سأأتي إليك، ستبنيها إلى 32، يجب أن تبنيها إلى...,"I will come to you, build it to 32, you must build it to..."
+32nd.,student,1,0,,,,الثالث والثلاثين,Thirty-third and thirty-third.
+"So sit down.  So you’re doing the equation, then you’re going to do up to the 32nd.  Good job.",teacher,19,1,,,0.0,لذا اجلس. إذا كنت تفعل المعادلة، ثم سوف تفعل حتى الثالث والثلاثين. عمل جيد.,"So sit down. If you do the equation, then you will do until the thirty-third."
+I need a marker.,student,4,0,,,,أحتاج إلى علامة.,I need a sign.
+"I don’t have a marker, I have those [inaudible].",teacher,9,0,,,0.0,ليس لديّ علامة، لديّ تلك [غير مسموعة].,"I don't have a sign, I have that one [unheard of]."
+I have a marker.,student,4,0,,,,لدي علامة,I have a sign
+"You do? Student I, maybe you should do it up here, not on the desk. Let’s see, how are you doing?",teacher,21,0,,,0.0,الطالب الأول، ربما عليك القيام بذلك هنا وليس على الطاولة، دعونا نرى كيف حالك؟,"Student number one, maybe you should do it here and not on the table, let's see how you do?"
+Real good.,student,2,0,,,,جيد جداً,"Very good, very good."
+"Okay, let me see what Student J is doing.  Oh, you already did your equation.  You did the equation already?",teacher,20,2,,,0.0,حسناً، دعني أرى ما الذي يفعله الطالب (جاي) لقد قمت بعملية المعادلة بالفعل,"Well, let me see what the student (Jay) does."
+Yeah.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+So is that what you’re doing?,teacher,6,0,,,0.0,إذاً هل هذا ما تفعله؟,So that's what you do?
+I already did my equation.,student,5,1,,,,لقد قمت بعمل معادلتي,I've made my equation.
+Good job.,teacher,2,0,0.0,,0.0,عمل جيد,Good practice is good practice.
+I’m going up to 32.,student,5,0,,,,سأصعد إلى 32,I'm going up to 32.
+"32nd, good job.",teacher,3,0,0.0,,0.0,الثامنة والثلاثين، عمل جيد.,"Thirty-eight, good work."
+"Mr. J, I need to start going like this because I don’t have any space left.",student,16,0,,0.0,,سيّد (جاي) ، عليّ البدء بهذه الطريقة لأنّي لا أملك أيّ مساحة.,"Sir, I have to start this way because I don't have any space."
+You could do the second 16th right up here.,teacher,9,0,0.0,,0.0,يمكنك أن تفعل الثاني 16 هنا.,You can do the second 16 here.
+Okay.  I just need to separate them first.,student,8,0,,0.0,,حسناً، يجب أن أفرقهما أولاً,"Well, I have to separate them first."
+"Maybe Student J didn’t get what we are doing.  We did up to 16th, right? Then we’re going to build it up to the 32nd and then write the division equation.",teacher,31,2,0.0,,0.0,ربما الطالب J لم يحصل على ما نقوم به. فعلنا حتى 16، أليس كذلك؟ ثم نحن ذاهبون إلى بناء حتى 32 ثم كتابة معادلة التقسيم.,"Maybe student J didn't get what we're doing. We did until 16, didn't we? Then we're going to build up to 32 and then write the division equation."
+I already did this.,student,4,0,,,,لقد فعلت هذا بالفعل,I've already done that.
+You know what? I want you to build the tower to be more effective. How did you break it? How did you break it?,teacher,24,0,,,1.0,أريدك أن تبني البرج لتكون أكثر فعالية كيف كسرته؟,"I want you to build the tower to be more efficient, how did you break it?"
+[Inaudible],student,1,0,,,,[غير مسموع],[Unheard of]
+"How did you break it.  For the base one, look at that.  What was your base number?",teacher,17,0,,,1.0,كيف كسرتها، بالنسبة للقاعدة الأولى، انظر إلى ذلك، ما هو رقم القاعدة الخاص بك؟,"How did you break it, for the first rule, look at that, what's your rule number?"
+45.,student,1,0,,,,45,45 45
+"Now, what is your fifth number or your sixth number? What is your sixth multiple?",teacher,15,1,,,0.0,الآن، ما هو رقمك الخامس أو رقمك السادس؟ ما هو عددك السادس المتعدد؟,"Now, what is your fifth number or your sixth number?"
+My sixth multiple is 270.,student,5,1,,,,ضربي السادس هو 270.,Multiplying the sixth is 270.
+"So 45, see if you use a marker, don’t use different color markers, use one, yes, that’s very good.  See?  Very good. Now, what was…  Good job.  Now, what is the equation for that?",teacher,34,1,0.0,,0.0,إذاً، 45، انظر إذا كنت تستخدم علامة، لا تستخدم علامات ملونة مختلفة، استخدم واحدة، نعم، هذا جيد جداً. ترى؟ جيد جداً. الآن، ما كان... عمل جيد. الآن، ما هي المعادلة لذلك؟,"So, 45, see if you're using a symbol, don't use different colored symbols, use one, yes, that's very good. see? very good. now, what was that... good work. now, what's the equivalent of that?"
+The equation?,student,2,1,,,,المعادلة؟,The equation?
+45…,teacher,1,0,,,0.0,45...,45...
+Times 45?,student,2,0,,,,45 مرة؟,Forty-five times?
+"No, look at it.",teacher,4,0,,,0.0,لا، انظري إليها,"No, look at her."
+6 times 45.,student,3,0,,,,6 × 45,6 × 45
+"Thank you, 6 times 45.  Okay, okay. So you write the equation, but remember you’re going to build… You predict, that’s good, that’s one of the things.  Can you predict the equation?  I know or I predict that my next…",teacher,40,2,,,0.0,شكراً، 6 × 45. حسناً، حسناً، حسناً، إذاً أنت تكتب المعادلة، ولكن تذكر أنك ستبني... أنت تتوقع، هذا جيد، هذا واحد من الأشياء. هل يمكنك التنبؤ بالمعادلة؟,"Well, well, well, well, then you're writing the equation, but remember that you're going to build... you're expecting, that's good, that's one of the things."
+"I doubled this, [inaudible].",student,4,0,,,,أنا مضاعفة هذا، [غير مسموع].,"I'm doubling this, [unheard of]."
+"Wait a minute, can you write the equation? 45 times what would you give you this number?",teacher,17,1,,,1.0,انتظر لحظة، هل يمكنك كتابة المعادلة؟ 45 مرة ما الذي ستعطيه هذا الرقم؟,"Wait a minute, can you write the equation 45 times what would you give this number?"
+Would give you that number?,student,5,0,,,,هل أعطيك هذا الرقم؟,Can I give you this number?
+"Yeah, can you write the equation? 45 times what?",teacher,9,1,0.0,,0.0,نعم، هل يمكنك كتابة المعادلة؟,"Yes, can you write the equation?"
+8?,student,1,0,,,,ثمانية؟,Eight?
+No.  45 times…,teacher,3,0,,,0.0,لا، 45 مرة...,"No, 45 times..."
+16.,student,1,0,,,,16.,16.
+Is this.,teacher,2,0,,,0.0,هذا هو.,That's him.
+820.,student,1,0,,,,820.,820.
+But for the 32nd.,teacher,4,0,,,0.0,لكن للثلاثين,But for thirty
+"Oh, 45 times 32.",student,4,0,,,,45 × 32,32 × 45 
+"45 times 32nd, yeah.  That’s your prediction.  Equal…",teacher,8,0,,,0.0,45 × 32، نعم، هذا هو التنبؤ الخاص بك.,"45 × 32, yes, that's your prediction."
+[Inaudible],student,1,0,,,,[غير مسموع],[Unheard of]
+"Good job.  Now, I want you to effectively investigate, if I keep on building, let’s see if you’re going to get to this number.  It’s like an investigation.",teacher,28,0,,,0.0,حسناً، أريدك أن تبحث بشكل فعال، إذا استمرت في البناء، لنرى إن كنت ستصل إلى هذا الرقم.,"Well, I want you to search actively, if you keep building, let's see if you can get to that number."
+This is in the way.,student,5,0,,,,هذا في الطريق.,This one's on the way.
+"Just go around, that’s fine.",teacher,5,0,0.0,,0.0,إذهبي فحسب، لا بأس.,"Just go, it's all right."
+Look what I’m doing.,student,4,0,,,,انظر ماذا أفعل,Look what I'm doing.
+"What are you doing? Oh, so you’re doing by 4.  Good job.  So you went to 16.  So you’re doing by groups of…",teacher,23,0,,,0.0,ما الذي تفعله؟ إذاً أنتِ تقومين بـ 4، عمل جيد، لذا ذهبتِ إلى 16، لذا أنتِ تقومين بـ...,"So you're doing 4, good work, so you went to 16, so you're doing..."
+Four.,student,1,0,,,,أربعة.,Four.
+"Good job, good job. So you’re on 24th, the next number would be?",teacher,13,0,,,0.0,عمل جيد، عمل جيد، إذاً أنت في الرابع والعشرون، والرقم التالي سيكون؟,"Good job, good job, so you're twenty-four, and the next number will be?"
+"32 … um, 28.",student,4,0,,,,32... امم، 28,"32... um, 28"
+Good job.  Then 32.,teacher,4,0,,,0.0,عمل جيد، ثم 32,"Good work, then 32"
+This is my big equation.,student,5,1,,,,هذه هي معادلتي الكبيرة,This is my big equation.
+Your big equation for up to 16.,teacher,7,1,1.0,,0.0,المعادلة الكبيرة الخاصة بك حتى 16.,Your big equation up to 16.
+"Yes, and my big equations.",student,5,1,,,,نعم، ومعادلاتي الكبيرة.,"Yes, and my big equations."
+"All right, so your base number was 72.",teacher,8,0,0.0,,0.0,حسناً، إذاً رقمك الأساسي كان 72.,"Well, then your base number was 72."
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"And one time, okay, up to 16.  Now can you predict?  Predict what the 32nd.  Because I have this, then I can predict my…",teacher,24,0,,,0.0,ومرة واحدة، حسنا، حتى 16 الآن هل يمكنك التنبؤ؟,"And once, well, up to 16 now can you predict?"
+So I can keep on building?,student,6,0,,,,حتى أتمكن من مواصلة البناء؟,So I can continue building?
+"Yes, exactly, you keep on building.  And up to thirty….",teacher,10,0,1.0,,0.0,نعم، بالضبط، تستمر في البناء وحتى الثلاثين...,"Yes, exactly, it continues to be built up to thirty..."
+32.,student,1,0,,,,32.,32. 32.
+"See, what he did, he kind of did, from 16 he jumped, he kind of got a group of 4.  He went from 16 to 20th.  Then 20th to 24th.  24th to… What would be the next?",teacher,37,0,,,0.0,ماذا فعل، نوعاً ما فعل، من 16 قفز، نوعاً ما حصل على مجموعة من 4، ذهب من 16 إلى 20، ثم من 20 إلى 24، 24 إلى... ماذا سيكون التالي؟,"What did he do, sort of did, from 16 jumps, sort of got a set of 4, went from 16 to 20, then from 20 to 24, 24 to... What's next?"
+"The 24th to the 30th, and then…",student,7,0,,,,من الرابع والعشرين إلى الثلاثين ومن ثم...,From the 24th to the 30th and then...
+24th…,teacher,1,0,1.0,,0.0,الشارع 24,24th street
+24th…,student,1,0,,,,الشارع 24,24th street
+"If I do it by four-digit, four group.  My tower, it would go from…",teacher,14,1,,,0.0,إذا قمت بذلك بأربعة أرقام، أربعة مجموعات، برجي، سيكون من...,"If you do this with four numbers, four sets, a tower, it will be of..."
+44 to…,student,2,0,,,,44 إلى...,44 to the...
+"No, not 44.  You jumped from 16…",teacher,7,0,,,0.0,لقد قفزت من 16...,I jumped from 16...
+So I’m going to go all the way to 32.,student,10,0,,0.0,,لذا سأذهب إلى 32.,So I'm going to go to 32.
+"Now some people are making it too long.  You know, you don’t need to make it that fancy.  Because you started on the perfect one.  Why do you… See, he’s…",teacher,30,0,0.0,,1.0,الآن بعض الناس يجعلون الأمر طويلاً جداً لا يجب عليك أن تجعله جميلاً لأنك بدأت بالشيء المثالي,Now some people make it too long you don't have to make it pretty because you're starting with the perfect thing.
+"Yeah, he’s kind of like built them all.",student,8,0,,0.0,,أجل، إنه نوعاً ما قام ببناءهم جميعاً,"Yeah, he kind of built them all up."
+"He’s doing fine.  I was afraid you weren’t going to make it, but you are doing fine.  But you shouldn’t start another one. Because you did very well.  Where is the other one? Keep building on it.",teacher,37,0,1.0,,0.0,إنه بخير. كنت أخشى أنك لن تنجح، لكنك بخير. ولكن لا يجب أن تبدأ واحدة أخرى. لأنك فعلتها بشكل جيد جداً. أين الأخرى؟ استمر في البناء عليها.,"He's fine. I was afraid you wouldn't succeed, but you're fine. But you shouldn't start another one. Because you did it very well."
+I’ve done the 30th.,student,4,0,,,,لقد قمت بالثلاثين,I've already made thirty.
+"Keep building on that side now, because you did 4th, 8th, 12th, what would be your next?",teacher,17,0,,,0.0,استمر في البناء من هذا الجانب الآن، لأنك فعلت الرابع، الثامن، الثاني عشر، ما سيكون التالي الخاص بك؟,"Keep building from this side now, because you've done the fourth, eighth, twelfth, what will be your next one?"
+I did a group of 5.,student,6,0,,,,لقد عملت مجموعة من الخمسة,I've worked with a group of five.
+You did by 5?  Group of 5. Good.,teacher,8,0,1.0,,0.0,-كنت في مجموعة من الخامسة,-I was in a group of five
+"Mr. J, I got it.  I did 72 times 32, which equals …",student,13,0,,0.0,,سيّد (جاي) ، فهمتُه، فعلتُه بـ72 × 32، وهو ما يعادل...,"Mister (Jay), I get it, I did it with 72 x 32, which is equivalent to..."
+"Wait a second.  Wait a second.  If I go from 16, the equation is a thousand? How could it be?",teacher,20,2,0.0,,1.0,انتظر لحظة، انتظر لحظة، إذا ذهبت من 16، فإن المعادلة هي ألف؟ كيف يمكن أن يكون؟,"Wait a minute, wait a minute, if you go from 16, the equation is a thousand?"
+"Oh, I didn’t mean [inaudible].",student,5,0,,,,أوه، لم أقصد [غير مسموع].,"Oh, I didn't mean [unheard of]."
+"Good job, good job, very good. How are you doing? Let’s see this.  So how did you start?",teacher,18,0,0.0,,1.0,عمل جيد، عمل جيد، جيد جداً كيف حالك؟ دعونا نرى هذا. كيف بدأت؟,"Good work, good work, very good how are you? let's see this. how did you get started?"
+I built my tower that I was working with…,student,9,0,,0.0,,بنيتُ برجِي الذي كنتُ أعملُ مع...,I built my tower that I was working with...
+"See, 1, 5, and my 5th digit.",teacher,7,1,0.0,,0.0,انظر، 1، 5، والرقم الخامس.,"See, 1, 5, and the number five."
+10th.,student,1,0,,,,العاشرة,The tenth
+"Put the 10th, put it next to it.  10th.  You didn't put the “th”.  Good job.  No, it’s T-H.",teacher,19,0,,,0.0,ضع العاشرة، ضعها بجوارها، العاشرة، لم تضع العاشرة، عمل جيد.,"Put a tenth, put it next to it, a tenth, didn't put a tenth, good job."
+"Oh, T-H.",student,2,0,,,,أوه، T-H.,"Oh, T-H."
+"Yeah, that is the order.  The rank.  15th. Good job. Now, Student K, Student K, see, you started another one. And that will take you longer.",teacher,26,0,,,0.0,أجل، هذا هو الترتيب، الرتبة الخامسة عشرة، عمل جيد، الآن، الطالب ك، الطالب ك، انظر، بدأت واحدة أخرى، وهذا سيستغرق لك وقتًا أطول.,"Yes, that's the order, fifteenth place, good work, now, student K, student K, look, I started another one, and that will take you longer."
+[Inaudible],student,1,0,,,,[غير مسموع],[Unheard of]
+"I know, but you won’t have done the thing.  Where is the other one you started yesterday?",teacher,17,0,,,0.0,أعلم، لكنّك لن تفعلي ذلك الشيء، أين الآخر الذي بدأتيه بالأمس؟,"I know, but you're not going to do that thing, where's the other one you started yesterday?"
+"I did 68, but it was supposed to be 12.",student,10,0,,0.0,,لقد فعلت 68، ولكن كان من المفترض أن يكون 12.,"I did 68, but it was supposed to be 12."
+"So I don’t think you’ll get a chance to make it up to 32nd, because you’re already up to 20th, right? So what would be your 24th digit? Is it 24th? This is 20, 20th, so your next would be?",teacher,40,1,0.0,,0.0,لذا أنا لا أعتقد أنك ستحصل على فرصة للقيام بها إلى 32، لأنك قد وصلت بالفعل إلى 20، أليس كذلك؟ إذن ما هو رقم 24 الخاص بك؟ هل هو 24؟ هذا هو 20، 20، لذلك سيكون رقمك التالي؟,"So I don't think you'll get a chance to make it to 32, because you've already made it to 20, right?"
+"24, plus this.",student,3,0,,,,24، بالإضافة لهذا.,"24, in addition to this."
+"No, but you need to put it here.  So are you going to bring it up this way, your tower? Yeah, that would be nice. Then you’re going to have another 16?",teacher,32,0,,,0.0,لا، ولكن عليك أن تضعها هنا، لذا هل ستجلبها بهذه الطريقة، برجك؟ أجل، سيكون ذلك لطيفاً، ثم ستحصل على 16 أخرى؟,"No, but you have to put it here, so will you bring it this way, tower? Yeah, that would be nice, and then you'll get 16 more?"
+See this one is the…,student,5,0,,,,أترين هذا هو...,Do you see that this is...
+"That’s why I said you didn’t need to do another one, you could have just keep on building.",teacher,18,0,0.0,,0.0,لهذا السبب قلت أنك لا تحتاج إلى القيام بعمل آخر، يمكنك فقط الاستمرار في البناء.,"That's why I said you don't need to do any more work, you can just keep building."
+"I already did this one, so I’m going to keep on adding the numbers.",student,14,0,,0.0,,لقد فعلت هذا بالفعل، لذلك سأستمر في إضافة الأرقام.,"I've already done this, so I'll keep adding numbers."
+"Okay, all right. How is she doing?",teacher,7,0,0.0,,0.0,حسناً، كيف حالها؟,"Well, how is she?"
+I’m almost done.  I need four more to get to 32.,student,11,0,,0.0,,أنا على وشك الانتهاء، أحتاج إلى أربعة أخرى للوصول إلى 32.,"I'm about to finish, I need four more to get to 32."
+Good job.,teacher,2,0,0.0,,0.0,عمل جيد,Good practice is good practice.
+I couldn't do it so I’m going to go like that.,student,11,0,,0.0,,لم أستطع فعلها لذا سأذهب هكذا,"I couldn't do it, so I'm going like this."
+So what did you do?,teacher,5,0,0.0,,1.0,إذاً ماذا فعلت؟,So what did you do?
+I just keep on [inaudible].,student,5,0,,,,أنا فقط أستمر [غير مسموع].,I just keep going.
+"Wait a minute.  So did you predict times 16 is 1,152.",teacher,11,0,0.0,,1.0,"انتظر لحظة هل توقعت ضرب 16 هو 1,152","Wait a minute, did you expect times 16 to be 1,152?"
+And I’m going to put another equation here.,student,8,1,,0.0,,وسأضع معادلة أخرى هنا,And I'm going to put another equation right here.
+"Yeah, times 32.",teacher,3,0,0.0,,0.0,أجل، مرّة 32.,"Yes, the 32nd time."
+"Times 32, which is going to get me to whatever number I get for 32.",student,15,0,,0.0,,ضرب 32، والذي سيأخذني إلى أي رقم سأحصل عليه من أجل 32.,"Multiply 32, which will take me to any number I get for 32."
+So can you do it?,teacher,5,0,0.0,,0.0,إذاً، هل يمكنك فعل ذلك؟,"So, can you do that?"
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"What you need to do to be more effective, you could just keep on counting.",teacher,15,0,,,0.0,ما عليك القيام به ليكون أكثر فعالية، يمكنك فقط مواصلة العد.,"What you need to do to be more effective, you can just keep counting."
+"Yeah, that’s what I’m going to do.",student,7,0,,,,أجل، هذا ما سأفعله,"Yeah, that's what I'm going to do."
+"Okay, good.",teacher,2,0,1.0,,0.0,حسناً، جيد,"Well, that's good."
+"And when I get to the 32, mark it 32 times, 6 times 72, and I’m going to put it right next to it.",student,24,0,,0.0,,وعندما أصل إلى 32، قم بتسجيل 32 مرة، 6 مرات 72، وسأضعها بجوارها.,"And when I get to 32, record 32 times, 6 times 72, and I'll put it next to it."
+"You are good. So that would be, the 16th…",teacher,9,0,0.0,,0.0,أنتِ جيّدة، لذا سيكون ذلك في السادس عشر...,"You're good, so it will be on the 16th..."
+That’s my 17.,student,3,0,,,,هذا هو 17 لي.,That's 17 for me.
+"17, 18, 19, 20th, very good.",teacher,6,0,,,0.0,17، 18، 19، 20، جيد جدا.,"17, 18, 19, 20, very good."
+"When I got here, I got this number.",student,8,0,,0.0,,عندما وصلت هنا، حصلت على هذا الرقم.,"When I got here, I got this number."
+"Hmmm, so the 20th, 20th number, 20th multiple of what number? What was your base number again?",teacher,17,1,0.0,,0.0,إذن العدد العشرين، العشرين، العشرين مضاعف من أي رقم؟ ما هو رقم أساسك مرة أخرى؟,"So the number twenty, twenty, twenty multiplied by what number? what is your base number again?"
+48.,student,1,0,,,,48.,48.
+The 20th multiple of 48 is … Good job. 8 times 8?,teacher,12,1,,,0.0,المضاعف العشرين من 48 هو... عمل جيد. 8 × 8؟,Twenty times 48 is... good work. 8 × 8?
+"Oh, 64.",student,2,0,,,,أوه، 64.,"Oh, 64."
+"[Laughs] That’s why you’re making, see, when you’re doing it, if you skip, if you’re doing it the way you build the tower, see if you do it this way, probably you won’t get it.  But the effective way would be, what can you do?",teacher,45,0,,,0.0,[ضحك] لهذا السبب تقومون، انظروا، عندما تقومون بذلك، إذا قفزتم، إذا كنتم تفعلون ذلك بالطريقة التي تقومون بها ببناء البرج، انظروا إذا قمتم بها بهذه الطريقة، ربما لن تحصلوا عليها. ولكن الطريقة الفعالة ستكون، ما الذي يمكنك القيام به؟,"[Laughter] That's why you do, look, when you do it, if you jump, if you do it the way you build the tower, look, if you do it this way, you probably won't get it."
+"1,226.",student,1,0,,,,1226,1226 1226
+"That’s what it is.  Now how do you know, what did you do?",teacher,13,0,,,1.0,هذا ما هو عليه الآن كيف تعرف ماذا فعلت؟,"This is what it is now, how do you know what you did?"
+Add 48 more.,student,3,1,,,,إضافة 48 أخرى.,Add another 48.
+"Good job.  So, hey, that multiple tower is keep on adding 48. So did you keep on adding 48 today?",teacher,20,1,,,0.0,حسناً، هذا البرج المتعدد يستمر في إضافة 48، لذا هل استمر في إضافة 48 اليوم؟,"Well, this multipurpose tower continues to add 48, so will it continue to add 48 today?"
+Mm-hmm.,student,1,0,,,,-حسناً,-Well then
+"Okay.  How are you doing, Student R?  Good.  So your base number, 15, and you get to the 16th multiple?",teacher,20,1,,,0.0,حسناً، كيف حالك، الطالب (ر) ؟,"Well, how are you, student?"
+No.,student,1,0,,,,-كلا .,"- No , not at all ."
+"So you’re still doing the 16th multiple, okay.  So you’re on the 15th.  What do you do? Do you keep on adding, 15? And what is your 15th?",teacher,28,1,,,0.0,إذاً ما زلت تقوم بالعدد الـ16، حسناً، إذاً أنت في الـ15، ماذا تفعل؟ هل تستمر في إضافة الـ15؟ وما هو الـ15؟,"So you're still doing the number 16, okay, so you're at 15, what are you doing? Do you keep adding the 15? What's the 15?"
+[Inaudible].,student,1,0,,,,[غير مسموع].,[Unheard of].
+"Student R, are you helping him?",teacher,6,0,,,0.0,الطالب (ر) ، هل تساعده؟,"Student, can you help him?"
+"You’re supposed to start on 16, right?",student,7,0,,,,من المفترض أن تبدأ في 16، أليس كذلك؟,"You're supposed to start at 16, aren't you?"
+"16th.  Keep on going, just like you, keep on going to the 32nd.",teacher,13,0,0.0,,0.0,16، استمروا، كما تفعلون، استمروا بالذهاب إلى 32,"16, keep going, as you do, keep going to 32."
+That’s what I tried to do.,student,6,0,,,,هذا ما حاولت فعله,That's what I tried to do.
+"We have five more minutes, and I need someone that can share? You could share your 32nd multiple of whatever…",teacher,20,1,0.0,,0.0,لدينا خمس دقائق أخرى، وأحتاج لشخص يمكنه أن يشارك؟,"We have five more minutes, and I need someone who can participate?"
+[Inaudible] crawled into my multiplication tower.,student,6,1,,,,[غير مسموع] تسلل إلى برج ضربي.,[Unheard] sneaked into the multiplication tower.
+"Okay.  Then we need to see your division, your division equation. Student R? Student R now.  Guys, guys, guys, you need to sit and get it going. Let’s see, how far are you? How are you doing?",teacher,37,3,0.0,,0.0,حسناً، علينا أن نرى تقسيمك، معادلة تقسيمك، الطالب ر؟ الطالب ر الآن، يا رفاق، يا رفاق، عليكم أن تجلسوا وتبدأوا، دعونا نرى، كم تبعدون؟ كيف حالكم؟,"Okay, we need to see your division, your division equation, student r? student r Now, you guys, you guys, you guys, you need to sit down and start, let's see, how far away are you?"
+[Inaudible].,student,1,0,,,,[غير مسموع].,[Unheard of].
+"So are you ready to share your 32nd? You are on…  25 times 25 is equal …  No, I don’t know, I’m trying to question to you.  And then we could ask you, what would be the division, the equation for… Okay? So think about it. Whatever you get up to, it doesn’t matter.  So I need you to kind of finish wherever you are.  Student R?  Finish wherever you are and then think of the multiplication, the multiples…",teacher,79,4,,,0.0,إذاً هل أنت مستعد لتقاسم الثالثة والثلاثين؟ أنت على... 25 × 25 يساوي... لا، لا أعرف، أنا أحاول أن أسألك. ومن ثم يمكننا أن نسألك، ما سيكون التقسيم، المعادلة ل... حسناً؟ فكري في الأمر.,"So are you ready to divide by thirty-three? you're on... 25 × 25 is equal to... no, I don't know, I'm trying to ask you. and then we can ask you, what would be the division, the equation for... okay? think about it."
+Am I going to fit multiples to 50?,student,8,1,,0.0,,هل سأطابق مضاعفات إلى 50؟,Am I going to match multiples to 50?
+"To 50? You think you can get to that? That’s fine.  Can you predict? You can predict up to 50, because you did it up to 25, then can you predict up to 50? That’s good.  Then we’re going to kind of share. Now, listen, listen, listen.  Student K, come here and finish this. Then we’ll do the roller coaster park. Three minutes.  Wherever you get is fine.  You can share. Now, I don’t see your equation, Student K. Wherever you get…  Write an equation.  And you didn't write an equation for any of these.  So do them.",teacher,98,3,1.0,,0.0,إلى 50؟ هل تعتقد أنه يمكنك الوصول إلى ذلك؟ هذا جيد. هل يمكنك التنبؤ؟ يمكنك التنبؤ حتى 50، لأنك فعلت ذلك حتى 25، ثم يمكنك التنبؤ حتى 50؟ هذا جيد. ثم سنقوم بتقاسم نوعا ما. الآن، اسمع، اسمع، اسمع. الطالب K، تعال هنا وانتهى من هذا. ثم سنقوم بـ حديقة الرحلات الجوية. ثلاث دقائق. أينما تصلين هو جيد. يمكنك تقاسم. الآن، أنا لا أرى معادلتك، الطالب K. أينما تصلين ... كتابة معادلة. وأنت لم تكتب معادلة لأي من هذه. لذلك قم بها.,"Do you think you can get to 50? That's good. Can you predict? You can predict up to 50, because you did it up to 25, then you can predict up to 50? That's good. Then we're going to sort of share. Now, listen, listen, listen. Student K, come here and finish this. Then we're going to do an airplane park. Three minutes. Wherever you get to is good. You can share. Now, I don't see your equation, student K. Wherever you get to"
+"Okay.  I’m sorry, I thought I had to stop right there.",student,11,0,,0.0,,حسناً، أنا آسفة، ظننت أن عليّ التوقف هنا,"Well, I'm sorry, I thought I should stop here."
+"Three minutes. Okay, 15 times 16 is…",teacher,7,0,0.0,,0.0,ثلاث دقائق حسناً، 15 × 16 هي...,"Three minutes well, 15 × 16 is..."
+240.,student,1,0,,,,240.,240.
+"2,040, wow.  So you think you can predict, you can write a prediction for 16 times 32?",teacher,17,0,,,0.0,"2,040, واو. اذا تعتقد انك تستطيع التنبؤ، يمكنك كتابة التنبؤ ل 16 × 32؟","2,040, wow. if you think you can predict, can you write a prediction for 16 × 32?"
+I did for this one.,student,5,0,,,,لقد فعلت هذا,I've already done that.
+"A multiple [inaudible] division.  Can you predict? Okay, so you’re ready to share your equation for the 32nd? And then, get a division.  No, no, you don’t need to give me the answer, but the whole equation.  Remember what your base number was, it’s 48? So it’s 48…",teacher,48,6,0.0,,0.0,التقسيم المتعدد. هل يمكنك التنبؤ؟ حسناً، إذاً أنت مستعد لتقاسم معادلتك للثلاثين؟ ثم، احصل على تقسيم. لا، لا، لا، لست بحاجة إلى إعطائي الإجابة، ولكن المعادلة بأكملها. تذكر ما كان رقم أساسك، هو 48؟ لذلك هو 48...,"Well, then you're ready to divide your equation by thirty? then, get a division. no, no, no, no, you don't need to give me the answer, but the whole equation. remember what your base number was, 48? so it's 48..."
+Times 32.,student,2,0,,,,32 مرة,Thirty-two times.
+Equal…,teacher,1,0,,,0.0,متساوية,Equal to each other
+"1,536. I have to get up to what number? 25?",student,10,0,,0.0,,1536، أي رقم يجب أن أصل إليه؟,"1536, what number should I reach?"
+"No, for you, you asked me to stop at 45, but you said you could predict for 50 because you know for 35. 35.   25.  Right?  So you said, oh, if I know for 25, then I can make it up to 50 or predict, right? Okay, one minute. Nice work. A few minutes. Oh, so you just do skip counting by 15.  Oh, I thought you were going to do this number up to…",teacher,75,0,1.0,,0.0,لا، بالنسبة لك، طلبت مني التوقف عند 45، ولكنك قلت أنك تستطيع التنبؤ بـ 50 لأنك تعرف بـ 35، 35، 25، صحيح؟ لذا قلت، أوه، إذا كنت أعرف بـ 25، فيمكنني أن أصل إلى 50 أو التنبؤ، أليس كذلك؟ حسنا، دقيقة واحدة. عمل جيد. بضع دقائق.,"No, for you, you asked me to stop at 45, but you said you could predict 50 because you know 35, 35, 25, right? So I said, oh, if I knew 25, I could get to 50 or predict, right?"
+"Oh, up to 50.",student,4,0,,,,أوه، حتى 50.,"Oh, even 50."
+"The 50th multiple.  It’s not up to 50, but it’s up to the 50th multiple. Student K?",teacher,17,2,,,0.0,المضاعف الخمسين، ليس حتى الخمسين، لكنه حتى المضاعف الخمسين. الطالب ك؟,"Fifty times fifty, not even fifty, but even fifty times fifty."
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"I don’t appreciate you not doing the work, and you are just, you know, when I ask you the equation and the prediction. At least you could write the prediction. So make sure you have a prediction.  Even if you didn't get to the 32nd write the prediction.  Write the prediction, and then we could go back and prove it, that means, make sure we investigate. Now, you may sit and share with us.   Okay, now I need everyone. Student N, Student N, I’m waiting.  Student V.  I just need you back.  I need your attention back, Student S. You need to put your pencil down please, or pen.  Excuse me, pen and pencil.  Pen and pencil.  Let’s wait for… Good job, Student I.  Good job, Student K.  Student R, good job.  Student K. Student N, good job.  He’s waiting.  We need everybody’s attention.  Student S, good job.  Student S, put it down. Good job. Now, I need someone that can share what did we learn? What did we learn by doing this investigation? By doing this investigation.  Student R, I’m talking to you.  See, she didn’t.  Some people did not put their pen and pencil, markers, crayons, put them down.  I want you to think. Yes, Student K, what did you learn?",teacher,213,1,,,0.0,أنا لا أقدر أنك لا تقوم بالعمل ، وأنت فقط ، كما تعلمون ، عندما أسألك عن المعادلة والتنبؤ. الطالب V. أنا فقط أحتاجك مرة أخرى. أنا بحاجة إلى انتباهك مرة أخرى ، الطالب S. يجب أن تضع قلمك ، أو قلمك. عذراً ، وقلمك وقلمك. رجاءً انتظر ... جيد ، الطالب I. وظيفة جيدة ، الطالب K. R. ، وظيفة جيدة. نعم ، ما الذي قام به بعض الطالب.,"I don't appreciate you not doing the work, and you just, you know, when I ask you about the equation and the prediction. Student V. I just need you again. I need your attention again, student S. You should put your pen, or pen. Excuse me, your pen, and your pen. Please wait... Good, student I. Good job, student K.R., good job. Yes, what some student did."
+12.,student,1,0,,,,12,12  12 
+So your base number was 12.,teacher,6,0,,,0.0,إذاً الرقم الأساسي الخاص بك كان 12,So your base number was 12?
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Okay.,teacher,1,0,,,0.0,-حسناً,-Well then
+146.,student,1,0,,,,146.,146.
+"So, I could say, 12 equals 146 and so this is my factor. And this is a missing factor.",teacher,19,0,,,0.0,لذا، يمكنني أن أقول، 12 يساوي 146، وهذا هو عاملي، وهذا هو عامل مفقود.,"So, I can say, 12 is equal to 146, and this is my factor, and this is the missing factor."
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+And that’s times…,teacher,3,0,,,0.0,وهذه هي الأوقات,And these are the times
+12 times…,student,2,0,,,,12 مرة...,Twelve times...
+"Oh, 12 times.  12 times factor, times factor, equals…",teacher,9,0,,,0.0,12 مرّة، 12 مرّة عامل، مرّة عامل، يساوي...,"12 times, 12 times worker, once worker, is equal to..."
+146.,student,1,0,,,,146.,146.
+"146, that’s the product.  See, here, Student R is not looking. I need you to help.  Student K is doing factor times factor equals 146, the product.  But he has a missing factor.",teacher,33,2,,,0.0,"146, هذا هو المنتج. انظر, هنا, الطالب R لا يبحث. أنا بحاجة لمساعدتك. الطالب K يفعل عامل × عامل يساوي 146, المنتج. ولكن لديه عامل مفقود.","Look, here, student R isn't looking. I need your help. student K does factor × factor is equal to 146, the product. but he has a missing factor."
+Mr. J…,student,2,0,,,,سيد جي...,The Master of the...
+"Let’s wait for everyone, Student R especially.",teacher,7,0,,,0.0,دعونا ننتظر الجميع، الطالب ر خاصة.,"Let's wait for everyone, especially the student."
+Can I share mine now?,student,5,0,,,,هل يمكنني مشاركة حياتي الآن؟,Can I share my life now?
+"You need to share, but I’ll write.  All right? All right, go ahead.",teacher,13,0,1.0,,0.0,يجب أن تشاركني، لكنّي سأكتب، حسناً؟,"You have to share it with me, but I'm going to write it, okay?"
+Factor times…,student,2,0,,,,أوقات العامل...,The working hours...
+We did that.  What is the missing factor?,teacher,8,0,,,0.0,لقد فعلنا ذلك ما هو العامل المفقود؟,We did it. What's the missing factor?
+146 divided by 12.,student,4,1,,,,146 مقسمة على 12,146 divided by 12
+"Thank you very much! Yeah! I’m glad somebody came here.  That’s why I need everyone now.  Student R is really not paying attention.  Student S, you know what?  You’re really not paying attention to us.  Good job.  Student S, Student S. So when we have a missing factor, you could do 146, which is the product, divide…",teacher,57,2,,,0.0,شكراً جزيلاً! نعم! أنا سعيدة أن أحدهم جاء هنا. لهذا أحتاج الجميع الآن. الطالب R حقاً لا يهتم. الطالب S، أتعلمون ماذا؟ أنت حقاً لا تهتم إلينا. عمل جيد. الطالب S، الطالب S. لذا عندما يكون لدينا عامل مفقود، يمكنك أن تفعل 146، وهو المنتج، تقسيم...,"Yes, I'm glad someone came here. That's why I need everyone now. Student R really doesn't care. Student S, you know what? You really don't care about us. Good job. Student S, student S. So when we have a missing factor, you can do 146, which is the product, divide..."
+Divide by 12.,multiple students,3,1,,,,تقسّم بـ12,Divide by 12.
+So into 12.  So he said he could have made a problem.,teacher,12,0,,,0.0,لذا في 12 وقال انه قد يكون لديه مشكلة.,So at 12 he said he might have a problem.
+My problem is that there is a roller coaster…,student,9,0,,0.0,,مشكلتي هي أن هناك عربة متجولة,My problem is that there's a stroller.
+"You like that roller coaster problem.  I know, I could tell you were doing that roller coaster.  Hey, can somebody help make a problem out of this.  You could make a problem out of that, and this is his division.  This is his division equation.  Listen, Student R, Student R, I need you to help him making a problem with this.  Maybe it doesn’t have to be a roller coaster yet.  So, it’s a division.",teacher,75,4,1.0,,0.0,أنت تحب مشكلة الساحلات العابرة. أعرف، يمكنني أن أقول أنك كنت تفعل ذلك الساحلة العابرة. مهلا، هل يمكن لأي شخص أن يساعد في جعل مشكلة من هذا. يمكنك أن تجعل مشكلة من ذلك، وهذا هو تقسيمه. هذه هي معادلة تقسيمه. اسمع، الطالب R، الطالب R، أنا بحاجة إلى مساعدتك في جعل له مشكلة مع هذا. ربما لا يجب أن يكون الساحلة العابرة بعد. لذلك، انها تقسيم.,"Hey, can anyone help make this a problem? You can make this a problem, and that's partitioning. This is partitioning equation. Listen, student R, student R, I need your help making this a problem for him. Maybe it shouldn't be partitioning anymore. So, it's partitioning."
+Miss L’s class are counting by 63.,student,7,0,,,,"الآنسة فصيلة الـ ""إل"" تُعد إلى 63","Our Lady of the ""L"" class is numbered 63"
+"No, his was.",teacher,3,0,0.0,,0.0,لا، كان له.,"No, it was his."
+Miss L’s class are counting by 12.,student,7,0,,,,"فئة السيدة ""إل"" تُعد إلى 12","The category of Lady ""L"" is 12."
+"Yes, we need some help.  We need help.  Student S.  Student S. Student V.  You’re not looking. He said he could make a problem.",teacher,24,0,0.0,,0.0,أجل، نحتاج إلى بعض المساعدة نحتاج إلى المساعدة الطالب (س) الطالب (س) الطالب (ف) أنت لا تنظر، قال أنه يمكن أن يسبب مشكلة,"Yes, we need some help. We need help. Student (s) Student (s) Student (f) You don't look, he said it could cause trouble"
+The 16th…,student,2,0,,,,في السادس عشر...,In the sixteenth...
+"Now, you’re making it for [inaudible], but I want you to help him with this.",teacher,15,0,,,0.0,الآن، أنت تَجْعلُه ل [غير مُسمع، لكن أُريدُك أنْ تساعده مع هذا.,"Now, you make it unheard of, but I want you to help him with this."
+You could say the kids in Miss L’s class are counting by 12s.,student,13,0,,1.0,,يمكنك أن تقول أن الأطفال في فئة السيدة L  يحتسبون إلى 12s.,You could say that the children in Mrs. L's class count as 12s.
+"Okay, all right, let’s wait for people.  Hold on, hold on, Student B.",teacher,13,0,0.0,,0.0,حسناً، حسناً، لننتظر الناس.,"Well, well, let's wait for people."
+How did you find out my nickname?,student,7,0,,,,كيف عرفتي لقبّي؟,How did you know my last name?
+"I don’t know.  Now, listen.  Student N.  Good job.  I need someone.",teacher,12,0,1.0,,0.0,لا أعلم، اسمع، الطالب (ن) ، عمل جيد، أحتاج إلى شخص ما,"I don't know, listen, student, good job, I need someone"
+The 16th number is [inaudible].,student,5,0,,,,الرقم السادس عشر هو [غير قابل للسمع].,The number sixteen is [inaudible].
+"You keep on saying the 16th.  We are up here.  You’re not looking. Let’s see if we can get… Student K.  If we can get Student S to help her.  Because we turned it into a division to help him. Student R, you’re not looking.  See, it’s here and here. Good job.  I find two people.  Yes?",teacher,57,1,1.0,,0.0,استمر في قول السادس عشر. نحن هنا. أنت لا تبحث. دعونا نرى إذا كان بإمكاننا الحصول على... الطالب K. إذا كان بإمكاننا الحصول على الطالب S لمساعدتها. لأننا حولناها إلى قسم لمساعدته. الطالب R، أنت لا تبحث. انظر، انها هنا وهنا. عمل جيد. وجدت شخصين. نعم.,"Keep saying sixteenth. we're here. you're not looking. let's see if we can get... student K. if we can get student S to help her. because we've turned her into a department to help him. student R, you're not looking. look, she's here and here. good job. found two people. yes."
+All the class is counting by 12.,student,7,0,,,,كل الفصل يحتسب إلى 12,Each chapter is counted to twelve.
+This is the problem.  That’s the division.,teacher,7,1,0.0,,0.0,هذه هي المشكلة، هذه هي القسم,"That's the problem, that's the section."
+"All the class is counting by 46. Mr. J, I’ve got a problem.  [Inaudible]  [Speaking in French]",student,17,0,,0.0,,كل الفصل يحتسب إلى 46 سيد جي لدي مشكلة,Each chapter counts for 46 MSGs. I have a problem.
+[Inaudible] [Crosstalk],multiple students,2,0,,,,[غير مسموع] [كروسستالك],[Unheard of] [Crossstalk]
+Good job! When it’s division…,teacher,5,1,,,0.0,عمل جيد عندما يكون التقسيم...,Good work when division is...
+[Inaudible] [Crosstalk] [French],multiple students,3,0,,,,[غير مسموع] [كروسستالك] [فرنسية],[Unheard of] [Crossstalk] [French]
+Can you start it with 12?,teacher,6,0,,,0.0,هل يمكنك البدء بـ 12؟,Can you start with 12?
+"There’s a big, big…",student,4,0,,,,هناك كبيرا، كبير...,"There is a big, big..."
+"Wait a minute, if you’re making a problem, he’s talking about writing the problem from this one.  We always start with the…",teacher,22,0,,,0.0,انتظروا لحظة، إذا كنتم تخلقون مشكلة، فهو يتحدث عن كتابة المشكلة من هذه.,"Wait a minute, if you're creating a problem, he's talking about writing the problem out of this one."
+Product.,student,1,1,,,,المنتج,The product
+"Product, thank you, that’s division.  And to find the next factor…",teacher,11,2,,,0.0,المنتج، شكراً لك، هذا التقسيم، ولإيجاد العامل التالي...,"The product, thank you, this division, and to find the next factor..."
+"I have another one, there’s a big tower in Boston.  It has 32…",student,13,0,,0.0,,لدي واحدة أخرى، هناك برج كبير في بوسطن.,"I have another one, there's a big tower in Boston."
+No.,teacher,1,0,0.0,,0.0,-كلا .,"- No , not at all ."
+It has 246 floors.,student,4,0,,,,لديها 246 طابق,It has 246 floors.
+"Floors, good job.",teacher,3,0,,,0.0,أرضيات، عمل جيد.,"Grounds, good work."
+"No, it has 146 pupils in it.",student,7,0,,,,لا، لديها 146 تلميذ فيها.,"No, she has 146 students in it."
+"We’re talking about a tower that has 146 floors.  Then how is this one…  What does this one say? Listen to me, what does this sign say?",teacher,27,0,1.0,,0.0,نحن نتحدث عن برج يمتد إلى 146 طابقًا، إذاً كيف يبدو هذا... ماذا يقول هذا؟,"We're talking about a 146-story tower, so what does this look like... what does this say?"
+Divide.,student,1,1,,,,تقسيم.,Divide it into two parts.
+"Divide.  So the next sentence would be, it is grouping or breaking of…",teacher,13,1,,,0.0,إذاً الجملة التالية ستكون، هي تجميع أو كسر...,"So the next sentence is going to be, is it an aggregation or a breakdown..."
+[Long] division.,student,2,1,,,,التقسيم الطويل,The long division.
+"Thank you, the word for division is shared…",teacher,8,1,,,0.0,شكراً لك، كلمة الانقسام مشتركة...,"Thank you, the word separation is common..."
+Grouping.,student,1,0,,,,المجموعات.,The groups.
+Grouping.,teacher,1,0,,,0.0,المجموعات.,The groups.
+Breaking?,student,1,0,,,,الإقتحام؟,The break-in?
+"You know, I’m glad this turned into…",teacher,7,0,,,0.0,أتعلمين، أنا سعيدة أن هذا تحول إلى...,"You know, I'm glad this turned into..."
+Breaking and fixing…,student,3,0,,,,كسر وإصلاح...,Breaking and repair...
+"Breaking and fixing it.  Okay? So maybe we should take out this.  I’m looking for another one, another problem, another person making another division problem.  You have to bring out your multiple for 32nd, that’s our purpose.",teacher,37,2,,,0.0,أنا أبحث عن مشكلة أخرى، شخص آخر يشكّل مشكلة أخرى في التقسيم، يجب أن تُخرج ضربك للثلاثين، هذا هو هدفنا.,"I'm looking for another problem, another person forming another problem in division, you have to get your multiplication out to thirty, that's our goal."
+64.,student,1,0,,,,64,64 64
+64 was your base number.,teacher,5,0,,,0.0,64 كان رقمك الأساسي,64 was your prime number.
+Times.,student,1,0,,,,"""تايمز""","""The Times"""
+Times.,teacher,1,0,,,0.0,"""تايمز""","""The Times"""
+32.,student,1,0,,,,32.,32. 32.
+32.,teacher,1,0,,,0.0,32.,32. 32.
+Equals.,student,1,0,,,,متساوية,Equal to each other
+Yeah.,teacher,1,0,,,0.0,-أجل، أجل,"- Yes, yes, yes"
+"1,024.",student,1,0,,,,1024,1024 1024
+"1,024.  1,024.  Now, did you change this into a division equation?",teacher,11,2,,,1.0,الآن، هل قمت بتحويل هذا إلى معادلة تقسيم؟,"Now, have you converted this to a division equation?"
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+So…,teacher,1,0,,,0.0,إذاً...,So...
+1024 divided by 32 equals 64.,student,6,1,,,,1024 مقسومة على 32 تساوي 64.,1024 divided by 32 is 64.
+Good job! It’s easy.  So did you learn something?,teacher,9,0,0.0,,1.0,عمل جيد، الأمر سهل، هل تعلمت شيئاً؟,"Good job, it's easy, did you learn anything?"
+Yes.,student,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+"What did you learn, tell us?",teacher,6,0,,,1.0,ما الذي تعلمته، أخبرنا؟,"What did you learn, tell us?"
+I learned that multiples of …,student,6,1,,,,لقد تعلمت أن مضاعفات ...,I've learned that doubling ...
+Tower… equation…,teacher,2,1,0.0,,0.0,البرج... المعادلة...,The tower... the equation...
+For division.,student,2,1,,,,من أجل القسم,For the sake of the oath
+Multiple tower for…,teacher,3,1,,,0.0,أبراج متعددة ل...,Multiple towers for the...
+Division.,student,1,1,,,,القسم,I swear by it.
+Is this division?,teacher,3,1,,,0.0,هل هذه هي القسم؟,Is this the section?
+Multiplication.,multiple students,1,1,,,,مضاعفة,It's going to be doubled.
+Like opposite of division.,student,4,1,,,,كالعكس من التقسيم,as the opposite of division.
+So does that help us during the division?,teacher,8,1,,,0.0,إذاً هل يساعدنا هذا أثناء التقسيم؟,So does this help us during the partition?
+Yes.,multiple students,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+You have to know your multiplication so you can do division.,student,11,2,,0.0,,يجب أن تعرف ضربك حتى تتمكن من القيام بالتقسيم,You have to know your beat to be able to do the division.
+"Very good, very good, very good.  So that’s what we learned. Now, another person, another sharing, and this will be the last one. Last one, let’s see who can share.  Who learned something? Student R? Thank you.  So I see 1, 2, 3, 4, 5, and she’s raising her paper, that means she learned a lot.  Now, would you be able to write tonight in your learners…",teacher,67,0,0.0,,0.0,"جيد جدا، جيد جدا، جيد جدا. هذا ما تعلمناه. الآن، شخص آخر، مشاركة أخرى، وهذه ستكون الأخيرة. الأخيرة، دعونا نرى من يمكنه مشاركة. من تعلم شيئا؟ الطالب R؟ شكراً. لذلك أرى 1, 2, 3, 4, 5، وهي ترفع ورقتها، وهذا يعني أنها تعلمت الكثير. الآن، هل يمكنك أن تكتب الليلة في المتعلمين الخاص بك...","Very good, very good, very good. That's what we learned. Now, another person, another participation, and this will be the last. Last, let's see who can participate. Who learned something? Student R? Thank you. So I see 1, 2, 3, 4, 5, and she's raising her paper, which means she's learned a lot. Now, can you write tonight in your learners..."
+Notebooks.,student,1,0,,,,أدوات الملاحظات,The tools for taking notes
+"Notebooks.  Student N really did a good job participating and helping us, right?",teacher,13,0,,,0.0,المكتبات، الطالب (ن) فعل عملاً جيداً بالمشاركة ومساعدتنا، صحيح؟,"Libraries, the student has done a good job of sharing and helping us, right?"
+"He really said good stuff, multiplication tower. My base number was 72.",student,12,1,,0.0,,لقد قال أشياء جيدة حقاً، برج مضاعفة رقم أساسي كان 72.,"He said really good things, the tower double prime number was 72."
+Let’s get to her 72.,teacher,5,0,1.0,,0.0,دعونا نصل إلى 72,Let's get to 72
+Times.,student,1,0,,,,"""تايمز""","""The Times"""
+Times.,teacher,1,0,,,0.0,"""تايمز""","""The Times"""
+32.,student,1,0,,,,32.,32. 32.
+32.,teacher,1,0,,,0.0,32.,32. 32.
+Equals…,student,1,0,,,,متساوية,Equal to each other
+Let’s see who’s not paying attention.  Equals.,teacher,7,0,,,0.0,دعونا نرى من لا يهتم,Let's see who doesn't care.
+"Equals 1,152.",student,2,0,,,,"يساوي 1,152.","is equal to 1,152."
+"1,152.  How? Did you really skip count, did that get you to this point? Because I know your 16th was what? Your 16th? So 72 times 16 equals what? What did you get?",teacher,33,0,,,0.0,"1,152. كيف؟ هل تخطيت حقًا العد، هل أوصلتك إلى هذه النقطة؟ لأنني أعرف أن الـ 16 كان ماذا؟ الـ 16؟ إذاً 72 × 16 يساوي ماذا؟ ما الذي حصلت عليه؟","1,152. how? did you really skip the count, did i get you to this point? because i know that the 16 was what? the 16? so 72 x 16 is equal to what? what did i get?"
+"Oh, I was doing the 16.",student,6,0,,,,لقد كنت أقوم بالـ16,I was doing 16.
+So that’s the 16.,teacher,4,0,1.0,,0.0,إذاً هذا هو 16.,So this is 16.
+My 32 was…,student,3,0,,,,32 كان...,It was 32...
+So 72 times 32 would be…,teacher,6,0,,,0.0,اذاً 72 × 32 سيكون...,So 72 x 32 is going to be...
+1000…,student,1,0,,,,1000...,1000...
+Is it still 1000?,teacher,4,0,,,0.0,هل لا تزال ألف؟,Is there still a thousand?
+"No, 2000!",student,2,0,,,,لا، 2000!,"No, two thousand!"
+Yep.,teacher,1,0,,,0.0,-أجل .,- Yes .
+2000…,student,1,0,,,,2000...,2000...
+Look at that.  2000… anybody can help? We need help.,teacher,10,0,,,0.0,انظر لهذا 2000 هل يمكن لأي شخص أن يساعدنا؟,Look at this 2000 Can anyone help us?
+Time it by 2.,student,4,0,,,,توقيتها في الساعة الثانية,The timing is at two o'clock.
+Thank you very much.  So I could time by 2 here to make it 32?,teacher,15,0,,,0.0,شكراً جزيلاً، هل يمكنني التوقيت بـ2 هنا لجعله 32؟,"Thank you very much, can I dial 2 here to make it 32?"
+Yes.,multiple students,1,0,,,,-أجل، أجل,"- Yes, yes, yes"
+Oh.  Let’s help her please.,teacher,5,0,,,0.0,دعونا نساعدها من فضلك,"Let's help her, please"
+2 times 2 equals 4.,student,5,0,,,,2 × 2 = 4,2 × 2 = 4 2 2
+2 times 2 equals 4.,teacher,5,0,1.0,,0.0,2 × 2 = 4,2 × 2 = 4 2 2
+2 times 5 equals 10.,student,5,0,,,,2 × 5 = 10,5 × 5 = 10 2 2
+"I put down zero.  Carry 1. 2 time 1, plus 1…",teacher,11,0,0.0,,0.0,أضع الصفر، أحمل 1. 2 × 1، زائد 1...,"I put zero, I carry 1. 2 × 1, plus 1..."
+"Plus 2, plus 3, [inaudible] 2,304.",student,6,0,,,,بالإضافة إلى 2، بالإضافة إلى 3،,"In addition to 2, in addition to 3,"
+"So that’s our prediction.  And were you able to write your division equation? Did you? Now what would we have division equation? Those guys are not really helping us.  No, you’re not sharing.  Thank you, Student R.",teacher,37,4,1.0,,0.0,هذا هو التنبؤ لدينا. وهل كنت قادرا على كتابة معادلة التقسيم الخاصة بك؟ هل فعلت؟ الآن ما الذي سيكون لدينا معادلة التقسيم؟ هؤلاء الرجال لا يساعدوننا حقا. لا، أنت لا تشارك. شكرا، الطالب R.,"That's our prediction. And were you able to write your own partition equation? Did you? Now what would we have the partition equation? These guys aren't really helping us. No, you're not. Thank you, student R."
+"2,304 divided by 32.",student,4,1,,,,"2,304 مقسمة على 32.","2,304 divided by 32."
+"Thank you, Student N.  Student N is the one that really kind of… 2,304.",teacher,14,0,,,0.0,"شكراً، الطالب N. الطالب N هو واحد حقاً نوع من... 2,304.","Thank you, student N. Student N is truly one type of... 2,304."
+Divided by 32 equals 72.,multiple students,5,1,,,,مقسماً بـ32 يساوي 72.,Divided by 32 is equal to 72.
+Very good! That’s [marvelous].  [Then she say] oh!,teacher,8,0,0.0,,0.0,جيد جداً، هذا رائع.,"Very good, that's great."
+Me too.,student,2,0,,,,أنا أيضاً,Me too.
+You did too? Good.,teacher,4,0,,,0.0,هل فعلت ذلك أيضاً؟,Did you do that too?
+"How can it be, because the 32… [Crosstalk]",student,8,0,,1.0,,كيف يمكن أن يكون، لأن 32 ... [Crosstalk],"How could it be, because 32 ... [Crosstalk]"
+"31st. 2,000…",teacher,2,0,0.0,,0.0,الثالث والعشرون ألفاً,The twenty-third thousand.
+"2,460.",student,1,0,,,,"2,460.","2,460."
+Did you add?,teacher,3,1,,,0.0,هل أضفتها؟,Have you added them?
+"I added the thing, and I added 0 times 2 is 2.",student,12,0,,0.0,,لقد أضفت الشيء، وأضفت 0 × 2 هو 2.,"I've added the item, and I've added 0 × 2 is 2."
+"Well, you know, effective would mean I investigate and I find this and then people help and we get to the best, right? So that was a very, very good investigation.",teacher,31,0,0.0,,0.0,حسناً، كما تعلمون، الفعالية تعني أن أقوم بالتحقيق وأجد هذا ثم يساعد الناس ونحصل على الأفضل، صحيح؟,"Well, you know, effectiveness means I investigate and find this and then help people and get the best out of it, right?"
+It was fun learning.,student,4,0,,,,كان الأمر ممتعاً للتعلم.,It was fun to learn.
+Fun learning.,teacher,2,0,,,0.0,تعلم ممتع.,Learning is fun.

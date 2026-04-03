@@ -1,0 +1,88 @@
+project:
+  name: arabic-edu-convokit
+  seed: 42
+  device: mps
+
+paths:
+  raw_data: data/raw
+  translated_data: data/translated
+  processed_data: data/processed
+  splits: data/splits
+  results: results
+  figures: results/figures
+  paper_figures: paper/figures
+  paper_tables: paper/tables
+
+models:
+  translation:
+    name: facebook/nllb-200-distilled-600M
+    src_lang: arb_Arab
+    tgt_lang: eng_Latn
+    max_length: 128
+    num_beams: 5
+    batch_size: 16
+
+  arabert:
+    name: aubmindlab/bert-base-arabertv2
+    max_length: 128
+    learning_rate: 2.0e-5
+    weight_decay: 0.01
+    warmup_ratio: 0.1
+    num_epochs: 10
+    batch_size: 32
+    early_stopping_patience: 3
+
+  mbert:
+    name: bert-base-multilingual-cased
+    max_length: 128
+    learning_rate: 2.0e-5
+    weight_decay: 0.01
+    warmup_ratio: 0.1
+    num_epochs: 10
+    batch_size: 32
+    early_stopping_patience: 3
+
+  xlmr:
+    name: xlm-roberta-base
+    max_length: 128
+    learning_rate: 2.0e-5
+    weight_decay: 0.01
+    warmup_ratio: 0.1
+    num_epochs: 10
+    batch_size: 32
+    early_stopping_patience: 3
+
+classification:
+  tasks:
+    - focusing_questions
+    - student_reasoning
+    - uptake
+  cv_folds: 5
+  test_size: 0.2
+  class_weighted_loss: true
+
+baselines:
+  tfidf:
+    max_features: 10000
+    ngram_range: [1, 2]
+    sublinear_tf: true
+
+  svm:
+    kernel: linear
+    C: 1.0
+
+  logistic_regression:
+    C: 1.0
+    max_iter: 1000
+
+mt_metrics:
+  bertscore_model: bert-base-multilingual-cased
+  bertscore_device: mps
+
+visualization:
+  dpi: 300
+  figsize_single: [8, 6]
+  figsize_double: [12, 5]
+  figsize_triple: [16, 5]
+  font_size: 12
+  style: seaborn-v0_8-whitegrid

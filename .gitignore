@@ -1,0 +1,45 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+
+# Classification model outputs (large)
+results/classification/focusing_questions/
+results/classification/student_reasoning/
+results/classification/uptake/
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/*.fls
+paper/*.fdb_latexmk
+
+# AI assistant configs
+CLAUDE.md
+.claude/
+.cursorrules
+.cursor/
+.aider*
+.copilot/
+
+# Reference files (keep only educonvokit_paper.pdf)
+reference/CLAUDE_CODE_PROMPT.md
+reference/REVIEW_CHECKLIST.md
+reference/PROJECT_KNOWLEDGE.md
+reference/paper_draft.pdf
+
+# Notebooks (original Colab notebooks)
+notebooks/

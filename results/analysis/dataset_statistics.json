@@ -1,0 +1,31 @@
+{
+  "total_utterances": 11839,
+  "total_sessions": 29,
+  "total_words_english": 173446,
+  "total_words_arabic": 121547,
+  "mean_words_english": 14.6503927696596,
+  "mean_words_arabic": 10.266661035560436,
+  "word_ratio_ar_en": 0.7007771871360539,
+  "speaker_counts": {
+    "teacher": 5912,
+    "student": 5441,
+    "multiple students": 486
+  },
+  "label_distributions": {
+    "focusing_questions": {
+      "labeled_count": 5912,
+      "positive_count": 952,
+      "positive_rate": 0.16102841677943167
+    },
+    "student_reasoning": {
+      "labeled_count": 870,
+      "positive_count": 149,
+      "positive_rate": 0.17126436781609194
+    },
+    "uptake": {
+      "labeled_count": 1733,
+      "positive_count": 899,
+      "positive_rate": 0.5187536064627813
+    }
+  }
+}
