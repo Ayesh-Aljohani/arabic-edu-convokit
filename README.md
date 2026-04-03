@@ -142,7 +142,7 @@ export PYTORCH_ENABLE_MPS_FALLBACK=1
 ## Citation
 
 ```bibtex
-@inproceedings{aljohani2025arabic,
+@inproceedings{aljohani2026arabic,
   title={Arabic Edu-ConvoKit: Adapting Educational Discourse Analysis to Arabic Classroom Conversations},
   author={Aljohani, Ayesh and Manabri, Ahmed and Almetani, Mohammad and Mars, Mourad},
   year={2026},
