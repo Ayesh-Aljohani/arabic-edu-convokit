@@ -145,7 +145,7 @@ export PYTORCH_ENABLE_MPS_FALLBACK=1
 @inproceedings{aljohani2025arabic,
   title={Arabic Edu-ConvoKit: Adapting Educational Discourse Analysis to Arabic Classroom Conversations},
   author={Aljohani, Ayesh and Manabri, Ahmed and Almetani, Mohammad and Mars, Mourad},
-  year={2025},
+  year={2026},
   note={Umm Al-Qura University}
 }
 ```
