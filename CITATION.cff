@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Arabic Edu-ConvoKit: Adapting Educational Discourse Analysis to Arabic Classroom Conversations"
+abstract: >-
+  An open-source pipeline that adapts Edu-ConvoKit to Arabic mathematics
+  classrooms, translating 11,839 NCTE elementary-mathematics utterances into
+  Modern Standard Arabic with NLLB-200 and benchmarking five transformer
+  encoders (AraBERT v2, MARBERT v2, mBERT, XLM-RoBERTa) plus TF-IDF baselines
+  on three discourse tasks (focusing questions, student reasoning,
+  conversational uptake) under both stratified and session-grouped 5-fold
+  cross-validation. Includes forward-direction LaBSE translation-quality
+  estimation, an MT-system-divergence robustness study (Helsinki MarianMT),
+  a 199-term Arabic mathematical lexicon, and a zero-shot Qwen2.5-1.5B-Instruct
+  LLM baseline.
+type: software
+authors:
+  - family-names: Aljohani
+    given-names: Ayesh
+    affiliation: Umm Al-Qura University
+  - family-names: Manabri
+    given-names: Ahmed
+    affiliation: Umm Al-Qura University
+  - family-names: Almetani
+    given-names: Mohammad
+    affiliation: Umm Al-Qura University
+  - family-names: Mars
+    given-names: Mourad
+    affiliation: Umm Al-Qura University
+repository-code: "https://github.com/Ayesh-Aljohani/arabic-edu-convokit"
+license: Apache-2.0
+keywords:
+  - Arabic NLP
+  - educational discourse analysis
+  - classroom dialogue
+  - cross-lingual transfer
+  - neural machine translation
+  - transformer-based classification
+  - low-resource educational NLP
+date-released: 2026-04-30
+preferred-citation:
+  type: article
+  title: "Arabic Edu-ConvoKit: Adapting Educational Discourse Analysis to Arabic Classroom Conversations"
+  authors:
+    - family-names: Aljohani
+      given-names: Ayesh
+    - family-names: Manabri
+      given-names: Ahmed
+    - family-names: Almetani
+      given-names: Mohammad
+    - family-names: Mars
+      given-names: Mourad
+  year: 2026
+  notes: "Manuscript under review at Data Intelligence (Elsevier)."

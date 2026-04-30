@@ -32,6 +32,8 @@ results/classification/uptake_mt_div_xlmr/
 # Manuscript LaTeX source — keep paper out of the public repo
 paper/main.tex
 paper/main.pdf
+paper/references.bib
+paper/tables/
 paper/the new paper/
 
 # Submission archives and old JAISCR materials
