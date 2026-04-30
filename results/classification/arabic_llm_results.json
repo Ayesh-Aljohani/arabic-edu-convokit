@@ -1,0 +1,129 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "n_per_task": 200,
+  "tasks": {
+    "focusing_questions": {
+      "n": 200,
+      "accuracy": 0.76,
+      "f1_weighted": 0.7745029239766081,
+      "f1_positive": 0.3684210526315789,
+      "f1_macro": 0.6101364522417154,
+      "classification_report": {
+        "0": {
+          "precision": 0.8846153846153846,
+          "recall": 0.8214285714285714,
+          "f1-score": 0.8518518518518519,
+          "support": 168.0
+        },
+        "1": {
+          "precision": 0.3181818181818182,
+          "recall": 0.4375,
+          "f1-score": 0.3684210526315789,
+          "support": 32.0
+        },
+        "accuracy": 0.76,
+        "macro avg": {
+          "precision": 0.6013986013986014,
+          "recall": 0.6294642857142857,
+          "f1-score": 0.6101364522417154,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 0.793986013986014,
+          "recall": 0.76,
+          "f1-score": 0.7745029239766081,
+          "support": 200.0
+        }
+      },
+      "sample_outputs": [
+        "لا",
+        "لا",
+        "نعم",
+        "لا",
+        "لا"
+      ]
+    },
+    "student_reasoning": {
+      "n": 200,
+      "accuracy": 0.665,
+      "f1_weighted": 0.7054404736209183,
+      "f1_positive": 0.40707964601769914,
+      "f1_macro": 0.5868150843328914,
+      "classification_report": {
+        "0": {
+          "precision": 0.9090909090909091,
+          "recall": 0.6626506024096386,
+          "f1-score": 0.7665505226480837,
+          "support": 166.0
+        },
+        "1": {
+          "precision": 0.2911392405063291,
+          "recall": 0.6764705882352942,
+          "f1-score": 0.40707964601769914,
+          "support": 34.0
+        },
+        "accuracy": 0.665,
+        "macro avg": {
+          "precision": 0.600115074798619,
+          "recall": 0.6695605953224664,
+          "f1-score": 0.5868150843328914,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 0.8040391254315304,
+          "recall": 0.665,
+          "f1-score": 0.7054404736209183,
+          "support": 200.0
+        }
+      },
+      "sample_outputs": [
+        "نعم",
+        "نعم",
+        "لا",
+        "نعم",
+        "لا"
+      ]
+    },
+    "uptake": {
+      "n": 199,
+      "accuracy": 0.6834170854271356,
+      "f1_weighted": 0.6811024213790788,
+      "f1_positive": 0.7149321266968326,
+      "f1_macro": 0.679499961653501,
+      "classification_report": {
+        "0": {
+          "precision": 0.6951219512195121,
+          "recall": 0.6,
+          "f1-score": 0.6440677966101694,
+          "support": 95.0
+        },
+        "1": {
+          "precision": 0.6752136752136753,
+          "recall": 0.7596153846153846,
+          "f1-score": 0.7149321266968326,
+          "support": 104.0
+        },
+        "accuracy": 0.6834170854271356,
+        "macro avg": {
+          "precision": 0.6851678132165937,
+          "recall": 0.6798076923076923,
+          "f1-score": 0.679499961653501,
+          "support": 199.0
+        },
+        "weighted avg": {
+          "precision": 0.684717626070733,
+          "recall": 0.6834170854271356,
+          "f1-score": 0.6811024213790788,
+          "support": 199.0
+        }
+      },
+      "sample_outputs": [
+        "نعم",
+        "نعم",
+        "لا",
+        "لا",
+        "لا"
+      ]
+    }
+  }
+}

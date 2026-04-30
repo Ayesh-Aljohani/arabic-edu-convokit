@@ -52,12 +52,13 @@ MODEL_COLORS = {
     "mBERT":        COLORS["orange"],
     "XLM-R":        COLORS["green"],
     "AraBERT":      COLORS["red"],
+    "MARBERT":      COLORS["purple"],
 }
 
 # Canonical ordering for models
 MODEL_ORDER = [
     "Majority", "TF-IDF + LR", "TF-IDF + SVM",
-    "mBERT", "XLM-R", "AraBERT",
+    "mBERT", "XLM-R", "AraBERT", "MARBERT",
 ]
 
 # Internal key -> display name mapping for models
@@ -68,6 +69,7 @@ MODEL_KEY_TO_LABEL = {
     "mbert":               "mBERT",
     "xlmr":                "XLM-R",
     "arabert":             "AraBERT",
+    "marbert":             "MARBERT",
 }
 
 # Internal key -> display name mapping for tasks
@@ -138,7 +140,7 @@ def plot_pipeline_diagram(root_dir: Path) -> None:
     _apply_style()
     results_dir, paper_dir = _ensure_dirs(root_dir)
 
-    fig, ax = plt.subplots(figsize=(14, 4))
+    fig, ax = plt.subplots(figsize=(16, 5))
     ax.set_xlim(0, 14)
     ax.set_ylim(0, 4)
     ax.axis("off")
@@ -171,7 +173,7 @@ def plot_pipeline_diagram(root_dir: Path) -> None:
         ax.text(
             xc, y_center, label,
             ha="center", va="center",
-            fontsize=9, fontweight="bold",
+            fontsize=13, fontweight="bold",
             color="black",
             linespacing=1.3,
         )
@@ -199,7 +201,7 @@ def plot_pipeline_diagram(root_dir: Path) -> None:
 
     ax.set_title(
         "Arabic Edu-ConvoKit Processing Pipeline",
-        fontsize=14, fontweight="bold", pad=20,
+        fontsize=17, fontweight="bold", pad=20,
     )
 
     fig.tight_layout()
@@ -936,7 +938,7 @@ def plot_model_radar(root_dir: Path) -> None:
         data = json.load(f)
     logger.info("Loaded classification results from %s", json_path)
 
-    radar_models = ["arabert", "mbert", "xlmr", "tfidf_svm"]
+    radar_models = ["arabert", "mbert", "xlmr", "marbert", "tfidf_svm"]
     task_labels = [TASK_KEY_TO_LABEL[t] for t in TASK_ORDER]
 
     # Gather accuracy means
@@ -1096,6 +1098,7 @@ def plot_cross_lingual_retention(root_dir: Path) -> None:
         100, color=COLORS["red"], linewidth=1.5, linestyle="--",
         label="100% retention",
     )
+    ax.set_ylim(0, 115)
     ax.set_xticks(x)
     ax.set_xticklabels(task_labels)
     ax.set_ylabel("Accuracy Retention (%)")
@@ -1103,7 +1106,7 @@ def plot_cross_lingual_retention(root_dir: Path) -> None:
         "Cross-Lingual Accuracy Retention (AR / EN)",
         fontweight="bold",
     )
-    ax.legend(loc="upper right")
+    ax.legend(loc="upper left", framealpha=0.95)
 
     fig.tight_layout()
     _save_figure(fig, results_dir, paper_dir, "cross_lingual_retention")

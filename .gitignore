@@ -12,12 +12,32 @@ __pycache__/
 # Logs
 logs/
 
-# Classification model outputs (large)
+# Classification model outputs (large transformer checkpoints)
 results/classification/focusing_questions/
 results/classification/student_reasoning/
 results/classification/uptake/
+results/classification/focusing_questions_grouped/
+results/classification/student_reasoning_grouped/
+results/classification/uptake_grouped/
+results/classification/focusing_questions_marbert/
+results/classification/student_reasoning_marbert/
+results/classification/uptake_marbert/
+results/classification/focusing_questions_mt_div_mbert/
+results/classification/focusing_questions_mt_div_xlmr/
+results/classification/student_reasoning_mt_div_mbert/
+results/classification/student_reasoning_mt_div_xlmr/
+results/classification/uptake_mt_div_mbert/
+results/classification/uptake_mt_div_xlmr/
 
-# LaTeX build artifacts
+# Submission archives and old JAISCR materials
+paper/arabic-edu-convokit.zip
+paper/JAISCR_submission/
+paper/JAISCR_sample_paper.tex
+
+# Translation intermediate files
+data/processed/marian_ar_partial.csv
+
+# LaTeX build artifacts (top-level paper/ and the new paper/)
 paper/*.aux
 paper/*.bbl
 paper/*.blg
@@ -26,6 +46,15 @@ paper/*.out
 paper/*.synctex.gz
 paper/*.fls
 paper/*.fdb_latexmk
+paper/the new paper/*.aux
+paper/the new paper/*.bbl
+paper/the new paper/*.blg
+paper/the new paper/*.log
+paper/the new paper/*.out
+paper/the new paper/*.synctex.gz
+paper/the new paper/*.fls
+paper/the new paper/*.fdb_latexmk
+paper/the new paper/*.toc
 
 # AI assistant configs
 CLAUDE.md
